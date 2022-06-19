@@ -1,0 +1,3347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELYSiUM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 11:49+0300\n"
+"PO-Revision-Date: 2015-06-09 12:26+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+msgid "Your passwords does not much"
+msgstr "パスワードが合いません"
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "アカウントが作成されました。ログインに必要なメールを確認して下さい"
+
+msgid "Password changed"
+msgstr "パスワードが変更されました"
+
+msgid "Wrong old password. Please try again"
+msgstr "パスワードが間違っています。もう一度トライして下さい"
+
+msgid "Passwords do not match. Please try again"
+msgstr "パスワードが合いません。もう一度トライして下さい"
+
+msgid "Account information updated."
+msgstr "アカウント情報が更新されました。"
+
+msgid "Limits cancelled."
+msgstr "制限はキャンセルされました。"
+
+msgid "Unable to cancel limit"
+msgstr "制限をキャンセルすることが出来ません"
+
+msgid "Limits updated."
+msgstr "制限が更新されました。"
+
+msgid "Limits not updated."
+msgstr "制限は更新されていません。"
+
+msgid "You account has been deleted."
+msgstr "アカウントは消去されました。"
+
+msgid "Account settings updated."
+msgstr "アカウント設定が更新されました。"
+
+msgid "Password reset link sent to your email"
+msgstr "パスワード再設定のメールが送信されました"
+
+msgid "E-mail not valid"
+msgstr "Eメールが有効ではありません。"
+
+msgid "Promotional code successfully used"
+msgstr "プロモーションコードを使用することに成功しました"
+
+msgid "Invalid promotional code"
+msgstr "このプロモーションコードは使えません"
+
+msgid "Confirm your email."
+msgstr "Eメールを確認して下さい。"
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "アカウントはロックされました。パスワードをもう一度設定して下さい。"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "アカウントは完全に消去されました。"
+
+msgid "You are Already Logged in."
+msgstr "既にログインしています。"
+
+msgid "Wrong Password"
+msgstr "間違ったパスワード"
+
+msgid "Username or password is incorrect"
+msgstr "ユーザー名またはパスワードが間違っています"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "スタッフは%s (ID: %d)口座に資金を入れるよう要請しました"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "ユーザー%s (ID: %d)口座は％sによってクレジットされました"
+
+msgid "User %s is credited by %d %s"
+msgstr "ユーザー％sは％d%sによってクレジットされました"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "スタッフ％s（ID:%d)は口座に課金することを要請しました"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "ユーザー%s(ID:%d)口座は％sによって課金されました"
+
+msgid "User %s is charged by %d %s"
+msgstr "ユーザー％しゃ％d%sによって課金されました"
+
+msgid "KYC Data Accepted"
+msgstr "KYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されましたKYCデータが受諾されました"
+
+msgid "Email successfully sent"
+msgstr "Eメールは無事送信できました"
+
+msgid "Cannot send email. Please try again."
+msgstr "Eメールを送ることができません。もう一度トライして下さい。"
+
+msgid "can't find"
+msgstr "見つけることが出来ません"
+
+msgid "Changes saved"
+msgstr "変更が保存されました"
+
+msgid "This cannot be saved."
+msgstr "これは保存することが出来ません。"
+
+msgid "Item added"
+msgstr "アイテムを追加しました"
+
+msgid "This cannot be added."
+msgstr "これを追加することは出来ません。"
+
+msgid "Item deleted"
+msgstr "アイテムを消去"
+
+msgid "This cannot be deleted."
+msgstr "これは消去することが出来ません。"
+
+msgid "Bet added"
+msgstr "ベットを追加しました"
+
+msgid "Error adding bet"
+msgstr "ベット追加エラー"
+
+msgid "Lowest deposit amount is"
+msgstr "最低入金金額は"
+
+msgid "Highest deposit amount is"
+msgstr "最高入金金額は"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "トランザクションにおいて入金できる金額に達しました："
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "一日において入金できる金額に達しました："
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "一週間において入金できる金額に達しました："
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "一ヶ月において入金できる金額に達しました："
+
+msgid "Bonus code expired or wrong"
+msgstr "ボーナスコードの期限が切れているか間違っています"
+
+msgid "Bonus code expired"
+msgstr "ボーナスコードの期限が切れました"
+
+msgid "Your amount is too low for bonus"
+msgstr "ボーナスには金額が低すぎます"
+
+msgid "Your amount is too high for bonus "
+msgstr "ボーナスには金額が高すぎます"
+
+msgid "User Terminated"
+msgstr "ユーザーは解約されました"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Pending"
+msgstr "未定"
+
+msgid "Canceled"
+msgstr "キャンセルしました"
+
+msgid "Statuses chart"
+msgstr "ステータスチャート"
+
+msgid "Amount chart"
+msgstr "金額チャート"
+
+msgid "Deposit not found!"
+msgstr "入金が見つかりません！"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "入金は既に”完了”とマークされました！"
+
+msgid "Deposit request set as completed"
+msgstr "入金要請は完了と設定されました"
+
+msgid "Deposit request canceled"
+msgstr "入金要請はキャンセルされました"
+
+msgid "Money transaction completed"
+msgstr "トランザクションは完了しました"
+
+msgid "Select Event"
+msgstr "イベントを選ぶ"
+
+msgid "No search results found"
+msgstr "検索結果が見つかりませんでした"
+
+msgid "Permissions updated"
+msgstr "許可が更新されました"
+
+msgid "Your request is accepted."
+msgstr "あなたの要請は受諾されました。"
+
+msgid "Language already exist"
+msgstr "この言語は既に存在しています"
+
+msgid "can't delete item"
+msgstr "消去することが出来ません"
+
+msgid "Emails successfully sent"
+msgstr "Eメールは無事送信されました"
+
+msgid "Please enter event result"
+msgstr "イベント結果を入力して下さい"
+
+msgid "Results updated"
+msgstr "結果が更新されました"
+
+msgid "Settings saved."
+msgstr "設定が保存されました。"
+
+msgid "can't save settings."
+msgstr "設定を保存することが出来ません。"
+
+msgid "Types chart"
+msgstr "タイプチャート"
+
+msgid "Cannot find ticket with id:"
+msgstr "ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません：ID付きチケットを見つけることが出来ません："
+
+msgid "Ticket is not found"
+msgstr "チケットは見つかりませんでした"
+
+msgid "Unknown ticket status"
+msgstr "不明チケットステータス"
+
+msgid "Unknown paid status"
+msgstr "不明支払いステータス"
+
+msgid "Ok"
+msgstr "オッケー"
+
+msgid "Unknown error"
+msgstr "不明エラー"
+
+msgid "Insufficient credits"
+msgstr "不十分なクレジット"
+
+msgid "Ticket is still pending or lost"
+msgstr "チケットはまだ未定か、なくなりました"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "チケットは既に印刷されました。チケットID:%d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "チケットが見つかりません。チケットID:%d"
+
+msgid "Please select another pick from different event"
+msgstr "違うイベントから新しいものを選んで下さい"
+
+msgid "Min betting amount is %d"
+msgstr "最低ベット金額は％dです"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "このタイプのチケットは作ることが出来ません、シングルに変わります"
+
+msgid "Wrong Password or Username"
+msgstr "間違ったパスワードまたはユーザー名"
+
+msgid "Lowest amount for cashout is"
+msgstr "キャッシュアウトの最低金額は"
+
+msgid "Highest amount for cashout is"
+msgstr "キャッシュアウトの最高金額は"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "このキャッシュアウトトランザクションでは金額が足りません"
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "キャッシュアウトトランザクションが出来ません。ボーナス方針のため％sが\"ロックされた金額\"\" となっています。％s引き落としできます\""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "先ほどの引き落としトランザクションは完了していません"
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "このトランザクションを行うための認証（全て）がされていません。以下のアドレスからフォームに記入して下さい："
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "認証のため書類を再提出する必要があります。以下のアドレスからフォームに記入して下さい："
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "このトランザクションに必要な認証（年齢）がされていません。以下のアドレスからフォームに記入して下さい："
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+msgstr "％sの引き落とし要請は受諾されました。銀行情報を以下のリンクに入力して下さい：<a href='/users/account'>口座情報</a>"
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "％sの引き落とし要請は受諾されました。"
+
+msgid "Bank information updated."
+msgstr "銀行情報が更新されました。"
+
+msgid "Withdraw request set as completed"
+msgstr "引き落とし要請設定は完了しました。"
+
+msgid "Withdraw request updated"
+msgstr "引き落とし要請が更新されました。"
+
+msgid "Withdraw request canceled"
+msgstr "引き落とし要請はキャンセルされました。"
+
+msgid "Win"
+msgstr "勝利"
+
+msgid "Lost"
+msgstr "負け"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "View"
+msgstr "見る"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete"
+msgstr "消去"
+
+msgid "List"
+msgstr "リスト"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "All"
+msgstr "全て"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Complete"
+msgstr "完了"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Amount from"
+msgstr "からの金額"
+
+msgid "Amount to"
+msgstr "へ金額"
+
+msgid "Transaction ID"
+msgstr "トランザクションID"
+
+msgid "Event name"
+msgstr "イベント名"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "League name"
+msgstr "リーグ名"
+
+msgid "Sport"
+msgstr "スポーツ"
+
+msgid "View events"
+msgstr "イベントを見る"
+
+msgid "Add Event"
+msgstr "イベントを追加"
+
+msgid "Send Mail"
+msgstr "メールを送信"
+
+msgid "Send to All"
+msgstr "全員に送信"
+
+msgid "Header 2 menu"
+msgstr "ヘッダー２メニュー"
+
+msgid "Header 3 menu"
+msgstr "ヘッダー３メニュー"
+
+msgid "Bottom 4 menu"
+msgstr "ボトム４メニュー"
+
+msgid "Footer menu"
+msgstr "フッターメニュー"
+
+msgid "Header menu"
+msgstr "ヘッダーメニュー"
+
+msgid "Top Header menu"
+msgstr "トップヘッダーメニュー"
+
+msgid "Top menu"
+msgstr "トップメニュー"
+
+msgid "Tickets"
+msgstr "チケット"
+
+msgid "Deposits"
+msgstr "入金"
+
+msgid "Withdraws"
+msgstr "引き落とし"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "Finished events in tickets"
+msgstr "チケットで完結したイベント"
+
+msgid "Pending events in tickets"
+msgstr "チケットの未定イベント"
+
+msgid "All finished events"
+msgstr "完結したイベント"
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Identity number"
+msgstr "身分証明番号"
+
+msgid "Words in title"
+msgstr "タイトルの単語"
+
+msgid "Words in description"
+msgstr "詳細にある単語"
+
+msgid "Url link"
+msgstr "UrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンクUrlリンク"
+
+msgid "Add League"
+msgstr "リーグを追加"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Fund staff"
+msgstr "資金スタッフ"
+
+msgid "Charge staff"
+msgstr "課金スタッフ"
+
+msgid "Login/Logout"
+msgstr "ログイン／ログアウト"
+
+msgid "Ticket Fraud Check"
+msgstr "チケット詐欺チェック"
+
+msgid "Mark as paid"
+msgstr "支払済とマーク"
+
+msgid "Group ID"
+msgstr "グループID"
+
+msgid "Tickets created"
+msgstr "チケットを作成しました"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Total payout"
+msgstr "総支払い"
+
+msgid "Profit"
+msgstr "利益"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "１最も低い賭けは％sで％dです"
+
+msgid "Highest stake on %s is %d"
+msgstr "最も高い賭けは％sで％dです"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "２最も低い賭けは％sで％dです"
+
+msgid "3Lowest stake amount is %d"
+msgstr "３最も低い賭け金は％dです"
+
+msgid "Highest stake amount is %d"
+msgstr "最も高い掛け金は％dです"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "トランザクションにおき賭けれる最高金額に達しました：％d%s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "一日におき賭けれる最高金額に達しました：％d%s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "一週間におき賭けれる最高金額に達しました：％d%s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "一ヶ月におき賭けれる最高金額に達しました：％d%s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "トランザクションにおき損失が最大限まで達しました：％d%s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "一日におき損失が最大限まで達しました：％d%s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "一週間におき損失が最大限まで達しました：％d%s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "一ヶ月におき損失が最大限まで達しました：％d%s"
+
+msgid "Please login"
+msgstr "ログインして下さい"
+
+msgid "Please select at least %d picks"
+msgstr "少なくとも％d選んで下さい"
+
+msgid "Not enough money"
+msgstr "お金が足りません"
+
+msgid "One or more events already started, please remove them"
+msgstr "一つかそれ以上のイベントが既に開始されました、それらを外して下さい"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "オッドが古いです。無効なオッドは外して下さい"
+
+msgid "One or mode bets are inactive"
+msgstr "一つかそれ以上のベットが無効になっています"
+
+msgid "Printed"
+msgstr "印刷しました"
+
+msgid "User Id"
+msgstr "ユーザーID"
+
+msgid "Amount From"
+msgstr "からの合計"
+
+msgid "Amount To"
+msgstr "への合計"
+
+msgid "Potential Winning From"
+msgstr "から見込みのある賞金"
+
+msgid "Potential Winning To"
+msgstr "への見込みのある賞金"
+
+msgid "Odd From"
+msgstr "からの奇数"
+
+msgid "Odd To"
+msgstr "への奇数"
+
+msgid "Fund"
+msgstr "資金"
+
+msgid "Charge"
+msgstr "課金"
+
+msgid "User ID"
+msgstr "ユーザーID"
+
+msgid "Back"
+msgstr "後ろ"
+
+msgid "All feeds updated"
+msgstr "全てのフィードが更新されました"
+
+msgid "All feeds downloaded"
+msgstr "全てのフィードがダウンロードされました"
+
+msgid "All feeds parsed"
+msgstr "全てのフィードが解禁されました"
+
+msgid "Feed updated"
+msgstr "フィードは更新されました"
+
+msgid "Cannot find feed"
+msgstr "フィードを見つけることができませんでした"
+
+msgid "Cant find feed"
+msgstr "フィードを見つけることができません"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update All"
+msgstr "全てを更新"
+
+msgid "Deposit"
+msgstr "預金"
+
+msgid "Thank You"
+msgstr "ありがとうございます"
+
+msgid "You successfully deposit %d"
+msgstr "無事％dを預金しました"
+
+msgid "You cancel your deposit"
+msgstr "預金をキャンセルしました"
+
+msgid "You have successfully made deposit for"
+msgstr "無事預金することが出来ました"
+
+msgid "Sorry, we can not find your payment"
+msgstr "申し訳ありませんが、支払を見つけることができません"
+
+msgid "Make Deposit"
+msgstr "預金する"
+
+msgid "Amount"
+msgstr "金額"
+
+msgid "Make your Deposit"
+msgstr "入金します"
+
+msgid "Bonus code or leave empty"
+msgstr "ボーナスコードまたはそのまま"
+
+msgid "Available ACO sync commands:"
+msgstr "利用可能なAOC syncコマンド："
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+msgstr "ヘルプには’ヘルプ’コマンドを押して下さい。特定コマンドのヘルプについては’ヘルプ＜コマンド＞’を押して下さい"
+
+msgid "Deleted %s and all children"
+msgstr "％sと全ての所産を削除"
+
+msgid "Aco Update Complete"
+msgstr "Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了Aco更新が完了"
+
+msgid "Created Aco node: %s"
+msgstr "Acoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％sAcoノードを作成：％s"
+
+msgid "Deleted Aco node %s"
+msgstr "Acoノード％sを削除"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "使用：ケーキaco_sync＜コマンド＞"
+
+msgid "Commands:"
+msgstr "コマンド："
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "新しいコントローラーとアクションのために新しいACOを追加"
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "コントローラーとそのアクションのために新しいACOを作成して下さい。ACOテーブルからノードを取り外すことはありません"
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "空いているコントローラーとアクションのために新しいACOを作成します。ACOテーブルから孤独になるエントリーを外して下さい"
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "このヘルプメッセージまたは特定コマンドでのメッセージを表示。"
+
+msgid "Command '%s' not found"
+msgstr "コマンド’％s”は見つかりません"
+
+msgid "day"
+msgstr "日"
+
+msgid "days"
+msgstr "日々"
+
+msgid "h"
+msgstr "時間"
+
+msgid "min"
+msgstr "分"
+
+msgid "Successful"
+msgstr "成功"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Decimal"
+msgstr "少数"
+
+msgid "Fractional"
+msgstr "わずか"
+
+msgid "American"
+msgstr "アメリカン"
+
+msgid "ID: "
+msgstr "ID:"
+
+msgid "more"
+msgstr "その他"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Pick"
+msgstr "選ぶ"
+
+msgid "odd"
+msgstr "奇数"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "Outcome"
+msgstr "成果"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Forgot your password?"
+msgstr "パスワードを忘れましたか？"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Affiliate Registration Form"
+msgstr "会員登録フォーム"
+
+msgid "Personal information"
+msgstr "個人情報"
+
+msgid "First name"
+msgstr "名前"
+
+msgid "Last name"
+msgstr "姓名"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Region"
+msgstr "地方"
+
+msgid "Zip / Postal code"
+msgstr "郵便番号"
+
+msgid "City"
+msgstr "都市"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Date of birth:"
+msgstr "生年月日："
+
+msgid "E-mail"
+msgstr "Eメール"
+
+msgid "Mobile number"
+msgstr "携帯番号"
+
+msgid "Website name"
+msgstr "ウェブサイト名"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Choose Payment Gateway"
+msgstr "支払方法を選ぶ"
+
+msgid "Bank Transfer Payment"
+msgstr "銀行振込支払"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "オンライン支払"
+
+msgid "Please see your latest deposits below:"
+msgstr "最新の預金を下記からご覧下さい："
+
+msgid "Date"
+msgstr "日"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Bonus"
+msgstr "ボーナス"
+
+msgid "No deposits history found. To make new please follow \"Make New\"."
+msgstr "過去の預金は見つかりませんでした。新しく作るには”新しく作成”に従って下さい。"
+
+msgid "Deposit information:"
+msgstr "預金情報："
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "マニュアルデポジット要請（証明確認後反映）"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "｛：ページ｝のページ｛：ページ｝、 記録開始 {:開始}から終わり {:終わり}までの {:現在}の記録から{:合計}合計を示します"
+
+msgid "previous"
+msgstr "以前"
+
+msgid "next"
+msgstr "次"
+
+msgid "Show"
+msgstr "見る"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "Deposit type"
+msgstr "預金タイプ"
+
+msgid "Bonus type"
+msgstr "ボーナスタイプ"
+
+msgid "Bonus valid until"
+msgstr "ボーナスはまで有効"
+
+msgid "Bonus used"
+msgstr "ボーナス使用"
+
+msgid "Bonus amount to your account"
+msgstr "口座へのボーナス金額"
+
+msgid "League"
+msgstr "リーグ"
+
+msgid "No available odds found for this event"
+msgstr "このイベントに利用できる見込みは見つかりませんでした"
+
+msgid "First team to Score"
+msgstr "スコアする最初のチーム"
+
+msgid "1st Half"
+msgstr "第一半分"
+
+msgid "Both Team to Score"
+msgstr "両方のチームにスコア"
+
+msgid "Halftime/Fulltime"
+msgstr "ハーフタイム／フルタイム"
+
+msgid "Double Chance"
+msgstr "だぶるチャンス"
+
+msgid "From:"
+msgstr "から："
+
+msgid "Email:"
+msgstr "Eメール："
+
+msgid "Odds"
+msgstr "歩"
+
+msgid "Reset Password"
+msgstr "パスワードをリセット"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "User Menu"
+msgstr "ユーザーメニュー"
+
+msgid "My Account"
+msgstr "マイアカウント"
+
+msgid "Balance"
+msgstr "バランス"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+msgid "Casino"
+msgstr "カジノ"
+
+msgid "Live Casino"
+msgstr "ライブカジノ"
+
+msgid "Betting Tools"
+msgstr "賭けツール"
+
+msgid "Register now and get"
+msgstr "今すぐ登録してもらおう"
+
+msgid "email"
+msgstr "Eメール"
+
+msgid "Register now"
+msgstr "今すぐ登録"
+
+msgid "Registration"
+msgstr "登録"
+
+msgid "Password reminder"
+msgstr "パスワードリマインダー"
+
+msgid "Search Ticket"
+msgstr "チケットを検索"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Enter ticket ID"
+msgstr "チケットIDを入力"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Ticket"
+msgstr "チケット"
+
+msgid "Unknown ticked ID"
+msgstr "不明チケットID"
+
+msgid "Money"
+msgstr "お金"
+
+msgid "Pay"
+msgstr "支払"
+
+msgid "Find event"
+msgstr "イベントを見つける"
+
+msgid "Search by event name"
+msgstr "イベント名から探す"
+
+msgid "Search by event ID"
+msgstr "イベントIDから探す"
+
+msgid "Search results for:"
+msgstr "検索結果："
+
+msgid "No available events are found for this league"
+msgstr "このリーグで利用できるイベントは見つかりませんでした"
+
+msgid "Search Events"
+msgstr "イベントを探す"
+
+msgid "Search another event ID"
+msgstr "他のイベントIDで探す"
+
+msgid "Search another event name"
+msgstr "他のイベント名で探す"
+
+msgid "Please complete the following form"
+msgstr "以下のフォームに記入して下さい"
+
+msgid "Confirm changes"
+msgstr "確認変更"
+
+msgid "Activity Column"
+msgstr "アクティビティコラム"
+
+msgid "Current balance"
+msgstr "残高"
+
+msgid "Today placed tickets"
+msgstr "今日配置したチケット"
+
+msgid "Contact us"
+msgstr "お問合せ"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "以下："
+
+msgid "Subject"
+msgstr "題名"
+
+msgid "Name"
+msgstr "氏名"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "News"
+msgstr "ニュース"
+
+msgid "Read more"
+msgstr "もっと読む"
+
+msgid "Soccer"
+msgstr "サッカー"
+
+msgid "Basketball"
+msgstr "バスケットボール"
+
+msgid "Ice Hockey"
+msgstr "アイスホッケー"
+
+msgid "Tennis"
+msgstr "テニス"
+
+msgid "Rugby"
+msgstr "ラグビー"
+
+msgid "Half Time 3 way"
+msgstr "３通りのハーフタイム"
+
+msgid "Top Games"
+msgstr "トップゲーム"
+
+msgid "IceHockey"
+msgstr "アイスホッケー"
+
+msgid "Handball"
+msgstr "ハンドボール"
+
+msgid "Last Minute Bets"
+msgstr "最後の賭け"
+
+msgid "Shortly"
+msgstr "まもなく"
+
+msgid "%d events available"
+msgstr "％dイベントが利用可能"
+
+msgid "Bet now"
+msgstr "賭け時"
+
+msgid "Football"
+msgstr "フットボール"
+
+msgid "Draw"
+msgstr "引き分け"
+
+msgid "League not found"
+msgstr "リーグは見つかりませんでした"
+
+msgid "No available events found for this league"
+msgstr "このリーグで利用できるイベントは見つかりませんでした"
+
+msgid "Last Minute"
+msgstr "最後"
+
+msgid "No leagues selected"
+msgstr "リーグが選ばれていません"
+
+msgid "Single"
+msgstr "シングル"
+
+msgid "Combi"
+msgstr "コンビ"
+
+msgid "System"
+msgstr "システム"
+
+msgid "Delete all bets"
+msgstr "全ての賭けを削除"
+
+msgid "Total odds"
+msgstr "合計確率"
+
+msgid "Stake"
+msgstr "賭け金"
+
+msgid "Winning"
+msgstr "勝ち"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Place Bet"
+msgstr "賭ける"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "賭け金が選ばれていません。<br>それぞれのオッズをクリックして賭け金を選んで下さい。"
+
+msgid "Ticket History"
+msgstr "過去のチケット"
+
+msgid "Ticket ID:"
+msgstr "チケットID:"
+
+msgid "Print"
+msgstr "プリント"
+
+msgid "No tickets activity available"
+msgstr "チケットアクティビティはありません"
+
+msgid "Date and time"
+msgstr "日付と時間"
+
+msgid "Ticket id"
+msgstr "チケットID"
+
+msgid "ID / Date"
+msgstr "ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付ID/日付"
+
+msgid "Total:"
+msgstr "合計："
+
+msgid "Amount:"
+msgstr "金額："
+
+msgid "Return:"
+msgstr "復帰："
+
+msgid "Please see your betting history below:"
+msgstr "下記から過去の賭けを見て下さい："
+
+msgid "Ticket ID"
+msgstr "チケットID"
+
+msgid "Note"
+msgstr "メモ"
+
+msgid "To place ticket please use betslip."
+msgstr "Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。Betsslipを使ってチケットを置いて下さい。"
+
+msgid "Pending tickets"
+msgstr "チケットを申込中"
+
+msgid "Please see your recently placed tickets below:"
+msgstr "下記から最近のチケット配置をご覧下さい："
+
+msgid "Paid"
+msgstr "支払われました"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "申込中のチケットは見つかりませんでした。以前のチケットは過去のチケットからご覧下さい。"
+
+msgid "History"
+msgstr "過去"
+
+msgid "Ticket Preview"
+msgstr "チケットプレビュー"
+
+msgid "Event ID / Date"
+msgstr "イベントID/日付"
+
+msgid "Sport / League"
+msgstr "スポーツ／リーグ"
+
+msgid "Submit Ticket"
+msgstr "チケットを提示"
+
+msgid "Clear Ticket"
+msgstr "チケットをクリア"
+
+msgid "No bets selected"
+msgstr "賭け金が選ばれていません"
+
+msgid "Ticket placed"
+msgstr "チケットを配置しました"
+
+msgid "Your ticket is created successfully"
+msgstr "無事チケットを作成しました"
+
+msgid "Your ticket number is"
+msgstr "チケット番号は"
+
+msgid "Ticket information"
+msgstr "チケット情報"
+
+msgid "Login/Logout History"
+msgstr "ログイン／ログアウト過去"
+
+msgid "User Login/Logout History:"
+msgstr "ユーザーログイン／ログアウトヒストリー："
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "より見やすくするためのオプションを設定して下さい。"
+
+msgid "Odds type"
+msgstr "確率タイプ"
+
+msgid "Time zone"
+msgstr "時間帯"
+
+msgid "Change Password"
+msgstr "パスワードを変更"
+
+msgid "Account information"
+msgstr "アカウント情報"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr "個人情報を証明するため、全ての欄にご記入下さい。規則のため、証明されるまでは我が製品、マーケット、割引などへのアクセスが制限されることがあります。私達の安全なEメールサービスで、書類を送信することが出来ます。"
+
+msgid "Date of birth"
+msgstr "生年月日"
+
+msgid "Bank name"
+msgstr "銀行名"
+
+msgid "Bank code"
+msgstr "銀行コード"
+
+msgid "Bank account number"
+msgstr "銀行アカウント番号"
+
+msgid "Ref. Code"
+msgstr "参照コード"
+
+msgid "Balance Information Analysis"
+msgstr "残高情報分析"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "ここで現在の残高に関する情報を見ることが出来ます。"
+
+msgid "Promotional Code"
+msgstr "プロモーションコード"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "金額追加またはベネフィットをゲットするにはプロモーションコードを下記に入力して下さい。"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "Submit bonus code"
+msgstr "ボーナスコードを提示"
+
+msgid "Confirmation"
+msgstr "確認"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "Eメールが認証されました。５秒でホームページに繫がります。</ br>５秒たっても繫がらない場合は下記の<a href=\"/\"\">リンク</a>を押して下さい。\""
+
+msgid "Incorect confirmation code"
+msgstr "正しくない認証コード"
+
+msgid "Responsible Gaming Settings"
+msgstr "信頼できるゲーム設定"
+
+msgid "Responsible gaming text"
+msgstr "確実なゲームテキスト"
+
+msgid "Add Limit"
+msgstr "制限を追加"
+
+msgid "Set the limit you can play for each session"
+msgstr "一つのセッションでプレイできる制限を設定"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "次の７日間の間、スポーツブックアカウントのアクセス許可を与えないで下さい"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "次の６ヶ月間、スポーツブックアカウントのアクセス許可を与えないで下さい"
+
+msgid "Block Account"
+msgstr "アカウントをブロック"
+
+msgid "Permanently delete your account."
+msgstr "アカウントを完全に削除します。"
+
+msgid "Delete My Account"
+msgstr "アカウントを削除"
+
+msgid "Open account with us!"
+msgstr "アカウントを開こう！"
+
+msgid "Account data"
+msgstr "アカウントデータ"
+
+msgid "Confirm password"
+msgstr "パスワードを確認"
+
+msgid "Personal question"
+msgstr "個人質問"
+
+msgid "Personal answer"
+msgstr "個人返答"
+
+msgid "Referral ID"
+msgstr "照会ID"
+
+msgid "Affiliate ID"
+msgstr "会員ID"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "銀行データ（後に記入できます）"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "１８歳以上であることを認め、条件を読み理解しました"
+
+msgid "Terms And Conditions"
+msgstr "契約条件"
+
+msgid "Confirm registration"
+msgstr "登録確認"
+
+msgid "Password Reset"
+msgstr "パスワードをリセット"
+
+msgid "Enter your new password"
+msgstr "新しいパスワードを入力して下さい"
+
+msgid "Change password"
+msgstr "パスワードを変更"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "下記にEメールを記入して下さい。記入したEメールにパスワードをリセットするリンクが送信されます。ログイン時に必要な新しいパスワードを設定できます。"
+
+msgid "Withdraw"
+msgstr "引き落とし"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "お金を引き落とすには下記に金額を入力し、手続きして下さい："
+
+msgid "Withdraw ID"
+msgstr "引き落としID"
+
+msgid "Request Manual Withdraw"
+msgstr "手動引き落とし要請"
+
+msgid "Transaction Log"
+msgstr "取引ログ"
+
+msgid "List of transactions:"
+msgstr "取り引きリスト："
+
+msgid "Transaction Type"
+msgstr "取り引きタイプ"
+
+msgid "Add/Edit %s"
+msgstr "％sを追加／編集"
+
+msgid "Description"
+msgstr "詳細"
+
+msgid "Value"
+msgstr "価値"
+
+msgid "Parent"
+msgstr "元"
+
+msgid "Created"
+msgstr "作成しました"
+
+msgid "Modified"
+msgstr "修正しました"
+
+msgid "Percentage"
+msgstr "割合"
+
+msgid "Custom Affiliate ID"
+msgstr "カスタム会員ID"
+
+msgid "Submit"
+msgstr "提示"
+
+msgid "List %s"
+msgstr "％sのリスト"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "イメージ"
+
+msgid "Alert ID"
+msgstr "アラートID"
+
+msgid "User id"
+msgstr "ユーザーID"
+
+msgid "Alert Title"
+msgstr "アラートタイトル"
+
+msgid "Alert"
+msgstr "アラート"
+
+msgid "Add bet"
+msgstr "賭けを追加"
+
+msgid "Alerts"
+msgstr "アラート"
+
+msgid "Admin Audit Trail"
+msgstr "監査証跡管理"
+
+msgid "Application File Backups"
+msgstr "申込書ファイルバックアップ"
+
+msgid "Database Backups"
+msgstr "データベースバックアップ"
+
+msgid "Betradar Feeds Log"
+msgstr "ベットラダーフィードログ"
+
+msgid "Liability Dumps"
+msgstr "負担"
+
+msgid "Data list"
+msgstr "データリスト"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Translations"
+msgstr "翻訳"
+
+msgid "Translate"
+msgstr "訳す"
+
+msgid "No records found"
+msgstr "記録が見つかりませんでした"
+
+msgid "Sports and Leagues"
+msgstr "スポーツとリーグ"
+
+msgid "Events management"
+msgstr "イベント管理"
+
+msgid "Events Printing"
+msgstr "イベント印刷"
+
+msgid "Users report"
+msgstr "ユーザー報告"
+
+msgid "Tickets report"
+msgstr "チケット報告"
+
+msgid "Deposits report"
+msgstr "預金報告"
+
+msgid "Witdraw report"
+msgstr "引き落とし報告"
+
+msgid "Liability report"
+msgstr "責任義務報告"
+
+msgid "Active Users"
+msgstr "アクティブユーザー"
+
+msgid "locale"
+msgstr "ロケール"
+
+msgid "Create %s"
+msgstr "％sを作成"
+
+msgid "Event ID"
+msgstr "イベントID"
+
+msgid "User:"
+msgstr "ユーザー："
+
+msgid "Level:"
+msgstr "レベル："
+
+msgid "Current Time:"
+msgstr "現時間："
+
+msgid "Current Language:"
+msgstr "言語："
+
+msgid "Front Page"
+msgstr "前ページ"
+
+msgid "Under / Over"
+msgstr "下／向こう"
+
+msgid "Handicap"
+msgstr "ハンディキャップ"
+
+msgid "%s Printing"
+msgstr "%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格%s価格"
+
+msgid "Available Events List For:"
+msgstr "への利用可能なイベントリスト："
+
+msgid "Unknown Sport"
+msgstr "知らないスポーツ"
+
+msgid "Please select sport below:"
+msgstr "以下からスポーツを選んで下さい："
+
+msgid "View Events"
+msgstr "イベントを見る"
+
+msgid "No available events found for this sport"
+msgstr "このスポーツで利用できるイベントは見つかりませんでした"
+
+msgid "Can not find event"
+msgstr "イベントが見つかりません"
+
+msgid "Edit %s"
+msgstr "％sを編集"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Users %s"
+msgstr "％sユーザー"
+
+msgid "Edit User"
+msgstr "ユーザーを編集"
+
+msgid "Administration Panel"
+msgstr "管理パネル"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Staff Login"
+msgstr "スタッフログイン"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Available cultures"
+msgstr "利用可能な文化"
+
+msgid "Add a culture"
+msgstr "文化を追加"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Cultures this site supports"
+msgstr "このサイトをサポートする文化"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "削除してもよろしいですか"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "全てのユーザーにプロモーションレターを送ります。メッセージはユーザーのEメールアドレスに送信されます。"
+
+msgid "Subject:"
+msgstr "題名："
+
+msgid "Content:"
+msgstr "内容："
+
+msgid "Download all e-Mails (csv file)"
+msgstr "全てのEメールをダウンロード（csvファイル）"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "一部のユーザーにプロモーションレターを送ります。メッセージはユーザーのEメールアドレスに送信されます。"
+
+msgid "To:"
+msgstr "宛先："
+
+msgid "Contact support team"
+msgstr "サポートチームお問合せ"
+
+msgid "<br>No data in this period"
+msgstr "＜br＞この期間でのデータはなし"
+
+msgid "No data in this period"
+msgstr "この期間のデータはありません"
+
+msgid "User name"
+msgstr "ユーザー名"
+
+msgid "Date of registration"
+msgstr "登録日"
+
+msgid "Won"
+msgstr "勝利"
+
+msgid "Liability"
+msgstr "責任義務"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "ボーナスは責任によってキャンセルされました"
+
+msgid "Download (Excel file)"
+msgstr "ダウンロード（エクセルファイル）"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "このイベントをキャンセルしてもよろしいですか？"
+
+msgid "No events found"
+msgstr "イベントは見つかりませんでした"
+
+msgid "No events in this league"
+msgstr "このリーグでのイベントはありません"
+
+msgid "Risk Management Settings"
+msgstr "リスク管理設定"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "スポーツブックでのリスク管理は重要です。全てのオプション設定に注意して下さい。"
+
+msgid "Lowest stake"
+msgstr "最も低い賭け"
+
+msgid "Highest stake"
+msgstr "最も高い賭け"
+
+msgid "Highest winning amount"
+msgstr "最高勝利金"
+
+msgid "Lowest number of events in one ticket"
+msgstr "一つのチケットで最も低いイベント数"
+
+msgid "Highest number of events in one ticket"
+msgstr "一つのチケットで最も多いイベント数"
+
+msgid "List Leagues"
+msgstr "リーグリスト："
+
+msgid "League ID"
+msgstr "リーグID"
+
+msgid "No limits"
+msgstr "制限なし"
+
+msgid "List Sports"
+msgstr "スポーツリスト"
+
+msgid "Sport ID"
+msgstr "スポーツID"
+
+msgid "Warning Withdraws"
+msgstr "引き落とし警告"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Warning Stakes"
+msgstr "賭け警告"
+
+msgid "Warning Winnings"
+msgstr "賞金警告"
+
+msgid "Warning Deposits"
+msgstr "入金警告"
+
+msgid "amount"
+msgstr "金額"
+
+msgid "Deposit fee percentage"
+msgstr "入金手数料割合"
+
+msgid "Payment gateways"
+msgstr "支払方法"
+
+msgid "Please set payment gateways below:"
+msgstr "支払方法を以下から設定して下さい："
+
+msgid "Payments"
+msgstr "支払"
+
+msgid "Deposits %s"
+msgstr "％s入金"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "入金リスク管理を以下から設定して下さい："
+
+msgid "Allow automated deposits"
+msgstr "自動入金を許可"
+
+msgid "Allow manual deposits"
+msgstr "手動入金を許可"
+
+msgid "Lowest amount for deposit"
+msgstr "入金の最低金額"
+
+msgid "Highest amount for deposit"
+msgstr "入金の最高金額"
+
+msgid "General %s"
+msgstr "一般的な％s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "一般設定はサイトにおき最も基本的な構成設定をコントロールします：ウェブサイト名、場所、登録者、どのように日付、時間を計算し表示させるかなど。"
+
+msgid "Copyright"
+msgstr "著作権"
+
+msgid "Contact Email"
+msgstr "Eメール連絡先"
+
+msgid "Password reset"
+msgstr "パスワードをリセット"
+
+msgid "Default currency"
+msgstr "デフォルト通貨"
+
+msgid "Default timezone:"
+msgstr "デフォルトタイムゾーン："
+
+msgid "Default language"
+msgstr "デフォルト言語"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Items per page"
+msgstr "１ページにおけるアイテム"
+
+msgid "Referral system"
+msgstr "参照システム"
+
+msgid "Left active"
+msgstr "左アクティブ"
+
+msgid "Left sidebar title"
+msgstr "左サイドバータイトル"
+
+msgid "Left sidebar content"
+msgstr "左サイドバー内容"
+
+msgid "Right active"
+msgstr "右アクティブ"
+
+msgid "Right sidebar title"
+msgstr "右サイドバータイトル"
+
+msgid "Right sidebar content"
+msgstr "右サイドバー内容"
+
+msgid "Bottom active"
+msgstr "ボトムアクティブ"
+
+msgid "Bottom sidebar title"
+msgstr "ボトムサイドバータイトル"
+
+msgid "Bottom sidebar content"
+msgstr "ボトムサイドバー内容"
+
+msgid "Referral Settings"
+msgstr "参照設定"
+
+msgid "First deposit percentage to referral"
+msgstr "照会への最初の入金率"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？<b>SEO</b> / 検索エンジン最適化とは何ですか？"
+
+msgid "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free"
+msgstr "\"\" \"\"organic"
+
+msgid "Title tag"
+msgstr "タイトルタグ"
+
+msgid "Keywords"
+msgstr "キーワード"
+
+msgid "Reply to email"
+msgstr "Eメールを返信"
+
+msgid "Copyright:"
+msgstr "著作権："
+
+msgid "Bot content revisit time"
+msgstr "ボット内容再訪問時間"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Tickets %s"
+msgstr "チケット％s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "一般チケットは印刷機能やチケットに関する最も基本的な構成をコントロールします。"
+
+msgid "Ticket printing"
+msgstr "チケット印刷"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "ユーザーとスタッフのための有効（はい）または無効（いいえ）チケット印刷"
+
+msgid "Ticket preview"
+msgstr "チケットプレビュー"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "配置する前にチケットプレビューを有効（はい）または無効（いいえ）にする。"
+
+msgid "Warnings %s"
+msgstr "警告％s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "警告設定では、不必要なアラートを警告画面からフィルターできます。"
+
+msgid "Deposit alert"
+msgstr "入金アラート"
+
+msgid "Withdraw alert"
+msgstr "引き落としアラート"
+
+msgid "Stake alert"
+msgstr "賭けアラート"
+
+msgid "Odds alert"
+msgstr "歩アラート"
+
+msgid "Potential winning alert"
+msgstr "可能性ある賞金アラート"
+
+msgid "Allow withdraws"
+msgstr "引き落としを許可"
+
+msgid "Withdraw %s"
+msgstr "引き落とし％s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "以下において引き落としリスク管理を設定して下さい："
+
+msgid "Lowest amount for withdraw request"
+msgstr "引き落とし要請の最低金額"
+
+msgid "Highest amount for withdraw request"
+msgstr "引き落とし要請の最高金額"
+
+msgid "%s"
+msgstr "％s"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+msgid "Leagues"
+msgstr "リーグ"
+
+msgid "View %s"
+msgstr "見る％s"
+
+msgid "Ticket Number"
+msgstr "チケット番号"
+
+msgid "Return"
+msgstr "戻る"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "チケットは削除されます。削除してもよろしいですか？"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "チケットはキャンセルされます。キャンセルしてもよろしいですか？"
+
+msgid "Insert Result"
+msgstr "結果を入力"
+
+msgid "Fund user"
+msgstr "資金ユーザー"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 USD"
+msgstr "資金を出すには入力欄に金額を入力し、クリックして下さい。例えば１００ドル資金を入れたいならば"
+
+msgid " just enter that amount into field and press submit"
+msgstr "入力欄に入力し、クリックを押して下さい"
+
+msgid "Charge user"
+msgstr "ユーザー変更"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200"
+msgstr "入れた金額を変更したい場合は、お金はユーザーアカウントから取り出されます。例えば２００課金したい場合は"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "その金額を入力欄に入力し、クリックを押して下さい"
+
+msgid "Add %s"
+msgstr "追加％s"
+
+msgid "Registration chart"
+msgstr "登録チャート"
+
+msgid "KYC user"
+msgstr "KYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザーKYCユーザー"
+
+msgid "KYC Documents"
+msgstr "KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類KYC書類"
+
+msgid "Change KYC Status"
+msgstr "KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更KYCステータスの変更"
+
+msgid "Deposits Bonus History"
+msgstr "入金ボーナスヒストリー"
+
+msgid "Sum"
+msgstr "総額"
+
+msgid "Affiliates"
+msgstr "会員"
+
+msgid "Kick"
+msgstr "反動"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "Eメールが認証されました。今からログインできます。"
+
+msgid "Register now!"
+msgstr "今すぐ登録しよう！"
+
+msgid "Forgotten your password?"
+msgstr "パスワードを忘れましたか？"
+
+msgid "Old password"
+msgstr "古いパスワード"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "Bank info"
+msgstr "銀行情報"
+
+msgid "Please provide your bank info"
+msgstr "あなたの銀行情報をお知らせ下さい"
+
+msgid "Account number"
+msgstr "アカウント番号"
+
+msgid "Transaction"
+msgstr "取り引き"
+
+msgid "User Balance"
+msgstr "ユーザー残高"
+
+msgid "Please enter your surname"
+msgstr "姓名を入力して下さい"
+
+msgid "Please enter your first name"
+msgstr "名前を入力して下さい"
+
+msgid "Please enter your address"
+msgstr "住所を入力して下さい"
+
+msgid "Please enter your Region"
+msgstr "地方を入力して下さい"
+
+msgid "Please enter your City of residence"
+msgstr "都市を入力して下さい"
+
+msgid "Alphabets and numbers only"
+msgstr "アルファベットと番号のみ"
+
+msgid "Between 5 to 15 characters"
+msgstr "５文字から１５文字以内で"
+
+msgid "This username has already been taken."
+msgstr "このユーザー名は既に使用されています。"
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "パスワードは６文字から１５文字以内でなければいけません"
+
+msgid "Password must contain at least one number"
+msgstr "パスワードには必ず一つ以上の番号を含んでいなければなりません"
+
+msgid "Password must contain at least one letter"
+msgstr "パスワードには必ず一つ以上の文字を含んでいなければなりません"
+
+msgid "Please enter valid email address"
+msgstr "有効なEメールアドレスを入力して下さい"
+
+msgid "This email has already been registered."
+msgstr "このEメールは既に登録されています。"
+
+msgid "Please enter your name"
+msgstr "氏名を入力して下さい"
+
+msgid "Please enter your street address"
+msgstr "住所を入力して下さい"
+
+msgid "Please enter city"
+msgstr "都市を入力して下さい"
+
+msgid "Please enter country"
+msgstr "国を入力して下さい"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "ユーザーは登録時に２１歳以上でなければいけません"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "ユーザーは登録時に１８歳以上でなければいけません"
+
+msgid "Please enter valid mobile number"
+msgstr "有効な携帯番号を入力して下さい"
+
+msgid "Please your personal question"
+msgstr "個人質問を入力して下さい"
+
+msgid "Please enter valid answer"
+msgstr "その答えを入力して下さい"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "登録するには契約条件に同意する必要があります。"
+
+msgid "This field cannot be left blank"
+msgstr "ここが空欄になっています"
+
+msgid "Mimimum 5 characters long"
+msgstr "最低５文字"
+
+msgid "The username should be different from email"
+msgstr "ユーザー名はEメールとは違うものにして下さい"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "パスワードは８文字から１５文字以内でなければいけません"
+
+msgid "The Password has to be different from username."
+msgstr "パスワードはユーザー名とは異なってなければいけません"
+
+msgid "It seems that you are already registered."
+msgstr "既に登録しています。"
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "住所を入力、または住所が存在しないみたいです"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "デバッグ設定ではこのurlに対するアクセスを許可しません。"
+
+msgid "Match odds"
+msgstr "試合確率"
+
+msgid "Remaining match"
+msgstr "残った試合"
+
+msgid "Next Goal"
+msgstr "次のゴール"
+
+msgid "Total Goals +/-"
+msgstr "合計ゴール＋／ー"
+
+msgid "Match odds (1 2)"
+msgstr "試合確率（１　２）"
+
+msgid "Set 1 2"
+msgstr "セット１２"
+
+msgid "Set Score"
+msgstr "スコアセット"
+
+msgid "Sets Overall"
+msgstr "オーバーオールセット"
+
+msgid "Total Points +/-"
+msgstr "合計ポイント＋／ー"
+
+msgid "Goals from now +/-"
+msgstr "これからのゴール＋／ー"
+
+msgid "Match odds (1x2)"
+msgstr "試合確率（１×２）"
+
+msgid "1 hour"
+msgstr "１時間"
+
+msgid "2 hours"
+msgstr "2時間"
+
+msgid "3 hours"
+msgstr "３時間"
+
+msgid "Time"
+msgstr "タイム"
+
+msgid "LIVE"
+msgstr "ライブ"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Click on team name for extra bets"
+msgstr "更なる賭けにはチーム名をクリック"
+
+msgid "Upcoming Live Matches"
+msgstr "来るべきライブ試合"
+
+msgid "Login For"
+msgstr "にログイン"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "Bet Slip"
+msgstr "賭けスリップ"
+
+msgid "open"
+msgstr "オープン"
+
+msgid "Sport Bets"
+msgstr "スポーツ賭け"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "フットボール、テニス、アイスホッケー、その他たくさんの素晴らしい確率"
+
+msgid "Number of Bets Placed: "
+msgstr "配置した賭け数："
+
+msgid "Max Wager for bets: "
+msgstr "賭けの最高金額："
+
+msgid "Wager:"
+msgstr "賭け："
+
+msgid "Max Payout:"
+msgstr "最大支払："
+
+msgid "All games / All events"
+msgstr "全てのゲーム／全てのイベント"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "通常のスポーツと確率が合同され、全てのゲームが一度に見れます。"
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "この革新的なサービスを今すぐゲットしよう。今までにないライブゲーム！グッドラック！！"
+
+msgid "more groups"
+msgstr "その他のグループ"
+
+msgid "Draw no Bet Period"
+msgstr "引き分け賭けなし期間"
+
+msgid "Total x Period"
+msgstr "合計x期間"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "口座での入金制限設定"
+
+msgid "Play Session Limit"
+msgstr "プレイセッション制限"
+
+msgid "Wager Limit"
+msgstr "賭け制限"
+
+msgid "Loss Limit"
+msgstr "損失制限"
+
+msgid "Self Exclusion"
+msgstr "自身以外"
+
+msgid "DELETE ACCOUNT"
+msgstr "口座を削除"
+
+msgid "Per Transaction"
+msgstr "一取り引きにつき"
+
+msgid "Daily"
+msgstr "毎日"
+
+msgid "Weekly"
+msgstr "毎週"
+
+msgid "Monthly"
+msgstr "毎月"
+
+msgid "No Limit"
+msgstr "制限なし"
+
+msgid "After %s minutes"
+msgstr "％s分後"
+
+msgid "After one Hour"
+msgstr "一時間後"
+
+msgid "After two Hours"
+msgstr "二時間後"
+
+msgid "Login For:"
+msgstr "にログイン："
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "過去％s分間、持っているもの：<br>入金した € %s <br>賭けた€ %s <br>負けた € %s <br>勝った€ %sでプレイしていました"
+
+msgid "Outdated Browser Detected"
+msgstr "旧式のブラウザを検出しました"
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "ウェブサイトはあなたが古いブラウザを使っていることを検出しました。このブラウザを使用し続けることはウェブサイトをアクセスするにあたっての制限があります。アップデートする必要はありませんが、ウェブサイトを最大限にアクセスするために強くお勧めします。"
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "下記のリンクから新しいブラウザ、または現在のブラウザをアップデートできます。"
+
+msgid "Remind me later"
+msgstr "後で通知"
+
+msgid "No available Bonuses."
+msgstr "利用できるボーナスはありません。"
+
+msgid "Available Bonuses."
+msgstr "利用できるボーナスです。"
+
+msgid "Locked Amount"
+msgstr "ロックされた金額"
+
+msgid "Opened on"
+msgstr "開いた時"
+
+msgid "Activation Date"
+msgstr "起動日"
+
+msgid "Expiration Date"
+msgstr "有効期限"
+
+msgid "Account Information"
+msgstr "口座情報"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "全てのリーグとイベントの結果表スケジュールとライブスコア"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "ライブカジノでルーレット、ブラックジャック、バカラをプレイ"
+
+msgid "Identity Card (back view)"
+msgstr "身分証明書（後）"
+
+msgid "Identity Card (front view)"
+msgstr "身分証明書（表）"
+
+msgid "Bank Account"
+msgstr "銀行口座"
+
+msgid "Register now and get 7bonus7"
+msgstr "今すぐ登録して7ボーナス7を獲得しよう"
+
+msgid "<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of Malta and subject to such laws and having registered office at Tower Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The Company is in possession of a Class 2 licence which it has acquired on the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and having licence number LGA/CL2/921/2013. The Company is regulated by the Lotteries and Gaming Authority (LGA) of Malta.</p> "
+msgstr "<p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p><p id=terms>7Epta7社はマルタ法の元に登録された会社で、オフィスはBirkirkara、Swatar、タワーストリート、タワービジネスセンター、Suite５、一階にあります。本会社は宝くじとゲーム機関から２０１３年にクラス２ライセンスを所持し、ライセンス番号は LGA/CL2/921/2013となっています。本会社はマルタの宝くじとゲーム機関（LGA)によって登録されたものです。</p>"
+
+msgid "Top Winner"
+msgstr "トップ勝者"
+
+msgid "close"
+msgstr "終わり"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "Instant Play"
+msgstr "インスタントプレイ"
+
+msgid "Live Video Streaming"
+msgstr "ライブビデオ配信"
+
+msgid "Betslip Wagering"
+msgstr "賭けスリップ賭博"
+
+msgid "Ticket Win"
+msgstr "チケット勝利"
+
+msgid "Bonus Cancellation by user."
+msgstr "ユーザーによるボーナスキャンセル。"
+
+msgid "Bonus activation"
+msgstr "ボーナス起動"
+
+msgid "APCO Deposit"
+msgstr "APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金APCO入金"
+
+msgid "Account Deposit"
+msgstr "入金口座"
+
+msgid "Live Casino Transaction"
+msgstr "ライブカジノ取り引き"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "ライブカジノロールバックトランザクション"
+
+msgid "in every game"
+msgstr "毎ゲームごと"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Stake:"
+msgstr "賭け："
+
+msgid "View Tickets"
+msgstr "チケットを見る"
+
+msgid "Number of Bets Placed:"
+msgstr "配置したベット数："
+
+msgid "Max Wager for bets:"
+msgstr "ベットの最高賭け："
+
+msgid "bets"
+msgstr "ベット"
+
+msgid "Admin add Funds"
+msgstr "管理資金追加"
+
+msgid "Bonus activation:"
+msgstr "ボーナス起動"
+
+msgid "APCO Deposit:"
+msgstr "APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:APCO入金:"
+
+msgid "Withdrawal"
+msgstr "引き落とし"
+
+msgid "Betslip Cancellation:"
+msgstr "ベットスリップキャンセル："
+
+msgid "Cancelled WithDrawal"
+msgstr "引き落としをキャンセルしました"
+
+msgid "Ticket Cancelled"
+msgstr "チケットはキャンセルされました"
+
+msgid "en_us"
+msgstr "en_us"
+
+msgid "bg_bg"
+msgstr "bg_bg"
+
+msgid "hr_hr"
+msgstr "hr_hr"
+
+msgid "cs_cz"
+msgstr "cs_cz"
+
+msgid "da_dk"
+msgstr "da_dk"
+
+msgid "et_ee"
+msgstr "et_ee"
+
+msgid "fi_fi"
+msgstr "fi_fi"
+
+msgid "fr_fr"
+msgstr "fr_fr"
+
+msgid "de_de"
+msgstr "de_de"
+
+msgid "el_gr"
+msgstr "el_gr"
+
+msgid "hu_hu"
+msgstr "hu_hu"
+
+msgid "it_it"
+msgstr "it_it"
+
+msgid "lv_lv"
+msgstr "lv_lv"
+
+msgid "lt_lt"
+msgstr "lt_lt"
+
+msgid "no_no"
+msgstr "no_no"
+
+msgid "pl_pl"
+msgstr "pl_pl"
+
+msgid "pt_pt"
+msgstr "pt_pt"
+
+msgid "ro_ro"
+msgstr "no_no"
+
+msgid "ru_ru"
+msgstr "ru_ru"
+
+msgid "sr_sp"
+msgstr "sr_sp"
+
+msgid "srl_sr"
+msgstr "srl_sr"
+
+msgid "sk_sk"
+msgstr "sk_sk"
+
+msgid "sl_sl"
+msgstr "sl_sl"
+
+msgid "es_es"
+msgstr "es_es"
+
+msgid "se_se"
+msgstr "se_se"
+
+msgid "tr_tr"
+msgstr "tr_tr"
+
+msgid "bs_bs"
+msgstr "bs_bs"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Bet Split"
+msgstr "賭けを分ける"
+
+msgid "The Company"
+msgstr "本会社"
+
+msgid "Help & Legal"
+msgstr "ヘルプ＆法律"
+
+msgid "Useful Links"
+msgstr "役に立つリンク"
+
+msgid "Payment Options"
+msgstr "支払オプション"
+
+msgid "Extra Bets"
+msgstr "エキストラベット"
+
+msgid "No, don't remind me again"
+msgstr "いいえ、思い出させなくて結構です"
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "左にあるメニューからお気に入りのスポーツリーグを選んで下さい。次回来る時に簡単に見つけられます"
+
+msgid "3 Way"
+msgstr "３通り"
+
+msgid "2 Way"
+msgstr "2通り"
+
+msgid "Totals"
+msgstr "合計"
+
+msgid "Championship Outrights"
+msgstr "アウトライト選手権"
+
+msgid "Short Term Outrights"
+msgstr "短期アウトライト"
+
+msgid "Podium Finish"
+msgstr "表彰台フィニッシュ"
+
+msgid "3-balls"
+msgstr "３−ボール"
+
+msgid "Correct score"
+msgstr "正しいスコア"
+
+msgid "First Team to score"
+msgstr "スコアする最初のチーム"
+
+msgid "1st Half - 1X2"
+msgstr "第一回の半分ー１X２"
+
+msgid "Both Teams to Score"
+msgstr "スコアする両方のチーム"
+
+msgid "Odd/Even goals"
+msgstr "奇数／偶数ゴール"
+
+msgid "Draw no bet"
+msgstr "引き分け賭けなし"
+
+msgid "Goals home team"
+msgstr "ゴール　ホームチーム"
+
+msgid "Goals away team"
+msgstr "ゴール　アウェイチーム"
+
+msgid "Asian Handicap"
+msgstr "アジア人ハンディキャップ"
+
+msgid "Asian Total"
+msgstr "アジア人ゴール"
+
+msgid "1st Half - Asian Handicap"
+msgstr "第一回ハーフーアジア人ハンディキャップ"
+
+msgid "1st Half - Asian Total"
+msgstr "第一回ハーフーアジア人合計"
+
+msgid "European Handicap"
+msgstr "ヨーロッパハンディキャップ"
+
+msgid "First goalscorer"
+msgstr "最初の得点選手"
+
+msgid "Total Goals (aggregated)"
+msgstr "合計ゴール（統合）"
+
+msgid "1st Half - Correct Score"
+msgstr "第一ハーフー正しい特典"
+
+msgid "Highest scoring half"
+msgstr "高得点ハーフ"
+
+msgid "Matchbet + Totals"
+msgstr "マッチベット＋合計"
+
+msgid "Matchflow"
+msgstr "マッチフロー"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "第一ハーフー奇数／偶数ゴール"
+
+msgid "Overtime yes/no"
+msgstr "オーバータイム　はい／いいえ"
+
+msgid "Winning margins"
+msgstr "得点差"
+
+msgid "Anytime goalscorer"
+msgstr "どんなときでも得点する選手"
+
+msgid "Total number of bookings"
+msgstr "ブッキングの合計数"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "第一ハーフーブッキングの合計数"
+
+msgid "Total number of booking points"
+msgstr "ブッキングポイントの合計数"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "第一ハーフーブッキングポイントの合計数"
+
+msgid "Player sent off?"
+msgstr "退場させられたプレーヤー？"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "第一ハーフー退場させられたプレーヤー？"
+
+msgid "Number of bookings home"
+msgstr "ブッキングホームの数"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "第一ハーフーブッキングホームの数"
+
+msgid "Number of bookings away"
+msgstr "アウェイの予約数"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "第一ハーフーアウェイの予約数"
+
+msgid "First Team Booked"
+msgstr "最初のチームが決まりました"
+
+msgid "1st Half - First Team Booked"
+msgstr "第一ハーフー最初のチームが決まりました"
+
+msgid "Match bookings"
+msgstr "試合予約"
+
+msgid "1st Half - Match Bookings"
+msgstr "第一ハーフー試合予約"
+
+msgid "Aggregated booking points"
+msgstr "統合予約ポイント"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "第一ハーフー統合予約ポイント"
+
+msgid "Exact bookings"
+msgstr "正確な予約"
+
+msgid "1st Half - Exact Bookings"
+msgstr "第一ハーフー正確な予約"
+
+msgid "Home Team Player Sent Off"
+msgstr "ホームチームプレーヤーが退場させられました"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "第一ハーフ-ホームチームプレーヤーが退場させられました"
+
+msgid "Away Team Player Sent Off"
+msgstr "アウェイチームプレーヤーが退場させられました"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "第一ハーフーアウェイチームプレーヤーが退場させられました"
+
+msgid "Total Goals (exact)"
+msgstr "（正確な）合計ゴール"
+
+msgid "2nd Half - 1X2"
+msgstr "第二ハーフー１X２"
+
+msgid "2nd Half - Asian Total"
+msgstr "第二ハーフーアジア合計"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "第二ハーフーアジアンハンディキャップ"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "ハーフタイム／フルタイム　正しい得点"
+
+msgid "Overtime + goal Yes/No"
+msgstr "オーバータイム＋ゴール　はい／いいえ"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "ペナルティシュートアウト　はい／いいえ"
+
+msgid "How will the match be decided?"
+msgstr "試合はどのように決まりますか？"
+
+msgid "Clean sheet home team"
+msgstr "クリーンシート　ホームチーム"
+
+msgid "Clean sheet away team"
+msgstr "クリーンシート　アウェイチーム"
+
+msgid "Which team to score"
+msgstr "どのチームに得点"
+
+msgid "1st Half - Total Goals"
+msgstr "第一ハーフー合計ゴール"
+
+msgid "2nd Half - Total Goals"
+msgstr "第二ハーフー合計ゴール"
+
+msgid "Total corners"
+msgstr "合計コーナー"
+
+msgid "1st Half - Total Corners"
+msgstr "第一ハーフー合計コーナー"
+
+msgid "Corner handicap"
+msgstr "コーナーハンディキャップ"
+
+msgid "1st Half - Corner Handicap"
+msgstr "第一ハーフーコーナーハンディキャップ"
+
+msgid "Corner matchbet"
+msgstr "コーナーマッチベット"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "第一ハーフーコーナーマッチベット"
+
+msgid "Corner Odd/Even"
+msgstr "コーナー　オッド／イーブン"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "第一ハーフーコーナー　オッド／イーブン"
+
+msgid "First corner"
+msgstr "ファーストコーナー"
+
+msgid "1st Half - First Corner"
+msgstr "第一ハーフーファーストコーナー"
+
+msgid "Home Team Number of Corners"
+msgstr "ホームチーム　コーナー数"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "第一ハーフーホームチーム　コーナー数"
+
+msgid "1st Half - Totals"
+msgstr "第一ハーフー合計"
+
+msgid "2nd Half - Totals"
+msgstr "第二ハーフー合計"
+
+msgid "Last corner"
+msgstr "ラストコーナー"
+
+msgid "1st Half - Last Corner"
+msgstr "第一ハーフーラストコーナー"
+
+msgid "Away Team Number of Corners"
+msgstr "アウェイチーム　コーナー数"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "第一ハーフーアウェイチーム　コーナー数"
+
+msgid "Last team to score"
+msgstr "得点する最後のチーム"
+
+msgid "Corner Total (Aggregated)"
+msgstr "コーナー合計（統合）"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "第一ハーフーコーナー合計（統合）"
+
+msgid "Home to win both halves?"
+msgstr "両方のチームに勝つホーム？"
+
+msgid "Home to win either half?"
+msgstr "片方のチームに勝つホーム？"
+
+msgid "Home to score in both halves?"
+msgstr "両方のチームに得点するホーム？"
+
+msgid "Away to win both halves?"
+msgstr "両方のチームに勝つアウェイ？"
+
+msgid "Away to win either half?"
+msgstr "どちらか片方に勝つアウェイ？"
+
+msgid "Away to score in both halves?"
+msgstr "両方のチームに得点するアウェイ？"
+
+msgid "Both halves over 1.5?"
+msgstr "両方の前半試合は1.5以上？"
+
+msgid "Both halves under 1.5?"
+msgstr "両方の前半試合は1.5以下？"
+
+msgid "1st Half Double Chance"
+msgstr "第一ハーフ　ダブルチャンス"
+
+msgid "1st Half Draw no Bet"
+msgstr "第一ハーフー引き分け　賭けなし"
+
+msgid "First goal interval 10 min"
+msgstr "最初のゴール間隔１０分"
+
+msgid "First goal interval 15 min"
+msgstr "最初のゴール間隔１５分"
+
+msgid "First 10 minutes -3 way"
+msgstr "最初の１０分−３通り"
+
+msgid "1st Half - Both Teams to score"
+msgstr "第一ハーフー両方のチームに得点"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "第二ハーフー両方のチームに得点"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "最高得点ハーフホームチーム"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "最高得点前半アウェイチーム"
+
+msgid "Correct score (incl. other)"
+msgstr "正しい得点（その他も含む）"
+
+msgid "Odd/Even Points"
+msgstr "オッド／イーブンポイント"
+
+msgid "Points Spreads"
+msgstr "ポイントスプレッド"
+
+msgid "Total Spreads"
+msgstr "トータルスプレッド"
+
+msgid "1st Half - Points Spread"
+msgstr "第一ハーフーポイントスプレッド"
+
+msgid "1st Half - Total Spread"
+msgstr "第一ハーフートータルスプレッド"
+
+msgid "Matchbet and Totals"
+msgstr "マッチベットと合計"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "第一ハーフーオッド／イーブンポイント"
+
+msgid "1st Half - 2way"
+msgstr "第一ハーフー2通り"
+
+msgid "Highest Scoring Quarter"
+msgstr "最高得点クォーター"
+
+msgid "3way"
+msgstr "３通り"
+
+msgid "2nd Half - Points Spread"
+msgstr "第二ハーフーポイントスプレッド"
+
+msgid "2nd Half - Total Spread"
+msgstr "第二ハーフートータルスプレッド"
+
+msgid "1st Half - Draw no bet"
+msgstr "第一ハーフー引き分け　賭けなし"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "第二ハーフーオッド／イーブンポイント"
+
+msgid "2nd Half - Draw no bet"
+msgstr "第二ハーフー引き分け　賭けなし"
+
+msgid "Total margins NBA-ranges"
+msgstr "NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額NBA範囲の総額"
+
+msgid "Total margins Regular-ranges"
+msgstr "レギュラー範囲の総額"
+
+msgid "Totals away team"
+msgstr "トータルアウェイチーム"
+
+msgid "Totals home team"
+msgstr "トータルホームチーム"
+
+msgid "1st Quarter - 1X2"
+msgstr "第一クォーター１X２"
+
+msgid "2nd Quarter - 1X2"
+msgstr "第二クォーター１X２"
+
+msgid "3rd Quarter - 1X2"
+msgstr "第三クォーター１X２"
+
+msgid "4th Quarter - 1X2"
+msgstr "第四クォーター１X２"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "第一クォーターー引き分け　賭けなし"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "第二クォーターー引き分け　賭けなし"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "第三クォーターー引き分け　賭けなし"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "第四クォーターー引き分け　賭けなし"
+
+msgid "1st Quarter - Total Spread"
+msgstr "第一クォータートータルスプレッド"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "第二クォーターートータルスプレッド"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "第三クォータートータルスプレッド"
+
+msgid "4th Quarter - Total Spread"
+msgstr "第四クォータートータルスプレッド"
+
+msgid "1st Quarter - Points Spread"
+msgstr "第一クォーターポイントスプレッド"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "第二クォーターポイントスプレッド"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "第三クォーターーポイントスプレッド"
+
+msgid "4th Quarter - Points Spread"
+msgstr "第四クォーターーポイントスプレッド"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "第一クォーターオッド／イーブンポイント"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "第二クォーターーオッド／イーブンポイント"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "第三クォーターーオッド／イーブンポイント"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "第四クォーターーオッド／イーブンポイント"
+
+msgid "First to x points"
+msgstr "最初にxポイント"
+
+msgid "Total AAMS"
+msgstr "トータルAAMS"
+
+msgid "Total 3way"
+msgstr "トータル３通り"
+
+msgid "Points Spreads (Overtime)"
+msgstr "ポイントスプレッド（オーバータイム）"
+
+msgid "Total Spreads (Overtime)"
+msgstr "トータルスプレッド（オーバータイム）"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "オッド／イーブンラン（オーバータイム）"
+
+msgid "Correct Score"
+msgstr "正しい得点"
+
+msgid "Both teams to score?"
+msgstr "両チームがゴールを挙げる？"
+
+msgid "Goal Spreads"
+msgstr "ゴールスプレッド"
+
+msgid "1st Period - 3way"
+msgstr "第一ピリオドー３通り"
+
+msgid "3rd Period - 3way"
+msgstr "第三ピリオドー３通り"
+
+msgid "1st Period – Total"
+msgstr "第一ピリオドートータル"
+
+msgid "2nd Period – Total"
+msgstr "第二ピリオドートータル"
+
+msgid "3rd Period – Total"
+msgstr "第三ピリオドートータル"
+
+msgid "1st Period - Double Chance"
+msgstr "第一ピリオドーダブルチャンス"
+
+msgid "2nd Period - Double Chance"
+msgstr "第二ピリオドーダブルチャンス"
+
+msgid "3rd Period - Double Chance"
+msgstr "第三ピリオドーダブルチャンス"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "オッド／イーブンゴール（オーバータイムとペナルティシュートアウト含む）"
+
+msgid "Highest Scoring Period"
+msgstr "高得点ピリオド"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "ゴールスプレッド（オーバータイム含む）"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "トータルスプレッド（オーバータイム含む）"
+
+msgid "Last team to Score"
+msgstr "得点する最後のチーム"
+
+msgid "2nd Period - 3way"
+msgstr "第二ピリオド−３通り"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "第一ピリオドーオッド／イーブンゴール"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "第二ピリオドーオッド／イーブンゴール"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "第三ピリオドーオッド／イーブンゴール"
+
+msgid "1st Period - Draw no bet"
+msgstr "第一ピリオドー引き分け　賭けなし"
+
+msgid "2nd Period - Draw no bet"
+msgstr "第二ピリオドー引き分け　賭けなし"
+
+msgid "3rd Period - Draw no bet"
+msgstr "第三ピリオドー引き分け　賭けなし"
+
+msgid "2nd Period - Both teams to score"
+msgstr "第二ピリオドー得点する両方のチーム"
+
+msgid "3rd Period - Both teams to score"
+msgstr "第三ピリオドー得点する両方のチーム"
+
+msgid "1st Period - Goal Spreads"
+msgstr "第一ピリオドーゴールスプレッド"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "第二ピリオドーゴールスプレッド"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "第三ピリオドーゴールスプレッド"
+
+msgid "2nd Period - First team to score"
+msgstr "第二ピリオドー得点する最初のチーム"
+
+msgid "3rd Period - First team to score"
+msgstr "第三ピリオドー得点する最初のチーム"
+
+msgid "1st Period - Last team to score"
+msgstr "第一ピリオドー得点する最後のチーム"
+
+msgid "2nd Period - Last team to score"
+msgstr "第二ピリオドー得点する最後のチーム"
+
+msgid "3rd Period - Last team to score"
+msgstr "第三ピリオドー得点する最後のチーム"
+
+msgid "1st Period - Both teams to score"
+msgstr "第一ピリオドー得点する両方のチーム"
+
+msgid "Totals (incl. OT)"
+msgstr "トータル（オーバータイム含む）"
+
+msgid "2way (incl. OT)"
+msgstr "2通り（オーバータイム含む）"
+
+msgid "1st Set Winner"
+msgstr "第一セット勝者"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "セットの合計数（ベストオブ３）"
+
+msgid "2nd Set Winner"
+msgstr "第二セット勝者"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "セットの合計数（ベストオブ５）"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "コレクトセット得点（ベストオブ３セット）"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "コレクトセット得点（ベストオブ５セット）"
+
+msgid "1st Half - 3way"
+msgstr "第一ハーフー３通り"
+
+msgid "Halftime / Fulltime"
+msgstr "ハーフタイム／フルタイム"
+
+msgid "Odd / Even Goals"
+msgstr "オッド／イーブンゴール"
+
+msgid "1st Half - Goal Spread"
+msgstr "第一ハーフーゴールスプレッド"
+
+msgid "2nd half - 3way"
+msgstr "第二ハーフー３通り"
+
+msgid "1st half - Double Chance"
+msgstr "第一ハーフーダブルチャンス"
+
+msgid "1st half - Draw no bet"
+msgstr "第一ハーフー引き分け　賭けなし"
+
+msgid "1st Half - Odd / Even"
+msgstr "第一ハーフーオッド／イーブン"
+
+msgid "2nd Half - Odd / Even"
+msgstr "第二ハーフーオッド／イーブン"
+
+msgid "2nd half - Draw no bet"
+msgstr "第二ハーフー引き分け　賭けなし"
+
+msgid "2nd half - Double Chance"
+msgstr "第二ハーフーダブルチャンス"
+
+msgid "Points Spread"
+msgstr "ポイントスプレッド"
+
+msgid "Winning Margins Rugby Union"
+msgstr "ラグビー協会勝差"
+
+msgid "Winning Margins Rugby League"
+msgstr "ラグビーリーグ勝差"
+
+msgid "1st Half - Points Spreads"
+msgstr "第一ハーフーポイントスプレッド"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "第一ハーフーオッド／イーブンポイント"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "オッド／イーブンポイント（オーバータイム）"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "第二ハーフーポイントスプレッド（オーバータイム含む）"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "第二ハーフートータルスプレッド（オーバータイム含む）"
+
+msgid "Who wins first set"
+msgstr "誰が最初のセットを勝つか"
+
+msgid "Who wins second set"
+msgstr "誰が２回目のセットを勝つか"
+
+msgid "Total number of sets (best of 5)"
+msgstr "セットの合計数（ベストオブ５）"
+
+msgid "Correct Set Score"
+msgstr "正確セットスコア"
+
+msgid "How many sets will exceed score limit?"
+msgstr "何セットで得点制限を上回りますか？"
+
+msgid "1st Set Handicap"
+msgstr "第一セット　ハンディキャップ"
+
+msgid "1st Set Total"
+msgstr "第一セット　トータル"
+
+msgid "1st Set Race to X"
+msgstr "第一セット　Xとレース"
+
+msgid "1st Set Odd/even"
+msgstr "第一セット　オッド／イーブン"
+
+msgid "Who wins third set"
+msgstr "誰が3回目のセットを勝つか"
+
+msgid "Who wins fourth set"
+msgstr "誰が４回目のセットを勝つか"
+
+msgid "Who wins fifth set"
+msgstr "誰が５回目のセットを勝つか"
+
+msgid "5th Set Played?"
+msgstr "５回目セットはプレイした？"
+
+msgid "4th Set Played?"
+msgstr "４回目セットはプレイした？"
+
+msgid "Total number of sets (best of 3)"
+msgstr "セットの合計数（ベストオブ３）"
+
+msgid "Line"
+msgstr "ライン"
+
+msgid "Over"
+msgstr "オーバー"
+
+msgid "Under"
+msgstr "アンダー"
+
+msgid "None"
+msgstr "なし"
+
+msgid "goals"
+msgstr "ゴール"
+
+msgid "Goals"
+msgstr "ゴール"
+
+msgid "Under and home"
+msgstr "アンダーとホーム"
+
+msgid "Under and draw"
+msgstr "アンダーと引き分け"
+
+msgid "Under and away"
+msgstr "アンダーとアウェー"
+
+msgid "1st"
+msgstr "1回目"
+
+msgid "2nd"
+msgstr "２回目"
+
+msgid "Equal"
+msgstr "平等"
+
+msgid "Hometeam scores first and home"
+msgstr "ホームチームはファーストとホームを得点"
+
+msgid "Hometeam scores first and draw"
+msgstr "ホームチームはファーストと引き分けを得点"
+
+msgid "Hometeam scores first and away"
+msgstr "ホームチームはファーストとアウェーと得点"
+
+msgid "Awayteam scores first and home"
+msgstr "アウェーチームはファーストとホームを得点"
+
+msgid "Awayteam scores first and draw"
+msgstr "アウェーチームはファーストと引き分けを得点"
+
+msgid "Awayteam scores first and away"
+msgstr "アウェーチームはファーストとアウェーを得点"
+
+msgid "Odd"
+msgstr "オッド"
+
+msgid "Even"
+msgstr "イーブン"
+
+msgid "Others"
+msgstr "その他"
+
+msgid "Both teams"
+msgstr "両方のチーム"
+
+msgid "Over and away"
+msgstr "オーバーとアウェイ"
+
+msgid "Over and draw"
+msgstr "オーバーと引き分け"
+
+msgid "Over and home"
+msgstr "オーバーとホーム"
+
+msgid "other"
+msgstr "その他"
+
+msgid "1st period"
+msgstr "第一ピリオド"
+
+msgid "2nd period"
+msgstr "第二ピリオド"
+
+msgid "3rd period"
+msgstr "第三ピリオド"
+
+msgid "1 sets"
+msgstr "１セット"
+
+msgid "2 sets"
+msgstr "2セット"
+
+msgid "3 sets"
+msgstr "３セット"
+
+msgid "4 sets"
+msgstr "４セット"
+
+msgid "5 sets"
+msgstr "５セット"
+
+msgid "0 sets"
+msgstr "０セット"
+
+msgid "1st quarter"
+msgstr "第一クォーター"
+
+msgid "2nd quarter"
+msgstr "第二クォーター"
+
+msgid "3rd quarter"
+msgstr "第三クォーター"
+
+msgid "4th quarter"
+msgstr "第四クォーター"
+
+msgid "No goal"
+msgstr "ゴールなし"
+
+msgid "Chat with Real Dealers"
+msgstr "本物のディーラーとチャット"
+
+msgid "PLAY NOW"
+msgstr "今すぐプレイ"
+
+msgid "Order for member card by user %s sent successfully."
+msgstr "ユーザーのメンバーカードをオーダーして、％sは無事に送信しました。"
+
+msgid "Blackjack"
+msgstr "ブラックジャック"
+
+msgid "Baccarat"
+msgstr "バカラ"
+
+msgid "Roulette"
+msgstr "ルーレット"
+
+msgid "Tip"
+msgstr "チップ"
+
+msgid "Win Period"
+msgstr "勝利機関"
+
+msgid "HT"
+msgstr "HT"
+
+msgid "Set"
+msgstr "セット"
+
+msgid "Third"
+msgstr "３回目"
+
+msgid "First Goal"
+msgstr "最初のゴール"
+
+msgid "Halftime"
+msgstr "ハーフタイム"
+
+msgid "This site is oparated by ABC Gaming with company number CXXXXX ."
+msgstr "このサイトはABC Gamingの会社番号CXXXXXによって運営されています。"
+
+msgid "Congratulations!<br>You are entitled to %s &euro; bonus.<br>If you want to take it, go to :<br>My account -> Bonus<br>You need to tick the box next to the bonus name.<br>After activating your bonus you have to wager at least 5 times the deposit amount and the bonus amount (together).<br><b>Requirements</b><br>You can bet:<br> 1. On any kind of matches you wish<br> 2. On Single or Combination bets (no system bets)<br> 3. On Live or Prematch events<br> 4. Minimal odd of each event in the ticket should be 1.70 and the odd of each event over 1,35.<br><br>We wish you good luck<br>"
+msgstr "おめでとうございます！<br>%s € ボーナスをゲットするチャンスがあります。<br>獲得したい場合は、<br>アカウント -から> ボーナス<br>に行って下さい。ボーナス名の横にあるボックスをチェックする必要があります。<br>ボーナスを起動させた後は、入金額とボーナス額の最低５倍賭けなければいけません。<br><b>必要条件</b><br>賭けは：<br>１賭けたい試合<br>２シングルまたはコンビネーションベット（システムベットはなし）<br>３ライブやイベントの前試合<br>４各イベントのチケットの最低オッドは1.70で、各イベントのオッドは1.35以上で賭けできます。<br><br>幸運を祈ります。<br>"
+
+msgid "Electricity, Water, Landline Bill of the last 3 months"
+msgstr "３ヶ月間の電気、水道、電話代"
+
+msgid "Please be aware that this is your %srd withdraw request in this week and it will cost you 8 EUR which will be deducted from the amount that you wish to withdraw. You can also read it on our Terms and Conditions. Do you still want to proceed with the transaction?"
+msgstr "これは今週の%srd引き落とし要請で、手数料に８ユーロかかりますのでご注意下さい。手数料は引き落としたい金額から引かれます。契約条件をお読みになって下さい。このままトランザクションを実行してもよろしいですか？"
+
+msgid "2nd Half – Totals Away Team"
+msgstr "第二ハーフーアウェイチーム合計"
+
+msgid "Totals Hometeam"
+msgstr "ホームチーム合計"
+
+msgid "1st Half - Totals Away Team"
+msgstr "第一ハーフーアウェイチーム合計"
+
+msgid "Home No Bet"
+msgstr "ホーム　賭けなし"
+
+msgid "2nd Half - Totals Home Team"
+msgstr "第二ハーフーホームチーム合計"
+
+msgid "Correct Score (incl other) 2"
+msgstr "コレクト得点（他も含む）２"
+
+msgid "Both Teams To Score + Totals"
+msgstr "得点する両方のチーム＋合計"
+
+msgid "Matchbet + Both Teams to Score"
+msgstr "マッチベット＋得点する両方のチーム"
+
+msgid "1st Half - Correct Score 2"
+msgstr "第一ハーフーコレクト得点２"
+
+msgid "1st Half - First team to score"
+msgstr "第一ハーフー得点する最初のチーム"
+
+msgid "1st Half - Totals Home Team"
+msgstr "第一ハーフーホームチーム合計"
+
+msgid "1st Half - European Handicap"
+msgstr "第一ハーフーヨーロッパハンディキャップ"
+
+msgid "First Half - Matchbet + Totals"
+msgstr "第一ハーフーマッチベット＋合計"
+
+msgid "First Half - Matchbet + Both Teams To Score"
+msgstr "第一ハーフーマッチベット＋得点する両方のチーム"
+
+msgid "2nd Half - Correct Score"
+msgstr "第二ハーフー正確スコア"
+
+msgid "2nd Half - European Handicap"
+msgstr "第二ハーフーヨーロッパハンディキャップ"
+
+msgid "2nd Half - Correct Score 2"
+msgstr "第二ハーフーコレクト得点２"
+
+msgid "1st Half - Total Spreads"
+msgstr "第一ハーフートータルスプレッド"
+
+msgid "Highest Scoring Half"
+msgstr "最高得点ハーフ"
+
+msgid "Winning Margins"
+msgstr "勝差"
+
+msgid "Totals Awayteam"
+msgstr "アウェイチーム合計"
+
+msgid "2nd Half - Draw no bet "
+msgstr "第二ハーフー引き分け　賭けなし"
+
+msgid "Overtime Yes/No "
+msgstr "オーバータイム　はい／いいえ"
+
+msgid "1st Period - First team to score"
+msgstr "第一ピリオドー得点する最初のチーム"

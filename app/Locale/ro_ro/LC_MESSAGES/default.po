@@ -1,0 +1,3416 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-15 17:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid "Your passwords does not much"
+msgstr "Parola dvs. nu se potrivește"
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Contul dvs. a fost creat. Vă rugăm confirmați adresa de email pentru a vă "
+"putea autentifica în cont."
+
+msgid "Password changed"
+msgstr "Parolă schimbată."
+
+msgid "Wrong old password. Please try again"
+msgstr "Parola veche nu este corectă. Vă rugăm încercați din nou"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Parolele nu se potrivesc. Vă rugăm încercați din nou"
+
+msgid "Account information updated."
+msgstr "Informații cont actualizate."
+
+msgid "Limits cancelled."
+msgstr "Limite anulate."
+
+msgid "Unable to cancel limit"
+msgstr "Limita nu poate fi anulată."
+
+msgid "Limits updated."
+msgstr "Limite actualizate."
+
+msgid "Limits not updated."
+msgstr "Limite neactualizate."
+
+msgid "You account has been deleted."
+msgstr "Contul dvs. a fost șters."
+
+msgid "Account settings updated."
+msgstr "Setări cont actualizate."
+
+msgid "Password reset link sent to your email"
+msgstr ""
+"Link-ul pentru schimbarea parolei a fost trimis către adresa dvs. de email"
+
+msgid "E-mail not valid"
+msgstr "Adresa de email nu este validă."
+
+msgid "Promotional code successfully used"
+msgstr "Cod promoțional utilizat cu succes."
+
+msgid "Invalid promotional code"
+msgstr "Cod promoțional invalid."
+
+msgid "Confirm your email."
+msgstr "Confirmați adresa de email."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Contul dvs. este blocat. Vă rugăm să cereți o parolă nouă. "
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Contul dvs. este șters permanent."
+
+msgid "You are Already Logged in."
+msgstr "Sunteți deja autentificat."
+
+msgid "Wrong Password"
+msgstr "Parolă greșită."
+
+msgid "Username or password is incorrect"
+msgstr "Nume utilizator sau parolă incorecte"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Angajatul %s (id: %d) a cerut alimentarea contului dvs."
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Contul utilizatorului %s (ID: %d) a fost creditat cu  %s "
+
+msgid "User %s is credited by %d %s"
+msgstr "Utilizatorul %s este creditat cu %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Angajatul %s (id: %d) a cerut alimentarea contului dvs."
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Contul utilizatorului %s (ID: %d) a fost taxat cu  %s "
+
+msgid "User %s is charged by %d %s"
+msgstr "Utilizatorul %s este taxat cu %d %s"
+
+msgid "KYC Data Accepted"
+msgstr "Date KYC acceptate"
+
+msgid "Email successfully sent"
+msgstr "Email trimis cu succes"
+
+msgid "Cannot send email. Please try again."
+msgstr "Email-ul nu poate fi trimis. Încercați din nou."
+
+msgid "can't find"
+msgstr "nu poate fi găsit"
+
+msgid "Changes saved"
+msgstr "Modificări salvate."
+
+msgid "This cannot be saved."
+msgstr "Nu poate fi salvat."
+
+msgid "Item added"
+msgstr "Element adăugat"
+
+msgid "This cannot be added."
+msgstr "Nu poate fi adăugat."
+
+msgid "Item deleted"
+msgstr "Element șters"
+
+msgid "This cannot be deleted."
+msgstr "Nu poate fi șters."
+
+msgid "Bet added"
+msgstr "Pariu adăugat"
+
+msgid "Error adding bet"
+msgstr "Eroare adăugare pariu"
+
+msgid "Lowest deposit amount is"
+msgstr "Suma minimă pentru o depunere este de"
+
+msgid "Highest deposit amount is"
+msgstr "Suma maximă pentru o depunere este de"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Ați depășit limita pentru depuneri per sumă tranzacție:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Ați depășit limita zilnică pentru depuneri:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Ați depășit limita săptămânală pentru depuneri:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Ați depășit limita lunară pentru depuneri:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Cod bonus expirat sau greșit"
+
+msgid "Bonus code expired"
+msgstr "Cod bonus expirat"
+
+msgid "Your amount is too low for bonus"
+msgstr "Suma dvs. este prea mică pentru bonus"
+
+msgid "Your amount is too high for bonus "
+msgstr "Suma dvs. este prea mare pentru bonus"
+
+msgid "User Terminated"
+msgstr "User terminated"
+
+msgid "Completed"
+msgstr "Complet"
+
+msgid "Pending"
+msgstr "În așteptare"
+
+msgid "Canceled"
+msgstr "Anulat"
+
+msgid "Statuses chart"
+msgstr "Tabel situație conturi"
+
+msgid "Amount chart"
+msgstr "Tabel sume"
+
+msgid "Deposit not found!"
+msgstr "Depunere negăsită!"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Depunere marcată deja ca și \"complet\"\"! \""
+
+msgid "Deposit request set as completed"
+msgstr "Cerere depunere stabilită ca finalizată"
+
+msgid "Deposit request canceled"
+msgstr "Cerere depunere anulată"
+
+msgid "Money transaction completed"
+msgstr "Tranzacție completă"
+
+msgid "Select Event"
+msgstr "Selectați eveniment"
+
+msgid "No search results found"
+msgstr "Nu există rezultate ale căutării"
+
+msgid "Permissions updated"
+msgstr "Permisiuni actualizate"
+
+msgid "Your request is accepted."
+msgstr "Cererea dvs. este acceptată."
+
+msgid "Language already exist"
+msgstr "Limba există deja"
+
+msgid "can't delete item"
+msgstr "Elementul nu poate fi șters"
+
+msgid "Emails successfully sent"
+msgstr "Email trimis cu succes"
+
+msgid "Please enter event result"
+msgstr "Vă rugăm introduceți rezultatul evenimentului"
+
+msgid "Results updated"
+msgstr "Rezultate actualizate"
+
+msgid "Settings saved."
+msgstr "Setări salvate"
+
+msgid "can't save settings."
+msgstr "Setările nu pot fi salvate."
+
+msgid "Types chart"
+msgstr "Tabel tipuri"
+
+msgid "Cannot find ticket with id:"
+msgstr "Biletul cu ID-ul: nu poate fi găsit"
+
+msgid "Ticket is not found"
+msgstr "Biletul nu este găsit"
+
+msgid "Unknown ticket status"
+msgstr "Situație bilet necunoscută"
+
+msgid "Unknown paid status"
+msgstr "Situație plată necunoscută"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Unknown error"
+msgstr "Eroare necunoscută"
+
+msgid "Insufficient credits"
+msgstr "Credite insuficiente"
+
+msgid "Ticket is still pending or lost"
+msgstr "Biletul este în așteptare sau pierdut"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Biletul a fost deja printat. ID bilet: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Biletul nu poate fi găsit. ID bilet: %d "
+
+msgid "Please select another pick from different event"
+msgstr ""
+"Vă rugăm selectați o altă opțiune de pariere dintr-un eveniment diferit"
+
+msgid "Min betting amount is %d"
+msgstr "Suma minimă de pariere este %d"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr ""
+"Nu puteți forma acest tip de bilet, veti trece înapoi la biletul simplu"
+
+msgid "Wrong Password or Username"
+msgstr "Parola sau nume de utilizator greșite"
+
+msgid "Lowest amount for cashout is"
+msgstr "Suma minimă pentru o retragere este de"
+
+msgid "Highest amount for cashout is"
+msgstr "Suma maximă pentru o retragere este de "
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Nu există suficienți bani pentru această retragere"
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Tranzacție de retragere nepermisă. Există o \"sumă blocată\"\" de %s din "
+"cauza regulilor bonusului. Puteți retrage %s \""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Retragerea precedentă nu este completă"
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Nu sunteți verificat (în întregime) pentru a completa această tranzacție. Vă "
+"rugăm completați formularul de la următoarea adresă:"
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Trebuie să retrimiteți documentele pentru verificare. Vă rugăm completați "
+"formularul de la următoarea adresă:"
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Vârsta dvs. nu a fost verificată pentru a completa această tranzacție. Vă "
+"rugăm completați formularul de la următoarea adresă:"
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"Retragerea dvs. pentru %s este acceptată. Vă rugăm introduceți detaliile "
+"dvs. bancare la următorul link <a href='/users/account'>Informații cont</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Retragerea dvs. pentru %s este acceptată."
+
+msgid "Bank information updated."
+msgstr "Informații bancare actualizate."
+
+msgid "Withdraw request set as completed"
+msgstr "Cererea de retragere înregistrată ca și completă "
+
+msgid "Withdraw request updated"
+msgstr "Cerere de retragere actualizată"
+
+msgid "Withdraw request canceled"
+msgstr "Cerere de retragere anulată"
+
+msgid "Win"
+msgstr "Câștigat"
+
+msgid "Lost"
+msgstr "Pierdut"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "View"
+msgstr "Vizualizați"
+
+msgid "Edit"
+msgstr "Editați"
+
+msgid "Delete"
+msgstr "Ștergeți"
+
+msgid "List"
+msgstr "Listați"
+
+msgid "Create"
+msgstr "Creați"
+
+msgid "All"
+msgstr "Tot"
+
+msgid "Users"
+msgstr "Utilizatori"
+
+msgid "Complete"
+msgstr "Complet"
+
+msgid "Cancel"
+msgstr "Anulați"
+
+msgid "Amount from"
+msgstr "Suma din"
+
+msgid "Amount to"
+msgstr "Suma către"
+
+msgid "Transaction ID"
+msgstr "ID tranzacție"
+
+msgid "Event name"
+msgstr "Nume eveniment"
+
+msgid "Download"
+msgstr "Descărcați"
+
+msgid "Language"
+msgstr "Limbă"
+
+msgid "League name"
+msgstr "Nume ligă"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "View events"
+msgstr "Vizualizați evenimente"
+
+msgid "Add Event"
+msgstr "Adăugați evenimente"
+
+msgid "Send Mail"
+msgstr "Trimiteți email"
+
+msgid "Send to All"
+msgstr "Trimiteți către toate contactele"
+
+msgid "Header 2 menu"
+msgstr "Meniu header 2"
+
+msgid "Header 3 menu"
+msgstr "Meniu header 3"
+
+msgid "Bottom 4 menu"
+msgstr "Meniu bottom 4"
+
+msgid "Footer menu"
+msgstr "Meniu footer"
+
+msgid "Header menu"
+msgstr "Meniu header"
+
+msgid "Top Header menu"
+msgstr "Meniu top header"
+
+msgid "Top menu"
+msgstr "Meniu top"
+
+msgid "Tickets"
+msgstr "Bilete"
+
+msgid "Deposits"
+msgstr "Depuneri"
+
+msgid "Withdraws"
+msgstr "Retrageri"
+
+msgid "Results"
+msgstr "Rezultate"
+
+msgid "Finished events in tickets"
+msgstr "Evenimente terminate în bilete"
+
+msgid "Pending events in tickets"
+msgstr "Evenimente în așteptare în bilete"
+
+msgid "All finished events"
+msgstr "Toate evenimentele terminate"
+
+msgid "Warnings"
+msgstr "Avertismente"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Identity number"
+msgstr "Număr de identitate"
+
+msgid "Words in title"
+msgstr "Cuvinte în titlu"
+
+msgid "Words in description"
+msgstr "Cuvinte în descriere"
+
+msgid "Url link"
+msgstr "Url link"
+
+msgid "Add League"
+msgstr "Adăugași liga"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Fund staff"
+msgstr "Creditați angajat"
+
+msgid "Charge staff"
+msgstr "Taxați angajat"
+
+msgid "Login/Logout"
+msgstr "Autentificare/Deconectare"
+
+msgid "Ticket Fraud Check"
+msgstr "Bilet verificare fraudă"
+
+msgid "Mark as paid"
+msgstr "Marcat ca plătit"
+
+msgid "Group ID"
+msgstr "ID grup"
+
+msgid "Tickets created"
+msgstr "Bilete create"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total payout"
+msgstr "Total plăți"
+
+msgid "Profit"
+msgstr "Profit"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "1Cea mai mică miză pentru %s este %d "
+
+msgid "Highest stake on %s is %d"
+msgstr "Cea mai mare miză pentru %s este %d "
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2Cea mai mică miză pentru %s este %d "
+
+msgid "3Lowest stake amount is %d"
+msgstr "3Cea mai mică valoare a mizei este %d "
+
+msgid "Highest stake amount is %d"
+msgstr "Cea mai mare valoare a mizei este %d "
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Ați atins limita de pariere per sumă tranzacție: %d %s "
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Ați atins limita zilnică de pariere: %d %s "
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Ați atins limita săptămânală de pariere: %d %s "
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Ați atins limita lunară de pariere: %d %s "
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Ați atins limita de pierderi per sumă tranzacție: %d %s "
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Ați atins limita zilnică de pierderi: %d %s "
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Ați atins limita săptămânală de pierderi: %d %s "
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Ați atins limita lunară de pierderi: %d %s "
+
+msgid "Please login"
+msgstr "Vă rugăm să vă autentificați"
+
+msgid "Please select at least %d picks"
+msgstr "Vă rugăm selectați cel puțin %d opțiuni"
+
+msgid "Not enough money"
+msgstr "Nu există suficienți bani"
+
+msgid "One or more events already started, please remove them"
+msgstr "Unul sau mai multe evenimente au început deja, vă rugăm să le ştergeţi"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Cotă neactualizată. Vă rugăm ştergeţi această cotă"
+
+msgid "One or mode bets are inactive"
+msgstr "Unul sau mai multe pariuri sunt inactive"
+
+msgid "Printed"
+msgstr "Printat"
+
+msgid "User Id"
+msgstr "ID utilizator"
+
+msgid "Amount From"
+msgstr "Suma din"
+
+msgid "Amount To"
+msgstr "Suma către"
+
+msgid "Potential Winning From"
+msgstr "Câştiguri potenţiale din"
+
+msgid "Potential Winning To"
+msgstr "Câştiguri potenţiale către"
+
+msgid "Odd From"
+msgstr "Cota din"
+
+msgid "Odd To"
+msgstr "Cota către"
+
+msgid "Fund"
+msgstr "Alimentaţi"
+
+msgid "Charge"
+msgstr "Încasaţi"
+
+msgid "User ID"
+msgstr "ID utilizator"
+
+msgid "Back"
+msgstr "Înapoi"
+
+msgid "All feeds updated"
+msgstr "Toate feedurile actualizate"
+
+msgid "All feeds downloaded"
+msgstr "Toate feedurile descărcate"
+
+msgid "All feeds parsed"
+msgstr "Toate feedurile parsate"
+
+msgid "Feed updated"
+msgstr "Feed actualizat"
+
+msgid "Cannot find feed"
+msgstr "Feedul nu poate fi găsit"
+
+msgid "Cant find feed"
+msgstr "Feedul nu poate fi găsit"
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Update All"
+msgstr "Actualizaţi tot"
+
+msgid "Deposit"
+msgstr "Depunere"
+
+msgid "Thank You"
+msgstr "Mulţumim"
+
+msgid "You successfully deposit %d"
+msgstr "Aţi depus cu succes %d"
+
+msgid "You cancel your deposit"
+msgstr "Anulaţi depozitul dvs."
+
+msgid "You have successfully made deposit for"
+msgstr "Aţi depus cu succes"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Ne pare rău, nu putem găsi plata dvs."
+
+msgid "Make Deposit"
+msgstr "Efectuaţi o depunere"
+
+msgid "Amount"
+msgstr "Suma"
+
+msgid "Make your Deposit"
+msgstr "Efectuaţi o depunere"
+
+msgid "Bonus code or leave empty"
+msgstr "Cod bonus sau lăsaţi liber"
+
+msgid "Available ACO sync commands:"
+msgstr "Available ACO sync commands: "
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>' "
+
+msgid "Deleted %s and all children"
+msgstr "Deleted %s and all children "
+
+msgid "Aco Update Complete"
+msgstr "Aco Update Complete "
+
+msgid "Created Aco node: %s"
+msgstr "Created Aco node: %s "
+
+msgid "Deleted Aco node %s"
+msgstr "Deleted Aco node %s "
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Usage: cake aco_sync <command> "
+
+msgid "Commands:"
+msgstr "Commands: "
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Add new ACOs for new controllers and actions "
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table "
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table. "
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Displays this help message, or a message on a specific command. "
+
+msgid "Command '%s' not found"
+msgstr "Command '%s' not found "
+
+msgid "day"
+msgstr "zi"
+
+msgid "days"
+msgstr "zile"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "Successful"
+msgstr "Cu succes"
+
+msgid "Failed"
+msgstr "Fără succes"
+
+msgid "Unknown"
+msgstr "Necunoscut"
+
+msgid "Decimal"
+msgstr "Zecimal"
+
+msgid "Fractional"
+msgstr "Fracționar"
+
+msgid "American"
+msgstr "American"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "more"
+msgstr "mai mult"
+
+msgid "Event"
+msgstr "Eveniment"
+
+msgid "Pick"
+msgstr "Alegeţi"
+
+msgid "odd"
+msgstr "cotă"
+
+msgid "Result"
+msgstr "Rezultat"
+
+msgid "Outcome"
+msgstr "Rezultat"
+
+msgid "Status"
+msgstr "Situaţie"
+
+msgid "Username"
+msgstr "Nume utilizator"
+
+msgid "Forgot your password?"
+msgstr "Aţi uitat parola?"
+
+msgid "Login"
+msgstr "Autentificare"
+
+msgid "Affiliate Registration Form"
+msgstr "Formular înregistrare afiliat"
+
+msgid "Personal information"
+msgstr "Informaţii personale"
+
+msgid "First name"
+msgstr "Prenume"
+
+msgid "Last name"
+msgstr "Nume de familie"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Region"
+msgstr "Judeţ"
+
+msgid "Zip / Postal code"
+msgstr "Cod poştal"
+
+msgid "City"
+msgstr "Oraş"
+
+msgid "Country"
+msgstr "Ţara"
+
+msgid "Date of birth:"
+msgstr "Data naşterii:"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Mobile number"
+msgstr "Număr telefon mobil"
+
+msgid "Website name"
+msgstr "Nume website"
+
+msgid "Send"
+msgstr "Trimiteţi"
+
+msgid "Choose Payment Gateway"
+msgstr "Alegeţi metoda de plată"
+
+msgid "Bank Transfer Payment"
+msgstr "Plata prin transfer bancar"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Plata online"
+
+msgid "Please see you latest deposits below:"
+msgstr "Vă rugăm găsiţi ultimele depuneri mai jos:"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr ""
+"Nu există istoric al depunerilor. Pentru a efectua o depunere nouă vă rugăm "
+"selectaţi \"Efectuare depunere nouă\"\". \""
+
+msgid "Deposit information:"
+msgstr "Informaţii depunere:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Cerere depunere manuală (creditată după verificare)"
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Pagina: {:page} din {:pages}, ce arată {:current} înregistrări din totalul "
+"de {:count}, începând cu înregistrarea {:start}, terminând cu {:end} "
+
+msgid "previous"
+msgstr "precedent"
+
+msgid "next"
+msgstr "următorul"
+
+msgid "Show"
+msgstr "Arătaţi"
+
+msgid "User"
+msgstr "Utilizator"
+
+msgid "Deposit type"
+msgstr "Tip depunere"
+
+msgid "Bonus type"
+msgstr "Tip bonus"
+
+msgid "Bonus valid until"
+msgstr "Bonus valabil până la"
+
+msgid "Bonus used"
+msgstr "Bonus utilizat"
+
+msgid "Bonus amount to your account"
+msgstr "Suma bonus către contul dvs."
+
+msgid "League"
+msgstr "Liga"
+
+msgid "No available odds found for this event"
+msgstr "Nu există cote pentru acest eveniment"
+
+msgid "First team to Score"
+msgstr "Prima echipă să înscrie"
+
+msgid "1st Half"
+msgstr "Repriza 1"
+
+msgid "Both Team to Score"
+msgstr "Ambele echipe să înscrie"
+
+msgid "Halftime/Fulltime"
+msgstr "Pauză/Final"
+
+msgid "Double Chance"
+msgstr "Şansă dublă"
+
+msgid "From:"
+msgstr "De la:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Odds"
+msgstr "Cote"
+
+msgid "Reset Password"
+msgstr "Reseta parola"
+
+msgid "Register"
+msgstr "Înregistraţi"
+
+msgid "User Menu"
+msgstr "Meniu utilizator"
+
+msgid "My Account"
+msgstr "Contul meu"
+
+msgid "Balance"
+msgstr "Sold"
+
+msgid "Log out"
+msgstr "Ieşire din cont"
+
+msgid "Casino"
+msgstr "Cazinou"
+
+msgid "Live Casino"
+msgstr "Cazinou live"
+
+msgid "Betting Tools"
+msgstr "Unelte de pariere"
+
+msgid "Register now and get"
+msgstr "Înregistraţi-vă acum şi obţineţi"
+
+msgid "email"
+msgstr "email"
+
+msgid "Register now"
+msgstr "Înregistraţi-vă acum"
+
+msgid "Registration"
+msgstr "Înregistrare"
+
+msgid "Password reminder"
+msgstr "Memento parolă"
+
+msgid "Search Ticket"
+msgstr "Căutaţi bilet"
+
+msgid "ID: "
+msgstr "ID:"
+
+msgid "Enter ticket ID"
+msgstr "Introduceţi ID bilet"
+
+msgid "Search"
+msgstr "Căutaţi"
+
+msgid "Ticket"
+msgstr "Bilet"
+
+msgid "Unknown ticked ID"
+msgstr "ID bilet necunoscut"
+
+msgid "Money"
+msgstr "Bani"
+
+msgid "Pay"
+msgstr "Plătiţi"
+
+msgid "Find event"
+msgstr "Căutaţi eveniment"
+
+msgid "Search by event name"
+msgstr "Căutaţi după nume eveniment"
+
+msgid "Search by event ID"
+msgstr "Căutaţi după ID eveniment"
+
+msgid "Search results for:"
+msgstr "Căutaţi rezultate pentru:"
+
+msgid "No available events are found for this league"
+msgstr "Nu există evenimente pentru această ligă"
+
+msgid "Search Events"
+msgstr "Căutaţi evenimente"
+
+msgid "Search another event ID"
+msgstr "Căutaţi un alt ID eveniment"
+
+msgid "Search another event name"
+msgstr "Căutaţi un alt nume de eveniment"
+
+msgid "Please complete the following form"
+msgstr "Vă rugăm completaţi următorul forumular"
+
+msgid "Confirm changes"
+msgstr "Confirmaţi modificări"
+
+msgid "Activity Column"
+msgstr "Coloană activitate"
+
+msgid "Current balance"
+msgstr "Sold curent"
+
+msgid "Today placed tickets"
+msgstr "Bilete efectuate astăzi"
+
+msgid "Contact us"
+msgstr "Contactaţi-ne"
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Dacă aveți orice întrebare, vă rugăm nu ezitați să contactați serviciul "
+"clienți prin formularul de mai jos:"
+
+msgid "Subject"
+msgstr "Subiect"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "News"
+msgstr "Ştiri"
+
+msgid "Read more"
+msgstr "Citiţi mai mult"
+
+msgid "Soccer"
+msgstr "Fotbal"
+
+msgid "Basketball"
+msgstr "Baschet"
+
+msgid "Ice Hockey"
+msgstr "Hochei pe gheaţă"
+
+msgid "Tennis"
+msgstr "Tenis"
+
+msgid "Rugby"
+msgstr "Rugby"
+
+msgid "Half Time 3 way"
+msgstr "Pauză 1X2"
+
+msgid "Top Games"
+msgstr "Top jocuri"
+
+msgid "IceHockey"
+msgstr "Hochei pe gheaţă"
+
+msgid "Handball"
+msgstr "Handbal"
+
+msgid "Last Minute Bets"
+msgstr "Pariuri ultimul minut"
+
+msgid "Shortly"
+msgstr "Shortly"
+
+msgid "%d events available"
+msgstr "%d evenimente disponibile"
+
+msgid "Bet now"
+msgstr "Pariaţi acum"
+
+msgid "Football"
+msgstr "Fotbal"
+
+msgid "Draw"
+msgstr "Egal"
+
+msgid "League not found"
+msgstr "Liga nu a fost găsită"
+
+msgid "No available events found for this league"
+msgstr "Nu există evenimente pentru această ligă"
+
+msgid "Last Minute"
+msgstr "Ultimul minut"
+
+msgid "No leagues selected"
+msgstr "Nu există ligi selectate"
+
+msgid "Single"
+msgstr "Simplu"
+
+msgid "Combi"
+msgstr "Multiplu"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Delete all bets"
+msgstr "Ştergeţi toate pariurile"
+
+msgid "Total odds"
+msgstr "Total cote"
+
+msgid "Stake"
+msgstr "Miza"
+
+msgid "Winning"
+msgstr "Câştig"
+
+msgid "Preview"
+msgstr "Vizualizare"
+
+msgid "Place Bet"
+msgstr "Plasaţi pariu"
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Nu aţi selectat niciun pariu. <br>Click pe cota respectivă pentru a selecta "
+"pariuri."
+
+msgid "Ticket History"
+msgstr "Istoric pariuri"
+
+msgid "Ticket ID:"
+msgstr "Bilet ID:"
+
+msgid "Print"
+msgstr "Printaţi"
+
+msgid "No tickets activity available"
+msgstr "Nu există activitate "
+
+msgid "Date and time"
+msgstr "Data şi ora"
+
+msgid "Ticket id"
+msgstr "ID bilet"
+
+msgid "ID / Date"
+msgstr "ID / Data"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Amount:"
+msgstr "Suma:"
+
+msgid "Return:"
+msgstr "Rezultat financiar:"
+
+msgid "Please see your betting history below:"
+msgstr "Vă rugăm găsiți istoricul pariurilor dvs. mai jos:"
+
+msgid "Ticket ID"
+msgstr "ID bilet"
+
+msgid "Note"
+msgstr "Notă"
+
+msgid "To place ticket please use betslip."
+msgstr "Pentru a plasa un bilet vă rugăm să folosiți biletul de pariuri."
+
+msgid "Pending tickets"
+msgstr "Bilete în aşteptare"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Vă rugăm să găsiți ultimele bilete jucate mai jos:"
+
+msgid "Paid"
+msgstr "Plătit"
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Nu există bilete în aşteptare. Pentru bilete anterioare vă rugăm verificaţi "
+"istoric pariuri."
+
+msgid "History"
+msgstr "Istoric"
+
+msgid "Ticket Preview"
+msgstr "Vizualizare bilet"
+
+msgid "Event ID / Date"
+msgstr "ID eveniment / Data"
+
+msgid "Sport / League"
+msgstr "Sport / Liga"
+
+msgid "Submit Ticket"
+msgstr "Trimiteţi bilet"
+
+msgid "Clear Ticket"
+msgstr "Ştergeţi bilet"
+
+msgid "No bets selected"
+msgstr "Nu au fost selectate pariuri"
+
+msgid "Ticket placed"
+msgstr "Bilet efectuat"
+
+msgid "Your ticket is created successfully"
+msgstr "Biletul dvs. a fost creat cu succes"
+
+msgid "Your ticket number is"
+msgstr "Numărul biletului dvs. este"
+
+msgid "Ticket information"
+msgstr "Informaţii bilet"
+
+msgid "Login/Logout History"
+msgstr "Istoric autentificare/deconectare"
+
+msgid "User Login/Logout History:"
+msgstr "Istoric utilizator autentificare/deconectare"
+
+msgid "Action"
+msgstr "Acţiune"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "Vă rugăm setați opțiuni pentru o vizualizare mai bună."
+
+msgid "Odds type"
+msgstr "Tip cote"
+
+msgid "Time zone"
+msgstr "Fus orar"
+
+msgid "Change Password"
+msgstr "Schimbaţi parola"
+
+msgid "Account information"
+msgstr "Informaţii cont"
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Vă rugăm să oferiți cât mai multe informații personale pentru a confirma "
+"identitatea dvs. Conform legii, accesul dvs. la unele produse, oferte și "
+"reduceri de comisioane poate fi restricționat până în momentul în care vă "
+"confirmați identitatea. Puteți trimite documente personale folosind website-"
+"ul nostru securizat."
+
+msgid "Date of birth"
+msgstr "Data naşterii"
+
+msgid "Bank name"
+msgstr "Nume bancă"
+
+msgid "Bank code"
+msgstr "Cod bancă"
+
+msgid "Bank account number"
+msgstr "Număr cont bancar"
+
+msgid "Ref. Code"
+msgstr "Cod referinţă"
+
+msgid "Balance Information Analysis"
+msgstr "Analiză informaţii sold"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Aici puteţi găsi toate informaţiile cu privire la soldul dvs. curent."
+
+msgid "Promotional Code"
+msgstr "Cod promoţional"
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr ""
+"Vă rugăm adăugaţi codul promoţional mai jos pentru a obţine bani sau alte "
+"beneficii."
+
+msgid "Code"
+msgstr "Cod"
+
+msgid "Submit bonus code"
+msgstr "Trimiteţi cod bonus"
+
+msgid "Confirmation"
+msgstr "Confirmare"
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"Emailul a fost confirmat. Veţi fi redirecţionat către pagina principală în 5 "
+"secunde. </ br>Dacă nu sunteţi redirecţionat în timpul menţionat accesaţi "
+"următorul  <a href=\"/\"\">link</a> \""
+
+msgid "Incorect confirmation code"
+msgstr "Cod confirmare incorect"
+
+msgid "Responsible Gaming Settings"
+msgstr "Setări Joc Responsabil"
+
+msgid "Responsible gaming text"
+msgstr "Text joc responsabil"
+
+msgid "Add Limit"
+msgstr "Adăugaţi limită"
+
+msgid "Set the limit you can play for each session"
+msgstr "Setaţi limita pentru care puteţi juca în fiecare sesiune"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr ""
+"Nu îmi permiteţi să accesez contul meu de pariuri pentru următoarele 7 zile"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr ""
+"Nu îmi permiteţi să accesez contul meu de pariuri pentru următoarele 6 luni"
+
+msgid "Block Account"
+msgstr "Blocaţi contul"
+
+msgid "Permanently delete your account."
+msgstr "Ştergeţi contul dvs. permanent."
+
+msgid "Delete My Account"
+msgstr "Ştergeţi contul meu."
+
+msgid "Open account with us!"
+msgstr "Deschideţi un cont cu noi!"
+
+msgid "Account data"
+msgstr "Date cont"
+
+msgid "Confirm password"
+msgstr "Confirmaţi parola"
+
+msgid "Personal question"
+msgstr "Întrebare personală"
+
+msgid "Personal answer"
+msgstr "Răspuns personal"
+
+msgid "Referral ID"
+msgstr "ID referinţă"
+
+msgid "Affiliate ID"
+msgstr "ID afiliat"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Date bancare (această secţiune poate fi completată mai târziu)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Am peste 18 ani și am citit și sunt de acord cu "
+
+msgid "Terms And Conditions"
+msgstr "Termeni şi condiţii"
+
+msgid "Confirm registration"
+msgstr "Confirmaţi înregistrarea"
+
+msgid "Password Reset"
+msgstr "Cereţi o parolă nouă"
+
+msgid "Enter your new password"
+msgstr "Introduceţi noua parolă"
+
+msgid "Change password"
+msgstr "Schimbaţi parola"
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Vă rugăm introduceți adresa de email mai jos. Link-ul pentru resetarea "
+"parolei este trimis către adresa de email introdusă. Veți putea crea o nouă "
+"parolă ce o puteți folosi pentru a vă autentifica."
+
+msgid "Withdraw"
+msgstr "Retragere"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr ""
+"Pentru a retrage bani vă rugăm să introduceți suma și să procesați "
+"retragerea mai jos. "
+
+msgid "Withdraw ID"
+msgstr "ID retragere"
+
+msgid "Request Manual Withdraw"
+msgstr "Cerere retragere manuală"
+
+msgid "Transaction Log"
+msgstr "Istoric tranzacţii"
+
+msgid "List of transactions:"
+msgstr "Listă tranzacţii:"
+
+msgid "Transaction Type"
+msgstr "Tip tranzacţie"
+
+msgid "Add/Edit %s"
+msgstr "Adăugaţi/Editaţi %d"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Value"
+msgstr "Valoare"
+
+msgid "Parent"
+msgstr "Părinte"
+
+msgid "Created"
+msgstr "Creat"
+
+msgid "Modified"
+msgstr "Modificat"
+
+msgid "Percentage"
+msgstr "Procent"
+
+msgid "Custom Affiliate ID"
+msgstr "ID afiliat custom"
+
+msgid "Submit"
+msgstr "Trimiteţi"
+
+msgid "List %s"
+msgstr "Listaţi %d"
+
+msgid "File"
+msgstr "Dosar"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Alert ID"
+msgstr "ID alertă"
+
+msgid "User id"
+msgstr "ID utilizator"
+
+msgid "Alert Title"
+msgstr "Titlu alertă"
+
+msgid "Alert"
+msgstr "Alertă"
+
+msgid "Add bet"
+msgstr "Adăugaţi pariu"
+
+msgid "Alerts"
+msgstr "Alerte"
+
+msgid "Admin Audit Trail"
+msgstr "Admin Audit Trail "
+
+msgid "Application File Backups"
+msgstr "Application File Backups "
+
+msgid "Database Backups"
+msgstr "Database Backups "
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar Feeds Log "
+
+msgid "Liability Dumps"
+msgstr "Liability Dumps "
+
+msgid "Data list"
+msgstr "Listă date"
+
+msgid "Actions"
+msgstr "Acţiuni"
+
+msgid "Translations"
+msgstr "Traduceri"
+
+msgid "Translate"
+msgstr "Traduceţi"
+
+msgid "No records found"
+msgstr "Nu există înregistrări"
+
+msgid "Sports and Leagues"
+msgstr "Sporturi şi ligi"
+
+msgid "Events management"
+msgstr "Management evenimente"
+
+msgid "Events Printing"
+msgstr "Printare evenimente"
+
+msgid "Users report"
+msgstr "Raport utilizatori"
+
+msgid "Tickets report"
+msgstr "Raport bilete"
+
+msgid "Deposits report"
+msgstr "Raport depuneri"
+
+msgid "Witdraw report"
+msgstr "Raport retrageri"
+
+msgid "Liability report"
+msgstr "Raport "
+
+msgid "Active Users"
+msgstr "Utilizatori activi"
+
+msgid "locale"
+msgstr "locale"
+
+msgid "Create %s"
+msgstr "Creaţi %d"
+
+msgid "Event ID"
+msgstr "ID eveniment"
+
+msgid "User:"
+msgstr "Utilizator:"
+
+msgid "Level:"
+msgstr "Nivel:"
+
+msgid "Current Time:"
+msgstr "Ora curentă:"
+
+msgid "Current Language:"
+msgstr "Limba curentă:"
+
+msgid "Front Page"
+msgstr "Pagina principală"
+
+msgid "Under / Over"
+msgstr "Sub / Peste"
+
+msgid "Handicap"
+msgstr "Handicap"
+
+msgid "%s Printing"
+msgstr "Printare %D"
+
+msgid "Available Events List For:"
+msgstr "Listă evenimente disponibilă pentru:"
+
+msgid "Unknown Sport"
+msgstr "Sport necunoscut"
+
+msgid "Please select sport below:"
+msgstr "Vă rugăm selectaţi sportul de mai jos:"
+
+msgid "View Events"
+msgstr "Vizualizaţi evenimente"
+
+msgid "No available events found for this sport"
+msgstr "Nu există evenimente disponibile pentru acest sport"
+
+msgid "Can not find event"
+msgstr "Evenimentul nu poate fi găsit"
+
+msgid "Edit %s"
+msgstr "Editaţi %d"
+
+msgid "Save"
+msgstr "Salvaţi"
+
+msgid "Users %s"
+msgstr "Utilizatori %d"
+
+msgid "Edit User"
+msgstr "Editaţi utilizator"
+
+msgid "Administration Panel"
+msgstr "Panou administrare"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+msgid "Staff Login"
+msgstr "Autentificare angajaţi"
+
+msgid "Events"
+msgstr "Evenimente"
+
+msgid "Available cultures"
+msgstr "Culturi disponibile"
+
+msgid "Add a culture"
+msgstr "Adăugaţi o cultură"
+
+msgid "Add"
+msgstr "Adăugaţi"
+
+msgid "Cultures this site supports"
+msgstr "Culturi suportate pe acest site"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "Sunteţi sigur că doriţi să ştergeţi"
+
+msgid "ID"
+msgstr "ID"
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Scrieţi un mesaj promoţional tuturor utilizatorilor. Mesajele vor ajunge în "
+"căsuţele de email ale utilizatorilor."
+
+msgid "Subject:"
+msgstr "Subiect:"
+
+msgid "Content:"
+msgstr "Conţinut:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Descărcaţi toate e-mailurile (document csv)"
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Scrieţi un mesaj promoţional unui anumit utilizator. Mesajul va ajunge în "
+"căsuţa de email a utilizatorului."
+
+msgid "To:"
+msgstr "Către:"
+
+msgid "Contact support team"
+msgstr "Contactaţi echipa suport"
+
+msgid "<br>No data in this period"
+msgstr "<br>Nu există date în această perioadă"
+
+msgid "No data in this period"
+msgstr "Nu există date în această perioadă"
+
+msgid "User name"
+msgstr "Nume utilizator"
+
+msgid "Date of registration"
+msgstr "Data înregistrării"
+
+msgid "Won"
+msgstr "Câştigat"
+
+msgid "Liability"
+msgstr "Liability"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability Cancelled the Bonus "
+
+msgid "Download (Excel file)"
+msgstr "Descărcaţi (document excel)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Sunteţi sigur că doriţi să anulaţi acest eveniment?"
+
+msgid "No events found"
+msgstr "Nu au fost găsite evenimente"
+
+msgid "No events in this league"
+msgstr "Nu există evenimente în această ligă"
+
+msgid "Risk Management Settings"
+msgstr "Setări managementul riscului"
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"Managementul riscului este crucial pentru o casă de pariuri. Vă rugăm să "
+"fiți atent atunci când setați toate opțiunile."
+
+msgid "Lowest stake"
+msgstr "Cea mai mică miză"
+
+msgid "Highest stake"
+msgstr "Cea mai mare miză"
+
+msgid "Highest winning amount"
+msgstr "Cel mai mare câştig"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Cel mai mic număr de evenimente pe un bilet"
+
+msgid "Highest number of events in one ticket"
+msgstr "Cel mai mare număr de evenimente pe un bilet"
+
+msgid "List Leagues"
+msgstr "Listaţi ligi"
+
+msgid "League ID"
+msgstr "ID ligă"
+
+msgid "No limits"
+msgstr "Nu există limite"
+
+msgid "List Sports"
+msgstr "Listaţi sporturi"
+
+msgid "Sport ID"
+msgstr "ID sport"
+
+msgid "Warning Withdraws"
+msgstr "Atenționare retrageri"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Warning Stakes"
+msgstr "Atenționare mize"
+
+msgid "Warning Winnings"
+msgstr "Atenționare câștiguri"
+
+msgid "Warning Deposits"
+msgstr "Atenționare depozite"
+
+msgid "amount"
+msgstr "suma"
+
+msgid "Deposit fee percentage"
+msgstr "Procent comision depuneri"
+
+msgid "Payment gateways"
+msgstr "Platforme de plată"
+
+msgid "Please set payment gateways below:"
+msgstr "Vă rugăm setaţi platformele de plată mai jos:"
+
+msgid "Payments"
+msgstr "Plăţi"
+
+msgid "Deposits %s"
+msgstr "Depuneri %d"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Vă rugăm efectuaţi setările riscului managementului mai jos:"
+
+msgid "Allow automated deposits"
+msgstr "Permiteţi depuneri automate"
+
+msgid "Allow manual deposits"
+msgstr "Permiteţi depuneri manuale"
+
+msgid "Lowest amount for deposit"
+msgstr "Cea mai mică sumă pentru depuneri"
+
+msgid "Highest amount for deposit"
+msgstr "Cea mai mare sumă pentru depuneri"
+
+msgid "General %s"
+msgstr "General %s"
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Setările generale controlează configuraţia de bază pentru siteul dvs: titlul "
+"siteului şi locaţia, cine poate înregistra un cont şi cum sunt calculate şi "
+"afişate datele şi orele. "
+
+msgid "Copyright"
+msgstr "Drepturi de autor"
+
+msgid "Contact Email"
+msgstr "Email contact"
+
+msgid "Password reset"
+msgstr "Schimbare parolă"
+
+msgid "Default currency"
+msgstr "Moneda presetată"
+
+msgid "Default timezone:"
+msgstr "Ora presetată:"
+
+msgid "Default language"
+msgstr "Limba presetată"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Items per page"
+msgstr "Elemente pe pagină"
+
+msgid "Referral system"
+msgstr "Sistem de recomandare"
+
+msgid "Left active"
+msgstr "Stânga activ"
+
+msgid "Left sidebar title"
+msgstr "Titlu bara din stânga"
+
+msgid "Left sidebar content"
+msgstr "Conținut bara din stânga"
+
+msgid "Right active"
+msgstr "Dreapta activ"
+
+msgid "Right sidebar title"
+msgstr "Titlu bara din dreapta"
+
+msgid "Right sidebar content"
+msgstr "Conținut bara din dreapta"
+
+msgid "Bottom active"
+msgstr "Partea de jos activă"
+
+msgid "Bottom sidebar title"
+msgstr "Titlu bara de jos"
+
+msgid "Bottom sidebar content"
+msgstr "Conținut bara de jos"
+
+msgid "Referral Settings"
+msgstr "Setări recomandare"
+
+msgid "First deposit percentage to referral"
+msgstr "Procent primul depozit către recomandat"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Ce este <b>SEO</b> / Search Engine Optimization? "
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"SEO sau \"search engine optimization.\"\" Este procesul prin care se obţine "
+"trafic din listările \"\"gratuite,\"\" \"\"organice,\"\" \"\"editoriale\"\" "
+"sau \"\"naturale\"\" din motoarele de căutare. Toate motoarele de căutare "
+"mari precum Google, Yahoo şi Bing au astfel de rezultate, unde paginile web "
+"sau alt tip de conţinut precum clipuri video sau listări locale sunt arătate "
+"şi clasate în funcţie de ce consideră motorul de căutare că e mai relevant "
+"pentru utilizatori. Nu există plată, precum în cazul reclamelor plătite din "
+"motoarele de căutare.\""
+
+msgid "Title tag"
+msgstr "Tag titlu"
+
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+msgid "Reply to email"
+msgstr "Răspundeți la email"
+
+msgid "Copyright:"
+msgstr "Drepturi de autor:"
+
+msgid "Bot content revisit time"
+msgstr "Timp revizuire conținut bot"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Tickets %s"
+msgstr "Bilete %s"
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Biletul general controlează configuraţiile de bază pentru biletele de "
+"pariuri şi funcţiile de printare."
+
+msgid "Ticket printing"
+msgstr "Printare bilet"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Activaţi (da) sau dezactivaţi (nu) printarea biletului pentru utilizatori şi "
+"angajaţi."
+
+msgid "Ticket preview"
+msgstr "Vizualizare bilet"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Activaţi (da) sau dezactivaţi (nu) vizualizarea biletului înainte să fie "
+"plasat."
+
+msgid "Warnings %s"
+msgstr "Atenţionări %s"
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Setările pentru avertismente vă ajută să filtraţi avertismentele ce apar "
+"fără a include alertele ce nu sunt necesare. Vă rugăm consideraţi ce este "
+"crucial pentru casa dvs. de pariuri şi folosiţi această funcţie pentru a "
+"securiza profitul dvs."
+
+msgid "Deposit alert"
+msgstr "Alertă depunere"
+
+msgid "Withdraw alert"
+msgstr "Alertă retragere"
+
+msgid "Stake alert"
+msgstr "Alertă miză"
+
+msgid "Odds alert"
+msgstr "Alertă cote"
+
+msgid "Potential winning alert"
+msgstr "Alertă câştig potenţial"
+
+msgid "Allow withdraws"
+msgstr "Permiteţi retrageri"
+
+msgid "Withdraw %s"
+msgstr "Retragere %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr ""
+"Vă rugăm stabiliţi setările riscului managementului pentru retragere aici:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Cea mai mică valoare pentru o retragere este de"
+
+msgid "Highest amount for withdraw request"
+msgstr "Cea mai mare valoare pentru o retragere este de"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "Sporturi"
+
+msgid "Leagues"
+msgstr "Ligi"
+
+msgid "View %s"
+msgstr "Vizualizaţi %s"
+
+msgid "Ticket Number"
+msgstr "Număr bilet"
+
+msgid "Return"
+msgstr "Rezultat financiar:"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Biletul va fi șters. Sunteți sigur că doriți să îl ștergeți?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Biletul va fi anulat. Sunteți sigur că doriți să îl anulați?"
+
+msgid "Insert Result"
+msgstr "Adăugați rezultat"
+
+msgid "Fund user"
+msgstr "Alimentare utilizator"
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Pentru a alimenta contul introduceți suma în câmpul corespunzător și apăsați "
+"trimiteți. De exemplu, dacă doriți să alimentați un cont, introduceți 100 "
+"dolari"
+
+msgid " just enter that amount into field and press submit"
+msgstr " și apăsați trimiteți."
+
+msgid "Charge user"
+msgstr "Încasare utilizator"
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Pentru a încasa introduceți suma iar banii vor fi deduși din contul "
+"utilizatorului. De exemplu, dacă doriți să încasați 200"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "USD introduceți suma în câmpul corespunzător și apăsați trimiteți"
+
+msgid "Add %s"
+msgstr "Adăugaţi %s"
+
+msgid "Registration chart"
+msgstr "Grafic înregistrare"
+
+msgid "KYC user"
+msgstr "KYC utilizator"
+
+msgid "KYC Documents"
+msgstr "Documente KYC"
+
+msgid "Change KYC Status"
+msgstr "Schimbaţi situaţia KYC"
+
+msgid "Deposits Bonus History"
+msgstr "Istoric bonusuri la depunere"
+
+msgid "Sum"
+msgstr "Sumă"
+
+msgid "Affiliates"
+msgstr "Afiliaţi"
+
+msgid "Kick"
+msgstr "Forţaţi deconectarea"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "Emailul a fost confirmat. Vă puteţi autentifica în cont acum."
+
+msgid "Register now!"
+msgstr "Înregistrați-vă acum!"
+
+msgid "Forgotten your password?"
+msgstr "Ați uitat parola?"
+
+msgid "Old password"
+msgstr "Parola veche"
+
+msgid "New password"
+msgstr "Parola nouă"
+
+msgid "Bank info"
+msgstr "Informații bancare"
+
+msgid "Please provide your bank info"
+msgstr "Vă rugăm să furnizați detaliile dvs. bancare"
+
+msgid "Account number"
+msgstr "Număr cont"
+
+msgid "Transaction"
+msgstr "Tranzacţie"
+
+msgid "User Balance"
+msgstr "Sold utilizator"
+
+msgid "Please enter your surname"
+msgstr "Vă rugăm introduceţi numele de familie"
+
+msgid "Please enter your first name"
+msgstr "Vă rugăm introduceţi prenumele dvs."
+
+msgid "Please enter your address"
+msgstr "Vă rugăm introduceţi adresa dvs."
+
+msgid "Please enter your Region"
+msgstr "Vă rugăm introduceţi judeţul dvs."
+
+msgid "Please enter your City of residence"
+msgstr "Vă rugăm introduceţi oraşul unde locuiţi"
+
+msgid "Alphabets and numbers only"
+msgstr "Doar litere şi cifre"
+
+msgid "Between 5 to 15 characters"
+msgstr "Între 5 şi 15 caractere"
+
+msgid "This username has already been taken."
+msgstr "Acest nume de utilizator este deja folosit."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Parola trebuie să conţină între 6 şi 15 caractere"
+
+msgid "Password must contain at least one number"
+msgstr "Parola trebuie să conţină cel puţin un număr"
+
+msgid "Password must contain at least one letter"
+msgstr "Parola trebuie să conţină cel puţin o literă"
+
+msgid "Please enter valid email address"
+msgstr "Vă rugăm să introduceți o adresă de email validă"
+
+msgid "This email has already been registered."
+msgstr "Această adresa de email a fost deja înregistrată."
+
+msgid "Please enter your name"
+msgstr "Vă rugăm să introduceți numele dvs."
+
+msgid "Please enter your street address"
+msgstr "Vă rugăm să introduceți numele străzii"
+
+msgid "Please enter city"
+msgstr "Vă rugăm să introduceți orașul"
+
+msgid "Please enter country"
+msgstr "Vă rugăm să introduceți țara"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr ""
+"Utilizatorii trebuie să aibă peste 21 de ani pentru a completa înregistrarea"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr ""
+"Utilizatorii trebuie să aibă peste 18 ani pentru a completa înregistrarea"
+
+msgid "Please enter valid mobile number"
+msgstr "Vă rugăm introduceţi un număr de telefon mobil valid"
+
+msgid "Please your personal question"
+msgstr "Vă rugăm introduceţi întrebarea personală"
+
+msgid "Please enter valid answer"
+msgstr "Vă rugăm introduceţi un răspuns valid"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Trebuie să acceptaţi termenii pentru a vă putea înregistra."
+
+msgid "This field cannot be left blank"
+msgstr "Acest câmp nu poate fi lăsat gol"
+
+msgid "Mimimum 5 characters long"
+msgstr "Minim 5 caractere"
+
+msgid "The username should be different from email"
+msgstr "Numele de utilizator trebuie să fie diferit de adresa de email"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Parola trebuie să conţină între 8 şi 15 caractere"
+
+msgid "The Password has to be different from username."
+msgstr "Parola trebuie să fie diferită de numele de utilizator."
+
+msgid "It seems that you are already registered."
+msgstr "Se pare că sunteţi deja înregistrat(ă)."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Vă rugăm introduceţi strada sau strada nu există"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Setările debug nu permit accesul la acest url."
+
+msgid "Match odds"
+msgstr "Cote meci"
+
+msgid "Remaining match"
+msgstr "Meci nedisputat"
+
+msgid "Next Goal"
+msgstr "Următorul gol"
+
+msgid "Total Goals +/-"
+msgstr "Total goluri +/- "
+
+msgid "Match odds (1 2)"
+msgstr "Cote meci (1 2)"
+
+msgid "Set 1 2"
+msgstr "Set 1 2"
+
+msgid "Set Score"
+msgstr "Scor set"
+
+msgid "Sets Overall"
+msgstr "Seturi general"
+
+msgid "Total Points +/-"
+msgstr "Total puncte +/- "
+
+msgid "Goals from now +/-"
+msgstr "Goluri de acum +/- "
+
+msgid "Match odds (1x2)"
+msgstr "Cote meci (1x2)"
+
+msgid "1 hour"
+msgstr "1 oră"
+
+msgid "2 hours"
+msgstr "2 ore"
+
+msgid "3 hours"
+msgstr "3 ore"
+
+msgid "Time"
+msgstr "Ora"
+
+msgid "LIVE"
+msgstr "ÎN DIRECT"
+
+msgid "Statistics"
+msgstr "Statistici"
+
+msgid "Click on team name for extra bets"
+msgstr "Click pe numele echipei pentru mai multe pariuri"
+
+msgid "Upcoming Live Matches"
+msgstr "Următoarele meciuri live"
+
+msgid "Login For"
+msgstr "Autentificare pentru "
+
+msgid "minutes"
+msgstr "minute"
+
+msgid "Bet Slip"
+msgstr "Bilet de pariuri"
+
+msgid "open"
+msgstr "deschis"
+
+msgid "Sport Bets"
+msgstr "Pariuri din sport"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Cote excelente pentru fotbal, tenis, hochei pe gheaţă şi multe altele"
+
+msgid "Number of Bets Placed: "
+msgstr "Numărul pariurilor efectuate:"
+
+msgid "Max Wager for bets:"
+msgstr "Miza maximă pentru pariuri:"
+
+msgid "Wager:"
+msgstr "Miza:"
+
+msgid "Max Payout:"
+msgstr "Plata maximă:"
+
+msgid "All games / All events"
+msgstr "Toate jocurile / Toate evenimentele"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr ""
+"Toate jocurile dintr-o privire, toate sporturile normale şi toate cotele pot "
+"fi combinate."
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Obţineţi acest serviciu inovativ acum de la noi. Meciuri live cum nu aţi mai "
+"întâlnit până acum! Mult noroc!"
+
+msgid "more groups"
+msgstr "mai multe grupuri"
+
+msgid "Draw no Bet Period"
+msgstr "Perioada draw no bet"
+
+msgid "Total x Period"
+msgstr "Total x perioadă"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Setare limite depuneri în contul dvs."
+
+msgid "Play Session Limit"
+msgstr "Limită sesiune joc"
+
+msgid "Wager Limit"
+msgstr "Limită miză"
+
+msgid "Loss Limit"
+msgstr "Limită pierdere"
+
+msgid "Self Exclusion"
+msgstr "Auto excludere"
+
+msgid "DELETE ACCOUNT"
+msgstr "ŞTERGEŢI CONTUL"
+
+msgid "Per Transaction"
+msgstr "Per tranzacţie"
+
+msgid "Daily"
+msgstr "Zilnic"
+
+msgid "Weekly"
+msgstr "Săptămânal"
+
+msgid "Monthly"
+msgstr "Lunar"
+
+msgid "No Limit"
+msgstr "Fără limită"
+
+msgid "After %s minutes"
+msgstr "După %s minute"
+
+msgid "After one Hour"
+msgstr "După o oră"
+
+msgid "After two Hours"
+msgstr "După două ore"
+
+msgid "Login For:"
+msgstr "Autentificare pentru:"
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Aţi jucat pentru ultimele %s minute în timpul cărora aţi: <br>Depus %s€ "
+"<br>Pariat %s€ <br>Pierdut %s€ <br>Câştigat %s€ "
+
+msgid "Outdated Browser Detected"
+msgstr "Browser neactualizat detectat"
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Websiteul nostru a detectat că folosiţi un browser neactualizat. Folosind "
+"browserul curent nu veţi putea accesa opţiuni pe siteul nostru. O "
+"actualizare nu este necesară, însă este recomandat să îmbunătăţiţi "
+"experienţa dvs. pe siteul nostru. "
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Folosiţi linkurile de mai jos pentru a descărca un nou browser sau pentru a "
+"actualiza browserul pe care îl folosiţi momentan."
+
+msgid "Remind me later"
+msgstr "Aminteşte-mi mai tărziu"
+
+msgid "No available Bonuses."
+msgstr "Nu există bonusuri disponibile"
+
+msgid "Available Bonuses."
+msgstr "Bonusuri disponibile"
+
+msgid "Locked Amount"
+msgstr "Sumă blocată"
+
+msgid "Opened on"
+msgstr "Deschis în"
+
+msgid "Activation Date"
+msgstr "Data activare"
+
+msgid "Expiration Date"
+msgstr "Data expirării"
+
+msgid "Account Information"
+msgstr "Informații cont"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr ""
+"Tabele rezultate, program şi livescore pentru toate ligile şi evenimentele"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Jucaţi ruletă, blackjack şi baccarat în cazinoul live"
+
+msgid "Identity Card (back view)"
+msgstr "Card de identitate (verso)"
+
+msgid "Identity Card (front view)"
+msgstr "Card de identitate (faţă)"
+
+msgid "Bank Account"
+msgstr "Cont bancar"
+
+msgid "Register now and get 7bonus7"
+msgstr "Înregistraţi-vă acum şi obţineţi 7bonus7"
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms>7Epta7 Limited&nbsp; este o companie înregistrată în Malta şi se "
+"supune legilor din această ţară cu biroul în Tower Business Centre, Suite 5, "
+"Level 1, Tower Street, Swatar, Birkirkara. Compania deţine o Licenţă de "
+"tipul Class 2 pe care a primit-o în the&nbsp;&nbsp; 2013 de la Autoritatea "
+"Jocurilor de Noroc şi Loterii din Malta cu numărul LGA/CL2/921/2013. "
+"Compania este reglementată de Lotteries and Gaming Authority (LGA) din "
+"Malta</p> "
+
+msgid "Top Winner"
+msgstr "Top câştigător"
+
+msgid "close"
+msgstr "închideţi"
+
+msgid "hours"
+msgstr "ore"
+
+msgid "Instant Play"
+msgstr "Joc instant"
+
+msgid "Live Video Streaming"
+msgstr "Transmisiune video live"
+
+msgid "Betslip Wagering"
+msgstr "Miza bilet pariu"
+
+msgid "Ticket Win"
+msgstr "Câştig bilet"
+
+msgid "Bonus Cancellation by user."
+msgstr "Anulare bonus de către utilizator"
+
+msgid "Bonus activation"
+msgstr "Activare bonus"
+
+msgid "APCO Deposit"
+msgstr "Depunere APCO"
+
+msgid "Account Deposit"
+msgstr "Depunere cont"
+
+msgid "Live Casino Transaction"
+msgstr "Tranzacţie Cazinou Live"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Tranzacţie Cazinou Live RollBack"
+
+msgid "in every game"
+msgstr "în fiecare joc"
+
+msgid "Today"
+msgstr "Astăzi"
+
+msgid "Log in"
+msgstr "Autentificare"
+
+msgid "Stake:"
+msgstr "Miza:"
+
+msgid "View Tickets"
+msgstr "Vizualizaţi bilete"
+
+msgid "Number of Bets Placed:"
+msgstr "Numărul pariurilor efectuate:"
+
+msgid "Max Wager for bets: "
+msgstr "Miza maximă pentru pariuri:"
+
+msgid "bets"
+msgstr "pariuri"
+
+msgid "Admin add Funds"
+msgstr "Admin adaugă fonduri"
+
+msgid "Bonus activation:"
+msgstr "Activare bonus:"
+
+msgid "APCO Deposit:"
+msgstr "Depunere APCO:"
+
+msgid "Withdrawal"
+msgstr "Retragere"
+
+msgid "Betslip Cancellation:"
+msgstr "Anulare bilet de pariuri:"
+
+msgid "Cancelled WithDrawal"
+msgstr "Retragere anulată"
+
+msgid "Ticket Cancelled"
+msgstr "Bilet anulat"
+
+msgid "en_us"
+msgstr "en "
+
+msgid "bg_bg"
+msgstr "bg "
+
+msgid "hr_hr"
+msgstr "hr "
+
+msgid "cs_cz"
+msgstr "cs "
+
+msgid "da_dk"
+msgstr "da "
+
+msgid "et_ee"
+msgstr "et "
+
+msgid "fi_fi"
+msgstr "fi "
+
+msgid "fr_fr"
+msgstr "fr "
+
+msgid "de_de"
+msgstr "de "
+
+msgid "el_gr"
+msgstr "el "
+
+msgid "hu_hu"
+msgstr "hu "
+
+msgid "it_it"
+msgstr "it "
+
+msgid "lv_lv"
+msgstr "lv "
+
+msgid "lt_lt"
+msgstr "lt "
+
+msgid "no_no"
+msgstr "no "
+
+msgid "pl_pl"
+msgstr "pl "
+
+msgid "pt_pt"
+msgstr "pt "
+
+msgid "ro_ro"
+msgstr "ro "
+
+msgid "ru_ru"
+msgstr "ru "
+
+msgid "sr_sp"
+msgstr "sr "
+
+msgid "srl_sr"
+msgstr "srl "
+
+msgid "sk_sk"
+msgstr "sk "
+
+msgid "sl_sl"
+msgstr "sl "
+
+msgid "es_es"
+msgstr "es "
+
+msgid "se_se"
+msgstr "se "
+
+msgid "tr_tr"
+msgstr "tr "
+
+msgid "bs_bs"
+msgstr "bs "
+
+msgid "Price"
+msgstr "Preţ"
+
+msgid "Bet Split"
+msgstr "Bilet de pariuri"
+
+msgid "The Company"
+msgstr "Compania"
+
+msgid "Help & Legal"
+msgstr "Ajutor  & legal"
+
+msgid "Useful Links"
+msgstr "Linkuri ajutătoare"
+
+msgid "Payment Options"
+msgstr "Opţiuni plată"
+
+msgid "Extra Bets"
+msgstr "Pariuri extra"
+
+msgid "No, don't remind me again"
+msgstr "Nu, nu imi mai aminti"
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Alegeţi sportul preferat din meniul din partea stângă. Astfel îl puteţi găsi "
+"la următoarea vizită."
+
+msgid "3 Way"
+msgstr "1x2"
+
+msgid "2 Way"
+msgstr "1 2"
+
+msgid "Totals"
+msgstr "Totaluri"
+
+msgid "Championship Outrights"
+msgstr "Clasament campionat"
+
+msgid "Short Term Outrights"
+msgstr "Clasamente perioadă scurtă"
+
+msgid "Podium Finish"
+msgstr "Top podium"
+
+msgid "3-balls"
+msgstr "3-balls"
+
+msgid "Correct score"
+msgstr "Scor corect"
+
+msgid "First Team to score"
+msgstr "Prima echipă să înscrie"
+
+msgid "1st Half - 1X2"
+msgstr "Repriza - 1x2"
+
+msgid "Both Teams to Score"
+msgstr "Ambele echipe să înscrie"
+
+msgid "Odd/Even goals"
+msgstr "Număr goluri Par/Impar "
+
+msgid "Draw no bet"
+msgstr "Draw no bet"
+
+msgid "Goals home team"
+msgstr "Goluri echipa gaznă"
+
+msgid "Goals away team"
+msgstr "Goluri echipa oaspete"
+
+msgid "Asian Handicap"
+msgstr "Handicap asiatic"
+
+msgid "Asian Total"
+msgstr "Total asiatic"
+
+msgid "1st Half - Asian Handicap"
+msgstr "Repriza 1 - handicap asiatic"
+
+msgid "1st Half - Asian Total"
+msgstr "Repriza 1 - total asiatic"
+
+msgid "European Handicap"
+msgstr "Handicap european"
+
+msgid "First goalscorer"
+msgstr "Primul marcator"
+
+msgid "Total Goals (aggregated)"
+msgstr "Goluri totale (agregat)"
+
+msgid "1st Half - Correct Score"
+msgstr "Repriza 1 - Scor corect"
+
+msgid "Highest scoring half"
+msgstr "Repriza cu cele mai multe goluri"
+
+msgid "Matchbet + Totals"
+msgstr "Pariu meci + Totaluri "
+
+msgid "Matchflow"
+msgstr "Derulare meci"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "Repriza 1 - Număr goluri impar/par"
+
+msgid "Overtime yes/no"
+msgstr "Prelungiri da/nu"
+
+msgid "Winning margins"
+msgstr "Margini de câştig"
+
+msgid "Anytime goalscorer"
+msgstr "Marcator oricând"
+
+msgid "Total number of bookings"
+msgstr "Număr total cartonaşe"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "Repriza 1 - Număr total cartonaşe"
+
+msgid "Total number of booking points"
+msgstr "Număr total puncte cartonaş"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "Repriza 1 - Număr total puncte cartonaş"
+
+msgid "Player sent off?"
+msgstr "Jucător eliminat?"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "Repriza 1 - Jucător eliminat?"
+
+msgid "Number of bookings home"
+msgstr "Număr cartonaşe gazde"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "Repriza 1 - Număr cartonaşe gazde"
+
+msgid "Number of bookings away"
+msgstr "Număr cartonaşe oaspeţi"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "Repriza 1 - Număr cartonaşe oaspeţi"
+
+msgid "First Team Booked"
+msgstr "Prima echipă primeşte cartonaş"
+
+msgid "1st Half - First Team Booked"
+msgstr "Repriza 1 - Prima echipă primeşte cartonaş"
+
+msgid "Match bookings"
+msgstr "Cartonaşe meci"
+
+msgid "1st Half - Match Bookings"
+msgstr "Repriza 1 - cartonaşe meci"
+
+msgid "Aggregated booking points"
+msgstr "Puncte agregate cartonaş"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "Repriza 1 - Puncte agregate cartonaş"
+
+msgid "Exact bookings"
+msgstr "cartonaşe exacte"
+
+msgid "1st Half - Exact Bookings"
+msgstr "Repriza 1 - cartonaşe exacte"
+
+msgid "Home Team Player Sent Off"
+msgstr "Jucător Gazde eliminat"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "Repriza 1 - Jucător gazde eliminat"
+
+msgid "Away Team Player Sent Off"
+msgstr "Jucător oaspeţi eliminat"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "Repriza 1 - Jucător oaspeţi eliminat"
+
+msgid "Total Goals (exact)"
+msgstr "Total goluri (exact)"
+
+msgid "2nd Half - 1X2"
+msgstr "Repriza 2 - 1x2"
+
+msgid "2nd Half - Asian Total"
+msgstr "Repriza 2 - Total asiatic"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "Repriza 2 - Handicap asiatic"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Scor corect pauză/fnal"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Prelungiri + gol da/nu"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Lovitură penalty da/nu"
+
+msgid "How will the match be decided?"
+msgstr "Cum va fi decis meciul?"
+
+msgid "Clean sheet home team"
+msgstr "Gazdele câştigă fără a primi gol"
+
+msgid "Clean sheet away team"
+msgstr "Oaspeţii câştigă fără a primi gol"
+
+msgid "Which team to score"
+msgstr "Ce echipă să înscrie "
+
+msgid "1st Half - Total Goals"
+msgstr "Repriza 1 - Total goluri"
+
+msgid "2nd Half - Total Goals"
+msgstr "Repriza 2 - Total goluri "
+
+msgid "Total corners"
+msgstr "Total cornere"
+
+msgid "1st Half - Total Corners"
+msgstr "Repriza 1 - Total cornere"
+
+msgid "Corner handicap"
+msgstr "Handicap corner"
+
+msgid "1st Half - Corner Handicap"
+msgstr "Repriza 1 - Handicap corner"
+
+msgid "Corner matchbet"
+msgstr "Corner meci"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "Repriza 1 - corner meci"
+
+msgid "Corner Odd/Even"
+msgstr "Cornere par/impar"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "Repriza 1 - corner par/impar"
+
+msgid "First corner"
+msgstr "Primul corner"
+
+msgid "1st Half - First Corner"
+msgstr "Repriza 1 - primul corner"
+
+msgid "Home Team Number of Corners"
+msgstr "Număr cornere gazde"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "Repriza 1 - număr cornere gazde"
+
+msgid "1st Half - Totals"
+msgstr "Repriza 1 - totaluri"
+
+msgid "2nd Half - Totals"
+msgstr "Repriza 2 - totaluri"
+
+msgid "Last corner"
+msgstr "Ultimul corner"
+
+msgid "1st Half - Last Corner"
+msgstr "Repriza 1 - ultimul corner"
+
+msgid "Away Team Number of Corners"
+msgstr "Număr cornere echipa oaspete"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "Repriza 1 - număr cornere echipa oaspete"
+
+msgid "Last team to score"
+msgstr "Ultima echipă să înscrie"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Total corner (agregat)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "Repriza 1 - Total corner (agregat)"
+
+msgid "Home to win both halves?"
+msgstr "Gazdele să câştige ambele reprize"
+
+msgid "Home to win either half?"
+msgstr "Gazdele să câştige una din reprize"
+
+msgid "Home to score in both halves?"
+msgstr "Gazdele să înscrie în ambele reprize"
+
+msgid "Away to win both halves?"
+msgstr "Oaspeţii să câştige ambele reprize"
+
+msgid "Away to win either half?"
+msgstr "Oaspeţii să câştige una din reprize"
+
+msgid "Away to score in both halves?"
+msgstr "Oaspeţii să înscrie în ambele reprize"
+
+msgid "Both halves over 1.5?"
+msgstr "Ambele reprize peste 1,5"
+
+msgid "Both halves under 1.5?"
+msgstr "Ambele reprize sub 1,5"
+
+msgid "1st Half Double Chance"
+msgstr "Repriza 1 - şansă dublă"
+
+msgid "1st Half Draw no Bet"
+msgstr "Repriza 1 - draw no bet "
+
+msgid "First goal interval 10 min"
+msgstr "Interval 10 min primul gol"
+
+msgid "First goal interval 15 min"
+msgstr "Interval 15 min primul gol"
+
+msgid "First 10 minutes -3 way"
+msgstr "Primele 10 minute - 1x2"
+
+msgid "1st Half - Both Teams to score"
+msgstr "Repriza 1 - ambele echipe să înscrie"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "Repriza 2 - ambele echipe să înscrie"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Repriza cu cele mai multe goluri gazde"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Repriza cu cele mai multe goluri oaspeţi"
+
+msgid "Correct score (incl. other)"
+msgstr "Scor corect (incl. altele)"
+
+msgid "Odd/Even Points"
+msgstr "Puncte par/impar"
+
+msgid "Points Spreads"
+msgstr "Spreads puncte"
+
+msgid "Total Spreads"
+msgstr "Total spreads"
+
+msgid "1st Half - Points Spread"
+msgstr "Repriza 1 - puncte spread"
+
+msgid "1st Half - Total Spread"
+msgstr "Repriza 1 - total spread"
+
+msgid "Matchbet and Totals"
+msgstr "Meci şi Totaluri"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "Repriza 1 - puncte par/impar"
+
+msgid "1st Half - 2way"
+msgstr "Repriza 1 - 1 2"
+
+msgid "Highest Scoring Quarter"
+msgstr "Sfertul cu cele mai multe goluri"
+
+msgid "3way"
+msgstr "1x2"
+
+msgid "2nd Half - Points Spread"
+msgstr "Repriza 2 - puncte spread"
+
+msgid "2nd Half - Total Spread"
+msgstr "Repriza 2 - total spread"
+
+msgid "1st Half - Draw no bet"
+msgstr "Repriza 1 - draw no bet"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "Repriza 2 - puncte par/impar"
+
+msgid "2nd Half - Draw no bet"
+msgstr "Repriza 2 - draw no bet"
+
+msgid "Total margins NBA-ranges"
+msgstr "Total margini NBA-ranges"
+
+msgid "Total margins Regular-ranges"
+msgstr "Total margini Regular - ranges"
+
+msgid "Totals away team"
+msgstr "Totale oaspeţi"
+
+msgid "Totals home team"
+msgstr "Totale gazde"
+
+msgid "1st Quarter - 1X2"
+msgstr "Sfertul 1 - 1x2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "Sfertul 2 - 1x2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "Sfertul 3 - 1x2"
+
+msgid "4th Quarter - 1X2"
+msgstr "Sfertul 4 - 1x2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "Sfertul 1 - draw no bet"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "Sfertul 2 - draw no bet"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "Sfertul 3 - draw no bet"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "Sfertul 4 - draw no bet"
+
+msgid "1st Quarter - Total Spread"
+msgstr "Sfertul 1 - Total spread"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "Sfertul 2 - Total spread"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "Sfertul 3 - Total spread"
+
+msgid "4th Quarter - Total Spread"
+msgstr "Sfertul 4 - Total spread"
+
+msgid "1st Quarter - Points Spread"
+msgstr "Sfertul 1 - Puncte spread"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "Sfertul 2 - Puncte spread"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "Sfertul 3 - Puncte spread"
+
+msgid "4th Quarter - Points Spread"
+msgstr "Sfertul 4 - Puncte spread"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "Sfertul 1 - Puncte par/impar"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "Sfertul 2 - Puncte par/impar"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "Sfertul 3 - Puncte par/impar"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "Sfertul 4 - Puncte par/impar"
+
+msgid "First to x points"
+msgstr "Prima echipă către x puncte"
+
+msgid "Total AAMS"
+msgstr "Total AAMS"
+
+msgid "Total 3way"
+msgstr "Total 1x2"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Puncte spread (prelungiri)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Total spread (prelungiri)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Runs par/impar (prelungiri)"
+
+msgid "Correct Score"
+msgstr "Scor corect"
+
+msgid "Both teams to score?"
+msgstr "Ambele echipe să înscrie"
+
+msgid "Goal Spreads"
+msgstr "Spreads goluri"
+
+msgid "1st Period - 3way"
+msgstr "Repriza 1 - 1x2"
+
+msgid "3rd Period - 3way"
+msgstr "Repriza 3 - 1x2"
+
+msgid "1st Period – Total"
+msgstr "Repriza 1 - Total"
+
+msgid "2nd Period – Total"
+msgstr "Repriza 2 - Total"
+
+msgid "3rd Period – Total"
+msgstr "Repriza 3 - Total"
+
+msgid "1st Period - Double Chance"
+msgstr "Repriza 1 - Şansă dublă"
+
+msgid "2nd Period - Double Chance"
+msgstr "Repriza 2 - Şansă dublă"
+
+msgid "3rd Period - Double Chance"
+msgstr "Repriza 3 - Şansă dublă"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Goluri par/impar (incl. prelungiri şi penalty)"
+
+msgid "Highest Scoring Period"
+msgstr "Repriza cu cel mai mare scor"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Spreads goluri (incl. prelungiri)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Total spreads (incl. prelungiri)"
+
+msgid "Last team to Score"
+msgstr "Ultima echipă să înscrie"
+
+msgid "2nd Period - 3way"
+msgstr "Repriza 2 - 1x2"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "Repriza 1 - goluri par/impar"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "Repriza 2 - goluri par/impar"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "Repriza 3 - goluri par/impar"
+
+msgid "1st Period - Draw no bet"
+msgstr "Repriza 1 - draw no bet"
+
+msgid "2nd Period - Draw no bet"
+msgstr "Repriza 2 - draw no bet"
+
+msgid "3rd Period - Draw no bet"
+msgstr "Repriza 3 - draw no bet"
+
+msgid "2nd Period - Both teams to score"
+msgstr "Repriza 2 - ambele echipe să înscrie"
+
+msgid "3rd Period - Both teams to score"
+msgstr "Repriza 3 - ambele echipe să înscrie"
+
+msgid "1st Period - Goal Spreads"
+msgstr "Repriza 1 - Spreads goluri"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "Repriza 2 - Spreads goluri"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "Repriza 3 - Spreads goluri"
+
+msgid "2nd Period - First team to score"
+msgstr "Repriza 2 - Prima echipă să înscrie"
+
+msgid "3rd Period - First team to score"
+msgstr "Repriza 3 - Prima echipă să înscrie"
+
+msgid "1st Period - Last team to score"
+msgstr "Repriza 1 - Ultima echipă să înscrie"
+
+msgid "2nd Period - Last team to score"
+msgstr "Repriza 2 - Ultima echipă să înscrie"
+
+msgid "3rd Period - Last team to score"
+msgstr "Repriza 3 - Ultima echipă să înscrie"
+
+msgid "1st Period - Both teams to score"
+msgstr "Repriza 1 - Ambele echipe să înscrie"
+
+msgid "Totals (incl. OT)"
+msgstr "Totaluri (incl. prelungiri)"
+
+msgid "2way (incl. OT)"
+msgstr "1 2 (incl. prelungiri)"
+
+msgid "1st Set Winner"
+msgstr "Câştigător set 1"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Număr total seturi (cel mai bun din 3)"
+
+msgid "2nd Set Winner"
+msgstr "Câştigător set 2"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Număr total seturi (cel mai bun din 5)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Scor corect set (cel mai bun din 3 seturi)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Scor corect set (cel mai bun din 5 seturi)"
+
+msgid "1st Half - 3way"
+msgstr "Repriza 1 - 1x2"
+
+msgid "Halftime / Fulltime"
+msgstr "Pauză/final"
+
+msgid "Odd / Even Goals"
+msgstr "Goluri par/impar"
+
+msgid "1st Half - Goal Spread"
+msgstr "Repriza 1 - Spread gol"
+
+msgid "2nd half - 3way"
+msgstr "Repriza 2 - 1x2"
+
+msgid "1st half - Double Chance"
+msgstr "Repriza 1 - Șansă dublă"
+
+msgid "1st half - Draw no bet"
+msgstr "Repriza 1 - Draw no bet"
+
+msgid "1st Half - Odd / Even"
+msgstr "Repriza 1 - Par/Impar"
+
+msgid "2nd Half - Odd / Even"
+msgstr "Repriza 1 - Par/Impar"
+
+msgid "2nd half - Draw no bet"
+msgstr "Repriza 2 - Draw no bet"
+
+msgid "2nd half - Double Chance"
+msgstr "Repriza 2 - Șansă dublă"
+
+msgid "Points Spread"
+msgstr "Puncte spread"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Margini de câştig Rugby Union"
+
+msgid "Winning Margins Rugby League"
+msgstr "Margini de câştig Rugby League"
+
+msgid "1st Half - Points Spreads"
+msgstr "Repriza 1 - Puncte spreads"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "Repriza 1 - Puncte par/impar"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Puncte par/impar (prelungiri)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "Repriza 2 - Puncte spread (incl. Prelungiri)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "Repriza 2 - Puncte spread (incl. Prelungiri)"
+
+msgid "Who wins first set"
+msgstr "Cine câştigă primul set"
+
+msgid "Who wins second set"
+msgstr "Cine câştigă al doilea set"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Număr total seturi (cel mai bun din 5)"
+
+msgid "Correct Set Score"
+msgstr "Scor corect set"
+
+msgid "How many sets will exceed score limit?"
+msgstr "Câte seturi vor depăşi limita scorului"
+
+msgid "1st Set Handicap"
+msgstr "Handicap set 1 "
+
+msgid "1st Set Total"
+msgstr "Total set 1"
+
+msgid "1st Set Race to X"
+msgstr "Cursa până la X set 1"
+
+msgid "1st Set Odd/even"
+msgstr "Set 1 par/impar"
+
+msgid "Who wins third set"
+msgstr "Cine câștigă setul trei"
+
+msgid "Who wins fourth set"
+msgstr "Cine câștigă setul patru"
+
+msgid "Who wins fifth set"
+msgstr "Cine câștigă setul cinci"
+
+msgid "5th Set Played?"
+msgstr "Setul 5 jucat"
+
+msgid "4th Set Played?"
+msgstr "Setul 4 jucat"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Număr total seturi (cel mai bun din 3)"
+
+msgid "Line"
+msgstr "Linie"
+
+msgid "Over"
+msgstr "Peste"
+
+msgid "Under"
+msgstr "Sub"
+
+msgid "None"
+msgstr "Niciun"
+
+msgid "goals"
+msgstr "goluri"
+
+msgid "Goals"
+msgstr "Goluri"
+
+msgid "Under and home"
+msgstr "Sub și gazde"
+
+msgid "Under and draw"
+msgstr "Sub și egal"
+
+msgid "Under and away"
+msgstr "Sub și oaspeți"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "Equal"
+msgstr "Egal"
+
+msgid "Hometeam scores first and home"
+msgstr "Gazdele înscriu primele și gazde"
+
+msgid "Hometeam scores first and draw"
+msgstr "Gazdele înscriu primele și egal"
+
+msgid "Hometeam scores first and away"
+msgstr "Gazdele înscriu primele și oaspeți"
+
+msgid "Awayteam scores first and home"
+msgstr "Oaspeți înscriu primii și gazde"
+
+msgid "Awayteam scores first and draw"
+msgstr "Oaspeți înscriu primii și egal"
+
+msgid "Awayteam scores first and away"
+msgstr "Oaspeți înscriu primii și oaspeți"
+
+msgid "Odd"
+msgstr "Impar"
+
+msgid "Even"
+msgstr "Par"
+
+msgid "Others"
+msgstr "Alt"
+
+msgid "Both teams"
+msgstr "Ambele echipe"
+
+msgid "Over and away"
+msgstr "Peste și oaspeți"
+
+msgid "Over and draw"
+msgstr "Peste și egal"
+
+msgid "Over and home"
+msgstr "Peste și gazde"
+
+msgid "other"
+msgstr "alt"
+
+msgid "1st period"
+msgstr "Repriza 1"
+
+msgid "2nd period"
+msgstr "Repriza 2"
+
+msgid "3rd period"
+msgstr "Repriza 3"
+
+msgid "1 sets"
+msgstr "1 set"
+
+msgid "2 sets"
+msgstr "2 seturi"
+
+msgid "3 sets"
+msgstr "3 seturi"
+
+msgid "4 sets"
+msgstr "4 seturi"
+
+msgid "5 sets"
+msgstr "5 seturi"
+
+msgid "0 sets"
+msgstr "0 seturi"
+
+msgid "1st quarter"
+msgstr "Sfert 1"
+
+msgid "2nd quarter"
+msgstr "Sfert 2"
+
+msgid "3rd quarter"
+msgstr "Sfert 3"
+
+msgid "4th quarter"
+msgstr "Sfert 4"
+
+msgid "No goal"
+msgstr "Nicun gol"
+
+msgid "Chat with Real Dealers"
+msgstr "Comunicaţi cu dealeri adevăraţi"
+
+msgid "PLAY NOW"
+msgstr "JUCAŢI ACUM"

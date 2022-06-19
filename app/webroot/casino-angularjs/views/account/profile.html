@@ -1,0 +1,206 @@
+<div class="row">
+    <div class="col-md-12 col-lg-6">
+        <div class="card card-outline">
+            <div class="card-body">
+                <h5 class="card-title">{{'Account Information' | translate}}</h5>
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        {{'Hello' | translate}}<br>
+                        <h3>{{User.username}}</h3>
+                    </div>
+                    <div class="col-sm-12 col-md-6"> {{'User ID' | translate}}<br>
+                        <h3>{{User.id}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12 col-lg-6">
+        <div class="card card-gradient">
+            <div class="card-body">
+                <h5 class="card-title">{{'Hello' | translate}}, <span class="text-white">{{User.username}}</span></h5>
+
+                <div class="row my-2">
+                    <div class="col-sm-12 col-md-6">
+                        {{'Balance' | translate}}<br>
+                        <h3><span ng-bind-html="User.balance ? User.balance  : '0.00' | currencyFilter:User.Currency.code"></span></h3>
+                    </div>
+                    <div class="col-sm-12 col-md-6"> {{'Bonus Balance' | translate}}<br>
+                        <h3><span ng-bind-html="User.bonus_balance ? User.bonus_balance  : '0.00' | currencyFilter:User.Currency.code"></span></h3>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-12">
+                        <a href="/#!/account/deposits" class="btn btn-default btn-sm btn-block font-weight-bold px-4 mr-2">{{'Deposits' | translate}}</a>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-12">
+                        <a href="/#!/account/withdraws" class="btn btn-default btn-sm btn-block font-weight-bold px-4 mr-2">{{'Withdraws' | translate}}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12 col-lg-6">
+        <div class="card card-gradient">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-start">
+                    <h5 class="card-title mb-0">{{'Personal Information' | translate}}</h5>
+                    <a href="/#!/account/profile/edit" class="btn btn-inverse btn-sm text-capitalize font-weight-bold px-4">{{'Edit' | translate}}</a>
+
+                </div>
+                <div class="row my-2">
+                    <div class="col-sm-12 col-md-6">
+                        {{'Username' | translate}}<br>
+                        <h3>{{User.username}}</h3>
+                    </div>
+                    <div class="col-sm-12 col-md-6"> {{'User ID' | translate}}<br>
+                        <h3>{{User.id}}</h3>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="box-outline">
+                            <span class="small">{{'E-mail' | translate}}</span><br>
+                            <h3>{{User.email}}</h3>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="box-outline">
+                            <span class="small">{{'Phone number' | translate}}</span><br>
+                            <h3>{{User.mobile_number}}</h3>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-md-12 col-lg-6" ng-controller="gameplayController">
+        <div class="card card-gradient">
+            <div class="card-body">
+                <h5 class="card-title">{{'Recently Played' | translate}}</h5>
+                <div class="row mb-4">
+                    <div class="col-md-12">
+                        <div class="d-flex justify-content-between align-items-center flex-wrap flex-row">
+                            <img ng-repeat="game in gamesLogs | limitTo:5" ng-if="gamesLogs.length > 0" src="{{game.int_games.image}}" ng-src="{{game.int_games.image}}" alt="{{game.int_games.name}}" class="img-responsive mb-2" height="50">
+
+                            <p  ng-if="gamesLogs.length === 0">{{'No games played yet.' | translate}}</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-6 col-md-6 col-12">
+                        <a href="/#!/account/favorites" class="btn btn-default btn-sm btn-block font-weight-bold px-4 mr-2">{{'Favorites' | translate}}</a>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-12">
+                        <a href="/#!/account/gameplay" class="btn btn-default btn-sm btn-block font-weight-bold px-4 mr-2">{{'Gameplay' | translate}}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card card-gradient">
+            <div class="card-body">
+                <h5 class="card-title">{{'Loyalty' | translate}}</h5>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card card-overlay text-white">
+            <img src="img/casino/promo.jpg" class="card-img" alt="{{'Promo' | translate}}">
+            <div class="card-img-overlay">
+                <h5 class="card-title">{{'Promo' | translate}}</h5>
+                <button type="button" class="btn btn-default btn-sm font-weight-bold px-4 mr-2">{{'Claim now' | translate}}</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card card-gradient">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-start">
+                    <h5 class="card-title">{{'Bonuses' | translate}}</h5>
+                    <button type="button" class="btn btn-inverse btn-sm text-capitalize font-weight-bold px-4">{{'Use bonus code' | translate}}</button>
+
+                </div>
+
+                <div class="list-group list-group-default">
+                    <div class="list-group-item">
+                        <div class="d-flex justify-content-between align-items-center bonus-wrapper">
+                            <div class="d-flex flex-column">
+                                <p class="mb-1">Bonus name</p>
+                                <h5 class="mb-1 text-yellow-lemon font-weight-bold">Name of Bonus</h5>
+                            </div>
+
+                            <div class="d-flex flex-column">
+                                Amount <span class="text-yellow-lemon font-weight-bold">€20</span>
+                            </div>
+                            <div class="d-flex flex-column">
+                                Wagering <span class="text-yellow-lemon font-weight-bold">€200</span>
+                            </div>
+                            <button type="button" class="btn btn-default btn-sm font-weight-bold px-4 mr-2">Activate</button>
+                        </div>
+                    </div>
+
+                    <div class="list-group-item">
+                        <div class="d-flex justify-content-between align-items-center bonus-wrapper">
+                            <div class="d-flex flex-column">
+                                <p class="mb-1">Bonus name</p>
+                                <h5 class="mb-1 text-yellow-lemon font-weight-bold">Name of Bonus</h5>
+                            </div>
+
+                            <div class="d-flex flex-column">
+                                Amount <span class="text-yellow-lemon font-weight-bold">€20</span>
+                            </div>
+                            <div class="d-flex flex-column">
+                                Wagering <span class="text-yellow-lemon font-weight-bold">€200</span>
+                            </div>
+                            <button type="button" class="btn btn-default btn-sm font-weight-bold px-4 mr-2">Activate</button>
+                        </div>
+                    </div>
+
+                    <div class="list-group-item">
+                        <div class="d-flex justify-content-between align-items-center bonus-wrapper">
+                            <div class="d-flex flex-column">
+                                <p class="mb-1">Bonus name</p>
+                                <h5 class="mb-1 text-yellow-lemon font-weight-bold">Name of Bonus</h5>
+                            </div>
+
+                            <div class="d-flex flex-column">
+                                Amount <span class="text-yellow-lemon font-weight-bold">€20</span>
+                            </div>
+                            <div class="d-flex flex-column">
+                                Wagering <span class="text-yellow-lemon font-weight-bold">€200</span>
+                            </div>
+                            <button type="button" class="btn btn-default btn-sm font-weight-bold px-4 mr-2">Activate</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

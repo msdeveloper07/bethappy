@@ -1,0 +1,43 @@
+<div class="row">
+    <div class="col-sm-12 col-md-4 mb-3">
+        <div class="mb-3">{{'E-mail' | translate }}: <a class="text-link-default" href="mailto:{{websiteEmail}}">{{websiteEmail}}</a></div> 
+        <div>{{'Phone' | translate }}: <a class="text-link-default" href="tel:{{websitePhone}}">{{websitePhone}}</a></div> 
+    </div>
+
+    <div class="col-sm-12 col-md-8">
+
+        <form role="form" name="contactForm" novalidate class="needs-validation">
+
+            <div class="form-group">
+                <label for="inputFullName">{{'Full name' | translate }}</label>
+                <input type="text" class="form-control form-control-lg" id="inputFullName" name="full_name" ng-model="Contact.full_name" required ng-class="{'is-invalid': contactForm.full_name.$error.required && !contactForm.full_name.$pristine}"/>
+                <span ng-show="contactForm.full_name.$error.required && !contactForm.full_name.$pristine" class="text-danger">{{'Full name is required.' | translate }}</span>
+            </div>
+
+            <div class="form-group">
+                <label for="inputFrom">{{'E-mail' | translate }}</label>
+                <input type="email" id="inputFrom" name="from" ng-model="Contact.from" ng-pattern="$root.emailFormat" required class="form-control" 
+                       ng-class="{'is-invalid': contactForm.from.$error.required && !contactForm.from.$pristine}"/>
+                <span ng-show="contactForm.from.$error.required && !contactForm.from.$pristine" class="text-danger">{{'E-mail is required.' | translate }}</span>
+                <span ng-show="contactForm.from.$error.pattern && !contactForm.from.$pristine" class="text-danger">{{'This is not a valid e-mail address.' | translate }}</span>
+                <span ng-show="contactForm.from.$error.uniqueField" class="text-danger">{{'E-mail is already taken!' | translate }}</span>
+            </div>
+
+            <div class="form-group">
+                <label for="inputSubject">{{'Subject' | translate }}</label>
+                <input type="text" class="form-control form-control-lg" id="inputSubject" name="subject" ng-model="Contact.subject" required ng-class="{'is-invalid': contactForm.subject.$error.required && !contactForm.subject.$pristine}"/>
+                <span ng-show="contactForm.subject.$error.required && !contactForm.subject.$pristine" class="text-danger">{{'Subject is required.' | translate }}</span>
+            </div>
+
+            <div class="form-group">
+                <label for="inputMessage">{{'Message' | translate }}</label>
+                <textarea id="inputMessage" class="form-control form-control-lg" rows="7" name="message" ng-model="Contact.message" required ng-class="{'is-invalid': contactForm.message.$error.required && !contactForm.message.$pristine}">
+                </textarea>
+                <span ng-show="contactForm.message.$error.required && !contactForm.message.$pristine" class="text-danger">{{'Message is required.' | translate }}</span>
+            </div>
+            <button class="btn btn-lg btn-default btn-block text-uppercase font-weight-bold mb-2" type="submit" ng-click="contactUs()" ng-disabled="contactForm.$invalid">{{'Send' | translate }} <i class="fas fa-paper-plane"></i>
+            </button>                         
+        </form>
+    </div>
+</div>
+

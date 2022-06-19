@@ -1,0 +1,119 @@
+<div class="container-fluid page-container">
+    <div class="row">
+        <div class="col-md-12 p-0">
+            <!--<h1 class="mb-4">Gameplay</h1>-->
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-gradient">
+                        <div class="card-header">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span><i class="icon ion-ios-swap mr-2"></i>{{'Casino transactions' | translate}}</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="row mb-4">
+                                <div class="col-sm-12 col-md-6 col-lg-3">
+                                    <div class="card card-outline px-4 py-2">
+                                        <p>{{'Bets' | translate}}({{casinoSummary.count.bets}})</p>
+                                        <h4>
+                                            <span ng-bind-html="casinoSummary.Bets ? casinoSummary.Bets : '0.00' | currencyFilter:User.Currency.code"></span>
+
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12 col-md-6 col-lg-3">
+                                    <div class="card card-outline px-4 py-2">
+                                        <p>{{'Wins' | translate}} ({{casinoSummary.count.wins}})</p>
+                                        <h4>                                    
+                                            <span ng-bind-html="casinoSummary.Wins ? casinoSummary.Wins : '0.00' | currencyFilter:User.Currency.code"></span>
+                                        </h4>
+                                    </div>
+                                </div>
+                                  <div class="col-sm-12 col-md-6 col-lg-3">
+                                    <div class="card card-outline px-4 py-2">
+                                        <p>{{'Refunds' | translate}} ({{casinoSummary.count.refunds}})</p>
+                                        <h4>                                    
+                                            <span ng-bind-html="casinoSummary.Refunds ? casinoSummary.Refunds : '0.00' | currencyFilter:User.Currency.code"></span>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12 col-md-6 col-lg-3">
+                                    <div class="card card-outline px-4 py-2">
+                                        <p>{{'Rollbacks' | translate}} ({{casinoSummary.count.rollbacks}})</p>
+                                        <h4>
+                                            <span ng-bind-html="casinoSummary.Rollbacks ? casinoSummary.Rollbacks : '0.00' | currencyFilter:User.Currency.code"></span>
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <ul class="account-list">
+                                <li ng-repeat="transaction in casinoTransactions" ng-if="casinoTransactions.length > 0">
+                                    <div>
+                                        <h5 class="games-list-title">{{transaction.blue_ocean_games.name}}</h5>
+                                        <h6>{{transaction.int_brands.name}}</h6>
+                                    </div>
+                                    <small class="mx-4">
+                                        <h5>
+                                            <span ng-bind-html="transaction.transaction_log.amount | currencyFilter:User.Currency.code"></span> 
+                                            (<span ng-bind-html="transaction.transaction_log.balance | currencyFilter:User.Currency.code"></span>)                          
+                                        </h5>
+                                        <h6><small>{{transaction.transaction_log.date | toDate | date:'dd-MM-yyyy HH:mm'}}</small></h6>
+
+                                    </small>
+                                    <small class="badge badge-pill font-weight-light py-2 px-4"  ng-class="setStatus(transaction.transaction_log.transaction_type)">{{transaction.transaction_log.transaction_type | translate}}}}</small>
+                                </li>
+
+                                <li ng-if="casinoTransactions.length == 0">{{'No transactions yet.' | translate}}</li>
+                            </ul>
+                        </div>
+
+                        <div class="card-footer">
+                            <ul uib-pagination total-items="paginateCasinoTransactions.totalRecords" ng-model="paginateCasinoTransactions.currentPage" ng-change="pageCasinoTransactionsChanged()" items-per-page="paginateCasinoTransactions.itemsPerPage" max-size="paginateCasinoTransactions.maxSize" class="pagination-sm" boundary-links="true" rotate="true" force-ellipses="true" previous-text="&lsaquo;" next-text="&rsaquo;" first-text="&laquo;" last-text="&raquo;"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-gradient">
+                        <div class="card-header">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span><i class="icon ion-ios-swap mr-2"></i>{{'Games played' | translate}}</span>
+                                <span>({{gamesPlayed ? gamesPlayed : 0 | number}})</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="games-list">
+                                <li ng-repeat="game in gamesLogs" ng-if="gamesLogs.length > 0">
+                                    <div class="d-flex align-items-center">
+                                        <img ng-src="{{game.int_games.image}}" alt="{{game.int_games.name}}" />
+                                        <div class="games-list-title">
+                                            <h5 class="mb-1">{{game.int_games.name}}</h5>
+                                            <h6 class="small">{{game.int_brands.name}}</h6>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex flex-column mx-3">
+                                        <span>{{'Lines' | translate}}: {{game.int_games.pay_lines ? game.int_games.pay_lines : "N/A"}}</span>
+                                        <span>{{'Reels' | translate}}: {{game.int_games.reels ? game.int_games.reels : "N/A"}}</span>
+                                    </div>
+                                    <p class="small">{{game.int_game_activities.date | toDate | date:'dd-MM-yyyy HH:mm'}}</p>
+                                </li>
+                                <li ng-if="gamesLogs.length == 0">{{'No games played yet.' | translate}}</li>
+                            </ul>
+
+
+                        </div>
+                        <div class="card-footer">
+                            <ul uib-pagination total-items="paginateGameLogs.totalRecords" ng-model="paginateGameLogs.currentPage" ng-change="pageGameLogsChanged()" items-per-page="paginateGameLogs.itemsPerPage" max-size="paginateGameLogs.maxSize" class="pagination-sm" boundary-links="true" rotate="true" force-ellipses="true" previous-text="&lsaquo;" next-text="&rsaquo;" first-text="&laquo;" last-text="&raquo;"></ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

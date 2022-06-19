@@ -1,0 +1,50 @@
+<div class="card card-gradient game-launch-card" ng-if="!Loader">
+    <div class="card-header">
+        <h5 class="font-weight-bold">{{Game.IntBrand.name}} - {{Game.IntGame.name}}</h5>
+
+        <div class="game-launch-buttons">
+            <button class="btn game-action-btn ml-1" ng-click="addGameToFavorites(Game.IntGame.id)" ng-if="!Favorite.IntGame && User.id">
+                <i class="far fa-heart"></i> 
+            </button>
+            <button class="btn game-action-btn ml-1" ng-click="removeGameFromFavorites(Game.IntGame.id)" ng-if="Favorite.IntGame && User.id">
+                <i class="fas fa-heart"></i> 
+            </button>
+            <button class="btn game-action-btn ml-1" id="toggle-fullscreen" ng-hide="isFullscreen" fullscreen-button="#game-iframe">
+                <i class="fas fa-expand"></i>
+            </button>
+            <button class="btn game-action-btn ml-1" ng-click="closeGame()">
+                <i class="fas fa-times"></i> 
+            </button>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="game-iframe-container" ng-bind-html="GameiFrame" id="game-iframe" ng-class="{fullscreen: isFullscreen}">
+        </div>
+    </div>
+</div>
+
+<div class="card game-launch-card" ng-if="Loader">
+    <div class="card-body">
+        <div class="d-flex justify-content-center align-items-center">
+            <div class="lds-ellipsis">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .app-content, .app-content [ng-view],
+    /*.app-content .container-xl, .app-content .row, .app-content .col-md-12,*/
+    .game-launch-card, .game-launch-card .card-body{
+        height:auto;
+    }
+    .game-iframe-container{width:100%;height: 100%;min-height: 665px;}
+    iframe{
+        min-height: 665px;
+    }
+</style>

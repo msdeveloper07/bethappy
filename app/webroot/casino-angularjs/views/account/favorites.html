@@ -1,0 +1,43 @@
+<div class="container-fluid page-container">
+    <div class="row">
+        <div class="col-md-12 p-0">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-gradient">
+                        <div class="card-header">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span><i class="icon ion-ios-swap mr-2"></i>{{'Favorites' | translate}}</span>
+                                <span>({{paginateFavorites.totalRecords ? paginateFavorites.totalRecords : 0 | number}})</span>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="games-list">
+                                <li ng-repeat="game in Favorites" ng-if="Favorites.length > 0">
+                                    <div class="d-flex align-items-center">
+                                        <img ng-src="{{game.int_games.image}}" alt="{{game.int_games.name}}" />
+                                        <div class="games-list-title">
+                                            <h5 class="mb-1">{{game.int_games.name}}</h5>
+                                            <h6 class="small">{{game.int_brands.name}}</h6>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex flex-column mx-3">
+                                        <span>{{'Lines' | translate}}: {{game.int_games.pay_lines ? game.int_games.pay_lines : "N/A"}}</span>
+                                        <span>{{'Reels' | translate}}: {{game.int_games.reels ? game.int_games.reels : "N/A"}}</span>
+                                    </div>
+                                    <p class="small">{{game.int_favorites.created | toDate | date:'dd-MM-yyyy HH:mm'}}</p>
+                                </li>
+                                <li ng-if="Favorites.length == 0">{{'No games played yet.' | translate}}</li>
+                            </ul>
+
+
+                        </div>
+                        <div class="card-footer">
+                            <ul uib-pagination total-items="paginateFavorites.totalRecords" ng-model="paginateFavorites.currentPage" ng-change="pageGameLogsChanged()" items-per-page="paginateFavorites.itemsPerPage" max-size="paginateFavorites.maxSize" class="pagination-sm" boundary-links="true" rotate="true" force-ellipses="true" previous-text="&lsaquo;" next-text="&rsaquo;" first-text="&laquo;" last-text="&raquo;"></ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

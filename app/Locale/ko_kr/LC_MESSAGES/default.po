@@ -1,0 +1,4902 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 11:29+0300\n"
+"PO-Revision-Date: 2015-07-31 14:56+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kr\n"
+
+msgid "Your passwords does not much"
+msgstr "비밀번호가 일치하지 않습니다."
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "계정이 만들어졌습니다. 로그인하기 위해 당신의 이메일을 확인해 주세요."
+
+msgid "Password changed"
+msgstr "비밀번호가 변경되었습니다."
+
+msgid "Wrong old password. Please try again"
+msgstr "기존비밀번호가 일치하지 않습니다. 다시 시도해 주세요."
+
+msgid "Passwords do not match. Please try again"
+msgstr "비밀번호가 일치하지 않습니다. 다시 시도해 주세요."
+
+msgid "Account information updated."
+msgstr "계정정보변경을 완료했습니다."
+
+msgid "Limits cancelled."
+msgstr "제한이 취소됐습니다."
+
+msgid "Unable to cancel limit"
+msgstr "제한을 취소할 수 없습니다."
+
+msgid "Limits updated."
+msgstr "제한이 변경되었습니다."
+
+msgid "Limits not updated."
+msgstr "제한이 변경되지 않았습니다."
+
+msgid "You account has been deleted."
+msgstr "계정이 삭제되었습니다."
+
+msgid "Account settings updated."
+msgstr "계정설정이 변경됐습니다."
+
+msgid "Password reset link sent to your email"
+msgstr "비밀번호 변경을 위한 이메일이 발송 됐습니다."
+
+msgid "E-mail not valid"
+msgstr "잘못된 이메일 주소입니다."
+
+msgid "Promotional code successfully used"
+msgstr "프로모션 코드를 성공적으로 처리 했습니다."
+
+msgid "Invalid promotional code"
+msgstr "잘못된 프로모션 코드입니다."
+
+msgid "Confirm your email."
+msgstr "계정이 활성화 되지 않았습니다. 계정을 활성화 하기 위해 이메일을 확인해 주세요."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "계정이 잠겼습니다. 비밀번호를 재설정 해 주세요."
+
+msgid "Your Account is Deleted Permanently"
+msgstr "영구적으로 삭제된 계정입니다."
+
+msgid "You are Already Logged in."
+msgstr "이미 로그인 상태입니다."
+
+msgid "Wrong Password"
+msgstr "잘못된 비밀번호입니다."
+
+msgid "Username or password is incorrect"
+msgstr "유저명또는 비밀번호가 일치하지 않습니다."
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "운영자 %s(ID: %d)가 당신의 계정에 펀드하기위해 요청했습니다."
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "사용자 %s(ID: %d)님의 계정이 %s에 의해 생성되었습니다."
+
+msgid "User %s is credited by %d %s"
+msgstr "사용자 %s 가(이) %d %s 에 의해 적립되었습니다."
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "운영자 %s(ID: %d)가 당신의 계정에 청구를 요청했습니다."
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "사용자 %s(ID: %d)의 어카운트가 %s에 의해 청구되었습니다."
+
+msgid "User %s is charged by %d %s"
+msgstr "사용자 %s는 %d %s에 의해 청구되었습니다."
+
+msgid "KYC Data Accepted"
+msgstr "KYC 데이터가 수락되었습니다."
+
+msgid "Email successfully sent"
+msgstr "이메일이 성공적으로 발송되었습니다."
+
+msgid "Cannot send email. Please try again."
+msgstr "이메일을 보낼 수 없습니다. 다시 시도해 주세요."
+
+msgid "can't find"
+msgstr "찾을 수 없습니다."
+
+msgid "Changes saved"
+msgstr "변경내용이 저장되었습니다."
+
+msgid "This cannot be saved."
+msgstr "저장 할 수 없습니다."
+
+msgid "Item added"
+msgstr "추가되었습니다."
+
+msgid "This cannot be added."
+msgstr "추가 할 수 없습니다."
+
+msgid "Item deleted"
+msgstr "삭제되었습니다."
+
+msgid "This cannot be deleted."
+msgstr "삭제 할 수 없습니다."
+
+msgid "Bet added"
+msgstr "벳이 추가되었습니다."
+
+msgid "Error adding bet"
+msgstr "벳 추가시 오류가 발생했습니다."
+
+msgid "Lowest deposit amount is"
+msgstr "최소 입금가능액: "
+
+msgid "Highest deposit amount is"
+msgstr "최대 입금가능액:"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "1회 입금 한도액을 초과했습니다."
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "1일 입금 한도액을 초과했습니다."
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "주간 입금 한도액을 초과했습니다."
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "월간 입금 한도액을 초과했습니다."
+
+msgid "Bonus code expired or wrong"
+msgstr "만료된 보너스코드 또는 잘못된 코드입니다."
+
+msgid "Bonus code expired"
+msgstr "만료된 보너스코드 입니다."
+
+msgid "Your amount is too low for bonus"
+msgstr "당신이 가진 양은 보너스를 받기에는 너무 적습니다."
+
+msgid "Your amount is too high for bonus "
+msgstr "당신이 가진 양은 보너스를 받기에 너무 많습니다."
+
+msgid "User Terminated"
+msgstr "종결된 사용자입니다."
+
+msgid "Completed"
+msgstr "완료"
+
+msgid "Canceled"
+msgstr "취소"
+
+msgid "Statuses chart"
+msgstr "상태차트"
+
+msgid "Amount chart"
+msgstr "금액차트"
+
+msgid "Deposit not found!"
+msgstr "입금건을 찾을 수 없습니다."
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "이미 \"완료\"\"처리된 입금건입니다.\""
+
+msgid "Deposit request set as completed"
+msgstr "입금요청을 완료처리합니다."
+
+msgid "Deposit request canceled"
+msgstr "입금요청이 취소되었습니다."
+
+msgid "Money transaction completed"
+msgstr "자금 거래가 완료되었습니다."
+
+msgid "Select Event"
+msgstr "이벤트 선택"
+
+msgid "No search results found"
+msgstr "검색결과가 없습니다."
+
+msgid "Permissions updated"
+msgstr "권한이 저장되었습니다."
+
+msgid "Your request is accepted."
+msgstr "요청이 수락되었습니다."
+
+msgid "Language already exist"
+msgstr "언어가 이미 존재합니다."
+
+msgid "can't delete item"
+msgstr "삭제할 수 없습니다."
+
+msgid "Emails successfully sent"
+msgstr "메일을 성공적으로 발송했습니다."
+
+msgid "Please enter event result"
+msgstr "이벤트 결과를 입력해 주세요."
+
+msgid "Results updated"
+msgstr "결과가 갱신되었습니다."
+
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다."
+
+msgid "can't save settings."
+msgstr "설정을 저장할 수 없습니다."
+
+msgid "Types chart"
+msgstr "타입차트"
+
+msgid "Cannot find ticket with id:"
+msgstr "티켓을 찾을 수 없습니다. - id:"
+
+msgid "Ticket is not found"
+msgstr "티켓을 찾을 수 없습니다. "
+
+msgid "Unknown ticket status"
+msgstr "알 수 없는 티켓 상태"
+
+msgid "Unknown paid status"
+msgstr "알 수 없는 지불 상태"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Unknown error"
+msgstr "알 수 없는 에러"
+
+msgid "Insufficient credits"
+msgstr "크레딧 부족"
+
+msgid "Ticket is still pending or lost"
+msgstr "티켓이 아직 보류 중이거나 상실되었습니다."
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "이미 출력된 티켓입니다. 티켓ID: %d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "티켓 찾을 수 없습니다. 티켓ID: %d"
+
+msgid "Please select another pick from different event"
+msgstr "다른 이벤트로부터 픽을 선택해 주세요."
+
+msgid "Min betting amount is %d"
+msgstr "최소배팅금액은 %d 입니다."
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "현재티켓타입에 베팅할 수 없습니다. 티켓타입을 싱글로 변경하세요."
+
+msgid "Wrong Password or Username"
+msgstr "잘못된 비밀번호 또는 유저명"
+
+msgid "Lowest amount for cashout is"
+msgstr "최소 캐시아웃 금액은"
+
+msgid "Highest amount for cashout is"
+msgstr "최대 캐시아웃 금액은"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "해당 캐시아웃을 위한 보유머니가 부족합니다."
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "캐시아웃 거래를 할 수 없습니다. 보너스 정책에 의해 %s중 \"Locked Amount\"\"가 있습니다. 출금 가능금액은 %s 입니다.\""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "이전 출금거래가 완료되지 않았습니다."
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "이 거래를 완료하기위해 인증된 사용자가 아닙니다. 다음 주소에서 양식을 작성해 주세요."
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "인증을 위해 양식을 다시 작성해 주세요. 다음 주소에서 양식을 작성해 주세요."
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "이 거래를 완료하기위해 인증(연령)된 사용자가 아닙니다. 다음주소에서 양식을 작성해 주세요."
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+msgstr "%s에 대한 출금신청이 수락되었습니다. 다음 링크로 이동하여 입금 은행 및 계좌정보를 입력해 주세요. <a href='/users/account'>계정정보</a>"
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "%s에 대한 출금신청이 수락되었습니다."
+
+msgid "Bank information updated."
+msgstr "은행정보가 갱신되었습니다."
+
+msgid "Withdraw request set as completed"
+msgstr "출금요청을 완료처리합니다."
+
+msgid "Withdraw request updated"
+msgstr "출금요청이 갱신되었습니다."
+
+msgid "Withdraw request canceled"
+msgstr "출금요청이 취소되었습니다."
+
+msgid "Lost"
+msgstr "패"
+
+msgid "View"
+msgstr "보기"
+
+msgid "Edit"
+msgstr "수정"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "List"
+msgstr "목록"
+
+msgid "Create"
+msgstr "생성"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Complete"
+msgstr "완료"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Amount from"
+msgstr "Amount from"
+
+msgid "Amount to"
+msgstr "Amount to"
+
+msgid "Transaction ID"
+msgstr "거래 ID"
+
+msgid "Event name"
+msgstr "이벤트명"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "League name"
+msgstr "리그명"
+
+msgid "Sport"
+msgstr "종목"
+
+msgid "View events"
+msgstr "이벤트보기"
+
+msgid "Add Event"
+msgstr "이벤트추가"
+
+msgid "Send Mail"
+msgstr "메일발송"
+
+msgid "Send to All"
+msgstr "모두에게 보내기"
+
+msgid "Header 2 menu"
+msgstr "Header 2 menu"
+
+msgid "Header 3 menu"
+msgstr "Header 3 menu"
+
+msgid "Bottom 4 menu"
+msgstr "Bottom 4 menu"
+
+msgid "Footer menu"
+msgstr "Footer menu"
+
+msgid "Header menu"
+msgstr "Header menu"
+
+msgid "Top Header menu"
+msgstr "탑헤더 메뉴"
+
+msgid "Top menu"
+msgstr "Top menu"
+
+msgid "Tickets"
+msgstr "티켓"
+
+msgid "Deposits"
+msgstr "입금"
+
+msgid "Withdraws"
+msgstr "출금"
+
+msgid "Results"
+msgstr "결과"
+
+msgid "Finished events in tickets"
+msgstr "티켓에서 종료된 이벤트"
+
+msgid "Pending events in tickets"
+msgstr "티켓에서 보류중인 이벤트"
+
+msgid "All finished events"
+msgstr "종료된 모든 이벤트"
+
+msgid "Warnings"
+msgstr "경고"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Identity number"
+msgstr "고유번호"
+
+msgid "Words in title"
+msgstr "Words in title"
+
+msgid "Words in description"
+msgstr "Words in description"
+
+msgid "Url link"
+msgstr "URL링크"
+
+msgid "Add League"
+msgstr "리그추가"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Fund staff"
+msgstr "펀드 운영자"
+
+msgid "Charge staff"
+msgstr "청구 운영자"
+
+msgid "Login/Logout"
+msgstr "로그인/로그아웃"
+
+msgid "Ticket Fraud Check"
+msgstr "티켓조작(사기)확인"
+
+msgid "Mark as paid"
+msgstr "지불완료로 변경"
+
+msgid "Group ID"
+msgstr "그룹ID"
+
+msgid "Tickets created"
+msgstr "생성된 티켓"
+
+msgid "Total payout"
+msgstr "총 배당액"
+
+msgid "Profit"
+msgstr "수익"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "1%s의 최소베팅액은 %d 입니다."
+
+msgid "Highest stake on %s is %d"
+msgstr "%s의 최고베팅액은 %d 입니다."
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2%s의 최소베팅액은 %d 입니다."
+
+msgid "3Lowest stake amount is %d"
+msgstr "3최소베팅액은 %d 입니다."
+
+msgid "Highest stake amount is %d"
+msgstr "최고베팅액은 %d 입니다."
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "단일거래당 베팅한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "일간 베팅한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "주간 베팅한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "월간 베팅한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "단일거래당 손실한도를 초과했습니다. 금액: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "일간 손실한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "주간 손실한도에 도달했습니다. 금액: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "월간 손실한도에 도달했습니다. 금액: %d %s "
+
+msgid "Please login"
+msgstr "로그인해 주세요."
+
+msgid "Please select at least %d picks"
+msgstr "적어도 %d의 픽을 선택해 주세요."
+
+msgid "Not enough money"
+msgstr "잔액이 부족합니다."
+
+msgid "One or more events already started, please remove them"
+msgstr "하나이상의 이벤트가 이미 시작됐습니다. 해당 경기를 제거해 주세요."
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "배당률에 변경이 있습니다. 해당 배당을 제거해 주세요."
+
+msgid "One or mode bets are inactive"
+msgstr "하나이상의 벳이 비활성상태입니다."
+
+msgid "Printed"
+msgstr "프린트됨"
+
+msgid "Amount From"
+msgstr "Amount From"
+
+msgid "Amount To"
+msgstr "Amount To"
+
+msgid "Potential Winning From"
+msgstr "Potential Winning From"
+
+msgid "Potential Winning To"
+msgstr "Potential Winning To"
+
+msgid "Odd From"
+msgstr "Odd From"
+
+msgid "Odd To"
+msgstr "Odd To"
+
+msgid "Fund"
+msgstr "펀드"
+
+msgid "Charge"
+msgstr "청구"
+
+msgid "User ID"
+msgstr "사용자ID"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "All feeds updated"
+msgstr "모든 피드 갱신됨"
+
+msgid "All feeds downloaded"
+msgstr "모든 피드 다운로드됨"
+
+msgid "All feeds parsed"
+msgstr "모든 피드 분석됨"
+
+msgid "Feed updated"
+msgstr "피드 갱신됨"
+
+msgid "Cannot find feed"
+msgstr "피드 찾을 수 없음"
+
+msgid "Cant find feed"
+msgstr "피드 찾을 수 없음"
+
+msgid "Update"
+msgstr "변경"
+
+msgid "Update All"
+msgstr "모두 변경"
+
+msgid "Deposit"
+msgstr "입금"
+
+msgid "Thank You"
+msgstr "감사합니다."
+
+msgid "You successfully deposit %d"
+msgstr "%d 이 성공적으로 입금되었습니다."
+
+msgid "You cancel your deposit"
+msgstr "입금이 취소되었습니다."
+
+msgid "You have successfully made deposit for"
+msgstr "??에대한 입금이 성공적으로 완료되었습니다."
+
+msgid "Sorry, we can not find your payment"
+msgstr "죄송합니다. 당신의 지불이 확인되지 않았습니다."
+
+msgid "Make Deposit"
+msgstr "입금 신청"
+
+msgid "Make your Deposit"
+msgstr "입금 신청"
+
+msgid "Bonus code or leave empty"
+msgstr "보너스코드 (없으면 비워두기)"
+
+msgid "Available ACO sync commands:"
+msgstr "가능한 ACO 동기화 명령:"
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+msgstr "도움말은 'help' 명령을 실행하세요. 특정명령에 대한 도움말은 'help <command>' 를 실행하세요."
+
+msgid "Deleted %s and all children"
+msgstr "%s 와 모든 하위노드를 삭제했습니다."
+
+msgid "Aco Update Complete"
+msgstr "ACO 갱신 완료"
+
+msgid "Created Aco node: %s"
+msgstr "ACO 노드 생성됨: %s"
+
+msgid "Deleted Aco node %s"
+msgstr "ACO 노드 삭제됨: %s"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "사용법: cake aco_sync <command>"
+
+msgid "Commands:"
+msgstr "Commands:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "새 콘트롤러와 액션을 위해 새 ACO를 추가합니다."
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "콘트롤러와 액션을 위해 ACO를 생성합니다. ACO 테이블에서 어떤 노드도 삭제하지 않습니다."
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "누락된 콘트롤러와 액션을 위해 새 ACO를 생성합니다. ACO테이블에서 분리된(누락된) 항목을 제거합니다."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "이 도움말 또는 특정 명령어의 메시지를 표시합니다."
+
+msgid "Command '%s' not found"
+msgstr "명령어 '%s' 를 찾을 수 없습니다."
+
+msgid "day"
+msgstr "일"
+
+msgid "days"
+msgstr "일"
+
+msgid "h"
+msgstr "시간"
+
+msgid "Successful"
+msgstr "성공"
+
+msgid "Failed"
+msgstr "실패"
+
+msgid "Unknown"
+msgstr "알수없음"
+
+msgid "Decimal"
+msgstr "숫자"
+
+msgid "Fractional"
+msgstr "분수"
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "more"
+msgstr "more"
+
+msgid "Event"
+msgstr "이벤트"
+
+msgid "Pick"
+msgstr "픽"
+
+msgid "odd"
+msgstr "배당"
+
+msgid "Result"
+msgstr "결과"
+
+msgid "Outcome"
+msgstr "실적"
+
+msgid "Forgot your password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Affiliate Registration Form"
+msgstr "제휴 등록 양식"
+
+msgid "Personal information"
+msgstr "개인 정보"
+
+msgid "First name"
+msgstr "이름"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Region"
+msgstr "지역"
+
+msgid "Zip / Postal code"
+msgstr "우편번호"
+
+msgid "Date of birth:"
+msgstr "생년월일"
+
+msgid "E-mail"
+msgstr "이메일"
+
+msgid "Mobile number"
+msgstr "휴대폰번호"
+
+msgid "Website name"
+msgstr "웹사이트명"
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "Choose Payment Gateway"
+msgstr "지불 경로를 선택하세요."
+
+msgid "Bank Transfer Payment"
+msgstr "은행이체"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Online Payment"
+
+msgid "Please see your latest deposits below:"
+msgstr "아래에서 최근 입금 내역을 확인하세요."
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "No deposits history found. To make new please follow \"Make New\"."
+msgstr "입금기록이 없습니다. \\\"입금 신청\\\"에서 입금해 주세요."
+
+msgid "Deposit information:"
+msgstr "입금 정보:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "수동입금요청(입금확인 후 적립)"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "페이지 {:page} / {:pages}, 총  {:count}건 중 {:start}부터 {:end}까지 {:current}건 표시됨,  "
+
+msgid "previous"
+msgstr "이전"
+
+msgid "next"
+msgstr "다음"
+
+msgid "Show"
+msgstr "보기"
+
+msgid "User"
+msgstr "사용자"
+
+msgid "Deposit type"
+msgstr "입금유형"
+
+msgid "Bonus type"
+msgstr "보너스유형"
+
+msgid "Bonus valid until"
+msgstr "보너스유효기한"
+
+msgid "Bonus used"
+msgstr "사용된 보너스"
+
+msgid "Bonus amount to your account"
+msgstr "당신의 계정에 있는 보너스 양"
+
+msgid "League"
+msgstr "리그"
+
+msgid "No available odds found for this event"
+msgstr "이 이벤트에서 사용할 수 없는 배당률이 있습니다."
+
+msgid "First team to Score"
+msgstr "첫득점 팀"
+
+msgid "1st Half"
+msgstr "전반전"
+
+msgid "Both Team to Score"
+msgstr "양팀득점"
+
+msgid "Halftime/Fulltime"
+msgstr "하프타임/풀타임"
+
+msgid "Double Chance"
+msgstr "더블찬스"
+
+msgid "From:"
+msgstr "From:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Odds"
+msgstr "배당률"
+
+msgid "Reset Password"
+msgstr "비밀번호재설정"
+
+msgid "Register"
+msgstr "회원등록"
+
+msgid "User Menu"
+msgstr "사용자메뉴"
+
+msgid "My Account"
+msgstr "내계정"
+
+msgid "Log out"
+msgstr "로그아웃"
+
+msgid "Casino"
+msgstr "카지노"
+
+msgid "Betting Tools"
+msgstr "베팅도구"
+
+msgid "Register now and get"
+msgstr "지금 등록하고 바로 시작하세요."
+
+msgid "email"
+msgstr "이메일"
+
+msgid "Register now"
+msgstr "지금 등록하기"
+
+msgid "Registration"
+msgstr "등록"
+
+msgid "Password reminder"
+msgstr "비밀번호 찾기"
+
+msgid "Search Ticket"
+msgstr "티켓검색"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Enter ticket ID"
+msgstr "티켓ID를 입력하세요."
+
+msgid "Search"
+msgstr "검색"
+
+msgid "Ticket"
+msgstr "티켓"
+
+msgid "Unknown ticked ID"
+msgstr "알수없는 티켓ID"
+
+msgid "Money"
+msgstr "머니"
+
+msgid "Pay"
+msgstr "지불"
+
+msgid "Find event"
+msgstr "이벤트찾기"
+
+msgid "Search by event name"
+msgstr "이벤트명으로 찾기"
+
+msgid "Search by event ID"
+msgstr "이벤트ID로 찾기"
+
+msgid "Search results for:"
+msgstr "검색 결과:"
+
+msgid "No available events are found for this league"
+msgstr "이 리그에서 유효한이벤트를 찾지 못했습니다."
+
+msgid "Search Events"
+msgstr "이벤트검색"
+
+msgid "Search another event ID"
+msgstr "다른 이벤트ID 검색"
+
+msgid "Search another event name"
+msgstr "다른 이벤트명 검색"
+
+msgid "Please complete the following form"
+msgstr "다음 양식을 모두작성해 주세요."
+
+msgid "Confirm changes"
+msgstr "변경내용 저장"
+
+msgid "Activity Column"
+msgstr "Activity Column"
+
+msgid "Current balance"
+msgstr "현재잔액"
+
+msgid "Today placed tickets"
+msgstr "오늘등록된 티켓"
+
+msgid "Contact us"
+msgstr "Contact us"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "이용시 문제가 있다면 주저하지 마시고 아래 고객센터에 문의해 주세요."
+
+msgid "Subject"
+msgstr "제목"
+
+msgid "Message"
+msgstr "메시지"
+
+msgid "News"
+msgstr "뉴스"
+
+msgid "Read more"
+msgstr "더보기"
+
+msgid "Soccer"
+msgstr "축구"
+
+msgid "Basketball"
+msgstr "농구"
+
+msgid "Ice Hockey"
+msgstr "아이스하키"
+
+msgid "Tennis"
+msgstr "테니스"
+
+msgid "Rugby"
+msgstr "럭비"
+
+msgid "Half Time 3 way"
+msgstr "하프타임 승무패"
+
+msgid "Top Games"
+msgstr "최고 인기 게임"
+
+msgid "IceHockey"
+msgstr "아이스하키"
+
+msgid "Handball"
+msgstr "핸드볼"
+
+msgid "Last Minute Bets"
+msgstr "마지막1분 벳"
+
+msgid "Shortly"
+msgstr "곧"
+
+msgid "%d events available"
+msgstr "%d 건의 이벤트가 존재합니다."
+
+msgid "Bet now"
+msgstr "지금베팅하기"
+
+msgid "Football"
+msgstr "미식축구"
+
+msgid "Draw"
+msgstr "무승부"
+
+msgid "League not found"
+msgstr "리그를 찾을 수 없습니다."
+
+msgid "No available events found for this league"
+msgstr "이 리그에 이벤트가 존재하지 않습니다."
+
+msgid "Last Minute"
+msgstr "곧 시작될 경기들"
+
+msgid "No leagues selected"
+msgstr "리그가 선택되지 않았습니다."
+
+msgid "Single"
+msgstr "싱글"
+
+msgid "Combi"
+msgstr "콤비"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "Delete all bets"
+msgstr "모든벳삭제"
+
+msgid "Total odds"
+msgstr "총배당률"
+
+msgid "Stake"
+msgstr "베팅액"
+
+msgid "Winning"
+msgstr "승리"
+
+msgid "Preview"
+msgstr "미리보기"
+
+msgid "Place Bet"
+msgstr "베팅하기"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "선택된 베팅이 없습니다. 베팅하려면 베팅을 원하는 이벤트의 배당을 클릭해 주세요."
+
+msgid "Ticket History"
+msgstr "티켓히스토리"
+
+msgid "Ticket ID:"
+msgstr "티켓ID:"
+
+msgid "Print"
+msgstr "프린트"
+
+msgid "No tickets activity available"
+msgstr "티켓액티비티가 존재하지 않습니다."
+
+msgid "Date and time"
+msgstr "일시"
+
+msgid "Ticket id"
+msgstr "티켓ID:"
+
+msgid "ID / Date"
+msgstr "ID/날짜"
+
+msgid "Total:"
+msgstr "합계:"
+
+msgid "Amount:"
+msgstr "금액:"
+
+msgid "Return:"
+msgstr "배당금:"
+
+msgid "Please see your betting history below:"
+msgstr "아래에서 베팅내역을 확인하세요:"
+
+msgid "Ticket ID"
+msgstr "티켓ID"
+
+msgid "Note"
+msgstr "메모"
+
+msgid "To place ticket please use betslip."
+msgstr "베팅하시려면 베팅슬립을 이용하세요."
+
+msgid "Pending tickets"
+msgstr "보류중인 티켓"
+
+msgid "Please see your recently placed tickets below:"
+msgstr "아래에서 최근 베팅한 내역을 확인하세요:"
+
+msgid "Paid"
+msgstr "지불됨"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "보류된티켓이 없습니다. 이전티켓을 보기위해서는 티켓히스토리를 확인해 주세요."
+
+msgid "History"
+msgstr "히스토리"
+
+msgid "Ticket Preview"
+msgstr "티켓미리보기"
+
+msgid "Event ID / Date"
+msgstr "이벤트ID / 날짜"
+
+msgid "Sport / League"
+msgstr "종목 / 리그"
+
+msgid "Submit Ticket"
+msgstr "티켓 제출"
+
+msgid "Clear Ticket"
+msgstr "티켓 초기화"
+
+msgid "No bets selected"
+msgstr "선택된 베팅이 없습니다."
+
+msgid "Ticket placed"
+msgstr "베팅이 완료됐습니다."
+
+msgid "Your ticket is created successfully"
+msgstr "베팅이 성공적으로 완료되었습니다."
+
+msgid "Your ticket number is"
+msgstr "당신의 티켓번호는 "
+
+msgid "Ticket information"
+msgstr "티켓 정보"
+
+msgid "Login/Logout History"
+msgstr "로그인/로그아웃 히스토리"
+
+msgid "User Login/Logout History:"
+msgstr "사용자 로그인/로그아웃 히스토리"
+
+msgid "Action"
+msgstr "액션"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "좀더 편리하게 보기위해 옵션을 설정해 주세요."
+
+msgid "Odds type"
+msgstr "배당유형"
+
+msgid "Time zone"
+msgstr "시간대"
+
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+msgid "Account information"
+msgstr "계정 정보"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr ""
+"신원확인을 위해 전체개인정보를 제공해 주세요.\n"
+"규정에의해 신원확인 이전까지는 일부제품 및 수수료할인 혜택 등에 제한이 있을수 있습니다. 개인정보를 보안 이메일 서비스를 통해 제공하실수 있습니다."
+
+msgid "Date of birth"
+msgstr "생년월일"
+
+msgid "Bank name"
+msgstr "은행명"
+
+msgid "Bank code"
+msgstr "은행코드"
+
+msgid "Bank account number"
+msgstr "계좌번호"
+
+msgid "Ref. Code"
+msgstr "참조코드"
+
+msgid "Balance Information Analysis"
+msgstr "발란스정보분석"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "여기에서 현재잔액에 대한 모든정보를 확인 할 수 있습니다."
+
+msgid "Promotional Code"
+msgstr "프로모션코드"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "추가적인 머니나 다른혜택을 받기위해 아래에 프로모션코드를 추가하세요."
+
+msgid "Code"
+msgstr "코드"
+
+msgid "Submit bonus code"
+msgstr "보너스코드제출"
+
+msgid "Confirmation"
+msgstr "승인"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "이메일이 확인되었습니다. 5초 이내에 홈페이지로 이동합니다. <br/>만약 지정된시간내에 홈페이지로 이동하지 않으면 <a href=\\\"/\\\">여기</a>를 클릭하세요."
+
+msgid "Incorect confirmation code"
+msgstr "잘못된 승인코드입니다."
+
+msgid "Responsible Gaming Settings"
+msgstr "책임이 있는 게임 설정"
+
+msgid "Responsible gaming text"
+msgstr "책임이 있는 게임 텍스트"
+
+msgid "Add Limit"
+msgstr "제약 추가"
+
+msgid "Set the limit you can play for each session"
+msgstr "각세션에서 플레이할수 있는 제약를 설정"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "이후 7일간 내 스포츠북 계정에 접근을 허용하지 않습니다."
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "이후 6개월간 내 스포츠북 계정에 접근을 허용하지 않습니다."
+
+msgid "Block Account"
+msgstr "계정차단"
+
+msgid "Permanently delete your account."
+msgstr "계정을 완전히 삭제합니다."
+
+msgid "Delete My Account"
+msgstr "내 계정 삭제"
+
+msgid "Open account with us!"
+msgstr "엘리시움에 계정을 개설합니다."
+
+msgid "Account data"
+msgstr "계정 데이터"
+
+msgid "Confirm password"
+msgstr "비밀번호 확인"
+
+msgid "Personal question"
+msgstr "개인정보 질문"
+
+msgid "Personal answer"
+msgstr "개인정보 답변"
+
+msgid "Referral ID"
+msgstr "추천인ID"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "은행 데이터 (이 부분은 나중에 입력할 수 있습니다.)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "본인은 만18세 이상이며 내용을 읽고 수락합니다."
+
+msgid "Terms And Conditions"
+msgstr "이용약관"
+
+msgid "Confirm registration"
+msgstr "등록완료"
+
+msgid "Password Reset"
+msgstr "비밀번호 재설정"
+
+msgid "Enter your new password"
+msgstr "새 비밀번호를 입력하세요."
+
+msgid "Change password"
+msgstr "비밀번호 변경"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "아래에 이메일정보를 입력하세요. 비밀번호 재설정을 위한 링크를 입력한 이메일로 보냈습니다. 로그인하기 위한 새로운 비밀번호를 생성할 수 있습니다."
+
+msgid "Withdraw"
+msgstr "출금"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "출금을 하기위서는 아래에 금액을 입력하시고 거래를 진행하세요.:"
+
+msgid "Withdraw ID"
+msgstr "출금ID"
+
+msgid "Request Manual Withdraw"
+msgstr "수동출금요청"
+
+msgid "Transaction Log"
+msgstr "거래 기록"
+
+msgid "List of transactions:"
+msgstr "거래 리스트"
+
+msgid "Transaction Type"
+msgstr "거래 유형"
+
+msgid "Add/Edit %s"
+msgstr "추가/수정 %s"
+
+msgid "Value"
+msgstr "값"
+
+msgid "Parent"
+msgstr "상위"
+
+msgid "Custom Affiliate ID"
+msgstr "고객 제휴 ID"
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "List %s"
+msgstr "리스트 - %s"
+
+msgid "File"
+msgstr "파일"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "Alert ID"
+msgstr "알림ID"
+
+msgid "User id"
+msgstr "사용자ID"
+
+msgid "Alert Title"
+msgstr "알림 제목"
+
+msgid "Alert"
+msgstr "알림"
+
+msgid "Add bet"
+msgstr "벳 추가"
+
+msgid "Alerts"
+msgstr "알림"
+
+msgid "Admin Audit Trail"
+msgstr "어드민감사추적"
+
+msgid "Application File Backups"
+msgstr "어플리케이션 파일 백업"
+
+msgid "Database Backups"
+msgstr "데이터베이스 백업"
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar 피드 로그"
+
+msgid "Liability Dumps"
+msgstr "채무 회피"
+
+msgid "Data list"
+msgstr "데이터 리스트"
+
+msgid "Actions"
+msgstr "액션"
+
+msgid "Translations"
+msgstr "번역"
+
+msgid "Translate"
+msgstr "번역하기"
+
+msgid "No records found"
+msgstr "기록을 찾을 수 없습니다."
+
+msgid "Sports and Leagues"
+msgstr "종목 및 리그"
+
+msgid "Events management"
+msgstr "이벤트 관리"
+
+msgid "Events Printing"
+msgstr "이벤트 프린팅"
+
+msgid "Users report"
+msgstr "사용자 리포트"
+
+msgid "Tickets report"
+msgstr "티켓 리포트"
+
+msgid "Deposits report"
+msgstr "입금 리포트"
+
+msgid "Witdraw report"
+msgstr "출금 리포트"
+
+msgid "Liability report"
+msgstr "채무 리포트"
+
+msgid "Active Users"
+msgstr "액티브 유저"
+
+msgid "locale"
+msgstr "지역"
+
+msgid "Create %s"
+msgstr "생성 - %s"
+
+msgid "Event ID"
+msgstr "이벤트ID"
+
+msgid "User:"
+msgstr "사용자:"
+
+msgid "Level:"
+msgstr "레벨:"
+
+msgid "Current Time:"
+msgstr "현재시간:"
+
+msgid "Current Language:"
+msgstr "현재언어:"
+
+msgid "Front Page"
+msgstr "프론트 페이지"
+
+msgid "Under / Over"
+msgstr "언더 / 오버"
+
+msgid "Handicap"
+msgstr "핸디캡"
+
+msgid "%s Printing"
+msgstr "%s 프린팅"
+
+msgid "Available Events List For:"
+msgstr "유효한 이벤트 목록"
+
+msgid "Unknown Sport"
+msgstr "알수없는 종목"
+
+msgid "Please select sport below:"
+msgstr "아래에서 종목을 선택하세요."
+
+msgid "View Events"
+msgstr "이벤트 조회"
+
+msgid "No available events found for this sport"
+msgstr "이 종목에 유효한 이벤트가 없습니다."
+
+msgid "Can not find event"
+msgstr "이벤트를 찾을수 없습니다."
+
+msgid "Edit %s"
+msgstr "수정 %s"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Users %s"
+msgstr "사용자 %s"
+
+msgid "Edit User"
+msgstr "사용자 수정"
+
+msgid "Administration Panel"
+msgstr "관리자 패널"
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "Staff Login"
+msgstr "운영자 로그인"
+
+msgid "Events"
+msgstr "이벤트"
+
+msgid "Available cultures"
+msgstr "유효한 CULTURE"
+
+msgid "Add a culture"
+msgstr "CULTURE추가"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Cultures this site supports"
+msgstr "이사이트가 지원하는 CULTURE"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "정말 삭제하시겠습니까?"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "모든 사용자에게 홍보 메일을 작성합니다. 메시지는 사용자의 이메일로 전달됩니다."
+
+msgid "Subject:"
+msgstr "제목:"
+
+msgid "Content:"
+msgstr "내용:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "모든 이메일 다운로드(csv)"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "지정된유저에게 홍보 메일을 작성합니다. 메시지는 유저의 이메일로 전달됩니다."
+
+msgid "To:"
+msgstr "To:"
+
+msgid "Contact support team"
+msgstr "지원팀에 문의하기"
+
+msgid "<br>No data in this period"
+msgstr "<br/> 해당기간에 데이터가 없습니다."
+
+msgid "No data in this period"
+msgstr "해당기간에 데이터가 없습니다."
+
+msgid "User name"
+msgstr "사용자명"
+
+msgid "Date of registration"
+msgstr "회원등록일"
+
+msgid "Won"
+msgstr "적중"
+
+msgid "Liability"
+msgstr "의무"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "보너스에대한 의미취소"
+
+msgid "Download (Excel file)"
+msgstr "엑셀파일 다운로드"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "이벤트를 정말 취소하시겠습니까?"
+
+msgid "No events found"
+msgstr "이벤트가 없습니다."
+
+msgid "No events in this league"
+msgstr "이리그에 이벤트가 없습니다."
+
+msgid "Risk Management Settings"
+msgstr "위험관리 설정"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "스포츠북에서 위험관리는 중요합니다. 모든 설정에 대해 주의를 기울여 주세요."
+
+msgid "Lowest stake"
+msgstr "최소 베팅액"
+
+msgid "Highest stake"
+msgstr "최대 베팅액"
+
+msgid "Highest winning amount"
+msgstr "최대 적중 배당금"
+
+msgid "Lowest number of events in one ticket"
+msgstr "티켓당 최소 이벤트 수"
+
+msgid "Highest number of events in one ticket"
+msgstr "티켓당 최대 이벤트 수"
+
+msgid "List Leagues"
+msgstr "리그조회"
+
+msgid "League ID"
+msgstr "리그ID"
+
+msgid "No limits"
+msgstr "제한없음"
+
+msgid "List Sports"
+msgstr "종목조회"
+
+msgid "Sport ID"
+msgstr "종목ID"
+
+msgid "Warning Withdraws"
+msgstr "출금경고"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Warning Stakes"
+msgstr "베팅액 경고"
+
+msgid "Warning Winnings"
+msgstr "적중 경고"
+
+msgid "Warning Deposits"
+msgstr "입금 경고"
+
+msgid "amount"
+msgstr "금액"
+
+msgid "Deposit fee percentage"
+msgstr "입금수수료 (퍼센트)"
+
+msgid "Payment gateways"
+msgstr "페이게이트"
+
+msgid "Please set payment gateways below:"
+msgstr "아래 페이게이트를 설정해 주세요"
+
+msgid "Payments"
+msgstr "지불"
+
+msgid "Deposits %s"
+msgstr "입금 %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "아래 입금위험관리를 설정하세요:"
+
+msgid "Allow automated deposits"
+msgstr "자동화된 입금 허용"
+
+msgid "Allow manual deposits"
+msgstr "수동 입금 허용"
+
+msgid "Lowest amount for deposit"
+msgstr "최소 입금액"
+
+msgid "Highest amount for deposit"
+msgstr "최대 입금액"
+
+msgid "General %s"
+msgstr "일반설정 %s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "일반설정은 사이트의 가장 기본적인 환경설정을 제어합니다. 사이트의 명칭, 지역, 계정의 등록, 날짜와 시간의 표시방법 등"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Contact Email"
+msgstr "문의 이메일"
+
+msgid "Password reset"
+msgstr "비밀번호 재설정"
+
+msgid "Default currency"
+msgstr "기본 화폐단위"
+
+msgid "Default timezone:"
+msgstr "기본 시간대"
+
+msgid "Default language"
+msgstr "기본 언어"
+
+msgid "Charset"
+msgstr "문자셋"
+
+msgid "Items per page"
+msgstr "목록표시 페이지당 표시건수"
+
+msgid "Referral system"
+msgstr "추천 시스템"
+
+msgid "Left active"
+msgstr "좌측 활성"
+
+msgid "Left sidebar title"
+msgstr "좌측 사이드바 제목"
+
+msgid "Left sidebar content"
+msgstr "좌측 사이드바 내용"
+
+msgid "Right active"
+msgstr "우측 활성"
+
+msgid "Right sidebar title"
+msgstr "우측 사이드바 제목"
+
+msgid "Right sidebar content"
+msgstr "우측 사이드바 내용"
+
+msgid "Bottom active"
+msgstr "하단 활성"
+
+msgid "Bottom sidebar title"
+msgstr "하단 사이드바 제목"
+
+msgid "Bottom sidebar content"
+msgstr "하단 사이드바 내용"
+
+msgid "Referral Settings"
+msgstr "추천 설정"
+
+msgid "First deposit percentage to referral"
+msgstr "추천인 첫입금 비율"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "<b>SEO</b> / 검색엔진최적화란?"
+
+msgid "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free"
+msgstr "\"\" \"\"organic"
+
+msgid "Title tag"
+msgstr "Title tag"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Reply to email"
+msgstr "Reply to email"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Bot content revisit time"
+msgstr "봇 컨텐츠 재방문 시간"
+
+msgid "Author"
+msgstr "작성자"
+
+msgid "Tickets %s"
+msgstr "티켓 %s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "일반 티켓 설정은 티켓과 프린팅기능에 관련된 가장 기본적인 환경을 제어합니다."
+
+msgid "Ticket printing"
+msgstr "티켓 프린팅"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "사용자, 운영자 티켓프린팅기능 활성(Yes) 또는 비활성(No)"
+
+msgid "Ticket preview"
+msgstr "티켓미리보기"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "발행전 티켓미리보기 활성(Yes) 또는 비활성(No)"
+
+msgid "Warnings %s"
+msgstr "경고 %s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "경고 설정은 경고화면과 불필요한 알림을 필터링 하는데 유용합니다. 스포츠북에서 가장 중요한부분이 무엇인지 고려하여 수익을 보호하기 위해 이기능을 이용하세요."
+
+msgid "Deposit alert"
+msgstr "입금 알림"
+
+msgid "Withdraw alert"
+msgstr "출금 알림"
+
+msgid "Stake alert"
+msgstr "베팅액 알림"
+
+msgid "Odds alert"
+msgstr "배당률 알림"
+
+msgid "Potential winning alert"
+msgstr "잠재적중 경고"
+
+msgid "Allow withdraws"
+msgstr "출금허가"
+
+msgid "Withdraw %s"
+msgstr "출금 %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "아래 출금위험관리 설정을 해주세요"
+
+msgid "Lowest amount for withdraw request"
+msgstr "최소 출금요청 금액"
+
+msgid "Highest amount for withdraw request"
+msgstr "최대 출금요청 금액"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "종목"
+
+msgid "Leagues"
+msgstr "리그"
+
+msgid "View %s"
+msgstr "보기 %s"
+
+msgid "Ticket Number"
+msgstr "티켓번호"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "티켓을 삭제합니다. 정말 삭제하시겠습니까?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "티켓을 취소합니다. 정말 취소하시겠습니까?"
+
+msgid "Insert Result"
+msgstr "결과 입력"
+
+msgid "Fund user"
+msgstr "펀드 유저"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just credit user with 100 %s"
+msgstr "펀드하려면 입력필드에 금액을 입력하고 제출버튼을 누르세요. 예) 크레딧유저에게 100 %s 를 펀드하고자 한다면, "
+
+msgid " just enter that amount into field and press submit"
+msgstr "해당 금액을 필드에 입력하고 제출을 누르세요."
+
+msgid "Charge user"
+msgstr "청구 유저"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200 %s"
+msgstr "청구하려면 금액을 입력하세요. 유저어카운트로부터 돈이 차감됩니다. 예)크레딧유저에게 200 %s 를 청구하고자 한다면,"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "해당 금액을 필드에 입력하고 제출을 누르세요."
+
+msgid "Add %s"
+msgstr "추가하기 %s"
+
+msgid "Registration chart"
+msgstr "Registration chart"
+
+msgid "KYC user"
+msgstr "KYC유저"
+
+msgid "KYC Documents"
+msgstr "KYC 문서"
+
+msgid "Change KYC Status"
+msgstr "KYC 상태 바꾸기"
+
+msgid "Deposits Bonus History"
+msgstr "입금 보너스 히스토리"
+
+msgid "Sum"
+msgstr "합계"
+
+msgid "Kick"
+msgstr "킥"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "이메일이 확인되었습니다. 당신은 지금 로그인할 수 있습니다."
+
+msgid "Register now!"
+msgstr "지금 등록하세요!"
+
+msgid "Forgotten your password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+msgid "Old password"
+msgstr "기존 비밀번호"
+
+msgid "New password"
+msgstr "새 비밀번호"
+
+msgid "Bank info"
+msgstr "은행정보"
+
+msgid "Please provide your bank info"
+msgstr "은행정보를 제공해주세요."
+
+msgid "Account number"
+msgstr "계좌번호"
+
+msgid "Transaction"
+msgstr "거래"
+
+msgid "User Balance"
+msgstr "유저잔고"
+
+msgid "Please enter your surname"
+msgstr "이름(성)을 입력해 주세요."
+
+msgid "Please enter your first name"
+msgstr "이름을 입력해 주세요."
+
+msgid "Please enter your address"
+msgstr "주소를 입력해 주세요."
+
+msgid "Please enter your Region"
+msgstr "지역을 입력해 주세요."
+
+msgid "Please enter your City of residence"
+msgstr "살고있는 도시를 입력해 주세요."
+
+msgid "Alphabets and numbers only"
+msgstr "영문과 숫자만 입력하세요."
+
+msgid "Between 5 to 15 characters"
+msgstr "글자수 5 - 15자 사이로 입력해 주세요."
+
+msgid "This username has already been taken."
+msgstr "이 유저명은 이미 사용중입니다."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "비밀번호는 글자수 6 - 15자 사이로 입력해 주세요."
+
+msgid "Password must contain at least one number"
+msgstr "비밀번호는 적어도 하나의 숫자를 포함해야 합니다."
+
+msgid "Password must contain at least one letter"
+msgstr "비밀번호는 적어도 하나의 문자를 포함해야 합니다."
+
+msgid "Please enter valid email address"
+msgstr "유효한 이메일 주소를 입력해 주세요."
+
+msgid "This email has already been registered."
+msgstr "이 이메일은 이미 등록되어 있습니다."
+
+msgid "Please enter your name"
+msgstr "이름을 입력해 주세요."
+
+msgid "Please enter your street address"
+msgstr "상세주소를 입력해 주세요."
+
+msgid "Please enter city"
+msgstr "도시를 입력해 주세요."
+
+msgid "Please enter country"
+msgstr "국가를 입력해 주세요."
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "유저등록을 완료하려면 만 21세이상이어야합니다."
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "유저등록을 완료하려면 만 18세이상이어야합니다."
+
+msgid "Please enter valid mobile number"
+msgstr "유효한 휴대폰 번호를 입력해 주세요."
+
+msgid "Please your personal question"
+msgstr "개인정보 질문을 입력해 주세요."
+
+msgid "Please enter valid answer"
+msgstr "개인정보 답변을 입력해 주세요."
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "이용약관에 동의해야만 등록을 완료할 수 있습니다."
+
+msgid "This field cannot be left blank"
+msgstr "필수항목입니다."
+
+msgid "Mimimum 5 characters long"
+msgstr "5글자 이상 입력해 주세요."
+
+msgid "The username should be different from email"
+msgstr "이메일과 다른 유저명을 입력해 주세요."
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "비밀번호는 글자수 8 - 15자 사이로 입력해 주세요."
+
+msgid "The Password has to be different from username."
+msgstr "비밀번호가 유저명과 같습니다. 다른 비밀번호를 입력해 주세요."
+
+msgid "It seems that you are already registered."
+msgstr "이미 등록된 유저입니다. 가입여부를 확인해 주세요."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "상세주소가 비어있거나 존재하지 않습니다."
+
+msgid "Debug setting does not allow access to this url."
+msgstr "DEBUG설정은 이URL에서는 허용되지 않습니다."
+
+msgid "Match odds"
+msgstr "승무패"
+
+msgid "Remaining match"
+msgstr "리메이닝벳"
+
+msgid "Next Goal"
+msgstr "다음골"
+
+msgid "Next goal"
+msgstr "다음골"
+
+msgid "Total Goals +/-"
+msgstr "토탈골 +/-"
+
+msgid "Match odds (1 2)"
+msgstr "매치오즈(1 2)"
+
+msgid "Set 1 2"
+msgstr "세트 1 2"
+
+msgid "Set Score"
+msgstr "세트 스코어"
+
+msgid "Sets Overall"
+msgstr "모든 세트"
+
+msgid "Total Points +/-"
+msgstr "총득점 +/-"
+
+msgid "Goals from now +/-"
+msgstr "지금부터추가골 +/-"
+
+msgid "Match odds (1x2)"
+msgstr "매치오즈 (1x2)"
+
+msgid "1 hour"
+msgstr "1시간"
+
+msgid "2 hours"
+msgstr "2시간"
+
+msgid "3 hours"
+msgstr "3시간"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "LIVE"
+msgstr "라이브"
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Click on team name for extra bets"
+msgstr "추가베팅을 위해 팀명을 클릭하세요."
+
+msgid "Upcoming Live Matches"
+msgstr "다음 라이브 매칭"
+
+msgid "Login For"
+msgstr "로그인"
+
+msgid "minutes"
+msgstr "분"
+
+msgid "open"
+msgstr "열기"
+
+msgid "Sport Bets"
+msgstr "스포츠베팅"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "축구,테니스, 아이스하키 등 많은 경기에 최고배당률 "
+
+msgid "Number of Bets Placed: "
+msgstr "선택한베팅수"
+
+msgid "Max Wager for bets: "
+msgstr "최대베팅액"
+
+msgid "Wager:"
+msgstr "배팅금액:"
+
+msgid "Wager"
+msgstr "베팅액"
+
+msgid "Max Payout:"
+msgstr "최대당첨금:"
+
+msgid "All games / All events"
+msgstr "모든경기 / 모든이벤트"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "모든게임을 한번에 봅니다, 모든 일반스포츠와 모든 베팅을 결합할 수 있습니다."
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "이전에없었던 라이브 게임, 우리의 혁신적인 서비스를 지금 시작하세요. 행운을 바랍니다!"
+
+msgid "more groups"
+msgstr "more groups"
+
+msgid "Draw no Bet Period"
+msgstr "피리어드 무승부 무효"
+
+msgid "Total x Period"
+msgstr "Total x Period"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "귀하의 계정에 입금한도를 설정하세요."
+
+msgid "Play Session Limit"
+msgstr "플레이세션 한계"
+
+msgid "Wager Limit"
+msgstr "베팅금액 한도"
+
+msgid "Loss Limit"
+msgstr "손실 한도"
+
+msgid "Self Exclusion"
+msgstr "자가차단"
+
+msgid "DELETE ACCOUNT"
+msgstr "계정삭제"
+
+msgid "Per Transaction"
+msgstr "거래당"
+
+msgid "Daily"
+msgstr "일"
+
+msgid "Weekly"
+msgstr "주"
+
+msgid "Monthly"
+msgstr "월"
+
+msgid "No Limit"
+msgstr "제한없음"
+
+msgid "After %s minutes"
+msgstr "%s분 후"
+
+msgid "After one Hour"
+msgstr "1시간 후"
+
+msgid "After two Hours"
+msgstr "2시간 후"
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "최근 %s분간 플레이했습니다. 결과: <br>입금 € %s <br>베팅 € %s <br>손실 € %s <br>윈 € %s"
+
+msgid "Outdated Browser Detected"
+msgstr "오래된 버전의 브라우저를 감지했습니다."
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "귀하는 오래된 버전의 부라우저를 사용하고 있습니다.  현재 사용하고 계신 버전의 브라우저를 이용하면 저희 웹사이트의 기능에 액세스하실 수 없습니다.  업그레이드가 반듯이 필요한것은 아니지만 우리웹사이트를 편리하게 이용하시기 위해 업그레이드 하시기를 바랍니다."
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "아래 링크에서 새 브라우저를 다운로드하거나 귀하의 현재 브라우저를 업그레이드 하세요."
+
+msgid "Remind me later"
+msgstr "나중에 다시 알림"
+
+msgid "No available Bonuses."
+msgstr "보너스가 없습니다."
+
+msgid "Available Bonuses."
+msgstr "이용가능한 보너스"
+
+msgid "Locked Amount"
+msgstr "잠겨진 금액"
+
+msgid "Opened on"
+msgstr "Opened on"
+
+msgid "Activation Date"
+msgstr "활성화된 날짜"
+
+msgid "Expiration Date"
+msgstr "만료일"
+
+msgid "Account Information"
+msgstr "계정 정보"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "모든리그 및 이벤트의 결과표 일정 및 라이브스코어"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "라이브카지노에서 룰렛, 블랙잭, 바카라를 즐기세요."
+
+msgid "Identity Card (back view)"
+msgstr "신분증(뒷면)"
+
+msgid "Identity Card (front view)"
+msgstr "신분증(앞면)"
+
+msgid "Bank Account"
+msgstr "은행 계좌"
+
+msgid "Register now and get 7bonus7"
+msgstr "지금 등록하고 7bonus7를 받으세요."
+
+msgid "Top Winner"
+msgstr "TOP 위너"
+
+msgid "close"
+msgstr "닫기"
+
+msgid "hours"
+msgstr "시간"
+
+msgid "Instant Play"
+msgstr "즉시 시작"
+
+msgid "Live Video Streaming"
+msgstr "라이브 비디오 스트리밍"
+
+msgid "Betslip Wagering"
+msgstr "베트슬립 웨이저링"
+
+msgid "Ticket Win"
+msgstr "티켓 적중"
+
+msgid "Bonus Cancellation by user."
+msgstr "유저에의한 보너스 취소"
+
+msgid "Bonus activation"
+msgstr "보너스 활성화"
+
+msgid "APCO Deposit"
+msgstr "APCO입금"
+
+msgid "Account Deposit"
+msgstr "계정 입금"
+
+msgid "Live Casino Transaction"
+msgstr "Live Casino Transaction"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Live Casino RollBack Transaction"
+
+msgid "in every game"
+msgstr "모든 게임에서"
+
+msgid "Log in"
+msgstr "로그인"
+
+msgid "Stake:"
+msgstr "베팅액:"
+
+msgid "View Tickets"
+msgstr "베팅조회"
+
+msgid "Number of Bets Placed:"
+msgstr "선택한폴더수"
+
+msgid "Max Wager for bets:"
+msgstr "최대베팅액"
+
+msgid "bets"
+msgstr "벳"
+
+msgid "Admin add Funds"
+msgstr "관리자 펀드추가"
+
+msgid "Bonus activation:"
+msgstr "보너스 활성화:"
+
+msgid "APCO Deposit:"
+msgstr "APCO입금:"
+
+msgid "Withdrawal"
+msgstr "출금"
+
+msgid "Betslip Cancellation:"
+msgstr "벳슬립 취소:"
+
+msgid "Cancelled WithDrawal"
+msgstr "취소된 출금"
+
+msgid "Ticket Cancelled"
+msgstr "티켓 취소됨"
+
+msgid "en_us"
+msgstr ""
+
+msgid "bg_bg"
+msgstr ""
+
+msgid "hr_hr"
+msgstr ""
+
+msgid "cs_cz"
+msgstr ""
+
+msgid "da_dk"
+msgstr ""
+
+msgid "et_ee"
+msgstr ""
+
+msgid "fi_fi"
+msgstr ""
+
+msgid "fr_fr"
+msgstr ""
+
+msgid "de_de"
+msgstr ""
+
+msgid "el_gr"
+msgstr ""
+
+msgid "hu_hu"
+msgstr ""
+
+msgid "it_it"
+msgstr ""
+
+msgid "lv_lv"
+msgstr ""
+
+msgid "lt_lt"
+msgstr ""
+
+msgid "no_no"
+msgstr ""
+
+msgid "pl_pl"
+msgstr ""
+
+msgid "pt_pt"
+msgstr ""
+
+msgid "ro_ro"
+msgstr ""
+
+msgid "ru_ru"
+msgstr ""
+
+msgid "sr_sp"
+msgstr ""
+
+msgid "srl_sr"
+msgstr ""
+
+msgid "sk_sk"
+msgstr ""
+
+msgid "sl_sl"
+msgstr ""
+
+msgid "es_es"
+msgstr ""
+
+msgid "se_se"
+msgstr ""
+
+msgid "tr_tr"
+msgstr ""
+
+msgid "bs_bs"
+msgstr ""
+
+msgid "Price"
+msgstr "금액"
+
+msgid "Bet Split"
+msgstr "벳 스플릿"
+
+msgid "The Company"
+msgstr "회사"
+
+msgid "Help & Legal"
+msgstr "도움말 및 법률"
+
+msgid "Useful Links"
+msgstr "유용한 링크"
+
+msgid "Payment Options"
+msgstr "지불옵션"
+
+msgid "Extra Bets"
+msgstr "추가 베팅"
+
+msgid "No, don't remind me again"
+msgstr "아니오, 다시 표시안함."
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "좌측에서 즐겨보는 종목과 리그를 선택하시면, 다음에 방문하실때 바로 보실 수 있습니다."
+
+msgid "3 Way"
+msgstr "승무패"
+
+msgid "2 Way"
+msgstr "승패"
+
+msgid "Totals"
+msgstr "오버언더"
+
+msgid "Championship Outrights"
+msgstr "챔피언쉽  아웃라이트"
+
+msgid "Short Term Outrights"
+msgstr "단기 아웃라이트"
+
+msgid "Podium Finish"
+msgstr "시상 끝남."
+
+msgid "3-balls"
+msgstr "3 볼"
+
+msgid "1st Half - 1X2"
+msgstr "전반 - 1X2"
+
+msgid "Asian Handicap"
+msgstr "아시안 핸디캡"
+
+msgid "Asian Total"
+msgstr "아시안 토탈"
+
+msgid "1st Half - Asian Handicap"
+msgstr "전반 - 아시안 핸디캡"
+
+msgid "1st Half - Asian Total"
+msgstr "전반 - 아시안 토탈"
+
+msgid "First goalscorer"
+msgstr "첫골넣는 선수"
+
+msgid "1st Half - Correct Score"
+msgstr "전반 - 정확한 스코어"
+
+msgid "Highest scoring half"
+msgstr "전/후반 중 득점이 많이나온 쪽은?"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "전반 - 골수 홀/짝"
+
+msgid "Overtime yes/no"
+msgstr "연장전 예/아니오"
+
+msgid "Winning margins"
+msgstr "승팀 골수"
+
+msgid "Anytime goalscorer"
+msgstr "Anytime 득점자"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "전반 - 총 경고횟수 오버/언더"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "전반 - 총 경고 포인트"
+
+msgid "Player sent off?"
+msgstr "선수퇴장?"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "전반전 - 선수퇴장?"
+
+msgid "Number of bookings home"
+msgstr "홈팀 경고 횟수"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "전반전 홈팀경고 횟수"
+
+msgid "Number of bookings away"
+msgstr "원정팀 경고 횟수"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "전반전 원정팀 경고 횟수"
+
+msgid "First Team Booked"
+msgstr "처음 경고받는 팀"
+
+msgid "1st Half - First Team Booked"
+msgstr "전반전 처음 경고받는 팀"
+
+msgid "Match bookings"
+msgstr "경고횟수가 많은 팀"
+
+msgid "1st Half - Match Bookings"
+msgstr "전반전에 경고횟수가 많은팀"
+
+msgid "Aggregated booking points"
+msgstr "경고 포인트 합계"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "전반전 경고 포인트 합계"
+
+msgid "Exact bookings"
+msgstr "정확한 경고횟수"
+
+msgid "1st Half - Exact Bookings"
+msgstr "전반전 정확한 경고횟수"
+
+msgid "Home Team Player Sent Off"
+msgstr "홈팀 선수퇴장"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "전반전 홈팀선수퇴장"
+
+msgid "Away Team Player Sent Off"
+msgstr "원정팀 선수퇴장 "
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "전반전 원정팀 선수퇴장"
+
+msgid "2nd Half - Asian Total"
+msgstr "후반 - 아시안 토탈"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "후반 - 아시안 핸디캡"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "하프타임/풀타임 정확한 스코어"
+
+msgid "Overtime + goal Yes/No"
+msgstr "연장전 + 골 예/아니오"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "승부차기 예/아니오"
+
+msgid "How will the match be decided?"
+msgstr "경기결과가 어떻게 결정되나?"
+
+msgid "Clean sheet home team"
+msgstr "홈팀 무실점"
+
+msgid "Clean sheet away team"
+msgstr "원정팀 무실점"
+
+msgid "1st Half - Total Corners"
+msgstr "전반전 총 코너킥 횟수"
+
+msgid "Corner handicap"
+msgstr "코너킥 핸디캡"
+
+msgid "1st Half - Corner Handicap"
+msgstr "전반전 코너킥 핸디캡"
+
+msgid "Corner matchbet"
+msgstr "코너킥 매치벳"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "코너킥 매치벳"
+
+msgid "Corner Odd/Even"
+msgstr "코너킥 횟수 홀/짝"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "전반전 코너킥 횟수 홀/짝"
+
+msgid "First corner"
+msgstr "첫 코너킥 하는 팀"
+
+msgid "1st Half - First Corner"
+msgstr "전반전 첫 코너킥 하는 팀"
+
+msgid "Home Team Number of Corners"
+msgstr "홈팀의 코너킥 횟수"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "전반전 홈팀 코너킥 횟수"
+
+msgid "Last corner"
+msgstr "마지막 코너킥 하는 팀"
+
+msgid "1st Half - Last Corner"
+msgstr "전반전 마지막 코너킥 하는 팀"
+
+msgid "Away Team Number of Corners"
+msgstr "원정팀 코너킥 횟수"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "전반전 원정팀 코너킥 횟수"
+
+msgid "Last team to score"
+msgstr "마지막으로 득점하는 팀은"
+
+msgid "Corner Total (Aggregated)"
+msgstr "코너킥 총 횟수(합계)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "전반전 코너킥 총 횟수(합계)"
+
+msgid "First goal interval 10 min"
+msgstr "첫골이 나오는 시간대 10분간격"
+
+msgid "1st Half - Both Teams to score"
+msgstr "전반 양팀 득점 "
+
+msgid "Odd/Even Points"
+msgstr "포인트 홀/짝"
+
+msgid "Points Spreads"
+msgstr "포인트 스프레드"
+
+msgid "Total Spreads"
+msgstr "토탈 스프레드"
+
+msgid "1st Half - Points Spread"
+msgstr "전반전 포인트 스프레드"
+
+msgid "1st Half - Total Spread"
+msgstr "전반전 토탈 스프레드"
+
+msgid "Matchbet and Totals"
+msgstr "매치벳 토탈"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "전반전 포인트 홀/짝"
+
+msgid "1st Half - 2way"
+msgstr "전반전 승패"
+
+msgid "Highest Scoring Quarter"
+msgstr "득점이 많은 쿼터"
+
+msgid "3way"
+msgstr "승무패"
+
+msgid "2nd Half - Points Spread"
+msgstr "후반전 포인트스프레드"
+
+msgid "2nd Half - Total Spread"
+msgstr "후반전 토탈스프레드"
+
+msgid "1st Half - Draw no bet"
+msgstr "전반전 2WAY 승패(무승부 무효)"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "후반전 포인트 홀짝"
+
+msgid "2nd Half - Draw no bet"
+msgstr "후반전 2WAY 승패(무승부 무효)"
+
+msgid "Total margins NBA-ranges"
+msgstr "총점수 범위(NBA)"
+
+msgid "Total margins Regular-ranges"
+msgstr "총점수 범위(정규)"
+
+msgid "Totals away team"
+msgstr "원정팀 총점"
+
+msgid "Totals home team"
+msgstr "홈팀 총점"
+
+msgid "1st Quarter - 1X2"
+msgstr "1쿼터 - 1X2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2쿼터 - 1X2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3쿼터 - 1X2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4쿼터 - 1X2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1쿼터 - 2WAY 승패(무승부 무효)"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2쿼터 - 2WAY 승패(무승부 무효)"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3쿼터 - 2WAY 승패(무승부 무효)"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4쿼터 - 2WAY 승패(무승부 무효)"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1쿼터 - 토탈스프레드"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2쿼터 - 토탈스프레드"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3쿼터 - 토탈스프레드"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4쿼터 - 토탈스프레드"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1쿼터 - 포인트 스프레드"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2쿼터 - 포인트 스프레드"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3쿼터 - 포인트 스프레드"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4쿼터 - 포인트 스프레드"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1쿼터 - 포인트 홀/짝"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2쿼터 - 포인트 홀/짝"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3쿼터 - 포인트 홀/짝"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4쿼터 - 포인트 홀/짝"
+
+msgid "First to x points"
+msgstr "먼저 기준스코어를 득점하는 팀"
+
+msgid "Total AAMS"
+msgstr "총점 AAMS"
+
+msgid "Total 3way"
+msgstr "토탈 승무패"
+
+msgid "Points Spreads (Overtime)"
+msgstr "포인트스프레드 (연장전)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "토탈스프레드 (연장전)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "득점 홀/짝 (연장전)"
+
+msgid "Correct Score"
+msgstr "정확한 스코어"
+
+msgid "Both teams to score?"
+msgstr "양팀 득점"
+
+msgid "Goal Spreads"
+msgstr "골 스프레드"
+
+msgid "1st Period - 3way"
+msgstr "1피리어드 - 승무패"
+
+msgid "3rd Period - 3way"
+msgstr "3피리어드 - 승무패"
+
+msgid "1st Period – Total"
+msgstr "1피리어드 - 총점수"
+
+msgid "2nd Period – Total"
+msgstr "2피리어드 - 총점수"
+
+msgid "3rd Period – Total"
+msgstr "3피리어드 - 총점수"
+
+msgid "1st Period - Double Chance"
+msgstr "1피리어드 - 더블찬스"
+
+msgid "2nd Period - Double Chance"
+msgstr "2피리어드 - 더블찬스"
+
+msgid "3rd Period - Double Chance"
+msgstr "3피리어드 - 더블찬스"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "골수 홀/짝 (연장전, 승부치기 포함)"
+
+msgid "Highest Scoring Period"
+msgstr "가장 많은 득점이 있는 피리어드"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "골 스프레드 (연장전포함)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "토탈 스프레드 (연장전포함)"
+
+msgid "Last team to Score"
+msgstr "마지막 득점 팀"
+
+msgid "2nd Period - 3way"
+msgstr "2피리어드 승무패"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1피리어드 골수 홀/짝"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2피리어드 골수 홀/짝"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3피리어드 골수 홀/짝"
+
+msgid "1st Period - Draw no bet"
+msgstr "1피리어드 무승부 무효"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2피리어드 무승부 무효"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3피리어드 무승부 무효"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2피리어드 양팀 모두 득점"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3피리어드 양팀 모두 득점"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1피리어드 골스프레드"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2피리어드 골스프레드"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3피리어드 골스프레드"
+
+msgid "2nd Period - First team to score"
+msgstr "2피리어드 첫득점팀"
+
+msgid "3rd Period - First team to score"
+msgstr "3피리어드 첫득점팀"
+
+msgid "1st Period - Last team to score"
+msgstr "1피리어드 마지막 득점팀"
+
+msgid "2nd Period - Last team to score"
+msgstr "2피리어드 마지막 득점팀"
+
+msgid "3rd Period - Last team to score"
+msgstr "3피리어드 마지막 득점팀"
+
+msgid "1st Period - Both teams to score"
+msgstr "1피리어드 양팀 모두 득점"
+
+msgid "Totals (incl. OT)"
+msgstr "총점 (연장전 포함)"
+
+msgid "2way (incl. OT)"
+msgstr "승패 (연장전 포함)"
+
+msgid "1st Set Winner"
+msgstr "1세트 승자"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "총 플레이 세트 (3세트경기)"
+
+msgid "2nd Set Winner"
+msgstr "2세트 승자"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "총 플레이 세트 (5세트경기)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "정확한 세트스코어 (3세트경기)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "정확한 세트스코어 (5세트경기)"
+
+msgid "1st Half - 3way"
+msgstr "전반 - 승무패"
+
+msgid "Halftime / Fulltime"
+msgstr "하프타임/풀타임  "
+
+msgid "Odd / Even Goals"
+msgstr "골수 홀/짝"
+
+msgid "1st Half - Goal Spread"
+msgstr "전반 - 골스프레드"
+
+msgid "2nd half - 3way"
+msgstr "후반 - 골스프레드"
+
+msgid "1st half - Double Chance"
+msgstr "전반 - 더블찬스"
+
+msgid "1st half - Draw no bet"
+msgstr "전반 - 무승부 무효"
+
+msgid "1st Half - Odd / Even"
+msgstr "전반 - 홀/짝"
+
+msgid "2nd Half - Odd / Even"
+msgstr "후반 - 홀/짝"
+
+msgid "Points Spread"
+msgstr "포인트 스프레드"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Rugby Union 승팀 점수"
+
+msgid "Winning Margins Rugby League"
+msgstr "Rugby League 승팀 점수 "
+
+msgid "1st Half - Points Spreads"
+msgstr "전반 포인트스프레드"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "전반 포인트 홀/짝"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "홀/짝 포인트 (연장전)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "후반 포인트 스프레드 (연장전 포함)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "후반 토탈 스프레드 (연장전 포함)"
+
+msgid "Who wins first set"
+msgstr "1세트 승자는?"
+
+msgid "Who wins second set"
+msgstr "2세트 승자는?"
+
+msgid "Total number of sets (best of 5)"
+msgstr "총 플레이 세트 (5세트경기)"
+
+msgid "Correct Set Score"
+msgstr "정확한 세트 스코어"
+
+msgid "How many sets will exceed score limit?"
+msgstr "점수제한을 넘기는 세트의 수는?"
+
+msgid "1st Set Handicap"
+msgstr "1세트 핸디캡"
+
+msgid "1st Set Total"
+msgstr "1세트 토탈"
+
+msgid "1st Set Race to X"
+msgstr "1세트 Race to X"
+
+msgid "1st Set Odd/even"
+msgstr "1세트 홀/짝"
+
+msgid "Who wins third set"
+msgstr "3세트의 승자는?"
+
+msgid "Who wins fourth set"
+msgstr "4세트의 승자는?"
+
+msgid "Who wins fifth set"
+msgstr "5세트의 승자는?"
+
+msgid "5th Set Played?"
+msgstr "5세트 경기를 플레이했다?"
+
+msgid "4th Set Played?"
+msgstr "4세트 경기를 플레이했다?"
+
+msgid "Total number of sets (best of 3)"
+msgstr "총 플레이 세트 (3세트경기)"
+
+msgid "Line"
+msgstr "라인"
+
+msgid "Over"
+msgstr "오버"
+
+msgid "Under"
+msgstr "언더"
+
+msgid "None"
+msgstr "None"
+
+msgid "goals"
+msgstr "골"
+
+msgid "Goals"
+msgstr "골"
+
+msgid "Under and home"
+msgstr "홈팀 언더"
+
+msgid "Under and draw"
+msgstr "무승부 언더"
+
+msgid "Under and away"
+msgstr "원정팀 언더"
+
+msgid "1st"
+msgstr "첫번째"
+
+msgid "2nd"
+msgstr "두번째"
+
+msgid "Equal"
+msgstr "같다"
+
+msgid "Hometeam scores first and draw"
+msgstr "홈팀 첫득점, 무승부"
+
+msgid "Awayteam scores first and draw"
+msgstr "원정팀 첫득점, 무승부"
+
+msgid "Odd"
+msgstr "배당률"
+
+msgid "Even"
+msgstr "짝"
+
+msgid "Others"
+msgstr "그외"
+
+msgid "Over and away"
+msgstr "원정팀 오버"
+
+msgid "Over and draw"
+msgstr "무승부 오버"
+
+msgid "Over and home"
+msgstr "홈팀 오버"
+
+msgid "other"
+msgstr "그외"
+
+msgid "1st period"
+msgstr "1피리어드"
+
+msgid "2nd period"
+msgstr "2피리어드"
+
+msgid "3rd period"
+msgstr "3피리어드"
+
+msgid "1 sets"
+msgstr "1세트"
+
+msgid "2 sets"
+msgstr "2세트"
+
+msgid "3 sets"
+msgstr "3세트"
+
+msgid "4 sets"
+msgstr "4세트"
+
+msgid "5 sets"
+msgstr "5세트"
+
+msgid "0 sets"
+msgstr "0세트"
+
+msgid "1st quarter"
+msgstr "1쿼터"
+
+msgid "2nd quarter"
+msgstr "2쿼터"
+
+msgid "3rd quarter"
+msgstr "3쿼터"
+
+msgid "4th quarter"
+msgstr "4쿼터"
+
+msgid "No goal"
+msgstr "무득점"
+
+msgid "Chat with Real Dealers"
+msgstr "실제 딜러와 채팅"
+
+msgid "PLAY NOW"
+msgstr "지금 플레이하세요."
+
+msgid "Order for member card by user %s sent successfully."
+msgstr "유저 %s에 의해 멤버카드가 성공적으로 전송되었습니다."
+
+msgid "Blackjack"
+msgstr "블랙잭"
+
+msgid "Tip"
+msgstr "팁"
+
+msgid "Win Period"
+msgstr "승 피리어드"
+
+msgid "HT"
+msgstr "홈"
+
+msgid "Set"
+msgstr "세트"
+
+msgid "Third"
+msgstr "세번째"
+
+msgid "First Goal"
+msgstr "첫골"
+
+msgid "Halftime"
+msgstr "하프타임"
+
+msgid "This site is oparated by ABC Gaming with company number CXXXXX ."
+msgstr "이사이트는 ABC회사가 운영합니다. 등록번호: CXXXXX ."
+
+msgid "Congratulations!<br>You are entitled to %s &euro; bonus.<br>If you want to take it, go to :<br>My account -> Bonus<br>You need to tick the box next to the bonus name.<br>After activating your bonus you have to wager at least 5 times the deposit amount and the bonus amount (together).<br><b>Requirements</b><br>You can bet:<br> 1. On any kind of matches you wish<br> 2. On Single or Combination bets (no system bets)<br> 3. On Live or Prematch events<br> 4. Minimal odd of each event in the ticket should be 1.70 and the odd of each event over 1,35.<br><br>We wish you good luck<br>"
+msgstr "축하합니다! 귀하는 %s &euro; 보너스 자격을 받았습니다. <br/>보너스를 받으시려면 <br/> 내계정 -> 보너스 <br/> 로 이동하여 보너스명 옆에있는 상자를 체크해야 합니다.<br/>이렇게 활성화 한 후에는 적어도 5회의 베팅을 보너스와 머니를 함께 베팅해야 합니다.<br/><br/>요구사항. <br/>다음과 같이 베팅하세요: <br/> 1. 어떤종류든 당신이 원는 매치에. <br/> 2. 싱글 또는 콤비에 베팅하세요(시스템베팅 제외)<br/> 3. 라이브 또는 프리매치 이벤트에 베팅<br/> 4. 각 이벤트의 배당률은 최소 1.70 최대 1.35 ? <br/><br/> 당신의 행운을 빕니다."
+
+msgid "Electricity, Water, Landline Bill of the last 3 months"
+msgstr "지난 3개월간의 전기, 수도, 전화요금 청구서 "
+
+msgid "Please be aware that this is your %srd withdraw request in this week and it will cost you 8 EUR which will be deducted from the amount that you wish to withdraw. You can also read it on our Terms and Conditions. Do you still want to proceed with the transaction?"
+msgstr "금주 중 %s번째 출금이라는 점 유의해 주세요. 귀하가 출금을 원하는 금액에서 8 EUR이 차감될것입니다.  자세한 내용은 서비스 이용약관의 내용을 참고해 주세요. 이 거래를 계속 진행하시겠습니까?"
+
+msgid "2nd Half – Totals Away Team"
+msgstr "후반 - 원정팀 토탈"
+
+msgid "Correct Score (incl other) 2"
+msgstr "정확한 스코어 (그외 포함) 2"
+
+msgid "First Half - Matchbet + Totals"
+msgstr "전반 - 매치벳 + 토탈"
+
+msgid "2nd Half - Correct Score"
+msgstr "후반 - 정확한 스코어"
+
+msgid "1st Half - Total Spreads"
+msgstr "전반 - 토탈 스프레드"
+
+msgid "Highest Scoring Half"
+msgstr "전/후반 중 득점이 많은쪽은?"
+
+msgid "Winning Margins"
+msgstr "승팀 점수"
+
+msgid "2nd Half - Draw no bet "
+msgstr "후반 - 2WAY 승패(무승부 무효)"
+
+msgid "Overtime Yes/No "
+msgstr "연장전간다. 예/아니오"
+
+msgid "1st Period - First team to score"
+msgstr "1피리어드 - 첫득점팀"
+
+msgid "Live Games Meeting "
+msgstr "Live Games Meeting "
+
+msgid "3 way"
+msgstr "승무패"
+
+msgid "First team to score"
+msgstr "첫득점 팀"
+
+msgid "Both teams to score"
+msgstr "양팀 득점"
+
+msgid "European Handicap"
+msgstr "유로피언 핸디캡"
+
+msgid "Correct score"
+msgstr "정확한 스코어"
+
+msgid "1st Half - European Handicap"
+msgstr "전반 - 유로피언 핸디캡"
+
+msgid "Home to score in both halves?"
+msgstr "홈팀이 전/후반 모두 득점하는가?"
+
+msgid "Away to score in both halves?"
+msgstr "원정팀이 전/후반 모두 득점하는가?"
+
+msgid "2nd Half - Correct Score 2"
+msgstr "후반 - 정확한 스코어 2"
+
+msgid "Matchflow"
+msgstr "매치벳/첫득점팀 콤비"
+
+msgid "1st Half Double Chance"
+msgstr "전반전 더블찬스"
+
+msgid "Home No Bet"
+msgstr "2WAY 원정승무(홈승 무효)"
+
+msgid "First goal interval 15 min"
+msgstr "첫골이 나오는 시간대 15분간격"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "후반 양팀 득점"
+
+msgid "Correct score (incl. other)"
+msgstr "정확한 스코어(incl. other)"
+
+msgid "2nd half - Double Chance"
+msgstr "후반 - 더블찬스"
+
+msgid "Both Teams To Score + Totals"
+msgstr "양팀 모두득점 + 토탈"
+
+msgid "Both Teams to Score"
+msgstr "양팀 득점"
+
+msgid "1st Half - Total Goals"
+msgstr "전반전 - 총 골수"
+
+msgid "1st Half - Correct Score 2"
+msgstr "전반 - 정확한 스코어 2"
+
+msgid "Goals away team"
+msgstr "원정팀골"
+
+msgid "1st Half - Totals"
+msgstr "전반전 총점수"
+
+msgid "Home to win both halves?"
+msgstr "홈팀이 전/후반 모두 승리하는가?"
+
+msgid "2nd Half - Totals Home Team"
+msgstr "후반 - 홈팀 토탈"
+
+msgid "Away to win both halves?"
+msgstr "원정팀이 전/후반 모두 승리하는가?"
+
+msgid "Both halves over 1.5?"
+msgstr "전/후반 모두 1.5골 이상인가?"
+
+msgid "1st Half Draw no Bet"
+msgstr "전반전 2WAY 승패(무승부 무효)"
+
+msgid "First 10 minutes -3 way"
+msgstr "첫10분동안 승무패(승무패)"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "홈팀의 전/후반 중 득점이 많은쪽은?"
+
+msgid "First Team to score"
+msgstr "첫득점 팀"
+
+msgid "Total Goals (exact)"
+msgstr "총 골수(정확히)"
+
+msgid "Totals Awayteam"
+msgstr "원정팀 토탈"
+
+msgid "2nd Half - Total Goals"
+msgstr "후반전 - 총 골수"
+
+msgid "Matchbet + Both Teams to Score"
+msgstr "매치벳 + 양팀모두득점"
+
+msgid "Draw no bet"
+msgstr "무승부 무효"
+
+msgid "1st Half - Totals Home Team"
+msgstr "전반 - 홈팀 토탈"
+
+msgid "2nd Half - Totals"
+msgstr "후반전 총점수"
+
+msgid "Home to win either half?"
+msgstr "홈팀이 전/후반 중 한쪽만 승리하는가?"
+
+msgid "2nd Half - Totals Away Team"
+msgstr "후반 - 원정팀 토탈"
+
+msgid "Total Goals (aggregated)"
+msgstr "전체 골수 (집계)"
+
+msgid "Away to win either half?"
+msgstr "원정팀이 전/후반 중 한쪽만 승리하는가?"
+
+msgid "Matchbet + Totals"
+msgstr "매치벳/오버언더 콤비"
+
+msgid "Both halves under 1.5?"
+msgstr "전/후반 모두 1.5골 이하인가?"
+
+msgid "2nd Half - European Handicap"
+msgstr "후반 - 유로피언 핸티캡"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "원정팀의 전/후반 중 득점이 많은쪽은?"
+
+msgid "2nd Half - 1X2"
+msgstr "후반 - 1X2"
+
+msgid "2nd half - Draw no bet"
+msgstr "후반전 2WAY 승패(무승부 무효)"
+
+msgid "First Half - Matchbet + Both Teams To Score"
+msgstr "전반 - 매치벳 + 양팀 모두득점"
+
+msgid "Totals Hometeam"
+msgstr "홈팀 토탈"
+
+msgid "Which team to score"
+msgstr "어느팀이 득점하는가?"
+
+msgid "Odd/Even goals"
+msgstr "골수 홀/짝"
+
+msgid "1st Half - First team to score"
+msgstr "전반 - 첫득점 팀"
+
+msgid "Goals home team"
+msgstr "홈팀골"
+
+msgid "1st Half - Totals Away Team"
+msgstr "전반 - 원정팀 토탈"
+
+msgid "Total number of bookings"
+msgstr "총 경고횟수 오버/언더"
+
+msgid "Total number of booking points"
+msgstr "총 경고 포인트"
+
+msgid "Total corners"
+msgstr "총 코너킥 횟수"
+
+msgid "Hometeam scores first and home"
+msgstr "홈팀 첫득점, 홈팀 승"
+
+msgid "Hometeam scores first and draw "
+msgstr "홈팀 첫득점, 무승부"
+
+msgid "Hometeam scores first and away"
+msgstr "홈팀 첫득점, 원정팀 승"
+
+msgid "Awayteam scores first and home"
+msgstr "원정팀 첫득점, 홈팀 승"
+
+msgid "Awayteam scores first and draw "
+msgstr "원정팀 첫득점, 무승부"
+
+msgid "Awayteam scores first and away"
+msgstr "원정팀 첫득점, 원정팀 승"
+
+msgid "No goal "
+msgstr "무득점"
+
+msgid "Yes / Over"
+msgstr "Yes / 오버"
+
+msgid "Yes / Under"
+msgstr "Yes / 언더"
+
+msgid "No / Over"
+msgstr "No / 오버"
+
+msgid "No / Under "
+msgstr "No / 언더"
+
+msgid "Under "
+msgstr "언더"
+
+msgid "1st "
+msgstr "첫번째"
+
+msgid "2nd "
+msgstr "두번째"
+
+msgid "Equal "
+msgstr "같다"
+
+msgid "Home / Yes "
+msgstr "홈팀 / Yes"
+
+msgid "Home / No "
+msgstr "홈팀 / No "
+
+msgid "Draw / Yes "
+msgstr "무승부 / Yes "
+
+msgid "Draw / No "
+msgstr "무승부 / No "
+
+msgid "Away / Yes "
+msgstr "원정팀 / Yes "
+
+msgid "Away / No "
+msgstr "원정팀 / No "
+
+msgid "Both teams"
+msgstr "양팀"
+
+msgid "User List"
+msgstr "유저 목록"
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid "Live Games Meeting"
+msgstr "Live Games Meeting"
+
+msgid "Reality Check"
+msgstr "Reality Check"
+
+msgid "You have been playing for the past 898 minutes during which you have: "
+msgstr "You have been playing for the past 898 minutes during which you have: "
+
+msgid "Deposited € 0 "
+msgstr "입금 $ 0"
+
+msgid "Wagered € 0 "
+msgstr "베팅 $ 0"
+
+msgid "Lost € 0 "
+msgstr "패 $ 0"
+
+msgid "Won € 0"
+msgstr "승 $ 0"
+
+msgid "Video poker"
+msgstr "비디오포커"
+
+msgid "Video Slot Machines"
+msgstr "비디오슬롯머신"
+
+msgid "Slot Machines"
+msgstr "슬롯머신"
+
+msgid "Other games"
+msgstr "다른 게임들"
+
+msgid "Roulette"
+msgstr "룰렛"
+
+msgid "BlackJack"
+msgstr "블랙잭"
+
+msgid "Baccarat"
+msgstr "바카라"
+
+msgid "TOP"
+msgstr "TOP"
+
+msgid "Sports Bet"
+msgstr "스포츠베팅"
+
+msgid "Live Betting"
+msgstr "라이브베팅"
+
+msgid "Bonus"
+msgstr "보너스"
+
+msgid "Affiliate"
+msgstr "어필리에이트"
+
+msgid "Platform Administration Panel"
+msgstr "Platform Administration Panel"
+
+msgid "Daily Statistics"
+msgstr "일간 통계"
+
+msgid "Monthly Statistics"
+msgstr "월간 통계"
+
+msgid "Powered by gdBox sportsbook platform"
+msgstr "Powered by gdBox sportsbook platform"
+
+msgid "Took 0.289457 sec to complete the request"
+msgstr "요청을 처리하는데 0.289457초가 소요됐습니다."
+
+msgid "Logout in 1800 seconds."
+msgstr "Logout in 1800 seconds."
+
+msgid "Content"
+msgstr "내용"
+
+msgid "News management"
+msgstr "뉴스 관리"
+
+msgid "Content management"
+msgstr "콘텐츠 관리"
+
+msgid "Slider management"
+msgstr "슬라이더 관리"
+
+msgid "Scroller management"
+msgstr "스크롤러 관리"
+
+msgid "Left Menu 1"
+msgstr "좌측메뉴 1"
+
+msgid "Top Header menu 2"
+msgstr "탑헤더 메뉴 2"
+
+msgid "Left Menu 2"
+msgstr "좌측메뉴 2"
+
+msgid "Bottom menu"
+msgstr "하단 메뉴"
+
+msgid "Bottom menu 2"
+msgstr "하단 메뉴 2"
+
+msgid "Bottom menu 3"
+msgstr "하단 메뉴 3"
+
+msgid "Bottom menu 4"
+msgstr "하단 메뉴 4"
+
+msgid "Sidebars"
+msgstr "사이드바"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "• Suspicious Place Abuse(When the customer tries to place late bets.) "
+msgstr "• Suspicious Place Abuse(유저가 뒤늦게 베팅을 시도하는 경우)"
+
+msgid "• Suspicious Registration Address(Data from the address matches another account.)"
+msgstr "• Suspicious Registration Address(다른 계정과 유사한 주소데이터)"
+
+msgid "• Withdraw KYC(When the customer is not Fully KYC verified and requests withdrawal.)"
+msgstr "• Withdraw KYC(개인식별정보가 검증되지 않은 유저가 출금을 요청하는 경우)"
+
+msgid "• Suspicious Wager(When the customer either places high amount on low odds, or places small amount on very high odds.)"
+msgstr "• Suspicious Wager(유저가 낮은 배당률에 높은 금액을 베팅하거나, 적은 금액을 너무 높은 배당에 베팅하는 경우)"
+
+msgid "• Insufficient Amount(When the customer requests withdrawal but does not have sufficient balance on the account.)"
+msgstr "• Insufficient Amount(유저가 출금을 신청했으나, 해당계정의 잔액이 충분하지 않은 경우)"
+
+msgid "• Long Distance Login(When the registration IP and place is different from the current login IP and place.)"
+msgstr "• Long Distance Login(계정등록시의 IP와 지역이 현재 접속중인 IP와 지역이 다른경우)"
+
+msgid "Alerts:"
+msgstr "Alerts:"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "You can generate an alert report by entering date range below:"
+msgstr "아래에 날자범위를 지정하여 경고레포트를 생성할 수 있습니다."
+
+msgid "• Suspicious Wager(LIVE Wager: Amount placed higher than 500 TL)"
+msgstr "• 의심스러운 베팅액(라이브 베팅: 500 보다 큰 금액이 베팅됨)"
+
+msgid "Report user's accounting audit rail activity:"
+msgstr "Report user's accounting audit rail activity:"
+
+msgid "Not Found"
+msgstr "찾을 수 없습니다."
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Last modified"
+msgstr "마지막 변경"
+
+msgid "Size"
+msgstr "사이즈"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Order"
+msgstr "순서"
+
+msgid "Text"
+msgstr "텍스트"
+
+msgid "Start Date"
+msgstr "시작일"
+
+msgid "End Date"
+msgstr "종료일"
+
+msgid "Link"
+msgstr "링크"
+
+msgid "Color"
+msgstr "색상"
+
+msgid "List users"
+msgstr "유저 목록"
+
+msgid "Create user"
+msgstr "유저 생성"
+
+msgid "Registration Date From"
+msgstr "등록일 From"
+
+msgid "Registration Date To"
+msgstr "등록일 To"
+
+msgid "Last Visit From"
+msgstr "마지막 방문일 From"
+
+msgid "Last Visit To"
+msgstr "마지막 방문일 To"
+
+msgid "Date Of Birth"
+msgstr "생년월일"
+
+msgid "Kyc Status"
+msgstr "개인식별정보 상태"
+
+msgid "Not KYC Verified"
+msgstr "개인식별정보가 검증되지 않음"
+
+msgid "Last Visit Ip"
+msgstr "마지막 방문 IP"
+
+msgid "Zip Code"
+msgstr "우편번호"
+
+msgid "Age Verification"
+msgstr "연령 검증"
+
+msgid "Full KYC Verified"
+msgstr "개인식별정보 모두 검증됨"
+
+msgid "Use Wildcard character (*) to search by Username, Last Name, Email"
+msgstr "Username, 이름, 메일주소로 검색하려면 와일드카드 문자(*)을 사용합니다."
+
+msgid "Login Status"
+msgstr "로그인 상태"
+
+msgid "Logged in"
+msgstr "로그인 됨"
+
+msgid "Logged out"
+msgstr "로그아웃 됨"
+
+msgid "Page 1 of 1, showing 10 records out of 10 total, starting on record 1, ending on 10"
+msgstr "Page 1 of 1, showing 10 records out of 10 total, starting on record 1, ending on 10"
+
+msgid "Add Note"
+msgstr "메모 추가"
+
+msgid "User Notes"
+msgstr "유저 메모"
+
+msgid "User Tickets"
+msgstr "유저 티켓"
+
+msgid "Originating UID"
+msgstr "Originating UID"
+
+msgid "Username"
+msgstr "유저네임"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Balance"
+msgstr "잔고"
+
+msgid "Time Zone"
+msgstr "Time Zone"
+
+msgid "Group Id"
+msgstr "그룹ID"
+
+msgid "Language Id"
+msgstr "언어ID"
+
+msgid "Currency Id"
+msgstr "통화단위ID"
+
+msgid "Odds Type"
+msgstr "배당 유형"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Kyc Valid Until"
+msgstr "개인식별정보 검증 기한"
+
+msgid "Referal Id"
+msgstr "참조 ID"
+
+msgid "Last Visit"
+msgstr "마지막 방문"
+
+msgid "Registration Date"
+msgstr "등록일"
+
+msgid "Personal Question"
+msgstr "개인정보 질문"
+
+msgid "Personal Answer"
+msgstr "개인정보 답변"
+
+msgid "First Name"
+msgstr "이름"
+
+msgid "Last Name"
+msgstr "성"
+
+msgid "Address1"
+msgstr "주소1"
+
+msgid "Address2"
+msgstr "주소2"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Mobile Number"
+msgstr "휴대폰번호"
+
+msgid "Confirmation Code"
+msgstr "승인코드"
+
+msgid "Re Send"
+msgstr "다시 보내기"
+
+msgid "Bank Name"
+msgstr "은행명"
+
+msgid "Account Number"
+msgstr "은행계좌번호"
+
+msgid "Bank Code"
+msgstr "은행코드"
+
+msgid "Ticket Count"
+msgstr "티켓수"
+
+msgid "Logout Time"
+msgstr "로그아웃 시간"
+
+msgid "Kast Visit sessionkey"
+msgstr "마지막 방문 세션Key"
+
+msgid "Login Failure"
+msgstr "로그인 실패"
+
+msgid "Last Activity Db"
+msgstr "Last Activity Db"
+
+msgid "Lat"
+msgstr "Lat"
+
+msgid "Lng"
+msgstr "Lng"
+
+msgid "Has Member Card"
+msgstr "멤버카드 보유"
+
+msgid "Member Card Code"
+msgstr "회원카드 CODE"
+
+msgid "Member Card Pin"
+msgstr "회원카드 PIN"
+
+msgid "Member Card No"
+msgstr "회원카드 번호"
+
+msgid "Affiliate Id"
+msgstr "어필리에이트ID"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Terms"
+msgstr "Terms"
+
+msgid "Bonus Balance"
+msgstr "Bonus Balance"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "ok"
+msgstr "확인"
+
+msgid "Previous Value:"
+msgstr "이전 값"
+
+msgid "Previous Expiration Date:"
+msgstr "이전 만료일"
+
+msgid "New KYC Status"
+msgstr "새 개인식별정보 상태"
+
+msgid "New Expiration Date"
+msgstr "새 만료일"
+
+msgid "Multi"
+msgstr "멀티"
+
+msgid "Void"
+msgstr "Void"
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "Pending"
+msgstr "보류"
+
+msgid "Page 1 of 1, showing 0 records out of 0 total, starting on record 0, ending on 0"
+msgstr "Page 1 of 1, showing 0 records out of 0 total, starting on record 0, ending on 0"
+
+msgid "Bonus Log for user"
+msgstr "유저 보너스 기록"
+
+msgid "Report accounting Live Casino Activity for user"
+msgstr "Report accounting Live Casino Activity for user"
+
+msgid "System will alert once user deposited same or higher amount of money his/her account."
+msgstr "유저가 자신의 계정과 같거나 많은 금액이 입금된경우 1회 알립니다."
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Created From"
+msgstr "Created From"
+
+msgid "Created To"
+msgstr "Created To"
+
+msgid "Activated From"
+msgstr "Activated From"
+
+msgid "Activated To"
+msgstr "Activated To"
+
+msgid "Highest amount of Win that user can get."
+msgstr "유저가 가져갈 수 있는 최대 상금"
+
+msgid "Back to user"
+msgstr "돌아가기"
+
+msgid "Lowest amount of money that user must have to place a ticket."
+msgstr "단일 티켓에 유저가 베팅할 수 있는 최저 금액"
+
+msgid "Highest amount of money that user can use place a ticket."
+msgstr "유저가 베팅할수 있는 최대금액"
+
+msgid "Highest amount of money that can be won in one ticket."
+msgstr "단일 티켓에 유저가 가질 수 있는 최고 상금"
+
+msgid "Lowest number of events that can be enetered into a ticket."
+msgstr "단일 티켓에 베팅가능한 최소 이벤트 수"
+
+msgid "Highest number of events that can be entered a ticket."
+msgstr "단일 티켓에 베팅가능한 최대 이벤트 수"
+
+msgid "Starting amount of money that user can use place a ticket."
+msgstr "단일 티켓에 유저가 베팅할 수 있는 시작 금액"
+
+msgid "Total"
+msgstr "오버언더"
+
+msgid "Closing Player liability"
+msgstr "Closing Player liability"
+
+msgid "In"
+msgstr "In"
+
+msgid "Out"
+msgstr "Out"
+
+msgid "Debit"
+msgstr "Debit"
+
+msgid "Credit"
+msgstr "Credit"
+
+msgid "Net"
+msgstr "Net"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "8월"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "UnConfirmed"
+msgstr "UnConfirmed"
+
+msgid "Locked Out"
+msgstr "Locked Out"
+
+msgid "Self Excluded"
+msgstr "자가 제외"
+
+msgid "Self Deleted"
+msgstr "자가 삭제"
+
+msgid "Banned"
+msgstr "금지됨"
+
+msgid "List Bonuses"
+msgstr "보너스 목록"
+
+msgid "List Bonuses Types"
+msgstr "보너스 유형 목록"
+
+msgid "Bonus No"
+msgstr "보너스 번호"
+
+msgid "Registration Bonus"
+msgstr "보너스 등록"
+
+msgid "List Affiliates"
+msgstr "어필리에이트 목록"
+
+msgid "Media in Use"
+msgstr "사용중인 미디어"
+
+msgid "Affiliate Custom"
+msgstr "어필리에이트 커스텀"
+
+msgid "Monthly Gain"
+msgstr "월간 증가"
+
+msgid "Affiliate ID"
+msgstr "어필리에이트ID"
+
+msgid "Percentage"
+msgstr "퍼센트"
+
+msgid "Affiliate Custom Id"
+msgstr "어필리에이트 커스텀 ID"
+
+msgid "User Id"
+msgstr "유저 ID"
+
+msgid "Parent Id"
+msgstr "부모ID"
+
+msgid "Created"
+msgstr "생성됨"
+
+msgid "Modified"
+msgstr "변경됨"
+
+msgid "Rgs Percentage"
+msgstr "RGS퍼센트"
+
+msgid "Lc Percentage"
+msgstr "LC퍼센트"
+
+msgid "Affiliate Users"
+msgstr "어필리에이트 유저"
+
+msgid "List staff"
+msgstr "스태프 목록"
+
+msgid "Create staff"
+msgstr "스태프 생성"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "Operator"
+msgstr "운영자"
+
+msgid "Cashier"
+msgstr "출납원"
+
+msgid "Support "
+msgstr "서포트"
+
+msgid "Partners"
+msgstr "파트너"
+
+msgid "Stand Alone"
+msgstr "독립"
+
+msgid "Comments"
+msgstr "코멘트"
+
+msgid "Weight"
+msgstr "가중치"
+
+msgid "List results"
+msgstr "결과 목록"
+
+msgid "Golf"
+msgstr "골프"
+
+msgid "Winter Sports"
+msgstr "겨울스포츠"
+
+msgid "Volleyball"
+msgstr "배구"
+
+msgid "Waterpolo"
+msgstr "수구"
+
+msgid "Futsal"
+msgstr "풋살"
+
+msgid "Motorsport"
+msgstr "모터스포츠"
+
+msgid "Baseball"
+msgstr "야구"
+
+msgid "American Football"
+msgstr "미식축구"
+
+msgid "Cycling"
+msgstr "사이클"
+
+msgid "Beach Volley"
+msgstr "비치발리볼"
+
+msgid "Beach Soccer"
+msgstr "비치사커"
+
+msgid "Bowls"
+msgstr "볼링"
+
+msgid "Cricket"
+msgstr "크리켓"
+
+msgid "List tickets"
+msgstr "티켓목록"
+
+msgid "Rejected"
+msgstr "거부됨"
+
+msgid "Search by Ticket ID"
+msgstr "티켓ID로 검색"
+
+msgid "List deposits"
+msgstr "입금목록"
+
+msgid "Deposit risk management"
+msgstr "입금 위험 관리"
+
+msgid "Validate Prepaid Card"
+msgstr "선불카드 검증"
+
+msgid "canceled"
+msgstr "취소됨"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "Withdraw Type"
+msgstr "출금 유형"
+
+msgid "Withdraw settings and risks"
+msgstr "출금 설정 및 위험"
+
+msgid "General settings"
+msgstr "일반 설정"
+
+msgid "Tax settings"
+msgstr "세제 설정"
+
+msgid "Ticket settings"
+msgstr "티켓 설정"
+
+msgid "Extra Games settings"
+msgstr "부가 게임 설정"
+
+msgid "Currencies"
+msgstr "통화"
+
+msgid "SEO settings"
+msgstr "SEO 설정"
+
+msgid "Email templates"
+msgstr "이메일 템플릿"
+
+msgid "Enter the name of your sportsbook here. Most themes will display this title, at the top of every page, and in the reader's browser titlebar."
+msgstr "당신의 스포츠북 명칭을 입력하세요. 모든 페이지의 상단, 브라우저의 타이틀바에 이 제목이 표시됩니다."
+
+msgid "Owner rights for product use."
+msgstr "제품사용에 관한 소유권"
+
+msgid "All information through contact form will come to this email address."
+msgstr "문의양식을 통한 모든 정보는 이 메일주소로 전달됩니다."
+
+msgid "Enable (Yes) or disable (No) registration on website."
+msgstr "웹사이트에 등록 활성(예) 또는 비활성(아니오)"
+
+msgid "Enable (Yes) or disable (No) login function."
+msgstr "로그인 기능 활성(예) 또는 비활성(아니오)"
+
+msgid "Enable (Yes) or disable (No) password reset for users."
+msgstr "유저의 비밀번호 재설정 활성(예) 또는 비활성(아니오)"
+
+msgid "Choose main currency on website. In order to add new please go to Settings -> Currencies."
+msgstr "웹사이트에서 사용할 통화를 선택해 주세요. 새로 추가하기 위해서는 \"설정-> 통화\" 로 이동하세요."
+
+msgid "Select time zone for whole website."
+msgstr "웹사이트의 표준시간대(Timezone)을 선택해세요."
+
+msgid "Select website main language. In order to add new language please contact ChalkPro support team."
+msgstr "웹사이트의 주사용 언어를 선택하세요. 새로운 언어를 추가하려면 \"ChalkPro\" 지원팀에 문의하세요."
+
+msgid " Charsets are identifiers used to describe a series of universal characters used in web and internet protocols such as HTML and Microsoft Windows. Default one is \"utf-8\"."
+msgstr "문자셋(Charset)은 HTML과 마이크로소프트 윈도우 등에서 웹과 인터넷프로토콜에 사용할 보편적인 문자들의 집합을 나타내는 식별자입니다."
+
+msgid "Number of maximum rows which will be displayed in one page (only in administration panel)"
+msgstr "한 페이지에 표시되는 최대 데이터 수(관리자 패널에만 적용)"
+
+msgid "Enable (Yes) or disable (No) referral system."
+msgstr "추천 시스템 활성(예) 또는 비활성(아니오)"
+
+msgid "Type the name of the page contains Terms and Conditions"
+msgstr "이용약관이 포함된 페이지의 명칭을 입력하세요."
+
+msgid "Tax Value (Percentage)."
+msgstr "세금 값(퍼센트)"
+
+msgid "What Is SEO / Search Engine Optimization? "
+msgstr "SEO / 검색엔진최적화란?"
+
+msgid "Write how often search engine bot should revisit you for new content."
+msgstr "새로운 컨텐츠를 위해 검색엔진이 얼마나 자주 재방문하게 할지 기입하세요."
+
+msgid "SEO stands for \"search engine optimization.\" It is the process of getting traffic from the \"free,\" \"organic,\" \"editorial\" or \"natural\" listings on search engines. All major search engines such as Google, Yahoo and Bing have such results, where web pages and other content such as videos or local listings are shown and ranked based on what the search engine considers most relevant to users. Payment is not involved, as it is with paid search ads "
+msgstr "SEO는 \"Search Engine Optimization\"(검색엔진최적화)의 약어 입니다. 검색엔진의 \"free\", \"organic\", \"editorial\" 또는 \"natural\" 목록으로 부터 트래픽을 얻기 위한 과정입니다. 구글, 야후, 빙과 같은 모든 주요 검색엔진의 결과는 검색엔진이 사용자와의 관련성을 고려한 순위에 따라 웹페이지와 비디오나 지역목록 등과같은 컨텐츠들이 보여집니다. 유료 검색광고와 달리 요금이 부과되지 않습니다."
+
+msgid "Name of product creator."
+msgstr "제품 제작자의 이름"
+
+msgid "Owner of product which would appear in SEO outputs."
+msgstr "SEO 출력에 보여지는 제품의 소유자"
+
+msgid "Email which would be visible in search engines as part of SEO outputs."
+msgstr "SEO 출력의 일부로 검색엔진에 보여질 이메일 주소."
+
+msgid "This description would appear in search engines."
+msgstr "이 설명은 검색엔진에 보여집니다."
+
+msgid "Keywords are words or phrases which desribes your website content. Use comma for separation."
+msgstr "키워드는 웹사이트의 컨텐트를 설명하는 단어 또는 문구입니다. 콤마를 사용하여 구분합니다."
+
+msgid "A title tag is the main text that describes an online document. It appears in three key places: browsers, search engine results pages, and external websites."
+msgstr "title 태그는 온라인 문서를 설명하는 주요한 텍스트 입니다. 다음 세가지 주요장소에 표시됩니다:웹브라우저, 검색엔진의 검색 결과페이지, 외부 웹사이트들."
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Limits for Sports"
+msgstr "종목별 제한"
+
+msgid "Limits for Leagues"
+msgstr "리그별 제한"
+
+msgid "Wager Limits"
+msgstr "베팅액 제한"
+
+msgid "Country Limits"
+msgstr "국가별 제한"
+
+msgid "Create bonus code"
+msgstr "보너스코드 생성"
+
+msgid "Promotion letter"
+msgstr "프로모션 레터"
+
+msgid "Mailchimp"
+msgstr "MailChimp"
+
+msgid "Deposit bonus"
+msgstr "보너스 입금"
+
+msgid "Affiliates Media"
+msgstr "어필리에이트 미디어"
+
+msgid "Redeemed"
+msgstr "반환됨"
+
+msgid "Expires"
+msgstr "만료"
+
+msgid "Stats"
+msgstr "통계"
+
+msgid "Infos"
+msgstr "정보"
+
+msgid "Default List"
+msgstr "기본 리스트"
+
+msgid "Permitted Files: JPEG, GIF, SWF"
+msgstr "허용되는 파일: JPEG, GIF, SWF"
+
+msgid "Folders"
+msgstr "폴더"
+
+msgid "Media List"
+msgstr "미디어 리스트"
+
+msgid "List Warnings"
+msgstr "경고 리스트"
+
+msgid "Warnings settings"
+msgstr "경고 설정"
+
+msgid "System will alert staff once user will place ticket same or higher potential winning amount."
+msgstr "유저가 잠재적 상금보다 같거나 높은 금액을 베팅할 경우 직원에게 1회 알립니다."
+
+msgid "System will alert once user stake a ticket would be with same or higher amount of money."
+msgstr "유저가 티켓에 베팅한금액이 같거나 높은 금액이 되도록 1회 알립니다."
+
+msgid "System will alert once odd will reach or would be higher then set in warning settings"
+msgstr "유저가 티켓에 베팅한 금액이 같거나 높은 금액이 되도록 1회 알립니다."
+
+msgid "System will alert once user ask for withdraw same or higher amount of money from his/her account."
+msgstr "유저가 자신의계정으로부터 같거나 높은 금액의 인출을 요청하면 1회 알립니다."
+
+msgid "365 Days (12 Months) Inactive users"
+msgstr "365일(12개월) 비활성 유저"
+
+msgid "status"
+msgstr "상태"
+
+msgid "Never Deposited Users (Dated from 1st of June)"
+msgstr "한번도 입금하지 않은 유저(6월 1일 이후)"
+
+msgid "Report will show only users which are registered trough registration form. Please see user report structure:"
+msgstr "보고서는 회원등록 폼을 통해 등록된 유저만을 보여줍니다. 유저보고서의 구조를 참조하세요:"
+
+msgid "• User ID(This is user ID with consists of numbers.) "
+msgstr "• 유저 ID(숫자로 구성된 유저의 고유식별번호)"
+
+msgid "• Date of registration(Date and time then user was registered in website.)"
+msgstr "• 등록일(유저가 웹사이트에 등록한 일시)"
+
+msgid "• Username(Username which was entered then registration was made.)"
+msgstr "• Username(유저등록시 입력한 Username)"
+
+msgid "• First name(First name of user.)"
+msgstr "• 이름(유저의 성을 제외한 이름)"
+
+msgid "• Last name(Last name of user.)"
+msgstr "• 성(유저의 성)"
+
+msgid "• Country(Code of country which was selected in user registration.)"
+msgstr "• 국가(유저 등록시 선택한 국가코드)"
+
+msgid "You can generate user report by entering date range below:"
+msgstr "아래에 날짜범위를 지정하여 유저레포트를 생성할 수 있습니다."
+
+msgid "Report will show created tickets. Please see ticket report structure below:"
+msgstr "아래에서 티켓 레포트의 구성을 확인하세요."
+
+msgid "• Ticket ID(This is ticket ID with consists of numbers.) "
+msgstr "• Ticket ID(숫자로 구성된 티켓의 식별번호) "
+
+msgid "• User ID(This is user ID with consists of numbers.)"
+msgstr "• User ID(숫자로 구성된 유저의 식별번호)"
+
+msgid "• Date of placing(Date and time when ticket was placed.)"
+msgstr "• 티켓발행일(티켓이 발행된 날짜)"
+
+msgid "• Ticket type(Ticket types: 1 - single ticket and 2 - multi ticket.)"
+msgstr "• Ticket type(티켓의 유형: 1 - 싱글, 2 - 멀티)"
+
+msgid "• Number of events(Number of event in that ticket.)"
+msgstr "• 이벤트 수(티켓에 있는 이벤트의 수)"
+
+msgid "• Stake(Amount of money which was dedicated to certain ticket.)"
+msgstr "• Stake(특정 티켓에 전용된 금액)"
+
+msgid "• Odd(Coefficient which was calculated in ticket.)"
+msgstr "• 배당률(티켓에 계산된 배당률-계수)"
+
+msgid "• Wining amount(Amount of money which user can win from this ticket.)"
+msgstr "• 상금(티켓이 적중하는경우 유저에게 지급되는 상금)"
+
+msgid "• Ticket status(Recent ticket status.)"
+msgstr "• 티켓상태(최근 티켓 상태)"
+
+msgid "You can generate ticket report by entering date range below:"
+msgstr "아래에 날짜범위를 지정하여 유저레포트를 생성할 수 있습니다."
+
+msgid "Report will show deposits by users and fund and charges by staff. Please see deposits report structure below:"
+msgstr "보고서는 유저의 입금, 스태프에 의한 펀드 및 차지 내역을 표시합니다."
+
+msgid "• Deposit ID(This is deposit ID with consists of numbers.) "
+msgstr "• 입금ID(숫자로 구성된 입금건의 고유번호)"
+
+msgid "• User name(If transaction made by staff it would be blank.)"
+msgstr "• 유저명(거래가 스태프에의해 만들어진 경우는 공백으로 표시됩니다.)"
+
+msgid "• Deposit time(Date and time when deposit was made.)"
+msgstr "• 입금시간(입금거래가 발생한 일시)"
+
+msgid "• Deposit type(Deposit type with comments.)"
+msgstr "• 입금유형(입금 유형과 설명)"
+
+msgid "• Amount(Amount of money which deposited or deducted.)"
+msgstr "• 금액(입금 또는 차감된 금액)"
+
+msgid "Report will show withdraw requests. Please see withdraws report structure below:"
+msgstr "보고서는 인출요청을 보여줍니다. 아래에 인출보고서 구조를 참조하세요:"
+
+msgid "• Withdraw ID(This is withdraw ID with consists of numbers.) "
+msgstr "• 인출 ID(숫자로 구성된 인출요청의 고유식별번호) "
+
+msgid "• User name(Name of user in the system.)"
+msgstr "• 유저명(시스템에 있는 유저의 이름)"
+
+msgid "• First last name(Full name of user.)"
+msgstr "• 성명(유저의 성명.)"
+
+msgid "• Transaction Target(Transaction ID.)"
+msgstr "• 트랜잭션타겟(트랜잭션 ID.)"
+
+msgid "• Source(Payments Source.)"
+msgstr "• 소스(지불 소스)"
+
+msgid "• Acq(Payments Acq.)"
+msgstr "• ACQ(지불 Acq.)"
+
+msgid "• Request time(Time when withdraw was requested.)"
+msgstr "• 요청시간(인출이 요청된 시간)"
+
+msgid "• Withdraw type(Type of withdraw request.)"
+msgstr "• 인출 유형(인출요청의 유형.)"
+
+msgid "• Amount(Amount of money which was request by user to withdraw.)"
+msgstr "• 금액(유저로부터 인출이 요청된 금액)"
+
+msgid "Report will show only user's accounting information during the selected period:"
+msgstr "보고서는 선택된 기간동안의 유저 회계정보만을 표시합니다."
+
+msgid "• Balance(Current balance of user)"
+msgstr "• 발란스(유저의 현재 잔액)"
+
+msgid "• Tickets Count(Tickets played by user.)"
+msgstr "• 티켓 수(유저가 플레이한 티켓의 수)"
+
+msgid "• Total(Total amount wagered by the user.)"
+msgstr "• 합계(유저가 베팅한 총 금액)"
+
+msgid "• Won(Total amount of Won tickets.)"
+msgstr "• 상금(적중한 티켓의 총 상금)"
+
+msgid "• Lost(Total amount of Lost tickets.)"
+msgstr "• 손실(실패한 티켓의 총 베팅액)"
+
+msgid "• Pending(Total amount of Pending tickets.)"
+msgstr "• 대기(대기중인 티켓의 총금액)"
+
+msgid "• Profit(User's Profit, calculated according the following formula => Profit = Total - Pending - Won)"
+msgstr "• 손익(유저 손익, 다음 식으로 계산됨 => 손익 = 합계 - 대기 - 상금)"
+
+msgid "• Bonus(Total amount of Promotional Bonus enabled by the user.)"
+msgstr "• 보너스(해당 사용자가 사용한 프로모션 보너스의 합계액)"
+
+msgid "• Liability(Liability.)"
+msgstr "• 채무(채무.)"
+
+msgid "Liability Report"
+msgstr "채무 보고서"
+
+msgid "Total Liability Report"
+msgstr "총 채무 보고서"
+
+msgid "Without selecting any date the following list will display the last 7 days"
+msgstr "날짜를 선택하지 않으면 다음목록은 최근 7일간을 표시합니다."
+
+msgid "Statistics Report. Search between Dates or by Country."
+msgstr "통계 보고서. 날짜범위나 국가별로 검색합니다."
+
+msgid "Accounts"
+msgstr "어카운트"
+
+msgid "Transactions"
+msgstr "트랜잭션"
+
+msgid "Live Casino"
+msgstr "라이브 카지노"
+
+msgid "Bonuses"
+msgstr "보너스"
+
+msgid "Platform Activity"
+msgstr "플랫폼 액티비티"
+
+msgid "Live feeds"
+msgstr "라이브 피드"
+
+msgid "Messages List"
+msgstr "메시지 리스트"
+
+msgid "User list"
+msgstr "유저 리스트"
+
+msgid "KYC (Know you Customer)"
+msgstr "유저 개인식별정보"
+
+msgid "No documents found"
+msgstr "문서를 찾을 수 없습니다."
+
+msgid "Log Out"
+msgstr "Log Out"
+
+msgid "Deposit ID Amount"
+msgstr "Deposit ID Amount"
+
+msgid "Withdraw Status"
+msgstr "출금 상태"
+
+msgid "Transaction Target"
+msgstr "거래 대상"
+
+msgid "Ticket Type"
+msgstr "티켓 유형"
+
+msgid "Ticket Status"
+msgstr "티켓 상태"
+
+msgid "Amount"
+msgstr "금액"
+
+msgid "Return"
+msgstr "상금"
+
+msgid "Won Tickets Taxes:"
+msgstr "Won Tickets Taxes:"
+
+msgid "Country Tax:"
+msgstr "Country Tax:"
+
+msgid "Tickets Profit:"
+msgstr "티켓 수익"
+
+msgid "Casino Profit:"
+msgstr "카지노 수익"
+
+msgid "Net Profit:"
+msgstr "순익"
+
+msgid "Profile"
+msgstr "프로파일"
+
+msgid "Recent Activity"
+msgstr "최근 활동"
+
+msgid "My User Info"
+msgstr "나의 유저 정보"
+
+msgid "Affiliates"
+msgstr "어필리에이트"
+
+msgid "Affiliates Transaction"
+msgstr "어필리에이트 거래"
+
+msgid "Affiliates CP"
+msgstr "어필리에이트 CP"
+
+msgid "Invoice of last month"
+msgstr "지난달 인보이스"
+
+msgid "Download accounting info"
+msgstr "정산정보 다운로드"
+
+msgid "User's Transactions"
+msgstr "유저 트랜잭션"
+
+msgid "Balance@action"
+msgstr "Balance@action"
+
+msgid "Surname"
+msgstr "성"
+
+msgid "Sub-Affiliates"
+msgstr "하위어필리에이트"
+
+msgid "All"
+msgstr "모두"
+
+msgid "User Registration"
+msgstr "유저 등록"
+
+msgid "Text Link"
+msgstr "텍스트링크"
+
+msgid "Media"
+msgstr "미디어"
+
+msgid "Brochures"
+msgstr "브로셔"
+
+msgid "Affiliate Registration"
+msgstr "어필리에이트 등록"
+
+msgid "Affiliate Commission:"
+msgstr "제휴 수수료"
+
+msgid "Daily Visited Users"
+msgstr "일일 방문자 수"
+
+msgid "Daily Registered Users"
+msgstr "일일 등록자 수"
+
+msgid "Daily Deposits"
+msgstr "일일 입금"
+
+msgid "Daily Unique Deposits"
+msgstr "일일 특별 입금"
+
+msgid "Daily Withdraws"
+msgstr "일일 출금"
+
+msgid "Daily Tickets"
+msgstr "일일 티켓"
+
+msgid "Total Daily Pre-Match Wagers"
+msgstr "총 일일 사전 경기 웨이저"
+
+msgid "Total Daily Live Wagers"
+msgstr "총 일일 라이브 웨이저"
+
+msgid "Daily Wagers"
+msgstr "일일 웨이저"
+
+msgid "Daily Pending Wagers"
+msgstr "일일 대기 웨이저"
+
+msgid "Daily Lost Amount"
+msgstr "일일 손실액"
+
+msgid "Daily Won Amount"
+msgstr "일일 우승금"
+
+msgid "Daily Tickets Hold"
+msgstr "일일 보유 티켓"
+
+msgid "Daily Hold Amount"
+msgstr "일일 보류 금액"
+
+msgid "Daily Profit"
+msgstr "일일 수익"
+
+msgid "Net Daily Profit"
+msgstr "순 일일 수익"
+
+msgid "Daily Affiliate Commission"
+msgstr "일일 제휴 수수료"
+
+msgid "Monthly Visited Users"
+msgstr "월별 방문자 수"
+
+msgid "Monthly Registered Users"
+msgstr "월별 등록자 수"
+
+msgid "Monthly Deposits"
+msgstr "월별 입금"
+
+msgid "Monthly Unique Deposits"
+msgstr "월별 특별 입금"
+
+msgid "Monthly Withdraws"
+msgstr "월별 출금"
+
+msgid "Motnhly Tickets"
+msgstr "월별 티켓"
+
+msgid "Total Monthly Pre-Match Wagers"
+msgstr "총 월별 사전 경기 웨이저"
+
+msgid "Total Monthly Live Wagers"
+msgstr "총 월별 라이브 웨이저"
+
+msgid "Monthly Wagers"
+msgstr "월별 웨이저"
+
+msgid "Monthly Pending Wagers"
+msgstr "월별 대기 웨이저"
+
+msgid "Monthly Lost Amount"
+msgstr "월별 손실액"
+
+msgid "Monthly Won Amount"
+msgstr "월별 우승금"
+
+msgid "Daily Pending Tickets"
+msgstr "일일 보류 티켓"
+
+msgid "Daily Lost Tickets"
+msgstr "일일 손실 티켓"
+
+msgid "Daily Won Tickets"
+msgstr "일일 우승 티켓"
+
+msgid "Monthly Pending Tickets"
+msgstr "월별 보류 티켓"
+
+msgid "Monthly Lost Tickets"
+msgstr "월별 손실 티켓"
+
+msgid "Motnhly Won Tickets"
+msgstr "월별 우승 티켓"
+
+msgid "Monthly Tickets Hold"
+msgstr "월별 보유 티켓"
+
+msgid "Monthly Hold Amount"
+msgstr "월별 보유 금액"
+
+msgid "Monthly Profit"
+msgstr "월별 수익"
+
+msgid "Net Monthly Profit"
+msgstr "순 월별 수익"
+
+msgid "Monthly Affiliate Commission"
+msgstr "월별 제휴 수수료"
+
+msgid "Traffic Statistics:"
+msgstr "트래픽 통계:"
+
+msgid "Visits:"
+msgstr "방문:"
+
+msgid "Traffic Sources:"
+msgstr "트래픽 소스:"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Recent Tickets"
+msgstr "최근 티켓"
+
+msgid "View Details"
+msgstr "상세보기"
+
+msgid "Win"
+msgstr "우승"
+
+msgid "Marketing"
+msgstr "마케팅"
+
+msgid "Flyers"
+msgstr "광고지"
+
+msgid "Affiliates Bonus"
+msgstr "제휴 보너스"
+
+msgid "Extra Bet Games"
+msgstr "추가 베팅 게임"
+
+msgid "Country Code"
+msgstr "국가 코드"
+
+msgid "Balance as User"
+msgstr "사용자  잔금"
+
+msgid "Accounting Info"
+msgstr "계정 정보"
+
+msgid "User Details"
+msgstr "사용자 세부정보"
+
+msgid "Total Tickets"
+msgstr "총 티켓"
+
+msgid "Tickets Hold"
+msgstr "보유 티켓"
+
+msgid "My Commission"
+msgstr "내 수수료"
+
+msgid "All Tickets"
+msgstr "모든 티켓"
+
+msgid "Extra Betting Games"
+msgstr "추가 베팅 게임"
+
+msgid "Game"
+msgstr "게임"
+
+msgid "My Percentage"
+msgstr "내 확률(%)"
+
+msgid "Transaction Count"
+msgstr "거래내역 수"
+
+msgid "My Gain"
+msgstr "내 이익"
+
+msgid "Total Deposits"
+msgstr "총 입금"
+
+msgid "Deposits Amount"
+msgstr "입급액"
+
+msgid "Deposits Information"
+msgstr "입금 정보"
+
+msgid "Deposit ID"
+msgstr "입금 ID"
+
+msgid "List withdraws"
+msgstr "출금 목록"
+
+msgid "Total Withdraws"
+msgstr "총 출금"
+
+msgid "Withdraws Amount"
+msgstr "출금액"
+
+msgid "Withdraws Information"
+msgstr "출금 정보"
+
+msgid "Statistics Overview"
+msgstr "통계 요약"
+
+msgid "All Withdraws"
+msgstr "전체 출금"
+
+msgid "All Deposits"
+msgstr "전체 입금"
+
+msgid "Monthly Prematch Tickets"
+msgstr "월별 사전경기 티켓"
+
+msgid "Monthly Live Tickets"
+msgstr "월별 라이브 티켓"
+
+msgid "Daily Prematch Tickets"
+msgstr "일일 사전경기 티켓"
+
+msgid "Daily Live Tickets"
+msgstr "일일 라이브 티켓"
+
+msgid "All Daily Tickets"
+msgstr "전체 일일 티켓"
+
+msgid "All Monthly Tickets"
+msgstr "전체 월별 티켓"
+
+msgid "View All Activity"
+msgstr "전체 활동 보기"
+
+msgid "View All Tickets"
+msgstr "전체 티켓 보기"
+
+msgid "My Affiliates List"
+msgstr "내 제휴 목록"
+
+msgid "No data available"
+msgstr "데이터가 없습니다."
+
+msgid "Folder List"
+msgstr "폴더 목록"
+
+msgid "File List"
+msgstr "파일 목록"
+
+msgid "No media files available in this directory."
+msgstr "이 디렉토리에는 미디어 파일이 없습니다."
+
+msgid "Brochures List"
+msgstr "안내서 목록"
+
+msgid "Flyers List"
+msgstr "전단지 목록"
+
+msgid "Address Number"
+msgstr "주소 번호"
+
+msgctxt ""
+msgid "Daily Casino Wins"
+msgstr "일일 카지노 우승"
+
+msgctxt ""
+msgid "Daily Casino Bets"
+msgstr "일일 카지노 베팅"
+
+msgctxt ""
+msgid "Total Daily Bonuses"
+msgstr "총 일일 보너스"
+
+msgctxt ""
+msgid "Total Monthly Activated Bonuses"
+msgstr "총 월별 활성 보너스"
+
+msgctxt ""
+msgid "Total Monthly Bonuses"
+msgstr "총 월별 보너스"
+
+msgctxt ""
+msgid "Total Daily Activated Bonuses"
+msgstr "총 일일 활성 보너스"
+
+msgctxt ""
+msgid "Monthly Casino Wins"
+msgstr "월별 카지노 우승"
+
+msgctxt ""
+msgid "Monthly Casino Lost Bets"
+msgstr "월별 카지노 손실 베팅"
+
+msgctxt ""
+msgid "Daily Casino Lost Bets"
+msgstr "일일 카지노 손실 베팅"
+
+msgid "All Released Bonuses"
+msgstr "발행된 전체 보너스"
+
+msgid "Affiliate Login Area"
+msgstr "제휴 로그인 지역"
+
+msgid "All Events"
+msgstr "전체 이벤트"
+
+msgid "Daily Events"
+msgstr "일일 이벤트"
+
+msgid "Help"
+msgstr "도움"
+
+msgid "Login For:"
+msgstr "로그인:"
+
+msgid "min"
+msgstr "분"
+
+msgid "No more Groups"
+msgstr "더 이상 그룹이 없습니다."
+
+msgid "Upcoming Live Games"
+msgstr "예정된 라이브 게임"
+
+msgid "No available matches within this timeframe"
+msgstr "이 시간대에는 경기가 없습니다."
+
+msgid "Full Time 1X2"
+msgstr "승무패 1x2"
+
+msgid "More"
+msgstr "추가"
+
+msgid "More Scoring Bets"
+msgstr "추가 점수 베팅"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "Ticket of the Day"
+msgstr "오늘의 티켓"
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Live Chat"
+msgstr "라이브 채팅"
+
+msgid "System Tickets"
+msgstr "베팅내역"
+
+msgid "View History"
+msgstr "베팅결과"
+
+msgid "Min Odd"
+msgstr "최소 배당"
+
+msgid "Max Odd"
+msgstr "최대 배당"
+
+msgid "Match"
+msgstr "경기"
+
+msgid "Time start"
+msgstr "타임 시작"
+
+msgid "x System"
+msgstr "x 시스템"
+
+msgid "You have no transactions of this type."
+msgstr "이 유형에는 거래 내역이 없습니다."
+
+msgid "Sportsbook Log"
+msgstr "스포츠북 로그"
+
+msgid "Virtual Football Log"
+msgstr "비주얼 풋볼 로그"
+
+msgid "Soccer Roulette Log"
+msgstr "축구 룰렛 로그"
+
+msgid "American"
+msgstr "아메리칸"
+
+msgid "Bet Slip"
+msgstr "베팅 슬립"
+
+msgid "More 1st Half bets"
+msgstr "추가 1st 하프 베팅"
+
+msgid "More 2nd Half bets"
+msgstr "추가 2nd 하프 베팅"
+
+msgid "No available matches within this timeframe."
+msgstr "해당 기간에는 경기가 없습니다."
+
+msgid "Total Wager:"
+msgstr "총 베팅액:"
+
+msgid "Total Wager"
+msgstr "총 베팅액"
+
+msgid "Columns:"
+msgstr "컬럼:"
+
+msgid "Columns"
+msgstr "컬럼"
+
+msgid "Member Bonus:"
+msgstr "회원 보너스:"
+
+msgid "Member Bonus"
+msgstr "회원 보너스"
+
+msgid "Half Time"
+msgstr "하프타임"
+
+msgid "You can get account information via live chat"
+msgstr "입금계좌정보는 라이브체팅을 통해 문의해 주세요"

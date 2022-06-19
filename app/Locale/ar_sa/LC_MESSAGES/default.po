@@ -1,0 +1,604 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2021-08-09 17:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"MIME-Version: 1.0\n"
+
+msgid "Bonus Balance"
+msgstr "رصيد المكافأة"
+
+msgid "Casino"
+msgstr "كازينو"
+
+msgid "Table Games"
+msgstr "ألعاب طاولة"
+
+msgid "Virtual Games"
+msgstr "ألعاب افتراضية"
+
+msgid "Live Casino"
+msgstr "كازينو مباشر"
+
+msgid "Video Slots"
+msgstr "فيديو سلوت"
+
+msgid "Scratch Cards"
+msgstr "خدش البطاقات"
+
+msgid "Bingo"
+msgstr "بينغو"
+
+msgid "Video Poker"
+msgstr "فيديو بوكر"
+
+msgid "Enter game name or provider"
+msgstr "أدخل اسم اللعبة أو مقدم اللعبة"
+
+msgid "More games"
+msgstr "المزيد من الألعاب"
+
+msgid "No games to show."
+msgstr "لا توجد ألعاب"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Provider"
+msgstr "مقدم اللعبة"
+
+msgid "Jackpot"
+msgstr "الجائزة الكبرى"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+msgid "Most popular"
+msgstr "الأكثر شعبية"
+
+msgid "Demo"
+msgstr "عرض تجريبي"
+
+msgid "Deposit"
+msgstr "إيداع"
+
+msgid "Loyalty points"
+msgstr "نقاط الولاء"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Rewards"
+msgstr "مكافآت"
+
+msgid "Information"
+msgstr "معلومات"
+
+msgid "Jackpots"
+msgstr "الجائزة الكبرى"
+
+msgid "Live Chat"
+msgstr "الدردشة"
+
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+msgid "Bonuses"
+msgstr "المكافآت"
+
+msgid "KYC"
+msgstr "اعرف عميلك"
+
+msgid "Limits"
+msgstr "الحدود"
+
+msgid "Gameplay"
+msgstr "تجربة اللعب"
+
+msgid "Account Information"
+msgstr "معلومات الحساب"
+
+msgid "Personal Information"
+msgstr "المعلومات الشخصية"
+
+msgid "Address Information"
+msgstr "معلومات العنوان"
+
+msgid "Hello"
+msgstr "مرحبًا"
+
+msgid "Deposits"
+msgstr "الإيداعات"
+
+msgid "Withdraws"
+msgstr "السحوبات"
+
+msgid "Parsonal Info"
+msgstr "المعلومات الشخصية"
+
+msgid "Edit"
+msgstr "تحرير"
+
+msgid "Recently Played"
+msgstr "تم اللعب مؤخرًا"
+
+msgid "Favorites"
+msgstr "المفضلات"
+
+msgid "Loyalty"
+msgstr "الولاء"
+
+msgid "Promo"
+msgstr "العرض الترويجي"
+
+msgid "Promotions"
+msgstr "العروض الترويجية"
+
+msgid "Claim now"
+msgstr "اطلب الآن"
+
+msgid "Use Bonus Code"
+msgstr "استخدم رمز القسيمة"
+
+msgid "Bonus name"
+msgstr "اسم المكافأة"
+
+msgid "Wagering"
+msgstr "المراهنة"
+
+msgid "Amount"
+msgstr "المبلغ"
+
+msgid "Amount is required."
+msgstr "المبلغ مطلوب"
+
+msgid "Activate"
+msgstr "تنشيط"
+
+msgid "Active Bonuses"
+msgstr "تنشيط المكافآت"
+
+msgid "Available Bonuses"
+msgstr "المكافآت المتاحة"
+
+msgid "Completed Bonuses"
+msgstr "المكافآت المكتملة"
+
+msgid "Continue"
+msgstr "استمرار"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+msgid "Currency"
+msgstr "العملة"
+
+msgid "Terms of use"
+msgstr "شروط الاستخدام"
+
+msgid "Newsletter"
+msgstr "النشرة الإعلامية"
+
+msgid "First name"
+msgstr "الاسم الأول"
+
+msgid "Last name"
+msgstr "الاسم الأخير"
+
+msgid "Date of birth"
+msgstr "تاريخ الميلاد"
+
+msgid "Gender"
+msgstr "النوع"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Zip/Postal Code"
+msgstr "الرمز البريدي"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "User ID"
+msgstr "معرّف المستخدم"
+
+msgid "Affiliate/Referral Code"
+msgstr "رمز الإحالة"
+
+msgid "No games played yet."
+msgstr "لم يتم لعب أي ألعاب بعد"
+
+msgid "Make a deposit"
+msgstr "قم بالإيداع"
+
+msgid "optional"
+msgstr "اختياري"
+
+msgid "Deposits history"
+msgstr "سجل الإيداع"
+
+msgid "Select your preffered deposit method:"
+msgstr "اختر وسيلة الإيداع المفضلة"
+
+msgid "There are no deposit methods available for your country. Please contact support on support@bethappy.com."
+msgstr "لا تتوفر وسائل إيداع في بلدك. يرجى التواصل مع الدعم على support@bethappy.com."
+
+msgid "No deposits yet."
+msgstr "لا توجد إيداعات بعد."
+
+msgid "Pending"
+msgstr "معلقة"
+
+msgid "Completed"
+msgstr "مكتملة"
+
+msgid "Declined"
+msgstr "مرفوضة"
+
+msgid "Failed"
+msgstr "فاشلة"
+
+msgid "Canceled"
+msgstr "تم الإلغاء"
+
+msgid "Total"
+msgstr "إجمالي"
+
+msgid "Make a withdraw"
+msgstr "قم بالسحب"
+
+msgid "Withdraws history"
+msgstr "سجل السحوبات"
+
+msgid "Select your preffered withdraw method:"
+msgstr "اختر وسيلة السحب المفضلة:"
+
+msgid "No withdraws yet."
+msgstr "لا توجد سحوبات حتى الآن."
+
+msgid "There are no withdrawal methods available for your country. Please contact support on support@bethappy.com."
+msgstr "لا تتوفر وسائل سحب في بلدك. يرجى التواصل مع الدعم على support@bethappy.com."
+
+msgid "Please login first."
+msgstr "يرجى تسجيل الدخول أولًا"
+
+msgid "By clicking the continue button you will be redirected to %s payment page."
+msgstr "بالنقر على زر الاستمرار سيتم إعادة توجيهك إلى صفحة دفع %s."
+
+msgid "Minimum amount is %s."
+msgstr "الحد الأدنى للمبلغ %s."
+
+msgid "I accept the Term of use."
+msgstr "أقبل شروط الاستخدام."
+
+msgid "This value should be greater than or equal to %s."
+msgstr "يجب أن تكون هذه القيمة أعلى من أو تساوي %s."
+
+msgid "You have no money in your balance."
+msgstr "ليس لديك أموال في رصيدك."
+
+msgid "Please take a photo or scan your documents. The uploaded files must be bright and clear and all corners of the documents must be clearly visible."
+msgstr "يرجى التقاط صورة للوثائق أو مسحها ضوئيًا. يجب أن تكون الملفات التي يتم تحميلها واضحة وساطعة وأن تكون كل زوايا الوثائق مرئية بوضوح."
+
+msgid "You can upload multiple files at the same time."
+msgstr "يمكنك تحميل العديد من الملفات في نفس الوقت."
+
+msgid "Please see our Deposits and Withdrawals policies for more information."
+msgstr "يرجى الاطلاع على سياسات الإيداعات والسحوبات لمزيد من المعلومات."
+
+msgid "Proof of identity"
+msgstr "إثبات الهوية"
+
+msgid "The following documents are accepted:"
+msgstr "تُقبل الوثائق التالية:"
+
+msgid "Identity card (front view & back view)"
+msgstr "بطاقة الهوية (الوجه الأمامي والخلفي)"
+
+msgid "Passport (cover & data page)"
+msgstr "جواز السفر (صفحة الغلاف والبيانات)"
+
+msgid "Drivers license (front view & back view)"
+msgstr "رخيصة القيادة (الوجه الأمامي والخلفي)"
+
+msgid "No files uploaded yet."
+msgstr "لم يتم تحميل أي ملفات بعد."
+
+msgid "Select File or Drop File"
+msgstr "اختر الملف أو أسقط ملف"
+
+msgid "Upload files"
+msgstr "تحميل الملفات"
+
+msgid "Uploaded files"
+msgstr "الملفات التي تم تحميلها"
+
+msgid "Accepted"
+msgstr "مقبولة"
+
+msgid "Rejected"
+msgstr "مرفوضة"
+
+msgid "Your files"
+msgstr "ملفاتك"
+
+msgid "Upload Successful"
+msgstr "تم التحميل بنجاح"
+
+msgid "Upload Documents"
+msgstr "تحميل الوثائق"
+
+msgid "% Complete"
+msgstr "اكتمل %"
+
+msgid "Expires"
+msgstr "تنتهي في"
+
+msgid "Proof of address"
+msgstr "إثبات العنوان"
+
+msgid "The document must include your first and last name, your current address and must not be older that 3 months (eg. issue date, creation date, period of validity etc.)"
+msgstr "يجب أن تتضمن الوثيقة اسمك الأول والأخير، وعنوانك الحالي، وينبغي ألا تكون أقدم من 3 شهور (تاريخ الإصدار، فترة الصلاحية، وما إلى ذلك)"
+
+msgid "Electricity bill"
+msgstr "فاتورة الكهرباء"
+
+msgid "Gas bill"
+msgstr "فاتورة الغاز"
+
+msgid "Internet bill"
+msgstr "فاتورة الإنترنت"
+
+msgid "Landline bill"
+msgstr "فاتورة الخط الأرضي"
+
+msgid "Bank account statemant"
+msgstr "بيان حساب بنكي"
+
+msgid "Life insurance policy"
+msgstr "بوليصة تأمين على الحياة"
+
+msgid "Registered lease/ Rent agreement"
+msgstr "عقد إيجار مسجل"
+
+msgid "Proof of funding"
+msgstr "إثبات تمويل"
+
+msgid "You need to upload the front and the back of the payment card."
+msgstr "تحتاج إلى تحميل صورة وجهي بطاقة الدفع."
+
+msgid "IMPORTANT: You need to make visible the first 6 and the last 4 digits of your card number, and you need to cover the rest of the digits."
+msgstr "مهم: تحتاج إلى توضيح أول 6 أرقام وآخر 4 أرقام من رقم بطاقتك، وتغطية بقية الأرقام."
+
+msgid "IMPORTANT: The card must be signed."
+msgstr "مهم: يجب أن تكون البطاقة موقعة."
+
+msgid "If you want to change any limit you will need to wait 7 days for this to take effect. The date of the change in limits will be visible in 'Expires'."
+msgstr "إذا أردت تغيير أي حد ستحتاج إلى الانتظار 7 أيام حتى يصبح ساري المفعول. سيظهر تاريخ التغيير في الحدود تحت \"\"تنتهي في"
+
+msgid "Deposit Limits"
+msgstr "حدود الإيداع"
+
+msgid "Wager Limits"
+msgstr "حدود المراهنة"
+
+msgid "Loss Limits"
+msgstr "حدود الخسائر"
+
+msgid "Self Exclusion Limits"
+msgstr "حدود الاستبعاد الذاتي"
+
+msgid "Limit"
+msgstr "الحد"
+
+msgid "Limit is required."
+msgstr "يجب إدخال الحد"
+
+msgid "Weekly"
+msgstr "أسبوعيًا"
+
+msgid "Daily"
+msgstr "يوميًا"
+
+msgid "Monthly"
+msgstr "شهريًا"
+
+msgid "Par transaction"
+msgstr "لكل معاملة"
+
+msgid "Select limit"
+msgstr "اختر الحد"
+
+msgid "Add Limit"
+msgstr "إضافة حد"
+
+msgid "No limits assigned yet."
+msgstr "لم يتم تعيين أي حدود بعد."
+
+msgid "Do not allow me to access my account for the next 7 days."
+msgstr "لا تسمح لي بالوصول إلى حسابي خلال 7 أيام مقبلة."
+
+msgid "Do not allow me to access my account for the next 30 days."
+msgstr "لا تسمح لي بالوصول إلى حسابي خلال 30 يوم مقبلة."
+
+msgid "Delete Account"
+msgstr "حذف الحساب"
+
+msgid "Permanently delete your account?"
+msgstr "تريد حذف حسابك نهائيًا؟"
+
+msgid "No transactions yet."
+msgstr "لا توجد معاملات حتى الآن."
+
+msgid "Games played"
+msgstr "الألعاب التي تم لعبها"
+
+msgid "Casino transactions"
+msgstr "معاملات الكازينو"
+
+msgid "Lines"
+msgstr "خطوط"
+
+msgid "Reels"
+msgstr "بكرات"
+
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+msgid "Withdrawals policy"
+msgstr "سياسة السحوبات"
+
+msgid "Responsible gaming"
+msgstr "المقامرة المسؤولة"
+
+msgid "Refunds policy"
+msgstr "سياسة الاسترداد"
+
+msgid "Privacy policy"
+msgstr "سياسة الخصوصية"
+
+msgid "General data protection regulation (GDPR)"
+msgstr "النظام الأوروبي العام لحماية البيانات (GDPR)"
+
+msgid "Deposits policy"
+msgstr "سياسة الإيداعات"
+
+msgid "Payments"
+msgstr "المدفوعات"
+
+msgid "Frequently asked questions (FAQ) "
+msgstr "الأسئلة الشائعة"
+
+msgid "Affiliates/ Bet Happy Affiliates"
+msgstr "الشركات التابعة / شركات Bet Happy التابعة"
+
+msgid "Anti-money laundering policy (AML)"
+msgstr "سياسة مكافحة غسيل الأموال"
+
+msgid "Supported Devices"
+msgstr "الأجهزة المدعومة"
+
+msgid "Payment Methods"
+msgstr "وسائل الدفع"
+
+msgid "Social Media"
+msgstr "الوسائط الاجتماعية"
+
+msgid "About us"
+msgstr "عن الشركة"
+
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+msgid "Sitemap"
+msgstr "خريطة الموقع"
+
+msgid "Full name"
+msgstr "الاسم الكامل"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Ensure that password and confirm password are identical."
+msgstr "تأكد من تطابق كلمة المرور مع تأكيد كلمة المرور."
+
+msgid "Your passwords do not match!"
+msgstr "كلمتي المرور غير متطابقتين!"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Finish"
+msgstr "إنهاء"
+
+msgid "Your password must be 8 or more characters long."
+msgstr "يجب أن تكون كلمة المرور أكبر من 8 حروف."
+
+msgid "Your password may not contain spaces and emojis."
+msgstr "لا يجوز أن تحتوي كلمة المرور على مسافات أو رموز تعبيرية."
+
+msgid "Password is weak."
+msgstr "كلمة المرور ضعيفة."
+
+msgid "E-mail is already taken!"
+msgstr "عنوان البريد الإلكتروني مسجل بالفعل!"
+
+msgid "This is not a valid e-mail address."
+msgstr "عنوان البريد الإلكتروني غير صالح."
+
+msgid "Username is required."
+msgstr "اسم المستخدم إلزامي."
+
+msgid "E-mail is required."
+msgstr "عنوان البريد الإلكتروني إلزامي."
+
+msgid "Phone number is required."
+msgstr "رقم الهاتف إلزامي."
+
+msgid "Password is required."
+msgstr "كلمة المرور إلزامية."
+
+msgid "Confirm password is required."
+msgstr "تأكيد كلمة المرور إلزامي."
+
+msgid "First name is required."
+msgstr "الاسم الأول إلزامي."
+
+msgid "Last name is required."
+msgstr "الاسم الأخير إلزامي."
+
+msgid "Date of birth is required."
+msgstr "تاريخ الميلاد إلزامي."
+
+msgid "Address is required."
+msgstr "العنوان إلزامي."
+
+msgid "Zip Code is required."
+msgstr "الرمز البريدي إلزامي."
+
+msgid "City is required."
+msgstr "المدينة إلزامية."
+
+msgid "Already have an account?"
+msgstr "لديك حساب بالفعل؟"

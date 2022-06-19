@@ -1,0 +1,114 @@
+html, body{
+    background:transparent;
+    color: #fff;
+}
+.btn-default {
+    background-color: #C4DD31;
+    color: #002A3D;
+}
+
+.btn-default:hover {
+    background-color: #64B72E;
+    color: #FFF;
+}
+
+.btn-default-outline{
+    border: 1px solid #C4DD31;
+    background: #fff;
+}
+
+.btn-default-outline.active{
+    background-color: #C4DD31;
+}
+
+.text-muted {
+    color: #adb5bd!important;
+}
+.text-link-default{
+    cursor:pointer;
+    color:#C4DD31;
+}
+.custom-control-input:checked~.custom-control-label::before{
+    background-color: rgb(196, 221, 49);
+    border-color: #c4dd31;
+}
+.custom-switch .custom-control-input:disabled:checked~.custom-control-label::before {
+    background-color: rgba(196, 221, 49, 0.5);
+    border-color: #c4dd31;
+}
+
+
+.payment-list{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    flex-wrap: wrap;
+}
+.payment-element{
+    margin:10px;
+}
+
+.payment-card img{
+    width:140px;
+}
+
+.payment-card{
+    background-color: #dee2e6!important;
+    border: 1px solid #aaaaaa20;
+    padding: 1rem;
+    height: 5rem;
+    width: 10rem;
+    cursor:pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+}
+.payment-card span{
+    font-size: 1.25rem;
+    color: #0f0b35;
+}
+
+
+.default-payment-card{
+    border: 1px solid #aaaaaa20;
+    margin-bottom: 2rem;
+    background: transparent;
+
+}
+.default-payment-card .card-header{
+    border-bottom: 1px solid #aaaaaa20;
+    background: #002A3D;
+    display: flex;
+}
+
+.default-payment-card .card-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #aaaaaa20;
+    background: #0f0b35;
+}
+
+.default-payment-card .card-body{
+
+}
+/*overides*/
+.btn-link{
+    color:#C4DD31;
+}
+.btn-link:hover{
+    color: #64B72E;
+}
+
+/*parsley overide*/
+
+.parsley-errors-list.filled{
+    list-style-type: none;
+    color: #dc3545!important;
+    padding-left:0;
+}

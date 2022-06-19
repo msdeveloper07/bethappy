@@ -1,0 +1,387 @@
+<div class="container-fluid conatiner-custom-padding">
+    <div class="row">
+        <div class="col-md-3">
+            <?= $this->element('casino_sidebar'); ?>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div class="col-md-12 p-0">
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!--<h1 class="mb-4">Limits</h1>-->
+        <!--                    <p class="small">
+                                If you have more than one limit in place, the lowest limit will be valid. 
+                                Example: If you have a limit of €500 a month and €200 a day, you will not be able to deposit more than €200 a day and also no more than €500 a month.
+                            </p>-->
+                            <p class="small">
+                                <?= __('If you want to change any limit you will need to wait 24 hours for this to take effect. The date of the change in limits will be visible in "Expires".'); ?>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card card-gradient">
+                                <div class="card-header"><?= __('Deposit Limits'); ?></div>
+                                <div class="card-body">
+                                    <form role="form" name="depositLimitsForm" novalidate class="needs-validation">
+                                        <div class="row align-items-end">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputLimit"><?= __('Limit'); ?></label>
+                                                    <select class="custom-select form-control account-input" id="limit_type" ng-model="UserLimits.depositLimitType">
+                                                        <option ng-selected="true" value="" class="text-muted"><?= __('Select limit'); ?></option>
+                                                        <option ng-repeat="(limit_value,limit_label) in LimitTypes" value="{{limit_value}}">{{limit_label | translate}}</option>
+                                                    </select>
+                                                    <span ng-show="depositLimitsForm.limit.$invalid && !depositLimitsForm.limit.$pristine" class="help-block text-danger"><?= __('Limit is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputAmount"><?= __('Amount'); ?></label>
+                                                    <input class="form-control account-input-outline" name="limit_value" type="text" id="limit_value" ng-model="UserLimits.depositLimitAmount"/>
+                                                    <span ng-show="depositLimitsForm.amount.$invalid && !depositLimitsForm.amount.$pristine" class="help-block text-danger"><?= __('Amount is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <button class="btn btn-default btn-block text-uppercase mb-2" type="submit"  ng-click="saveDepositLimit()" ng-disabled="depositLimitsForm.$invalid"><?= __('Add Limit'); ?></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <div class="row">
+                                        <div class="col-md-12">
+
+                                            <ul class="limits-list">
+                                                <li ng-if="Limits.deposit.data.length" ng-repeat="deposit in Limits.deposit.data">
+                                                    <div>
+                                                        <h5>{{deposit.UsersLimits.limit_type  | translate | uppercase}}</h5>
+                                                        <h6><small>{{deposit.UsersLimits.apply_date | toDate | date:'dd-MM-yyyy HH:mm'}}</small></h6>
+                                                    </div>
+                                                    <small class="mx-4">
+                                                        <h5>
+                                                            <span ng-bind-html="deposit.UsersLimits.amount | currencyFilter:User.Currency.code"></span>
+                                                        </h5>
+                                                    </small>
+                                                    <div>
+                                                        <h6 class="d-flex flex-column" ng-if="deposit.UsersLimits.until_date"><small><?= __('Expires'); ?>: </small> {{deposit.UsersLimits.until_date | toDate | date:'dd-MM-yyyy HH:mm'}}</h6>
+                                                        <button class="btn btn-sm btn-danger px-4" ng-if="!deposit.UsersLimits.until_date" ng-click="cancelPlayerLimit(deposit.UsersLimits.id)"><?= __('Cancel'); ?></button>
+                                                    </div>
+                                                </li>
+
+                                                <li ng-if="!Limits.deposit.data.length"><?= __('No limits assigned yet.'); ?></li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!--            <div class="card card-gradient">
+                                    <div class="card-header">Session Limits </div>
+                                    <div class="card-body">
+                                        <form role="form" name="sessionLimitsForm" novalidate class="needs-validation">
+                                            <div class="row align-items-end">
+                                                <div class="col-md-4">
+                                                    <div class="form-group">
+                                                        <label for="inputLimit">Limit</label>
+                                                        <select class="custom-select form-control account-input" id="limit_type" ng-model="UserLimits.sessionLimitType">
+                                                            <option ng-selected="true" value="" class="text-muted">Select limit</option>
+                                                            <option ng-repeat="(limit_value,limit_label) in SessionLimitTypes" value="{{limit_value}}">{{limit_label}}</option>
+                                                        </select>
+                                                        <span ng-show="sessionLimitsForm.limit.$invalid && !sessionLimitsForm.limit.$pristine" class="help-block text-danger">Limit is required.</span>
+                                                    </div>
+                                                </div>
+                    
+                                                <div class="col-md-4">
+                                                    <div class="form-group">
+                                                        <label for="inputAmount">Amount</label>
+                                                        <input class="form-control account-input-outline" name="limit_value" type="text" id="limit_value" ng-model="UserLimits.sessionLimitAmount"/>
+                                                        <span ng-show="sessionLimitsForm.amount.$invalid && !sessionLimitsForm.amount.$pristine" class="help-block text-danger">Amount is required.</span>
+                                                    </div>
+                                                </div>
+                    
+                                                <div class="col-md-4">
+                                                    <div class="form-group">
+                                                        <button class="btn btn-default btn-block text-uppercase mb-2" type="submit"  ng-click="saveSessionLimit()" ng-disabled="sessionLimitsForm.$invalid">Add Limit</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <div class="row">
+                    
+                                            <div class="col-md-12">
+                    
+                                                <ul class="limits-list">
+                                                    <li ng-if="Limits.session.data.length" ng-repeat="session in Limits.session.data">
+                                                        <div>
+                                                            <h5>{{session.UsersLimits.limit_type | uppercase}}</h5>
+                                                            <h6><small>{{session.UsersLimits.apply_date | toDate | date:'dd-MM-yyyy HH:mm'}}</small></h6>
+                                                        </div>
+                                                        <small class="mx-4">
+                                                            <h5>
+                                                                <span ng-bind-html="session.UsersLimits.amount | currencyFilter:User.Currency.code"></span>
+                                                            </h5>
+                                                        </small>
+                                                        <div>
+                                                            <h6 class="d-flex flex-column" ng-if="session.UsersLimits.until_date"><small>Expires: </small> {{session.UsersLimits.until_date | toDate | date:'dd-MM-yyyy HH:mm'}}</h6>
+                                                            <button class="btn btn-sm btn-danger px-4" ng-if="!session.UsersLimits.until_date" ng-click="cancelPlayerLimit(session.UsersLimits.id)">Cancel</a>
+                                                        </div>
+                                                    </li>
+                                                    <li ng-if="!Limits.session.data.length">No limits assigned yet.</li>
+                                                </ul>
+                    
+                                            </div>
+                    
+                                        </div>
+                    
+                                    </div>
+                                </div>-->
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card card-gradient">
+                                <div class="card-header"><?= __('Wager Limits'); ?></div>
+                                <div class="card-body">
+                                    <form role="form" name="wagerLimitsForm" novalidate class="needs-validation">
+                                        <div class="row align-items-end">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputLimit"><?= __('Limit'); ?></label>
+                                                    <select class="custom-select form-control account-input" id="limit_type" ng-model="UserLimits.wagerLimitType">
+                                                        <option ng-selected="true" value="" class="text-muted"><?= __('Select limit'); ?></option>
+                                                        <option ng-repeat="(limit_value,limit_label) in LimitTypes" value="{{limit_value}}">{{limit_label | translate}}</option>
+                                                    </select>
+                                                    <span ng-show="wagerLimitsForm.limit.$invalid && !wagerLimitsForm.limit.$pristine" class="help-block text-danger"><?= __('Limit is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputAmount"><?= __('Amount'); ?></label>
+                                                    <input class="form-control account-input-outline" name="limit_value" type="text" id="limit_value" ng-model="UserLimits.wagerLimitAmount"/>
+                                                    <span ng-show="wagerLimitsForm.amount.$invalid && !wagerLimitsForm.amount.$pristine" class="help-block text-danger"><?= __('Amount is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <button class="btn btn-default btn-block text-uppercase mb-2" type="submit"  ng-click="saveWagerLimit()" ng-disabled="wagerLimitsForm.$invalid"><?= __('Add Limit'); ?></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <div class="row">
+
+                                        <div class="col-md-12">
+
+                                            <ul class="limits-list">
+                                                <li ng-if="Limits.wager.data.length" ng-repeat="wager in Limits.wager.data">
+                                                    <div>
+                                                        <h5>{{wager.UsersLimits.limit_type | translate | uppercase}}</h5>
+                                                        <h6><small>{{wager.UsersLimits.apply_date | toDate | date:'dd-MM-yyyy HH:mm'}}</small></h6>
+                                                    </div>
+                                                    <small class="mx-4">
+                                                        <h5>
+                                                            <span ng-bind-html="wager.UsersLimits.amount | currencyFilter:User.Currency.code"></span>
+                                                        </h5>
+                                                    </small>                                    
+                                                    <div>
+                                                        <h6 class="d-flex flex-column" ng-if="wager.UsersLimits.until_date"><small><?= __('Expires'); ?>: </small> {{wager.UsersLimits.until_date | toDate | date:'dd-MM-yyyy HH:mm'}}</h6>
+                                                        <button class="btn btn-sm btn-danger px-4" ng-if="!wager.UsersLimits.until_date" ng-click="cancelPlayerLimit(wager.UsersLimits.id)"><?= __('Cancel'); ?></button>
+                                                    </div>
+                                                </li>
+                                                <li ng-if="!Limits.wager.data.length"><?= __('No limits assigned yet.'); ?></li>
+                                            </ul>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card card-gradient">
+                                <div class="card-header"><?= __('Loss Limits'); ?></div>
+                                <div class="card-body">
+                                    <form role="form" name="lossLimitsForm" novalidate class="needs-validation">
+                                        <div class="row align-items-end">
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputLimit"><?= __('Limit'); ?></label>
+                                                    <select class="custom-select form-control account-input" id="limit_type" ng-model="UserLimits.lossLimitType">
+                                                        <option ng-selected="true" value="" class="text-muted"><?= __('Select limit'); ?></option>
+                                                        <option ng-repeat="(limit_value,limit_label) in LimitTypes" value="{{limit_value}}">{{limit_label | translate}}</option>
+                                                    </select>
+                                                    <span ng-show="lossLimitsForm.limit.$invalid && !lossLimitsForm.limit.$pristine" class="help-block text-danger"><?= __('Limit is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label for="inputAmount"><?= __('Amount'); ?></label>
+                                                    <input class="form-control account-input-outline" name="limit_value" type="text" id="limit_value" ng-model="UserLimits.lossLimitAmount"/>
+                                                    <span ng-show="lossLimitsForm.amount.$invalid && !lossLimitsForm.amount.$pristine" class="help-block text-danger"><?= __('Amount is required.'); ?></span>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <button class="btn btn-default btn-block text-uppercase mb-2" type="submit"  ng-click="saveLossLimit()" ng-disabled="lossLimitsForm.$invalid"><?= __('Add Limit'); ?></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <div class="row">
+                                        <div class="col-md-12">
+
+                                            <ul class="limits-list">
+                                                <li ng-if="Limits.loss.data.length" ng-repeat="loss in Limits.loss.data">
+                                                    <div>
+                                                        <h5>{{loss.UsersLimits.limit_type | translate}} | uppercase}}</h5>
+                                                        <h6><small>{{loss.UsersLimits.apply_date | toDate | date:'dd-MM-yyyy HH:mm'}}</small></h6>
+                                                    </div>
+                                                    <small class="mx-4">
+                                                        <h5>
+                                                            <span ng-bind-html="loss.UsersLimits.amount | currencyFilter:User.Currency.code"></span>
+                                                        </h5>
+                                                    </small>
+                                                    <div>
+                                                        <h6 class="d-flex flex-column" ng-if="loss.UsersLimits.until_date"><small><?= __('Expires'); ?>: </small> {{loss.UsersLimits.until_date| toDate | date:'dd-MM-yyyy HH:mm'}}</h6>
+                                                        <button class="btn btn-sm btn-danger px-4" ng-if="!loss.UsersLimits.until_date" ng-click="cancelPlayerLimit(loss.UsersLimits.id)"><?= __('Cancel'); ?></button>
+                                                    </div>
+                                                </li>
+                                                <li ng-if="!Limits.loss.data.length"><?= __('No limits assigned yet.'); ?></li>
+                                            </ul>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card card-gradient">
+                                <div class="card-header"><?= __('Self Exclusion Limits'); ?></div>
+                                <div class="card-body">
+                                    <form role="form" name="selfExclusionLimitsForm" novalidate class="needs-validation">
+                                        <div class="row align-items-end">
+                                            <div class="col-md-8">
+                                                <div class="form-group">
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="1" id="SelfexclutionAmount1" name="SelfexclutionAmount1"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount1"><?= __('Do not allow me to access my account for the next day'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="7" id="SelfexclutionAmount2" name="SelfexclutionAmount2"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount2"><?= __('Do not allow me to access my account for the next 7 days'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="30" id="SelfexclutionAmount3" name="SelfexclutionAmount3"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount3"><?= __('Do not allow me to access my account for the next 30 days'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="90" id="SelfexclutionAmount4" name="SelfexclutionAmount4"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount4"><?= __('Do not allow me to access my account for the next 3 months'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="180" id="SelfexclutionAmount5" name="SelfexclutionAmount5"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount5"><?= __('Do not allow me to access my account for the next 6 months'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="365" id="SelfexclutionAmount6" name="SelfexclutionAmount6"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount6"><?= __('Do not allow me to access my account for the next year'); ?></label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input type="radio" class="custom-control-input" ng-model="UserLimits.selfExclutionLimitPeriod" value="1825" id="SelfexclutionAmount7" name="SelfexclutionAmount7"/>
+                                                        <label class="custom-control-label" for="SelfexclutionAmount7"><?= __('Do not allow me to access my account for the next 5 years'); ?></label>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <button class="btn btn-default btn-block text-uppercase mb-2" type="submit"  ng-click="saveSelfExclutionLimit()" ng-disabled="selfExclusionLimitsForm.$invalid">Add Limit</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <!--                    <div class="row">
+                                                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12" ng-if="Limits.self_exclusion.data.length" ng-repeat="self_exclusion in Limits.self_exclusion.data">
+                                                                <div class="card limits-card mb-3">
+                                                                    <div class="card-header">
+                                                                        <h5 class="small">Limit type:<br> {{self_exclusion.UsersLimits.limit_type | uppercase}}</h5>
+                                                                    </div>
+                                                                    <div class="card-body">
+                                                                        <h6 class="card-subtitle mb-2 text-muted">{{User.Currency.code}}{{self_exclusion.UsersLimits.amount | number:2}}</h6>
+                                                                        <p class="card-text">Created: {{self_exclusion.UsersLimits.apply_date}}</p>
+                                                                        <p class="card-text" ng-if="self_exclusion.UsersLimits.until_date">Expires: {{self_exclusion.UsersLimits.until_date| toDate | date:'dd-MM-yyyy HH:mm'}}</p>
+                                    
+                                                                    </div>
+                                                                    <div class="card-footer" ng-if="!self_exclusion.UsersLimits.until_date">
+                                                                        <button class="btn btn-block btn-danger px-4" ng-click="cancelPlayerLimit(self_exclusion.UsersLimits.id)">Cancel</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <p class="" ng-if="!Limits.self_exclusion.data.length" class="mt-3">No limits assigned yet.</p>-->
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="card card-gradient">
+                                <div class="card-header"><?= __('Delete Account'); ?></div>
+                                <div class="card-body">
+                                    <form role="form" name="deleteAccountForm" novalidate class="needs-validation">
+                                        <div class="row align-items-end">
+                                            <div class="col-md-8">
+                                                <div class="form-group">
+                                                    <p class="my-2 text-danger"><?= __('Permanently delete your account?'); ?></p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-sm-12 col-md-4">
+                                                <div class="form-group">
+                                                    <button class="btn btn-default btn-block text-uppercase bg-danger text-white mb-2" type="submit" ng-click="deleteAccount()"><?= __('Delete Account'); ?></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

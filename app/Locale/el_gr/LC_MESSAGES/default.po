@@ -1,0 +1,4694 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-09 13:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+
+#: UsersController.php:115 Controller/UsersController.php:131
+msgid "Your passwords does not much"
+msgstr "Οι κωδικοί πρόσβασης δεν συμφωνούν"
+
+#: UsersController.php:181 Controller/UsersController.php:205
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Ο Λογαριασμός σου  έχει δημιουργηθεί. Επιβεβαίωσε τη διεύθυνση email σου για "
+"να μπορέσεις να συνδεθείς"
+
+#: UsersController.php:234;749 Controller/UsersController.php:258;773
+msgid "Password changed"
+msgstr "Έγινε αλλαγή του κωδικού πρόσβασης"
+
+#: UsersController.php:238 Controller/UsersController.php:262
+msgid "Wrong old password. Please try again"
+msgstr "Εσφαλμένος παλιός κωδικός πρόσβασης. Προσπάθησε ξανά. "
+
+#: UsersController.php:241;756 Controller/UsersController.php:265;780
+msgid "Passwords do not match. Please try again"
+msgstr "Οι κωδικοί πρόσβασης δεν συμφωνούν. Προσπάθησε ξανά. "
+
+#: UsersController.php:318 Controller/UsersController.php:342
+msgid "Account information updated."
+msgstr "Τα στοιχεία του λογαριασμού ενημερώθηκαν. "
+
+#: UsersController.php:372 Controller/UsersController.php:396
+msgid "Limits cancelled."
+msgstr "Τα όρια καταργήθηκαν."
+
+#: UsersController.php:374 Controller/UsersController.php:398
+msgid "Unable to cancel limit"
+msgstr "Δεν ήταν δυνατό να ακυρωθεί το όριο"
+
+#: UsersController.php:473;478 Controller/UsersController.php:497;502
+msgid "Limits updated."
+msgstr "Τα όρια ενημερώθηκαν"
+
+#: UsersController.php:480 Controller/UsersController.php:504
+msgid "Limits not updated."
+msgstr "Τα όρια δεν ενημερώθηκαν"
+
+#: UsersController.php:489 Controller/UsersController.php:513
+msgid "You account has been deleted."
+msgstr "Ο λογαριασμός σας έχει διαγραφεί."
+
+#: UsersController.php:660 Controller/UsersController.php:684
+msgid "Account settings updated."
+msgstr "Οι ρυθμίσεις του λογαριασμού ενημερώθηκαν. "
+
+#: UsersController.php:712 Controller/UsersController.php:736
+msgid "Password reset link sent to your email"
+msgstr ""
+"Στάλθηκε σύνδεσμος επαναφοράς του κωδικού πρόσβασης στη διεύθυνση email σου. "
+
+#: UsersController.php:715 Controller/UsersController.php:739
+msgid "E-mail not valid"
+msgstr "Η διεύθυνση email δεν είναι έγκυρη"
+
+#: UsersController.php:789 Controller/UsersController.php:813
+msgid "Promotional code successfully used"
+msgstr "Ο κωδικός προσφοράς χρησιμοποιήθηκε με επιτυχία"
+
+#: UsersController.php:791;795 Controller/UsersController.php:815;819
+msgid "Invalid promotional code"
+msgstr "Μη έγκυρος κωδικός προσφοράς"
+
+#: UsersController.php:814 Controller/UsersController.php:838
+msgid "Confirm your email."
+msgstr "Επιβεβαίωσε τη διεύθυνση email σου. "
+
+#: UsersController.php:820;888 Controller/UsersController.php:844;919
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Δεν ήταν δυνατό να ακυρωθεί το όριο"
+
+#: UsersController.php:851 Controller/UsersController.php:875
+msgid "Your Account is Deleted Permanently"
+msgstr "Ο Λογαριασμός σου έχει Διαγραφεί Μόνιμα"
+
+#: UsersController.php:857 Controller/UsersController.php:885
+msgid "You are Already Logged in."
+msgstr "Έχεις Ήδη Συνδεθεί. "
+
+#: UsersController.php:885
+msgid "Wrong Password"
+msgstr "Λάθος Κωδικός"
+
+#: UsersController.php:913 Controller/UsersController.php:943
+msgid "Username or password is incorrect"
+msgstr "Το όνομα χρήστη ή ο κωδικός πρόσβασης είναι λάθος"
+
+#: UsersController.php:1060 Controller/UsersController.php:1108
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Ο Συνεργάτης %s (id: %d) ζήτησε να χρηματοδοτήσει το λογαριασμό σου.  "
+
+#: UsersController.php:1061 Controller/UsersController.php:1109
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Ο λογαριασμός του χρήστη %s (id: %d) πιστώθηκε από τον  %s"
+
+#: UsersController.php:1065 Controller/UsersController.php:1113
+msgid "User %s is credited by %d %s"
+msgstr "Ο χρήστης %s πιστώθηκε από τον  %d %s"
+
+#: UsersController.php:1085 Controller/UsersController.php:1133
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Ο Συνεργάτης %s (id: %d) ζήτησε να  να χρεώσει  το λογαριασμό σου.  "
+
+#: UsersController.php:1086 Controller/UsersController.php:1134
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Ο λογαριασμός του χρήστη %s (id: %d) χρεώθηκε από% s"
+
+#: UsersController.php:1089 Controller/UsersController.php:1137
+msgid "User %s is charged by %d %s"
+msgstr "Ο χρήστης %s χρεώθηκε από τον %d %s"
+
+#: UsersController.php:1214 Controller/UsersController.php:1275
+msgid "KYC Data Accepted"
+msgstr "Στοιχεία KYC αποδεκτά (Διαδικασία Ταυτοποίησης Στοιχείων)"
+
+#: Controller/AffiliatesController.php:108;109
+#: Controller/MailsController.php:74
+msgid "Email successfully sent"
+msgstr "Το email στάλθηκε με επιτυχία"
+
+#: Controller/AffiliatesController.php:112 Controller/MailsController.php:76
+msgid "Cannot send email. Please try again."
+msgstr "Το email δεν μπορεί να αποσταλεί. Προσπάθησε ξανά. "
+
+#: Controller/AppController.php:427 Controller/WithdrawsController.php:452
+msgid "can't find"
+msgstr "δεν βρέθηκε"
+
+#: Controller/AppController.php:480
+msgid "Changes saved"
+msgstr "Οι αλλαγές αποθηκεύτηκαν"
+
+#: Controller/AppController.php:483
+msgid "This cannot be saved."
+msgstr "Δεν μπορεί να αποθηκευτεί."
+
+#: Controller/AppController.php:515;543
+msgid "Item added"
+msgstr "Προστέθηκε στοιχείο"
+
+#: Controller/AppController.php:519;546
+msgid "This cannot be added."
+msgstr "Αυτό δεν μπορεί να προστεθεί."
+
+#: Controller/AppController.php:568 Controller/LanguagesController.php:106
+msgid "Item deleted"
+msgstr "Διαγράφηκε στοιχείο"
+
+#: Controller/AppController.php:572
+msgid "This cannot be deleted."
+msgstr "Αυτό δεν μπορεί να διαγραφεί."
+
+#: Controller/BetsController.php:51;66
+msgid "Bet added"
+msgstr "Προστέθηκε στοίχημα"
+
+#: Controller/BetsController.php:54;69
+msgid "Error adding bet"
+msgstr "Σφάλμα στην προσθήκη στοιχήματος"
+
+#: Controller/DepositsController.php:123
+msgid "Lowest deposit amount is "
+msgstr "Το χαμηλότερο ποσό κατάθεσης είναι"
+
+#: Controller/DepositsController.php:126
+msgid "Highest deposit amount is "
+msgstr "Το Υψηλότερο ποσό κατάθεσης είναι"
+
+#: Controller/DepositsController.php:171
+msgid "You have reached you deposit limit per transaction amount: "
+msgstr "Έχεις φτάσει το όριο κατάθεσης ανά συναλλαγή:"
+
+#: Controller/DepositsController.php:194
+msgid "You have reached you deposit limit daily amount: "
+msgstr "Έχεις φτάσει το ημερίσιο όριο κατάθεσης:"
+
+#: Controller/DepositsController.php:216
+msgid "You have reached you deposit limit weekly amount: "
+msgstr "Έχεις φτάσει το εβδομαδιαίο όριο κατάθεσης:"
+
+#: Controller/DepositsController.php:235
+msgid "You have reached you deposit limit monthly amount: "
+msgstr "Έχεις φτάσει το μηνιαίο όριο κατάθεσης:"
+
+#: Controller/DepositsController.php:309
+#: Plugin/Payments/Controller/ApcoController.php:244
+msgid "Bonus code expired or wrong"
+msgstr "Ο κωδικός μπόνους έχει λήξει ή είναι λάθος"
+
+#: Controller/DepositsController.php:319
+#: Plugin/Payments/Controller/ApcoController.php:254
+msgid "Bonus code expired"
+msgstr "Ο κωδικός μπόνους έχει λήξει"
+
+#: Controller/DepositsController.php:325
+#: Plugin/Payments/Controller/ApcoController.php:260
+msgid "Your amount is too low for bonus"
+msgstr "Το ποσό είναι πολύ χαμηλό για μπόνους"
+
+#: Controller/DepositsController.php:331
+#: Plugin/Payments/Controller/ApcoController.php:266
+msgid "Your amount is too high for bonus"
+msgstr "Το ποσό είναι πολύ υψηλό για μπόνους"
+
+#: Controller/DepositsController.php:391
+#: Controller/WithdrawsController.php:344
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:43;74;105;134
+msgid "User Terminated"
+msgstr "Ο λογαριασμός χρήστη τερματίστηκε"
+
+#: Controller/DepositsController.php:397
+#: Controller/WithdrawsController.php:353 Model/Deposit.php:301
+#: Model/Withdraw.php:181
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: Controller/DepositsController.php:398
+#: Controller/WithdrawsController.php:354
+#: Controller/Component/BetApiComponent.php:15 Model/Deposit.php:300
+#: Model/Withdraw.php:180 View/Helper/BethHelper.php:221
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:56
+msgid "Pending"
+msgstr "Σε εκκρεμότητα"
+
+#: Controller/DepositsController.php:399
+#: Controller/WithdrawsController.php:355
+#: Controller/Component/BetApiComponent.php:21 Model/Deposit.php:302
+#: Model/Withdraw.php:182 View/Helper/BethHelper.php:227
+#: View/Themed/7epta7/Tickets/get_history.ctp:27
+msgid "Canceled"
+msgstr "Ακυρώθηκε"
+
+#: Controller/DepositsController.php:411 Controller/TicketsController.php:115
+#: Controller/WithdrawsController.php:367
+msgid "Statuses chart"
+msgstr "Πίνακας καταστάσεων"
+
+#: Controller/DepositsController.php:412
+#: Controller/WithdrawsController.php:368
+msgid "Amount chart"
+msgstr "Πίνακας ποσών"
+
+#: Controller/DepositsController.php:449
+msgid "Deposit not found!"
+msgstr "Η κατάθεση δεν βρέθηκε! "
+
+#: Controller/DepositsController.php:455
+msgid "Deposit already marked as \"completed\"!"
+msgstr "Η κατάθεση έχει ήδη σημειωθεί ως  \"ολοκληρωμένη\"! "
+
+#: Controller/DepositsController.php:468
+msgid "Deposit request set as completed"
+msgstr "Το αίτημα κατάθεσης ορίστηκε ως ολοκληρωμένο"
+
+#: Controller/DepositsController.php:476
+msgid "Deposit request canceled"
+msgstr "Το αίτημα κατάθεσης ακυρώθηκε"
+
+#: Controller/DepositsController.php:488
+msgid "Money transaction completed"
+msgstr "Η χρηματική συναλλαγή ολοκληρώθηκε"
+
+#: Controller/EventsController.php:116
+msgid "Select Event"
+msgstr "Επολογή γεγονότος"
+
+#: Controller/EventsController.php:198;223;264
+msgid "No search results found"
+msgstr "Δεν βρέθηκαν αποτελέσματα αναζήτησης"
+
+#: Controller/GroupsController.php:72
+msgid "Permissions updated"
+msgstr "Οι άδειες ενημερώθηκαν"
+
+#: Controller/KYCController.php:96
+msgid "Your request is accepted."
+msgstr "Η αίτησή σας έγινε δεκτή."
+
+#: Controller/LanguagesController.php:90
+msgid "Language already exist"
+msgstr "Η γλώσσα υπάρχει ήδη"
+
+#: Controller/LanguagesController.php:109
+msgid "can't delete item"
+msgstr "το στοιχείο δεν μπορεί να διαγραφεί"
+
+#: Controller/MailsController.php:91;143
+msgid "Emails successfully sent"
+msgstr "Τα emails στάλθηκαν με επιτυχία"
+
+#: Controller/ResultsController.php:112
+msgid "Please enter event result"
+msgstr "Πληκτρολόγησε το αποτέλεσμα του γεγονότος"
+
+#: Controller/ResultsController.php:119;146;279
+msgid "Results updated"
+msgstr "Τα αποτελέσματα ενημερώθηκαν"
+
+#: Controller/RisksController.php:40;57;74
+#: Controller/SettingsController.php:40;66;81;95;109;122;135;153;169;187;205
+msgid "Settings saved."
+msgstr "Τα αποτελέσματα ενημερώθηκαν"
+
+#: Controller/RisksController.php:42;59;76
+#: Controller/SettingsController.php:42;68;83;97;111;124;137;155;171;189;207
+msgid "can't save settings."
+msgstr "οι ρυθμίσεις δεν μπορούν να αποθηκευτούν."
+
+#: Controller/TicketsController.php:114
+msgid "Types chart"
+msgstr "Πίνακας τύπων"
+
+#: Controller/TicketsController.php:222
+msgid "Cannot find ticket with id: "
+msgstr "Δεν βρέθηκε το δελτίο με id: "
+
+#: Controller/TicketsController.php:341
+#: View/Themed/7epta7/Tickets/view.ctp:103
+msgid "Ticket is not found"
+msgstr "Το κουπόνι δεν βρέθηκε! "
+
+#: Controller/TicketsController.php:342
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:18
+msgid "Unknown ticket status"
+msgstr "Άγνωστη κατάσταση δελτίου"
+
+#: Controller/TicketsController.php:343
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:22
+msgid "Unknown paid status"
+msgstr "Άγνωστη κατάσταση πληρωμής"
+
+#: Controller/TicketsController.php:346
+msgid "Ok"
+msgstr "Οκ"
+
+#: Controller/TicketsController.php:392
+msgid "Unknown error"
+msgstr "Άγνωστο Λάθος"
+
+#: Controller/TicketsController.php:404
+msgid "Insufficient credits"
+msgstr "Ανεπαρκή ποσά πίστωσης"
+
+#: Controller/TicketsController.php:409
+msgid "Ticket is still pending or lost"
+msgstr "Το δελτίο ακόμα εκκρεμεί ή έχει χαθεί"
+
+#: Controller/TicketsController.php:433
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Το δελτίο εκτυπώθηκε. ΙD δελτίου: %d "
+
+#: Controller/TicketsController.php:437
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Το δελτίο δεν βρέθηκε. ID δελτίου: %d "
+
+#: Controller/TicketsController.php:517;545
+msgid "Please select another pick from different event"
+msgstr "Κάνε μια άλλη επιλογή από ένα άλλο γεγονός"
+
+#: Controller/TicketsController.php:791
+msgid "Min betting amount is %d"
+msgstr "Το ελάχιστο ποσό στοιχείματος είναι %d "
+
+#: Controller/TicketsController.php:825
+msgid "You can not form this type of ticket, switching back to single"
+msgstr ""
+"Δεν μπορείς να χρησιμοποιήσεις δελτίο τέτοιου τύπου, επιστροφή στο μονό "
+
+#: Controller/UsersController.php:916
+msgid "Wrong Password or Username"
+msgstr "Λάθος Κωδικός Πρόσβασης η Όνομα Χρήστη"
+
+#: Controller/WithdrawsController.php:164
+msgid "Lowest amount for cashout is "
+msgstr "Το ελάχιστο ποσό για cashout είναι"
+
+#: Controller/WithdrawsController.php:168
+msgid "Highest amount for cashout is "
+msgstr "Μέγιστο ποσό για cashout "
+
+#: Controller/WithdrawsController.php:172
+msgid "Not enough money for this cashout transaction"
+msgstr "Δεν υπάρχουν αρκετά χρήματα γι' αυτή τη συναλλαγή cashout"
+
+#: Controller/WithdrawsController.php:182
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\" of %s due to "
+"bonus policy. You can withdraw %s"
+msgstr ""
+"Δεν μπορείς να κάνεις συναλλαγή για cashout. Υπάρχει ένα \"Κλειδωμένο Ποσό\" "
+"της τάξης των %s λόγω της πολιτικής μπόνους. Μπορείς να κάνεις ανάληψη %s"
+
+#: Controller/WithdrawsController.php:187
+msgid "Previous withdrawal transaction is not completed"
+msgstr "H προηγούμενη συναλλαγή ανάληψης δεν ολοκληρώθηε"
+
+#: Controller/WithdrawsController.php:213
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Δεν είσαι πιστοποιημένος (σε όλα) για να ολοκληρώσεις αυτή τη συναλλαγή. "
+"Συμπλήρωσε την αίτηση στην παρακάτω διεύθυνση:"
+
+#: Controller/WithdrawsController.php:217;230;241
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Πρέπει να υποβάλεις και πάλι τα Έγγραφα πιστοποίησης. Συμπλήρωσε την αίτηση "
+"στην παρακάτω διεύθυνση:"
+
+#: Controller/WithdrawsController.php:226
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Δεν είσαι πιστοποιημένος (ηλικία) για να ολοκληρώσεις αυτή τη συναλλαγή. "
+"Συμπλήρωσε την αίτηση στην παρακάτω διεύθυνση:"
+
+#: Controller/WithdrawsController.php:260
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a>"
+msgstr ""
+"Το αίτημα ανάληψης για %s έγινε δεκτό. Συμπλήρωσε τα τραπεζικά σου στοιχεία "
+"στον ακόλουθο σύνδεσμο: <a href='/users/account'>Πληροφορίες Λογαριασμού</a>"
+
+#: Controller/WithdrawsController.php:263
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Το αίτημα ανάληψης για %s έγινε δεκτό. "
+
+#: Controller/WithdrawsController.php:300
+msgid "Bank information updated."
+msgstr "Τα στοιχεία της τράπεζας ενημερώθηκαν."
+
+#: Controller/WithdrawsController.php:401
+msgid "Withdraw request set as completed"
+msgstr "Η αίτηση για ανάληψη θεωρείται ολοκληρωμένη"
+
+#: Controller/WithdrawsController.php:412
+msgid "Withdraw request updated"
+msgstr "Ενημερώθηκε το αίτημα ανάληψης. "
+
+#: Controller/WithdrawsController.php:428
+msgid "Withdraw request canceled"
+msgstr "Η αίτηση για ανάληψη ακυρώθηκε"
+
+#: Controller/Component/BetApiComponent.php:12 View/Helper/BethHelper.php:218
+msgid "Win"
+msgstr "Nίκη"
+
+#: Controller/Component/BetApiComponent.php:18 View/Helper/BethHelper.php:224
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:55
+msgid "Lost"
+msgstr "Ήττα"
+
+#: Model/AppModel.php:249 View/Themed/7epta7/Tickets/index.ctp:40
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:50
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:53
+msgid "Yes"
+msgstr "Ναι"
+
+#: Model/AppModel.php:251 View/Themed/7epta7/Tickets/index.ctp:40
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:52
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:55
+msgid "No"
+msgstr "Όχι"
+
+#: Model/AppModel.php:476;606 Model/BonusCode.php:67 Model/Event.php:224
+#: Model/Sport.php:111 Model/User.php:867
+#: View/Themed/7epta7/Tickets/history.ctp:30
+#: View/Themed/7epta7/Tickets/index.ctp:44
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:59
+msgid "View"
+msgstr "Προβολή"
+
+#: Model/AppModel.php:483;610 Model/BonusCode.php:74 Model/Event.php:228
+#: Model/KYC.php:252 Model/League.php:278 Model/Sport.php:118
+#: Model/Staff.php:168 Model/User.php:475 Model/Withdraw.php:157
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:58
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:56
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:60
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: Model/AppModel.php:490 Model/KYC.php:265 Model/Staff.php:175
+#: Model/User.php:482 View/Themed/Gdboxadmin/Events/admin_view.ctp:59
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:57
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:53
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: Model/AppModel.php:594 Model/Event.php:217
+msgid "List"
+msgstr "Λίστα"
+
+#: Model/AppModel.php:599 View/Themed/Gdboxadmin/Elements/add.ctp:9
+msgid "Create"
+msgstr "Δημιουργία"
+
+#: Model/Bet.php:288
+msgid "All"
+msgstr "Όλα"
+
+#: Model/BonusCode.php:81 Model/Report.php:40
+#: View/Themed/Gdboxadmin/Elements/statistics.ctp:16
+msgid "Users"
+msgstr "Χρήστες"
+
+#: Model/Deposit.php:325 Model/Withdraw.php:151
+msgid "Complete"
+msgstr "Ολοκλήρωση"
+
+#: Model/Deposit.php:331 Model/User.php:868 Model/Withdraw.php:163
+#: View/Themed/7epta7/Tickets/get_history.ctp:24
+#: View/Themed/7epta7/Users/lgalimits.ctp:36;80;127;170
+#: View/Themed/Gdboxadmin/Results/admin_all_events.ctp:62
+#: View/Themed/Gdboxadmin/Results/admin_league.ctp:62
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:55
+msgid "Cancel"
+msgstr "Ολοκλήρωση"
+
+#: Model/Deposit.php:360 Model/Withdraw.php:357
+msgid "Amount from"
+msgstr "Ποσό από "
+
+#: Model/Deposit.php:362 Model/Withdraw.php:359
+msgid "Amount to"
+msgstr "Ποσό έως"
+
+#: Model/Deposit.php:366 View/Themed/7epta7/Deposits/index.ctp:17
+#: View/Themed/7epta7/Withdraws/index.ctp:14
+msgid "Transaction ID"
+msgstr "ID Συναλλαγής"
+
+#: Model/Event.php:157 View/Themed/Gdboxadmin/Elements/user_menu.ctp:32
+msgid "Event name"
+msgstr "Όνομα γεγονότος"
+
+#: Model/KYC.php:258 View/Themed/Gdboxadmin/Reports/admin_deposits.ctp:63
+#: View/Themed/Gdboxadmin/Reports/admin_report.ctp:53
+#: View/Themed/Gdboxadmin/Reports/admin_tickets.ctp:77
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:51
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:69
+#: View/Themed/Gdboxadmin/Reports/admin_withdraws.ctp:72
+msgid "Download"
+msgstr "Λήψη"
+
+#: Model/Language.php:105 View/Themed/7epta7/Users/Copy of settings.ctp:21
+#: View/Themed/7epta7/Users/settings.ctp:20
+#: View/Themed/Gdboxadmin/Users/admin_settings.ctp:33
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: Model/League.php:133;172
+msgid "League name"
+msgstr "Όνομα κατηγορίας"
+
+#: Model/League.php:229 View/Themed/7epta7/Affiliates/displayticket.ctp:18
+#: View/Themed/7epta7/Tickets/view.ctp:13
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:43
+msgid "Sport"
+msgstr "Άθλημα"
+
+#: Model/League.php:271
+msgid "View events"
+msgstr "Προβολή γεγονότων"
+
+#: Model/League.php:285
+msgid "Add Event"
+msgstr "Προσθήκη γεγονότος"
+
+#: Model/Mail.php:65
+msgid "Send Mail"
+msgstr "Αποστολή email"
+
+#: Model/Mail.php:66
+msgid "Send to All"
+msgstr "Αποστολή σε Όλους"
+
+#: Model/Mb2Menu.php:86;95 Model/Mh2Menu.php:85;94
+msgid "Header 2 menu"
+msgstr "Μενού κεφαλίδας 2"
+
+#: Model/Mb3Menu.php:85;94 Model/Mh3Menu.php:85;94
+msgid "Header 3 menu"
+msgstr "Μενού κεφαλίδας 3"
+
+#: Model/Mb4Menu.php:85;94
+msgid "Bottom 4 menu"
+msgstr "Μενού κάτω 4"
+
+#: Model/MbMenu.php:84;93
+msgid "Footer menu"
+msgstr "Μενού υποσέλιδου"
+
+#: Model/MhMenu.php:85;94
+msgid "Header menu"
+msgstr "Μενού κεφαλίδας"
+
+#: Model/MnMenu.php:85;94
+msgid "Top Header menu"
+msgstr "Μενού Κορυφαίας Κεφαλίδας"
+
+#: Model/MtMenu.php:84;93
+msgid "Top menu"
+msgstr "Top μενού"
+
+#: Model/Report.php:41 View/Themed/7epta7/Tickets/history.ctp:2
+#: View/Themed/7epta7/Tickets/index.ctp:1
+#: View/Themed/Gdboxadmin/Elements/statistics.ctp:51
+#: View/Themed/Gdboxadmin/Users/admin_tickets.ctp:4
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:28
+msgid "Tickets"
+msgstr "Δελτία"
+
+#: Model/Report.php:42 View/Themed/Gdboxadmin/Elements/statistics.ctp:70
+#: View/Themed/Gdboxadmin/Users/admin_deposits.ctp:4
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:30
+msgid "Deposits"
+msgstr "Καταθέσεις"
+
+#: Model/Report.php:43 View/Themed/Gdboxadmin/Elements/statistics.ctp:88
+#: View/Themed/Gdboxadmin/Users/admin_withdraws.ctp:4
+msgid "Withdraws"
+msgstr "Αναλήψεις"
+
+#: Model/Result.php:40 View/Themed/Gdboxadmin/Events/admin_results.ctp:1
+#: View/Themed/Gdboxadmin/Results/admin_all_all.ctp:32
+#: View/Themed/Gdboxadmin/Results/admin_event.ctp:27
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+#: Model/Result.php:41
+msgid "Finished events in tickets"
+msgstr "Ολοκληρωμένα γεγονότα σε δελτία"
+
+#: Model/Result.php:42
+msgid "Pending events in tickets"
+msgstr "Γεγονότα που εκκρεμούν σε δελτία"
+
+#: Model/Result.php:43
+msgid "All finished events"
+msgstr "Όλα τα ολοκληρωμένα γεγονότα"
+
+#: Model/Setting.php:447
+msgid "Warnings"
+msgstr "Ειδοποιήσεις"
+
+#: Model/Setting.php:448 View/Themed/7epta7/Users/Copy of settings.ctp:3
+#: View/Themed/7epta7/Users/settings.ctp:2
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:43
+#: View/Themed/Gdboxadmin/Users/admin_settings.ctp:1
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: Model/Slide.php:107 Model/Withdraw.php:363
+msgid "Identity number"
+msgstr "Αριθμός ταυτότητας"
+
+#: Model/Slide.php:113
+msgid "Words in title"
+msgstr "Λέξεις στον τίτλο"
+
+#: Model/Slide.php:118
+msgid "Words in description"
+msgstr "Λέξεις στην περιγραφή"
+
+#: Model/Slide.php:123
+msgid "Url link"
+msgstr "URL σύνδεσμος"
+
+#: Model/Sport.php:125 View/Themed/Gdboxadmin/Sports/admin_view.ctp:26
+msgid "Add League"
+msgstr "Προσθήκη κατηγορίας"
+
+#: Model/Staff.php:123 Model/User.php:612
+#: View/Themed/7epta7/Affiliates/login.ctp:11
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:17
+#: View/Themed/7epta7/Users/register.ctp:49;51
+#: View/Themed/7epta7/Users/reset-password.ctp:15;16
+#: View/Themed/Gdboxadmin/Users/login.ctp:12
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: Model/Staff.php:183
+msgid "Fund staff"
+msgstr "Προσωπικό χρηματοδότησης"
+
+#: Model/Staff.php:190
+msgid "Charge staff"
+msgstr "Προσωπικό χρέωσης"
+
+#: Model/Staff.php:197
+msgid "Login/Logout"
+msgstr "Σύνδεση/Αποσύνδεση"
+
+#: Model/Ticket.php:283
+msgid "Ticket Fraud Check"
+msgstr "Έλεγχος Δελτίου για Απάτη"
+
+#: Model/Ticket.php:292
+msgid "Mark as paid"
+msgstr "Σημείωσε ως πληρωμένο"
+
+#: Model/Ticket.php:840
+msgid "Group ID"
+msgstr "ID ομάδας"
+
+#: Model/Ticket.php:840
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:33
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:52
+msgid "Tickets created"
+msgstr "Δελτία που δημιουργήθηκαν"
+
+#: Model/Ticket.php:840 View/Themed/7epta7/Elements/Events/Betradar/01.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/55.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/60.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/60_.ctp:6
+#: View/Themed/7epta7/Tickets/view.ctp:87
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:34
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:53
+msgid "Total"
+msgstr "Σύνολο"
+
+#: Model/Ticket.php:840
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:35
+msgid "Total payout"
+msgstr "Σύνολο πληρωμής"
+
+#: Model/Ticket.php:840
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:36
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:57
+msgid "Profit"
+msgstr "Κέρδος"
+
+#: Model/Ticket.php:1223
+msgid "1Lowest stake on %s is %d"
+msgstr "Το ελάχιστο ποντάρισμα στα %s είναι %d"
+
+#: Model/Ticket.php:1225;1229
+msgid "Highest stake on %s is %d"
+msgstr "Το μέγιστο ποντάρισμα στα %s είναι %d"
+
+#: Model/Ticket.php:1227
+msgid "2Lowest stake on %s is %d"
+msgstr "2Lowest stake on %s is %d"
+
+#: Model/Ticket.php:1231
+msgid "3Lowest stake amount is %d"
+msgstr "3Lowest stake amount is %d"
+
+#: Model/Ticket.php:1233
+msgid "Highest stake amount is %d"
+msgstr "Το μέγιστο ποσό για ποντάρισμα είναι %s"
+
+#: Model/Ticket.php:1275
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Έχεις φτάσει το όριο στοιχήματός σου ανά συναλλαγή: %d %s"
+
+#: Model/Ticket.php:1293
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Έχεις φτάσει το ημερίσιο όριο στοιχήματός σου: %d %s"
+
+#: Model/Ticket.php:1312
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Έχεις φτάσει το εβδομαδιαίο όριο στοιχήματός σου: %d %s"
+
+#: Model/Ticket.php:1331
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Έχεις φτάσει το μηνιαίο όριο στοιχήματός σου: %d %s"
+
+#: Model/Ticket.php:1357
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Έχεις φτάσει το όριο χασίματός σου ανά συναλλαγή: %d %s"
+
+#: Model/Ticket.php:1378
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Έχεις φτάσει το ημερίσιο όριο χασίματός σου: %d %s"
+
+#: Model/Ticket.php:1399
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Έχεις φτάσει το εβδομαδιαίο όριο χασίματός σου: %d %s"
+
+#: Model/Ticket.php:1421
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Έχεις φτάσει το μηνιαίο όριο χασίματός σου: %d %s"
+
+#: Model/Ticket.php:1692
+msgid "Please login"
+msgstr "Κάνε σύνδεση"
+
+#: Model/Ticket.php:1696
+msgid "Please select at least %d picks"
+msgstr "Κάνε τουλάχιστον %s επιλογές "
+
+#: Model/Ticket.php:1700
+msgid "Not enough money"
+msgstr "Δεν υπάρχουν αρκετά χρήματα"
+
+#: Model/Ticket.php:1712
+msgid "One or more events already started, please remove them"
+msgstr "Ένα ή περισσότερα γεγονότα έχουν ήδη αρχίσει, αφαίρεσέ τα"
+
+#: Model/Ticket.php:1716
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Η πρόβλεψη δεν ισχύει πλέον. Αφαίρεσε την άκυρη πρόβλεψη"
+
+#: Model/Ticket.php:1720
+msgid "One or mode bets are inactive"
+msgstr "Ένα ή περισσότερα στοιχήματα δεν έχουν ενεργοποιηθεί"
+
+#: Model/Ticket.php:1744
+msgid "Printed"
+msgstr "Εκτυπώθηκε"
+
+#: Model/Ticket.php:1763
+msgid "User Id"
+msgstr "Ιd Χρήστη"
+
+#: Model/Ticket.php:1765
+msgid "Amount From"
+msgstr "Ποσό από "
+
+#: Model/Ticket.php:1766
+msgid "Amount To"
+msgstr "Ποσό έως"
+
+#: Model/Ticket.php:1770
+msgid "Potential Winning From"
+msgstr "Πιθανό κέρδος από"
+
+#: Model/Ticket.php:1771
+msgid "Potential Winning To"
+msgstr "Πιθανό κέρδος έως"
+
+#: Model/Ticket.php:1775
+msgid "Odd From"
+msgstr "Απόδοση από"
+
+#: Model/Ticket.php:1776
+msgid "Odd To"
+msgstr "Απόδοση έως"
+
+#: Model/User.php:489
+msgid "Fund"
+msgstr "Χρηματοδότηση"
+
+#: Model/User.php:496
+msgid "Charge"
+msgstr "Χρέωση"
+
+#: Model/Withdraw.php:345 View/Themed/Gdboxadmin/Logs/admin_index.ctp:44
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:31
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:43
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:49
+msgid "User ID"
+msgstr "ID χρήστη"
+
+#: Plugin/Country/View/Countries/json/get_countries_menu - Copy.ctp:7
+#: Plugin/Payments/View/Apco/callback.ctp:9
+#: Plugin/Payments/View/Apco/result.ctp:9
+#: Plugin/Payments/View/Etranzact/callback.ctp:9
+#: Plugin/Payments/View/Etranzact/result.ctp:9
+#: Plugin/Payments/View/PaymentApp/result.ctp:8
+#: View/Themed/7epta7/Deposits/choose.ctp:29
+#: View/Themed/7epta7/Deposits/result.ctp:8
+#: View/Themed/7epta7/Tickets/review.ctp:86
+#: View/Themed/7epta7/Tickets/view.ctp:105
+msgid "Back"
+msgstr "Πίσω"
+
+#: Plugin/Feeds/Controller/FeedsController.php:61;102
+msgid "All feeds updated"
+msgstr "Ενημερώθηκαν όλα τα feeds"
+
+#: Plugin/Feeds/Controller/FeedsController.php:74
+msgid "All feeds downloaded"
+msgstr "Λήφθηκαν όλα τα feeds"
+
+#: Plugin/Feeds/Controller/FeedsController.php:83
+msgid "All feeds parsed"
+msgstr "Αναλύθηκαν όλα τα feeds"
+
+#: Plugin/Feeds/Controller/FeedsController.php:129
+msgid "Feed updated"
+msgstr "Το feed ενημερώθηκε"
+
+#: Plugin/Feeds/Controller/FeedsController.php:138
+msgid "Cannot find feed"
+msgstr "Το feed δεν βρέθηκε"
+
+#: Plugin/Feeds/Controller/FeedsController.php:167
+msgid "Cant find feed"
+msgstr "Το feed δεν βρέθηκε"
+
+#: Plugin/Feeds/Model/FeedsAppModel.php:70
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: Plugin/Feeds/Model/FeedsAppModel.php:91
+msgid "Update All"
+msgstr "Ενημέρωση Όλων"
+
+#: Plugin/Payments/Config/Etranzact.php:16
+#: Plugin/Payments/View/Apco/index.ctp:20
+#: Plugin/Payments/View/Etranzact/index.ctp:17
+#: View/Themed/7epta7/Deposits/deposit.ctp:24
+#: View/Themed/7epta7/Deposits/index.ctp:2
+msgid "Deposit"
+msgstr "Κατάθεση"
+
+#: Plugin/Payments/Controller/ApcoController.php:123;174
+msgid "Thank You"
+msgstr "Ευχαριστούμε"
+
+#: Plugin/Payments/Controller/ApcoController.php:124
+msgid "You successfully deposit %d"
+msgstr "Κατέθεσες με επιτυχία %d"
+
+#: Plugin/Payments/Controller/ApcoController.php:175
+msgid "You cancel your deposit"
+msgstr "Κάνεις ακύρωση της κατάθεσης"
+
+#: Plugin/Payments/Controller/EtranzactController.php:143
+msgid "You have successfully made deposit for "
+msgstr "Έκανες μια κατάθεση με επιτυχία για"
+
+#: Plugin/Payments/Controller/EtranzactController.php:145
+msgid "Sorry, we can not find your payment"
+msgstr "Συγγνώμη, δεν μπορούμε να βρούμε την πληρωμή σου"
+
+#: Plugin/Payments/View/Apco/callback.ctp:3
+#: Plugin/Payments/View/Apco/index.ctp:3
+#: Plugin/Payments/View/Apco/result.ctp:4
+#: Plugin/Payments/View/Etranzact/callback.ctp:3
+#: Plugin/Payments/View/Etranzact/index.ctp:3
+#: Plugin/Payments/View/Etranzact/result.ctp:4
+#: Plugin/Payments/View/PaymentApp/result.ctp:3
+#: View/Themed/7epta7/Deposits/deposit.ctp:3
+#: View/Themed/7epta7/Deposits/index.ctp:35
+#: View/Themed/7epta7/Deposits/result.ctp:3
+msgid "Make Deposit"
+msgstr "Κάνε μια Κατάθεση"
+
+#: Plugin/Payments/View/Apco/index.ctp:11
+#: Plugin/Payments/View/Etranzact/index.ctp:11
+#: View/Themed/7epta7/Deposits/deposit.ctp:11
+#: View/Themed/7epta7/Deposits/index.ctp:15
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:13
+#: View/Themed/7epta7/Tickets/history.ctp:16
+#: View/Themed/7epta7/Tickets/index.ctp:15
+#: View/Themed/7epta7/Tickets/view.ctp:90
+#: View/Themed/7epta7/Users/lgalimits.ctp:54
+#: View/Themed/7epta7/Withdraws/index.ctp:16;35
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:14
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:126
+#: View/Themed/Gdboxadmin/transactionlog/admin_viewlog.ctp:41
+msgid "Amount"
+msgstr "Ποσό"
+
+#: Plugin/Payments/View/Apco/submit_payment.ctp:7
+msgid "Make your Deposit"
+msgstr "Κάνε την κατάθεσή σου"
+
+#: Plugin/Payments/View/Etranzact/index.ctp:14
+#: View/Themed/7epta7/Elements/Deposits/bonus_code.ctp:3
+msgid "Bonus code or leave empty"
+msgstr "Κωδικός μπόνους ή άφησε κενό"
+
+#: Vendor/shells/aco_sync.php:83
+msgid "Available ACO sync commands:"
+msgstr "Available ACO sync commands:"
+
+#: Vendor/shells/aco_sync.php:87
+msgid ""
+"For help, run the 'help' command.  For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"For help, run the 'help' command.  For help on a specific command, run 'help "
+"<command>'"
+
+#: Vendor/shells/aco_sync.php:120
+msgid "Deleted %s and all children"
+msgstr "Deleted %s and all children"
+
+#: Vendor/shells/aco_sync.php:125
+msgid "Aco Update Complete"
+msgstr "Aco Update Complete"
+
+#: Vendor/shells/aco_sync.php:153
+msgid "Created Aco node: %s"
+msgstr "Created Aco node: %s"
+
+#: Vendor/shells/aco_sync.php:184
+msgid "Deleted Aco node %s"
+msgstr "Deleted Aco node %s"
+
+#: Vendor/shells/aco_sync.php:199
+msgid "Usage: cake aco_sync <command>"
+msgstr "Usage: cake aco_sync <command>"
+
+#: Vendor/shells/aco_sync.php:201
+msgid "Commands:"
+msgstr "Εντολές:"
+
+#: Vendor/shells/aco_sync.php:205
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Add new ACOs for new controllers and actions"
+
+#: Vendor/shells/aco_sync.php:206
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+
+#: Vendor/shells/aco_sync.php:210
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+
+#: Vendor/shells/aco_sync.php:213
+msgid "Displays this help message, or a message on a specific command."
+msgstr ""
+"Εμφανίζει αυτό το μήνυμα βοήθειας, ή ένα μήνυμα για συγκεκριμένη εντολή. "
+
+#: Vendor/shells/aco_sync.php:224
+msgid "Command '%s' not found"
+msgstr "Η εντολή '%s' δεν βρέθηκε"
+
+#: View/Helper/BethHelper.php:117
+msgid "day"
+msgstr "ημέρα"
+
+#: View/Helper/BethHelper.php:117
+msgid "days"
+msgstr "ημέρες"
+
+#: View/Helper/BethHelper.php:127
+msgid "h"
+msgstr "Ω"
+
+#: View/Helper/BethHelper.php:137
+msgid "min"
+msgstr "λεπτά"
+
+#: View/Helper/BethHelper.php:202
+msgid "Successful"
+msgstr "Επιτυχία"
+
+#: View/Helper/BethHelper.php:205
+msgid "Failed"
+msgstr "Αποτυχία"
+
+#: View/Helper/BethHelper.php:208
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: View/Helper/BethHelper.php:237
+msgid "Decimal"
+msgstr "Δεκαδικό"
+
+#: View/Helper/BethHelper.php:240
+msgid "Fractional"
+msgstr "Κλασματικό"
+
+#: View/Helper/BethHelper.php:243
+msgid "American"
+msgstr "Αμερικανικό"
+
+#: View/Helper/BethHelper.php:309;337;372
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:33
+msgid "ID: "
+msgstr "ID: "
+
+#: View/Helper/BethHelper.php:312;341;375
+msgid "more"
+msgstr "περισσότερα"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:19
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:19
+#: View/Themed/7epta7/Tickets/preview.ctp:18
+#: View/Themed/7epta7/Tickets/review.ctp:35
+#: View/Themed/7epta7/Tickets/view.ctp:14
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:141
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:19
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:67
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:19
+msgid "Event"
+msgstr "Γεγονός"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:20
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:20
+#: View/Themed/7epta7/Tickets/preview.ctp:19
+#: View/Themed/7epta7/Tickets/review.ctp:36
+#: View/Themed/7epta7/Tickets/view.ctp:15
+#: View/Themed/Gdboxadmin/Results/admin_all_all.ctp:40
+#: View/Themed/Gdboxadmin/Results/admin_event.ctp:41
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:20
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:69
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:20
+msgid "Pick"
+msgstr "Επιλογή"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:21
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:21
+#: View/Themed/7epta7/Tickets/history.ctp:15
+#: View/Themed/7epta7/Tickets/index.ctp:14
+#: View/Themed/7epta7/Tickets/preview.ctp:20
+#: View/Themed/7epta7/Tickets/review.ctp:37
+#: View/Themed/7epta7/Tickets/view.ctp:16
+#: View/Themed/Gdboxadmin/Bets/admin_add.ctp:14
+#: View/Themed/Gdboxadmin/Bets/admin_edit.ctp:36
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:39
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:34;65;96
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:21
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:36;70
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:21
+msgid "odd"
+msgstr "Απόδοση"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:22
+#: View/Themed/7epta7/Tickets/view.ctp:17
+#: View/Themed/Gdboxadmin/Results/admin_all_all.ctp:33
+#: View/Themed/Gdboxadmin/Results/admin_event.ctp:31
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:68
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:23
+#: View/Themed/7epta7/Tickets/view.ctp:18
+msgid "Outcome"
+msgstr "Αποτέλεσμα"
+
+#: View/Themed/7epta7/Affiliates/displayticket.ctp:24
+#: View/Themed/7epta7/Deposits/index.ctp:16
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:17
+#: View/Themed/7epta7/Tickets/history.ctp:18
+#: View/Themed/7epta7/Tickets/index.ctp:20
+#: View/Themed/7epta7/Tickets/view.ctp:19
+#: View/Themed/7epta7/Withdraws/index.ctp:15
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:39;71
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: View/Themed/7epta7/Affiliates/login.ctp:10
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:16
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-box.ctp:5
+#: View/Themed/7epta7/Users/account.ctp:14
+#: View/Themed/7epta7/Users/register.ctp:46;48
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:45
+#: View/Themed/Gdboxadmin/Users/login.ctp:10
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: View/Themed/7epta7/Affiliates/login.ctp:15
+msgid "Forgot your password?"
+msgstr "Ξέχασες τον κωδικό πρόσβασής σου; "
+
+#: View/Themed/7epta7/Affiliates/login.ctp:18
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:65
+#: View/Themed/Gdboxadmin/Users/login.ctp:2;15
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:2
+msgid "Affiliate Registration Form"
+msgstr "Αίτηση Εγγραφής Συνεργάτη"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:6
+#: View/Themed/7epta7/Users/register.ctp:6
+msgid "Personal information"
+msgstr "Προσωπικά στοιχεία"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:10;12
+#: View/Themed/7epta7/Users/account.ctp:18
+#: View/Themed/7epta7/Users/register.ctp:10;12
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:47
+msgid "First name"
+msgstr "Όνομα"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:13;14
+#: View/Themed/7epta7/Users/account.ctp:22
+#: View/Themed/7epta7/Users/register.ctp:13;14
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:48
+msgid "Last name"
+msgstr "Επώνυμο"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:15;16
+#: View/Themed/7epta7/Users/account.ctp:30
+#: View/Themed/7epta7/Users/register.ctp:15;16
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:18
+#: View/Themed/7epta7/Users/account.ctp:34
+#: View/Themed/7epta7/Users/register.ctp:18
+msgid "Region"
+msgstr "Περιοχή"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:21;22
+#: View/Themed/7epta7/Users/account.ctp:39
+#: View/Themed/7epta7/Users/register.ctp:21;22
+msgid "Zip / Postal code"
+msgstr "Ταχυδρομικός κώδικας"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:23;24
+#: View/Themed/7epta7/Users/account.ctp:43
+#: View/Themed/7epta7/Users/register.ctp:23;24
+msgid "City"
+msgstr "Πόλη"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:27
+#: View/Themed/7epta7/Users/account.ctp:47
+#: View/Themed/7epta7/Users/register.ctp:27
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:49
+msgid "Country"
+msgstr "Χώρα"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:30
+#: View/Themed/7epta7/Users/register.ctp:30
+msgid "Date of birth:"
+msgstr "Ημερομηνία γέννησης: "
+
+#: View/Themed/7epta7/Affiliates/register.ctp:36;37
+#: View/Themed/7epta7/Users/register.ctp:35;36
+#: View/Themed/7epta7/Users/reset.ctp:11
+msgid "E-mail"
+msgstr "E-mail"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:39;40
+#: View/Themed/7epta7/Users/account.ctp:51
+#: View/Themed/7epta7/Users/register.ctp:37;38
+msgid "Mobile number"
+msgstr "Aριθμός Κινητού"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:42;43
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:49
+msgid "Website name"
+msgstr "Όνομα ιστοσελίδας"
+
+#: View/Themed/7epta7/Affiliates/register.ctp:46
+#: View/Themed/7epta7/Mails/contact.ctp:43
+#: View/Themed/7epta7/Users/reset.ctp:12
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:34
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:37
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:29
+msgid "Send"
+msgstr "Αποστολή"
+
+#: View/Themed/7epta7/Deposits/choose.ctp:3
+msgid "Choose Payment Gateway"
+msgstr "Διάλεξε Πύλη Πληρωμής"
+
+#: View/Themed/7epta7/Deposits/choose.ctp:9
+msgid "Bank Transfer Payment"
+msgstr "Πληρωμή με τραπεζικό έμβασμα"
+
+#: View/Themed/7epta7/Deposits/choose.ctp:15
+msgid "eTranzact"
+msgstr "eTranzact"
+
+#: View/Themed/7epta7/Deposits/choose.ctp:22
+msgid "Online Payment"
+msgstr "Πληρωμή online"
+
+#: View/Themed/7epta7/Deposits/index.ctp:5
+msgid "Please see you latest deposits below:"
+msgstr "Μπορείς να δεις τις τελευταίες σου καταθέσεις εδώ: "
+
+#: View/Themed/7epta7/Deposits/index.ctp:13
+#: View/Themed/7epta7/Tickets/get_history.ctp:11
+#: View/Themed/7epta7/Tickets/history.ctp:13
+#: View/Themed/7epta7/Tickets/index.ctp:12
+#: View/Themed/7epta7/Userlog/viewlog.ctp:12
+#: View/Themed/7epta7/Withdraws/index.ctp:12
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:12
+#: View/Themed/Gdboxadmin/Alert/admin_index.ctp:53
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:140
+#: View/Themed/Gdboxadmin/Logs/admin_index.ctp:43
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:31;62;93;124;151
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:33;66
+#: View/Themed/Gdboxadmin/Userlog/admin_viewlog.ctp:39
+#: View/Themed/Gdboxadmin/transactionlog/admin_viewlog.ctp:39
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: View/Themed/7epta7/Deposits/index.ctp:14
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:35
+msgid "Type"
+msgstr "Τύπος"
+
+#: View/Themed/7epta7/Deposits/index.ctp:18
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:58
+msgid "Bonus"
+msgstr "Μπόνους"
+
+#: View/Themed/7epta7/Deposits/index.ctp:32
+msgid "No deposits history found. To make new please follow \"Make New\"."
+msgstr ""
+"Δεν βρέθηκε ιστορικό καταθέσεων. Για να κάνεις ένα καινούριο ακολούθησε  "
+"\"Κάνε Καινούριο\". "
+
+#: View/Themed/7epta7/Deposits/preview.ctp:3
+msgid "Deposit information:"
+msgstr "Πληροφορίες κατάθεσης: "
+
+#: View/Themed/7epta7/Deposits/preview.ctp:16
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Αίτηση Χειροκίνητης Κατάθεσης (Πιστοποιημένης Μέσω Επαλήθευσης)"
+
+#: View/Themed/7epta7/Elements/paginator.ctp:4
+#: View/Themed/7epta7/Userlog/viewlog.ctp:33
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:35
+#: View/Themed/Gdboxadmin/Elements/paginator.ctp:4
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Σελίδα {:page} από {:pages}, δείχνει {:current} αρχεία από {:count} σύνολο, "
+"ξεκινώντας από το αρχείο {:start}, μέχρι το {:end} "
+
+#: View/Themed/7epta7/Elements/paginator.ctp:11
+#: View/Themed/7epta7/Userlog/viewlog.ctp:40
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:42
+#: View/Themed/Gdboxadmin/Elements/paginator.ctp:11
+msgid "previous"
+msgstr "προηγούμενο"
+
+#: View/Themed/7epta7/Elements/paginator.ctp:17
+#: View/Themed/7epta7/Userlog/viewlog.ctp:46
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:48
+#: View/Themed/Gdboxadmin/Elements/paginator.ctp:17
+msgid "next"
+msgstr "επόμενο"
+
+#: View/Themed/7epta7/Elements/Affiliate/dateform.ctp:18
+#: View/Themed/Gdboxadmin/Elements/reports_form.ctp:24
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:3
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:32;63;94;125;152
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:34
+msgid "User"
+msgstr "Χρήστης"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:8
+msgid "Deposit type"
+msgstr "Τύπος κατάθεσης"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:19
+msgid "Bonus type"
+msgstr "Τύπος μπόνους"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:24
+msgid "Bonus valid until"
+msgstr "Μπόνους έγκυρο μέχρι"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:28
+msgid "Bonus used"
+msgstr "Το μπόνους έχει χρησιμοποιηθεί"
+
+#: View/Themed/7epta7/Elements/Deposits/preview.ctp:34
+msgid "Bonus amount to your account"
+msgstr "Ποσό μπόνους στο λογαριασμό σου"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/01.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/10.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/20.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/40.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/41.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/41_.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/42.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/42_.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/43.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/43_.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/44.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/44_.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/46.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/46_.ctp:5
+#: View/Themed/7epta7/Elements/Events/Betradar/55.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/60.ctp:6
+#: View/Themed/7epta7/Elements/Events/Betradar/60_.ctp:6
+#: View/Themed/7epta7/Elements/Events/OddService/12.ctp:6
+#: View/Themed/7epta7/Elements/Events/OddService/1x2.ctp:5
+#: View/Themed/7epta7/Elements/Events/nordicbet/versus-with-draw.ctp:4
+#: View/Themed/7epta7/Elements/Events/nordicbet/versus.ctp:4
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:40
+msgid "League"
+msgstr "Κατηγορία"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/01.ctp:56
+#: View/Themed/7epta7/Elements/Events/Betradar/40.ctp:48
+#: View/Themed/7epta7/Elements/Events/Betradar/41_.ctp:49
+#: View/Themed/7epta7/Elements/Events/Betradar/42_.ctp:49
+#: View/Themed/7epta7/Elements/Events/Betradar/43_.ctp:49
+#: View/Themed/7epta7/Elements/Events/Betradar/44_.ctp:55
+#: View/Themed/7epta7/Elements/Events/Betradar/46_.ctp:49
+#: View/Themed/7epta7/Elements/Events/Betradar/55.ctp:56
+#: View/Themed/7epta7/Elements/Events/Betradar/60.ctp:57
+#: View/Themed/7epta7/Elements/Events/OddService/12.ctp:50
+#: View/Themed/7epta7/Elements/Events/OddService/1x2.ctp:49
+#: View/Themed/7epta7/Elements/Events/nordicbet/versus-with-draw.ctp:36
+#: View/Themed/7epta7/Elements/Events/nordicbet/versus.ctp:35
+msgid "No available odds found for this event"
+msgstr "Δεν βρέθηκαν διαθέσιμες αποδόσεις γι' αυτό το γεγονός"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/41_.ctp:6
+msgid "First team to Score"
+msgstr "Πρώτη ομάδα που σκοράρει"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/42_.ctp:6
+msgid "1st Half"
+msgstr "1ο Ημίχρονο"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/43_.ctp:6
+msgid "Both Team to Score"
+msgstr "Να σκοράρουν και οι δύο ομάδες"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/44_.ctp:6
+msgid "Halftime/Fulltime"
+msgstr "Ημίχρονο/Τελικό"
+
+#: View/Themed/7epta7/Elements/Events/Betradar/46_.ctp:6
+msgid "Double Chance"
+msgstr "Διπλή Ευκαιρία"
+
+#: View/Themed/7epta7/Elements/email/html/contact.ctp:5
+#: View/Themed/7epta7/Elements/email/text/contact.ctp:5
+msgid "From:"
+msgstr "Από:"
+
+#: View/Themed/7epta7/Elements/email/html/contact.ctp:6
+#: View/Themed/7epta7/Elements/email/text/contact.ctp:6
+msgid "Email:"
+msgstr "Email:"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/odds-list.ctp:10
+msgid "Odds"
+msgstr "Αποδόσεις"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:20
+msgid "Reset Password"
+msgstr "Επαν. κωδικού"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:23
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-box.ctp:2
+msgid "Register"
+msgstr "Eγγραφή"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:25
+msgid " "
+msgstr ""
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:34
+msgid "User Menu"
+msgstr "Μενού Χρήστη"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:36
+msgid "My Account"
+msgstr "Ο Λογαριασμός μου"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:40
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:15
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:51
+msgid "Balance"
+msgstr "Υπόλοιπο"
+
+#: View/Themed/7epta7/Elements/layout-blocks/header-block/user-box.ctp:42
+msgid "Log out"
+msgstr "Αποσύνδεση"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/mh-menu.ctp:2
+msgid "Casino"
+msgstr "Καζίνο"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/mh2-menu.ctp:3
+msgid "Live Casino"
+msgstr "Live Καζίνο"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/mh3-menu.ctp:3
+msgid "Betting Tools"
+msgstr "Εργαλεία Στοιχηματισμού"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-box.ctp:3
+msgid "Register now and get"
+msgstr "Kάνε τώρα μια εγγραφή και λάβε"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-box.ctp:6
+msgid "email"
+msgstr "email"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-box.ctp:8
+msgid "Register now"
+msgstr "Κάνε εγγραφή τώρα"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-user-menu.ctp:3
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:61
+msgid "Registration"
+msgstr "Εγγραφή"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/register-user-menu.ctp:4
+msgid "Password reminder"
+msgstr "Υπενθύμιση κωδικού πρόσβασης"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:1
+msgid "Search Ticket"
+msgstr "Αναζήτηση Δελτίων"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:4
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:26
+#: View/Themed/7epta7/Tickets/preview.ctp:25
+#: View/Themed/7epta7/Tickets/review.ctp:42
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:26
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:26
+msgid "ID:"
+msgstr "ID:"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:4
+msgid "Enter ticket ID"
+msgstr "Συμπλήρωσε το ID του δελτίου: "
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:5
+#: View/Themed/7epta7/Elements/layout-slots/topmenu-slot.ctp:6
+#: View/Themed/7epta7/Events/search.ctp:9;18
+#: View/Themed/7epta7/Events/search/no-search-results.ctp:12;17
+#: View/Themed/Gdboxadmin/Elements/search.ctp:20
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:11
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:3
+#: View/Themed/7epta7/Tickets/preview.ctp:12
+#: View/Themed/7epta7/Tickets/review.ctp:15
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:3
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:3
+msgid "Ticket"
+msgstr "Δελτίο"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:13
+msgid "Unknown ticked ID"
+msgstr "Δελτίο με άγνωστο ID"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:21
+msgid "Money"
+msgstr "Χρήματα"
+
+#: View/Themed/7epta7/Elements/layout-blocks/left-block/search-ticket.ctp:25
+msgid "Pay"
+msgstr "Πληρωμή"
+
+#: View/Themed/7epta7/Elements/layout-blocks/right-block/find-event.ctp:2
+msgid "Find event"
+msgstr "Εύρεση γεγονότος"
+
+#: View/Themed/7epta7/Elements/layout-blocks/right-block/find-event.ctp:5
+msgid "Search by event name"
+msgstr "Αναζήτηση με όνομα γεγονότος"
+
+#: View/Themed/7epta7/Elements/layout-blocks/right-block/find-event.ctp:6
+msgid "Search by event ID"
+msgstr "Αναζήτηση με ID γεγονότος"
+
+#: View/Themed/7epta7/Events/search/display-search-results.ctp:5
+msgid "Search results for:"
+msgstr "Αναζήτηση αποτελεσμάτων για: "
+
+#: View/Themed/7epta7/Events/search/display-search-results.ctp:24;27
+msgid "No available events are found for this league"
+msgstr "Δεν υπάρχουν διαθέσιμα γεγονότα γι' αυτή την κατηγορία"
+
+#: View/Themed/7epta7/Events/search/no-search-results.ctp:3
+msgid "Search Events"
+msgstr "Αναζήτηση Γεγονότων"
+
+#: View/Themed/7epta7/Events/search/no-search-results.ctp:10
+msgid "Search another event ID"
+msgstr "Αναζήτηση ενός άλλου ID γεγονότος"
+
+#: View/Themed/7epta7/Events/search/no-search-results.ctp:15
+msgid "Search another event name"
+msgstr "Αναζήτηση ενός άλλου ονόματος γεγονότος"
+
+#: View/Themed/7epta7/KYC/index.ctp:2
+msgid "Please complete the following form"
+msgstr "Συμπλήρωσε την ακόλουθη αίτηση"
+
+#: View/Themed/7epta7/KYC/index.ctp:16 View/Themed/7epta7/Users/Copy of
+#: settings.ctp:26 View/Themed/7epta7/Users/account.ctp:75
+#: View/Themed/7epta7/Users/settings.ctp:26
+#: View/Themed/Gdboxadmin/Withdraws/settings.ctp:36
+msgid "Confirm changes"
+msgstr "Επιβεβαίωση αλλαγών"
+
+#: View/Themed/7epta7/Layouts/operator_panel.ctp:72
+msgid "Activity Column"
+msgstr "Στήλη Δραστηριότητας"
+
+#: View/Themed/7epta7/Layouts/operator_panel.ctp:91
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:46
+msgid "Current balance"
+msgstr "Τρέχον υπόλοιπο"
+
+#: View/Themed/7epta7/Layouts/operator_panel.ctp:98
+msgid "Today placed tickets"
+msgstr "Δελτία που κατατέθηκαν σήμερα"
+
+#: View/Themed/7epta7/Mails/contact.ctp:4
+msgid "Contact us"
+msgstr "Eπικοινώνησε μαζί μας"
+
+#: View/Themed/7epta7/Mails/contact.ctp:23
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Εάν έχεις το οποιοδήποτε πρόβλημα, μην διστάσεις να επικοινωνήσεις με την "
+"εξυπηρέτηση πελατών χρησιμοποιώντας την παρακάτω φόρμα: "
+
+#: View/Themed/7epta7/Mails/contact.ctp:26;27
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:10
+msgid "Subject"
+msgstr "Θέμα"
+
+#: View/Themed/7epta7/Mails/contact.ctp:30;31
+#: View/Themed/Gdboxadmin/Bets/admin_add.ctp:13
+#: View/Themed/Gdboxadmin/Bets/admin_edit.ctp:35
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:38
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:14
+msgid "Name"
+msgstr "Όνομα"
+
+#: View/Themed/7epta7/Mails/contact.ctp:34;35
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:20
+msgid "Email"
+msgstr "Email"
+
+#: View/Themed/7epta7/Mails/contact.ctp:38;39
+#: View/Themed/Gdboxadmin/Logs/admin_index.ctp:45
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:24
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:8 Copy.ctp:35
+#: View/Themed/7epta7/Pages/main.ctp:8
+msgid "News"
+msgstr "Νέα"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:13 Copy.ctp:40
+#: View/Themed/7epta7/Pages/main.ctp:13
+msgid "Read more"
+msgstr "Διάβασε περισσότερα"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:24;52
+#: View/Themed/7epta7/Pages/main.ctp:24;52
+#: View/Themed/7epta7/Sports/showlastminute.ctp:7
+msgid "Soccer"
+msgstr "Ποδόσφαιρο"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:25;55 Copy.ctp:100
+#: View/Themed/7epta7/Pages/main.ctp:25;55
+msgid "Basketball"
+msgstr "Μπάσκετ"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:26 Copy.ctp:139
+#: View/Themed/7epta7/Pages/main.ctp:26
+msgid "Ice Hockey"
+msgstr "Χόκεϊ επί πάγου"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:27;64
+#: View/Themed/7epta7/Pages/main.ctp:27;64
+msgid "Tennis"
+msgstr "Τένις"
+
+msgid "Rugby"
+msgstr "Ράγκμπυ"
+
+msgid "Half Time 3 way"
+msgstr "Νικητής ημιχρόνου 1Χ2"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:48
+#: View/Themed/7epta7/Pages/main.ctp:48
+msgid "Top Games"
+msgstr "Κορυφαία Παιχνίδια"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:58
+#: View/Themed/7epta7/Pages/main.ctp:58
+msgid "IceHockey"
+msgstr "Χόκεϊ επί Πάγου"
+
+#: View/Themed/7epta7/Pages/main - Copy (2).ctp:61
+#: View/Themed/7epta7/Pages/main.ctp:61
+msgid "Handball"
+msgstr "Χάντμπολ"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:9
+msgid "Last Minute Bets"
+msgstr "Στοιχήματα Τελευταίας Στιγμής"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:14
+#: View/Themed/7epta7/Sports/showlastminute.ctp:43
+msgid "Shortly"
+msgstr "Σύντομα"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:22
+msgid "%d events available"
+msgstr "%d διαθέσιμα γεγονότα"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:62;99;138
+msgid "Bet now"
+msgstr "Στοιχημάτισε τώρα"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:63
+msgid "Football"
+msgstr "Ποδόσφαιρο"
+
+#: View/Themed/7epta7/Pages/main - Copy.ctp:71;147
+msgid "Draw"
+msgstr "Ισοπαλία"
+
+#: View/Themed/7epta7/Sports/display.ctp:17
+#: View/Themed/7epta7/Sports/sportslobbyajax.ctp:6
+msgid "League not found"
+msgstr "Η κατηγορία δεν βρέθηκε"
+
+#: View/Themed/7epta7/Sports/display.ctp:59;62;82;87
+#: View/Themed/7epta7/Sports/sportslobbyajax.ctp:42;45
+msgid "No available events found for this league"
+msgstr "Δεν βρέθηκαν γεγονότα σ' αυτή την κατηγορία"
+
+#: View/Themed/7epta7/Sports/showlastminute.ctp:7
+msgid "Last Minute"
+msgstr "Τελευταίο Λεπτό"
+
+#: View/Themed/7epta7/Sports/sportslobby.ctp:3
+msgid "No leagues selected"
+msgstr "Δεν έχει επιλεγεί κατηγορία"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:8
+msgid "Single"
+msgstr "Μονό"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:9
+msgid "Combi"
+msgstr "Συνδυασμοί"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:10
+msgid "System"
+msgstr "Σύστημα"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:123
+msgid "Delete all bets"
+msgstr "Διέγραψε όλα τα στοιχήματα"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:127
+msgid "Total odds"
+msgstr "Σύνολο αποδόσεων"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:155
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:33;64;95
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:37
+msgid "Stake"
+msgstr "Ποντάρισμα"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:161
+#: View/Themed/7epta7/Tickets/history.ctp:17
+#: View/Themed/7epta7/Tickets/index.ctp:16
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:35;66;97
+msgid "Winning"
+msgstr "Κέρδος"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:170
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:180;182
+msgid "Place Bet"
+msgstr "Στοιχημάτισε"
+
+#: View/Themed/7epta7/Tickets/betslip.ctp:197
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Δεν έχει επιλεγεί ακόμα κάποιο στοίχημα. <br> Κάνε κλικ στις αντίστοιχες "
+"αποδόσεις για να επιλεγούν τα στοιχήματα. "
+
+#: View/Themed/7epta7/Tickets/get_history.ctp:2
+msgid "Ticket History"
+msgstr "Ιστορικό Δελτίων"
+
+#: View/Themed/7epta7/Tickets/get_history.ctp:16
+msgid "Ticket ID:"
+msgstr "ΙD δελτίου:"
+
+#: View/Themed/7epta7/Tickets/get_history.ctp:20
+#: View/Themed/7epta7/Tickets/history.ctp:33
+#: View/Themed/7epta7/Tickets/index.ctp:46
+#: View/Themed/7epta7/Tickets/review.ctp:89
+#: View/Themed/7epta7/Tickets/view.ctp:108
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:52
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: View/Themed/7epta7/Tickets/get_history.ctp:35
+msgid "No tickets activity available"
+msgstr "Η κίνηση των δελτίων δεν είναι διαθέσιμη"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:7
+#: View/Themed/7epta7/Tickets/review.ctp:19
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:7
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:7
+msgid "Date and time"
+msgstr "Ημερομηνία και ώρα"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:11
+#: View/Themed/7epta7/Tickets/review.ctp:25
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:11
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:11
+msgid "Ticket id"
+msgstr "ID δελτίου"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:18
+msgid "ID / Date"
+msgstr "ΙD / Ημερομηνία"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:48
+#: View/Themed/7epta7/Tickets/preview.ctp:51
+#: View/Themed/7epta7/Tickets/review.ctp:63
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:40
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:40
+msgid "Total:"
+msgstr "Σύνολο:"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:52
+#: View/Themed/7epta7/Tickets/preview.ctp:54
+#: View/Themed/7epta7/Tickets/review.ctp:66
+#: View/Themed/7epta7/Users/lgalimits.ctp:49;141;182
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:44
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:44
+msgid "Amount:"
+msgstr "Ποσό:"
+
+#: View/Themed/7epta7/Tickets/get_print_ticket.ctp:57
+#: View/Themed/7epta7/Tickets/preview.ctp:58
+#: View/Themed/7epta7/Tickets/review.ctp:70
+#: View/Themed/7epta7/Tickets/view.ctp:94
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:49
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:49
+msgid "Return:"
+msgstr "Επιστροφή: "
+
+#: View/Themed/7epta7/Tickets/history.ctp:5
+msgid "Please see your betting history below:"
+msgstr "Μπορείς να δεις το ιστορικό των στοιχημάτων σου παρακάτω: "
+
+#: View/Themed/7epta7/Tickets/history.ctp:14
+#: View/Themed/7epta7/Tickets/index.ctp:13
+#: View/Themed/7epta7/Tickets/view.ctp:10
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:8
+msgid "Ticket ID"
+msgstr "ID δελτίου"
+
+#: View/Themed/7epta7/Tickets/history.ctp:46
+#: View/Themed/7epta7/Tickets/index.ctp:61
+msgid "Note"
+msgstr "Σημείωση"
+
+#: View/Themed/7epta7/Tickets/history.ctp:47
+#: View/Themed/7epta7/Tickets/index.ctp:62
+msgid "To place ticket please use betslip."
+msgstr "Για να υποβάλεις το δελτίο σου χρησιμοποίησε το betslip."
+
+#: View/Themed/7epta7/Tickets/history.ctp:50
+msgid "Pending tickets"
+msgstr "Εκκρεμή δελτία"
+
+#: View/Themed/7epta7/Tickets/index.ctp:4
+msgid "Please see you recently placed tickets below:"
+msgstr "Μπορείς να δεις τα δελτία που υπέβαλες πρόσφατα, παρακάτω:"
+
+#: View/Themed/7epta7/Tickets/index.ctp:18
+msgid "Paid"
+msgstr "Πληρωμένο"
+
+#: View/Themed/7epta7/Tickets/index.ctp:53
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Δεν βρέθηκαν εκκρεμή δελτία. Για προηγούμενα δελτία μπορείς να δεις το "
+"ιστορικό των δελτίων. "
+
+#: View/Themed/7epta7/Tickets/index.ctp:65
+msgid "History"
+msgstr "Ιστορικό"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:2
+msgid "Ticket Preview"
+msgstr "Προεπισκόπιση δελτίων"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:16
+#: View/Themed/7epta7/Tickets/review.ctp:34
+#: View/Themed/Gdboxadmin/Tickets/admin_printTicket.ctp:18
+#: View/Themed/Gdboxadmin/Tickets/printing.ctp:18
+msgid "Event ID / Date"
+msgstr "ID Γεγονότος/Ημερομηνία"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:17
+msgid "Sport / League"
+msgstr "Άθλημα / Κατηγορία"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:67
+msgid "Submit Ticket"
+msgstr "Υποβολή δελτίου"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:68
+msgid "Clear Ticket"
+msgstr "Καθάρισε το δελτίο"
+
+#: View/Themed/7epta7/Tickets/preview.ctp:74
+msgid "No bets selected"
+msgstr "Δεν επιλέχθηκαν στοιχήματα"
+
+#: View/Themed/7epta7/Tickets/review.ctp:2
+msgid "Ticket placed"
+msgstr "Δελτία που υποβλήθηκαν"
+
+#: View/Themed/7epta7/Tickets/review.ctp:81
+msgid "Your ticket is created successfully"
+msgstr "Το δελτίο δημιουργήθηκε με επιτυχία"
+
+#: View/Themed/7epta7/Tickets/review.ctp:83
+msgid "Your ticket number is"
+msgstr "Ο αριθμός του δελτίου σου είναι"
+
+#: View/Themed/7epta7/Tickets/view.ctp:3
+msgid "Ticket information"
+msgstr "Πληροφορίες δελτίου"
+
+#: View/Themed/7epta7/Userlog/viewlog.ctp:1
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:34
+msgid "Login/Logout History"
+msgstr "Ιστορικό Σύνδεσης/Αποσύνδεσης"
+
+#: View/Themed/7epta7/Userlog/viewlog.ctp:6
+msgid "User Login/Logout History:"
+msgstr "Ιστορικό Σύνδεσης/Αποσύνδεσης Χρήστη:"
+
+#: View/Themed/7epta7/Userlog/viewlog.ctp:13
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:55
+#: View/Themed/Gdboxadmin/Userlog/admin_viewlog.ctp:40
+msgid "Action"
+msgstr "Δράση"
+
+#: View/Themed/7epta7/Userlog/viewlog.ctp:14
+#: View/Themed/Gdboxadmin/Userlog/admin_viewlog.ctp:41
+msgid "IP"
+msgstr "IP"
+
+#: View/Themed/7epta7/Users/Copy of settings.ctp:6
+#: View/Themed/7epta7/Users/settings.ctp:5
+msgid "Please set up options for more comfortable view."
+msgstr "Μπορείς να ρυθμίσεις τις επιλογές για μια πιο άνετη προβολή. "
+
+#: View/Themed/7epta7/Users/Copy of settings.ctp:13
+#: View/Themed/7epta7/Users/settings.ctp:12
+#: View/Themed/Gdboxadmin/Users/admin_settings.ctp:23
+msgid "Odds type"
+msgstr "Τύποι αποδόσεων"
+
+#: View/Themed/7epta7/Users/Copy of settings.ctp:17
+#: View/Themed/7epta7/Users/settings.ctp:16
+#: View/Themed/Gdboxadmin/Users/admin_settings.ctp:28
+msgid "Time zone"
+msgstr "Ζώνη ώρας"
+
+#: View/Themed/7epta7/Users/Copy of settings.ctp:27
+#: View/Themed/7epta7/Users/account.ctp:76
+#: View/Themed/7epta7/Users/settings.ctp:25
+#: View/Themed/Gdboxadmin/Users/password.ctp:19
+msgid "Change Password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+#: View/Themed/7epta7/Users/account.ctp:3
+msgid "Account information"
+msgstr "Στοιχεία λογαριασμού"
+
+#: View/Themed/7epta7/Users/account.ctp:6
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Παρακαλούμε να μας παρέχεις τα πλήρη προσωπικά  στοιχεία σου για την "
+"επιβεβαίωση της ταυτότητάς σου. Σύμφωνα με τους κανονισμούς, η πρόσβασή σου "
+"σε κάποια προϊόντα, αγορές και εκπτώσεις στις προμήθειες μπορεί να "
+"περιοριστούν μέχρι την επιβεβαίωση της ταυτότητάς σου. Μπορείς να παρέχεις "
+"προσωπικά έγγραφα χρησιμοποιώντας την ασφαλή τοποθεσία μας."
+
+#: View/Themed/7epta7/Users/account.ctp:26
+msgid "Date of birth"
+msgstr "Ημερομηνία γέννησης"
+
+#: View/Themed/7epta7/Users/account.ctp:55
+#: View/Themed/7epta7/Users/register.ctp:76;78
+#: View/Themed/Gdboxadmin/Withdraws/settings.ctp:24
+msgid "Bank name"
+msgstr "Όνομα τράπεζας"
+
+#: View/Themed/7epta7/Users/account.ctp:59
+#: View/Themed/7epta7/Users/register.ctp:79;80
+msgid "Bank code"
+msgstr "Τραπεζικός κώδικας"
+
+#: View/Themed/7epta7/Users/account.ctp:63
+#: View/Themed/7epta7/Users/register.ctp:81;82
+msgid "Bank account number"
+msgstr "Αριθμός λογαριασμού τράπεζας"
+
+#: View/Themed/7epta7/Users/account.ctp:68
+msgid "Ref. Code"
+msgstr "Κώδικας Αναφ. "
+
+#: View/Themed/7epta7/Users/balanceinfo.ctp:2
+msgid "Balance Information Analysis"
+msgstr "Ανάλυση Πληροφοριών Υπολοίπου"
+
+#: View/Themed/7epta7/Users/balanceinfo.ctp:5
+msgid "Here you can see all the information refer to your current balance."
+msgstr ""
+"Eδώ μπορείς να δεις όλες τις πληροφορίες σχετικά με το τρέχον υπόλοιπό σου. "
+
+#: View/Themed/7epta7/Users/bonus.ctp:2;12
+msgid "Promotional Code"
+msgstr "Κωδικός Προσφοράς"
+
+#: View/Themed/7epta7/Users/bonus.ctp:5
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr ""
+"Μπορείς να προσθέσεις έναν κωδικό προσφοράς παρακάτω για να αποκτήσεις "
+"επιπλέον χρήματα ή άλλα προνόμια. "
+
+#: View/Themed/7epta7/Users/bonus.ctp:12
+msgid "Code"
+msgstr "Κωδικός"
+
+#: View/Themed/7epta7/Users/bonus.ctp:13
+msgid "Submit bonus code"
+msgstr "Υποβολή κωδικού μπόνους"
+
+#: View/Themed/7epta7/Users/confirm.ctp:2
+#: View/Themed/Gdboxadmin/Users/confirm.ctp:2
+msgid "Confirmation"
+msgstr "Επιβεβαίωση"
+
+#: View/Themed/7epta7/Users/confirm.ctp:4
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\">link</a>"
+msgstr ""
+"Η διεύθυνση email σου επιβεβαιώθηκε. Θα επιστρέψεις στην αρχική σελίδα σε 5 "
+"δευτερόλεπτα. </ br> Αν δεν επιστρέψεις σε αυτό το χρονικό διάστημα κάνε "
+"κλικ στον ακόλουθο <a href=\"/\">σύνδεσμο</a> "
+
+#: View/Themed/7epta7/Users/confirm.ctp:13
+#: View/Themed/Gdboxadmin/Users/confirm.ctp:6
+msgid "Incorect confirmation code"
+msgstr "Λάθος κωδικός επιβεβαίωσης"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:2
+msgid "Responsible Gaming Settings"
+msgstr "Ρυθμίσεις Υπεύθυνου Στοιχηματισμού"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:5
+msgid "Responsible gaming text"
+msgstr "Κείμενο Υπεύθυνου στοιχηματισμού"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:48;56;92;103;140;148;181;189
+msgid "Add Limit"
+msgstr "Πρόσθεση Ορίου"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:64
+msgid "Set the limit you can play for each session"
+msgstr "Θέσε το όριο που μπορείς να παίξεις σε κάθε περίοδο"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:228
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr ""
+"Μην μου επιτρέψετε την πρόσβαση στον λογαριασμό sportsbook μου για τις "
+"επόμενες 7 ημέρες"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:229
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr ""
+"Μην μου επιτρέψετε την πρόσβαση στον λογαριασμό sportsbook μου για τους "
+"επόμενους 6 μήνες"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:235
+msgid "Block Account"
+msgstr "Μπλοκάρισμα Λογαριασμού"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:243
+msgid "Permanently delete your account."
+msgstr "Μόνιμη διαγραφή του λογαριασμού σου"
+
+#: View/Themed/7epta7/Users/lgalimits.ctp:250
+msgid "Delete My Account"
+msgstr "Διαγραφή του Λογαριασμού μου"
+
+#: View/Themed/7epta7/Users/register.ctp:2
+msgid "Open account with us!"
+msgstr "Άνοιξε ένα λογαριασμό μαζί μας!"
+
+#: View/Themed/7epta7/Users/register.ctp:42
+msgid "Account data"
+msgstr "Στοιχεία λογαριασμού"
+
+#: View/Themed/7epta7/Users/register.ctp:52;54
+#: View/Themed/7epta7/Users/reset-password.ctp:19;20
+#: View/Themed/Gdboxadmin/Users/password.ctp:16
+msgid "Confirm password"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+#: View/Themed/7epta7/Users/register.ctp:55;57
+msgid "Personal question"
+msgstr "Προσωπική ερώτηση"
+
+#: View/Themed/7epta7/Users/register.ctp:58;60
+msgid "Personal answer"
+msgstr "Προσωπική απάντηση"
+
+#: View/Themed/7epta7/Users/register.ctp:63;64
+msgid "Referral ID"
+msgstr "ΙD συστήνοντα"
+
+#: View/Themed/7epta7/Users/register.ctp:66;67
+msgid "Affiliate ID"
+msgstr "ID Συνεργάτη"
+
+#: View/Themed/7epta7/Users/register.ctp:72
+msgid "Bank data (This is section can be filled later)"
+msgstr "Τραπεζικά στοιχεία (αυτή η ενότητα μπορεί να συμπληρωθεί αργότερα)"
+
+#: View/Themed/7epta7/Users/register.ctp:87
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Είμαι άνω των 18 ετών και διάβασα και αποδέχτηκα"
+
+#: View/Themed/7epta7/Users/register.ctp:88
+msgid "Terms And Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+#: View/Themed/7epta7/Users/register.ctp:96
+msgid "Confirm registration"
+msgstr "Επιβεβαίωση εγγραφής"
+
+#: View/Themed/7epta7/Users/reset-password.ctp:3
+#: View/Themed/7epta7/Users/reset.ctp:2
+msgid "Password Reset"
+msgstr "Επαναφορά Κωδικού Πρόσβασης"
+
+#: View/Themed/7epta7/Users/reset-password.ctp:7
+msgid "Enter your new password"
+msgstr "Πληκτρολόγησε τον νέο κωδικό πρόσβασής σου"
+
+#: View/Themed/7epta7/Users/reset-password.ctp:23
+#: View/Themed/Gdboxadmin/Users/password.ctp:2
+msgid "Change password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+#: View/Themed/7epta7/Users/reset.ctp:5
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Συμπλήρωσε τα στοιχεία της διεύθυνσης email σου παρακάτω. Ο σύνδεσμος "
+"επιβεβαίωσης επαναφοράς κωδικού αποστέλλεται στη διεύθυνση email που θα "
+"εισάγεις. Θα μπορείς να δημιουργήσεις έναν νέο κωδικό πρόσβασης τον οποίο θα "
+"χρησιμοποιήσεις για να συνδεθείς. "
+
+#: View/Themed/7epta7/Withdraws/cancelbonus.ctp:1
+#: View/Themed/7epta7/Withdraws/index.ctp:1
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:29
+msgid "Withdraw"
+msgstr "Ανάληψη"
+
+#: View/Themed/7epta7/Withdraws/index.ctp:6;48
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr ""
+"Για να λάβεις χρήματα συμπλήρωσε το ποσό και προχώρησε στην επεξεργασία της "
+"συναλλαγής παρακάτω: "
+
+#: View/Themed/7epta7/Withdraws/index.ctp:13
+msgid "Withdraw ID"
+msgstr "ID Aνάληψης"
+
+#: View/Themed/7epta7/Withdraws/index.ctp:36
+msgid "Request Manual Withdraw"
+msgstr "Αίτηση Χειροκίνητης Ανάληψης"
+
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:1
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:33
+msgid "Transaction Log"
+msgstr "Δελτίο αναφοράς συναλλαγής"
+
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:6
+msgid "List of transactions:"
+msgstr "Λίστα συναλλαγών:"
+
+#: View/Themed/7epta7/transactionlog/viewlog.ctp:13
+msgid "Transaction Type"
+msgstr "Τύπος Συναλλαγής"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:6
+msgid "Add/Edit %s"
+msgstr "Πρόσθεση/Επεξεργασία %s"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:33
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:31
+#: View/Themed/Gdboxadmin/Settings/admin_deposit.ctp:43
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:48
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:43
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:45
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:41;73;103
+#: View/Themed/Gdboxadmin/Settings/admin_referral.ctp:43
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:47;61
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:43
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:47
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws.ctp:43
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:42
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:34
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:32
+#: View/Themed/Gdboxadmin/Settings/admin_deposit.ctp:44
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:49
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:44
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:46
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:42;74;104
+#: View/Themed/Gdboxadmin/Settings/admin_referral.ctp:44
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:48
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:44
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:48
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws.ctp:44
+msgid "Value"
+msgstr "Αξία"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:37
+msgid "Parent"
+msgstr "Γονέας"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:54
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:62
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:70
+msgid "Percentage"
+msgstr "Ποσοστό"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:78
+msgid "Custom Affiliate ID"
+msgstr "Προσαρμοσμένο ID Συνεργάτη"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_edit.ctp:92
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:45
+#: View/Themed/Gdboxadmin/Bets/admin_add.ctp:29
+#: View/Themed/Gdboxadmin/Bets/admin_edit.ctp:55
+#: View/Themed/Gdboxadmin/Elements/edit.ctp:5
+#: View/Themed/Gdboxadmin/Elements/translate.ctp:5
+#: View/Themed/Gdboxadmin/KYC/admin_edit.ctp:33
+#: View/Themed/Gdboxadmin/Results/admin_all_all.ctp:69
+#: View/Themed/Gdboxadmin/Results/admin_event.ctp:69
+#: View/Themed/Gdboxadmin/Users/admin_add_balance.ctp:31
+#: View/Themed/Gdboxadmin/Users/admin_charge_balance.ctp:31
+#: View/Themed/Gdboxadmin/Users/admin_kyc.ctp:34
+#: View/Themed/Gdboxadmin/Users/admin_settings.ctp:39
+#: View/Themed/Gdboxadmin/Withdraws/admin_complete.ctp:29
+#: View/Themed/Gdboxadmin/Withdraws/admin_edit.ctp:29
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:6
+#: View/Themed/Gdboxadmin/Affiliates/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Bets/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Bets/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Bets/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/BonusCodes/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/BonusCodes/admin_bonus_to_user.ctp:6
+#: View/Themed/Gdboxadmin/BonusCodes/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/BonusCodes/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/BonusCodes/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Currencies/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Currencies/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Currencies/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Currencies/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Deposits/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Deposits/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Events/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Events/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Events/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Events/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Feeds/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Feeds/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Groups/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Groups/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Leagues/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Leagues/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Leagues/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Mb2Menus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Mb2Menus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Mb2Menus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Mb2Menus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Mb2Menus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Mb3Menus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Mb3Menus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Mb3Menus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Mb3Menus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Mb3Menus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Mb4Menus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Mb4Menus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Mb4Menus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Mb4Menus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Mb4Menus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/MbMenus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/MbMenus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/MbMenus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/MbMenus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/MbMenus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/MhMenus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/MhMenus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/MhMenus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/MhMenus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/MhMenus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/MnMenus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/MnMenus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/MnMenus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/MnMenus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/MnMenus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/MtMenus/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/MtMenus/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/MtMenus/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/MtMenus/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/MtMenus/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/News/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/News/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Pages/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Pages/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Pages/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Pages/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Pages/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonusGroups/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonusGroups/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonusGroups/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonusGroups/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonusGroups/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonuses/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonuses/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonuses/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/PaymentBonuses/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:6
+#: View/Themed/Gdboxadmin/Slides/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Sports/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Sports/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Sports/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Sports/admin_translate.ctp:6
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Staffs/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Staffs/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Staffs/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Staffs/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Templates/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Templates/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Tickets/admin_checkticketfraud.ctp:6
+#: View/Themed/Gdboxadmin/Tickets/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_index_new.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:6
+#: View/Themed/Gdboxadmin/Withdraws/admin_complete.ctp:6
+#: View/Themed/Gdboxadmin/Withdraws/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Withdraws/admin_index.ctp:6
+msgid "List %s"
+msgstr "Λίστα %s"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:35
+msgid "File"
+msgstr "Αρχείο"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:53
+msgid "URL"
+msgstr "URL"
+
+#: View/Themed/Gdboxadmin/Affiliates/admin_media.ctp:54
+msgid "Image"
+msgstr "Εικόνα"
+
+#: View/Themed/Gdboxadmin/Alert/admin_index.ctp:49
+msgid "Alert ID"
+msgstr "ID Ειδοποίησης"
+
+#: View/Themed/Gdboxadmin/Alert/admin_index.ctp:50
+msgid "User id"
+msgstr "id χρήστη"
+
+#: View/Themed/Gdboxadmin/Alert/admin_index.ctp:51
+msgid "Alert Title"
+msgstr "Τίτλος Ειδοποίησης"
+
+#: View/Themed/Gdboxadmin/Alert/admin_index.ctp:52
+msgid "Alert"
+msgstr "Ειδοποίηση"
+
+#: View/Themed/Gdboxadmin/Bets/admin_add.ctp:4
+msgid "Add bet"
+msgstr "Προσθήκη στοιχήματος"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:2
+msgid "Alerts"
+msgstr "Ειδοποιήσεις"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:8
+msgid "Admin Audit Trail"
+msgstr "Ίχνη Ελέγχου Διαχειριστή"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:13
+msgid "Application File Backups"
+msgstr "Αντίγραφα ασφαλείας Αρχείων Εφαρμογών"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:18
+msgid "Database Backups"
+msgstr "Αντίγραφα ασφαλείας Βάσης Δεδομένων"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:23
+msgid "Betradar Feeds Log"
+msgstr "Αρχεία καταγραφής Betradar"
+
+#: View/Themed/Gdboxadmin/Elements/alerticon.ctp:28
+msgid "Liability Dumps"
+msgstr "Σφάλματα Υποχρέωσης "
+
+#: View/Themed/Gdboxadmin/Elements/list.ctp:17
+msgid "Data list"
+msgstr "Λίστα δεδομένων"
+
+#: View/Themed/Gdboxadmin/Elements/list.ctp:45
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:34
+#: View/Themed/Gdboxadmin/Results/admin_all_events.ctp:42
+#: View/Themed/Gdboxadmin/Results/admin_league.ctp:42
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:37
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:40
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: View/Themed/Gdboxadmin/Elements/list.ctp:50
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+#: View/Themed/Gdboxadmin/Elements/list.ctp:112
+msgid "Translate"
+msgstr "Μετάφραση"
+
+#: View/Themed/Gdboxadmin/Elements/list.ctp:141
+msgid "No records found"
+msgstr "Δεν βρέθηκαν αρχεία"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:113
+msgid "Sports and Leagues"
+msgstr "Αθλήματα και κατηγορίες"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:119
+msgid "Events management"
+msgstr "Διαχείριση Γεγονότων"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:125
+msgid "Events Printing"
+msgstr "Εκτύπωση Γεγονότων"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:323
+msgid "Users report"
+msgstr "Aναφορά χρηστών"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:329
+msgid "Tickets report"
+msgstr "Αναφορά δελτίων"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:335
+msgid "Deposits report"
+msgstr "Αναφορά καταθέσεων"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:341
+msgid "Witdraw report"
+msgstr "Αναφορά  ανάληψης"
+
+#: View/Themed/Gdboxadmin/Elements/sidebar.ctp:347
+msgid "Liability report"
+msgstr "Αναφορά υποχρέωσης"
+
+#: View/Themed/Gdboxadmin/Elements/statistics.ctp:33
+#: View/Themed/Gdboxadmin/Users/admin_index_new.ctp:24
+msgid "Active Users"
+msgstr "Ενεργοί χρήστες"
+
+#: View/Themed/Gdboxadmin/Elements/translate.ctp:3
+msgid "locale"
+msgstr "Τοπικά"
+
+#: View/Themed/Gdboxadmin/Elements/translate.ctp:4
+#: View/Themed/Gdboxadmin/Feeds/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Groups/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:6
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:6
+#: View/Themed/Gdboxadmin/News/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Reports/admin_deposits.ctp:6
+#: View/Themed/Gdboxadmin/Reports/admin_tickets.ctp:6
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:6
+#: View/Themed/Gdboxadmin/Reports/admin_withdraws.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_all_all.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_all_events.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_all_leagues.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_event.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_league.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_sport.ctp:6
+#: View/Themed/Gdboxadmin/Results/admin_view.ctp:6
+msgid "Create %s"
+msgstr "Δημιουργία %s"
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:21
+msgid "Event ID"
+msgstr "ID γεγονότος"
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:45
+msgid "User:"
+msgstr "Χρήστης:"
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:49
+msgid "Level:"
+msgstr "Επίπεδο:"
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:53
+msgid "Current Time:"
+msgstr "Τρέχουσα Ώρα: "
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:57
+msgid "Current Language:"
+msgstr "Τρέχουσα Γλώσσα: "
+
+#: View/Themed/Gdboxadmin/Elements/user_menu.ctp:62
+msgid "Front Page"
+msgstr "Αρχική Σελίδα"
+
+#: View/Themed/Gdboxadmin/Elements/Events/OddService/under-over/head.ctp:7
+#: View/Themed/Gdboxadmin/Elements/Events/nordicbet/under-over-match/head.ctp:7
+#: View/Themed/Gdboxadmin/Elements/Events/nordicbet/under-over-team/head.ctp:5
+msgid "Under / Over"
+msgstr "Κάτω / Πάνω"
+
+#: View/Themed/Gdboxadmin/Elements/Events/nordicbet/handicap/head.ctp:5
+msgid "Handicap"
+msgstr "Χάντικαπ"
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:7
+msgid "%s Printing"
+msgstr "Εκτύπωση %s"
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:24
+msgid "Available Events List For: "
+msgstr "Διαθέσιμη Λίστα Γεγονότων Για: "
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:25
+msgid "Unknown Sport"
+msgstr "Άγνωστο άθλημα"
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:67
+msgid "Please select sport below:"
+msgstr "Διάλεξε άθλημα παρακάτω: "
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:74
+msgid "View Events"
+msgstr "Δες τα Γεγονότα"
+
+#: View/Themed/Gdboxadmin/Events/admin_print.ctp:195
+msgid "No available events found for this sport"
+msgstr "Δεν βρέθηκαν γεγονότα γι' αυτό το άθλημα"
+
+#: View/Themed/Gdboxadmin/Events/admin_view.ctp:64
+msgid "Can not find event"
+msgstr "Το γεγονός δεν βρέθηκε"
+
+#: View/Themed/Gdboxadmin/Feeds/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Groups/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/KYC/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Leagues/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/News/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:6
+#: View/Themed/Gdboxadmin/Slides/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Slides/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Templates/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Tickets/admin_edit.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_add.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_add_balance.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_charge_balance.ctp:6
+#: View/Themed/Gdboxadmin/Users/admin_kyc.ctp:6
+msgid "Edit %s"
+msgstr "Επεξεργασία %s"
+
+#: View/Themed/Gdboxadmin/Groups/admin_edit.ctp:55
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:66
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:59
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:59
+#: View/Themed/Gdboxadmin/Settings/admin_deposit.ctp:52
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:66
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:64
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:98
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:128
+#: View/Themed/Gdboxadmin/Settings/admin_referral.ctp:52
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:82
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:62
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:72
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws.ctp:52
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:59
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: View/Themed/Gdboxadmin/KYC/admin_edit.ctp:6
+msgid "Users %s"
+msgstr " %s Χρηστών"
+
+#: View/Themed/Gdboxadmin/KYC/admin_index.ctp:31
+msgid "Edit User"
+msgstr "Επεξεργασία Χρήστη"
+
+#: View/Themed/Gdboxadmin/Layouts/admin.ctp:39
+msgid "Administration Panel"
+msgstr "Πίνακας Διαχείρισης"
+
+#: View/Themed/Gdboxadmin/Layouts/admin.ctp:110
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: View/Themed/Gdboxadmin/Layouts/admin_login.ctp:49
+msgid "Staff Login"
+msgstr "Σύνδεση Προσωπικού"
+
+#: View/Themed/Gdboxadmin/Leagues/admin_view.ctp:26
+msgid "Events"
+msgstr "Γεγονότα"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:2
+msgid "Available cultures"
+msgstr "Διαθέσιμες κουλτούρες"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:4
+msgid "Add a culture"
+msgstr "Πρόσθεσε μια κουλτούρα"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:7
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:11
+msgid "Cultures this site supports"
+msgstr "Κουλτούρες που υποστηρίζει αυτή η ιστοσελίδα"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:17
+msgid "X"
+msgstr "Χ"
+
+#: View/Themed/Gdboxadmin/Locales/admin_index.ctp:17
+msgid "Are you sure you want to delete "
+msgstr "Είσαι σίγουρος ότι θέλεις να διαγράψεις"
+
+#: View/Themed/Gdboxadmin/Logs/admin_index.ctp:42
+#: View/Themed/Gdboxadmin/Userlog/admin_viewlog.ctp:38
+#: View/Themed/Gdboxadmin/transactionlog/admin_viewlog.ctp:38
+msgid "ID"
+msgstr "ID"
+
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:26
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Γράψε επιστολή προσφοράς σε όλους τους χρήστες. Τα μηνύματα θα πάνε στις "
+"διευθύνσεις email των χρηστών. "
+
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:31
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:32
+msgid "Subject:"
+msgstr "Θέμα: "
+
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:32
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:33
+msgid "Content:"
+msgstr "Περιεχόμενο: "
+
+#: View/Themed/Gdboxadmin/Mails/admin_all.ctp:42
+msgid "Download all e-Mails (csv file)"
+msgstr "Κάνε λήψη όλων των διευθύνσεων email (αρχείο csv)"
+
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:26
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Γράψε επιστολή προσφοράς σε συγκεκριμένους χρήστες. Τα μηνύματα θα πάνε στις "
+"διευθύνσεις email των χρηστών. "
+
+#: View/Themed/Gdboxadmin/Mails/admin_index.ctp:31
+msgid "To:"
+msgstr "Προς:"
+
+#: View/Themed/Gdboxadmin/Mails/contact.ctp:2
+msgid "Contact support team"
+msgstr "Επικοινώνησε με την ομάδα υποστήριξης"
+
+#: View/Themed/Gdboxadmin/Reports/admin_deposits.ctp:66
+#: View/Themed/Gdboxadmin/Reports/admin_tickets.ctp:80
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:74
+#: View/Themed/Gdboxadmin/Reports/admin_withdraws.ctp:75
+msgid "<br>No data in this period"
+msgstr "<br>Δεν υπάρχουν δεδομένα αυτή την περίοδο"
+
+#: View/Themed/Gdboxadmin/Reports/admin_report.ctp:57
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:54
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:106
+msgid "No data in this period"
+msgstr "Δεν υπάρχουν δεδομένα αυτή την περίοδο"
+
+#: View/Themed/Gdboxadmin/Reports/admin_user_report.ctp:32
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:50
+msgid "User name"
+msgstr "Όνομα χρήστη"
+
+#: View/Themed/Gdboxadmin/Reports/admin_users.ctp:44
+msgid "Date of registration"
+msgstr "Ημερομηνία εγγραφής"
+
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:54
+msgid "Won"
+msgstr "Kέρδισε"
+
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:59
+msgid "Liability"
+msgstr "Υποχρέωση"
+
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:60
+msgid "Liability Cancelled the Bonus"
+msgstr "Η Υποχρέωση Ακύρωσε το Μπόνους"
+
+#: View/Themed/Gdboxadmin/Reports/admin_usersliability_report.ctp:103
+msgid "Download (Excel file)"
+msgstr "Λήψη (αρχείο Excel)"
+
+#: View/Themed/Gdboxadmin/Results/admin_all_events.ctp:62
+#: View/Themed/Gdboxadmin/Results/admin_league.ctp:62
+msgid "Are you sure you want to cancel this event?"
+msgstr "Είσαι σίγουρος ότι θέλεις να ακυρώσεις αυτό το γεγονός;"
+
+#: View/Themed/Gdboxadmin/Results/admin_all_events.ctp:72
+#: View/Themed/Gdboxadmin/Results/admin_all_leagues.ctp:58
+#: View/Themed/Gdboxadmin/Results/admin_all_sports.ctp:59
+msgid "No events found"
+msgstr "Δεν βρέθηκε κανένα γεγονός"
+
+#: View/Themed/Gdboxadmin/Results/admin_league.ctp:72
+msgid "No events in this league"
+msgstr "Δεν βρέθηκαν γεγονότα σ' αυτή την κατηγορία"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:6
+msgid "Risk Management Settings"
+msgstr "Ρυθμίσεις Διαχείρισης Ρίσκου"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:29
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"Η διαχείριση του ρίσκου είναι πολύ σημαντική για το sportsbook. Να είσαι "
+"προσεκτικός όταν ρυθμίζεις όλες τις επιλογές. "
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:45
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:41
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:44
+msgid "Lowest stake"
+msgstr "Χαμηλότερο ποντάρισμα"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:49
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:42
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:45
+msgid "Highest stake"
+msgstr "Μέγιστο ποντάρισμα"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:53
+msgid "Highest winning amount"
+msgstr "Υψηλότερο ποσό κέρδους"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:57
+msgid "Lowest number of events in one ticket"
+msgstr "Ελάχιστος αριθμός γεγονότων σε ένα δελτίο"
+
+#: View/Themed/Gdboxadmin/Risks/admin_index.ctp:61
+msgid "Highest number of events in one ticket"
+msgstr "Μέγιστος αριθμός γεγονότων σε ένα δελτίο"
+
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:6
+msgid "List Leagues"
+msgstr "Λίστα Κατηγοριών"
+
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:39
+msgid "League ID"
+msgstr "ID Κατηγορίας"
+
+#: View/Themed/Gdboxadmin/Risks/admin_leagues.ctp:49;50
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:51;52
+msgid "No limits"
+msgstr "Χωρίς όρια"
+
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:6
+msgid "List Sports"
+msgstr "Λίστα Αθλημάτων"
+
+#: View/Themed/Gdboxadmin/Risks/admin_sports.ctp:42
+msgid "Sport ID"
+msgstr "ID Αθλήματος"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:27;147
+msgid "Warning Withdraws"
+msgstr "Ειδοποίηση για αναλήψεις"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:30;61;92;123;150
+msgid "Id"
+msgstr "Id"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:58
+msgid "Warning Stakes"
+msgstr "Ειδοποίηση για ποντάρισμα"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:89
+msgid "Warning Winnings"
+msgstr "Ειδοποίηση για κέρδη"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:120
+msgid "Warning Deposits"
+msgstr "Ειδοποίηση για καταθέσεις"
+
+#: View/Themed/Gdboxadmin/Risks/admin_warnings.ctp:153
+msgid "amount"
+msgstr "ποσό"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposit.ctp:47
+msgid "Deposit fee percentage"
+msgstr "Ποσοστό προμήθειας κατάθεσης"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:6
+msgid "Payment gateways"
+msgstr "Πύλες πληρωμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:39
+msgid "Please set payment gateways below:"
+msgstr "Όρισε τις πύλες πληρωμής παρακάτω: "
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits.ctp:47
+msgid "Payments"
+msgstr "Πληρωμές"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:6
+msgid "Deposits %s"
+msgstr "Καταθέσεις  %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:36
+msgid "Please set deposit risk management setting below:"
+msgstr "Όρισε το ρίσκο διαχείρισης της κατάθεσης παρακάτω: "
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:47
+msgid "Allow automated deposits"
+msgstr "Επιτρέπονται οι αυτόματες καταθέσεις"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:51
+msgid "Allow manual deposits"
+msgstr "Επιτρέπονται οι χειροκίνητες καταθέσεις"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:55
+msgid "Lowest amount for deposit"
+msgstr "Χαμηλότερο ποσό για κατάθεση"
+
+#: View/Themed/Gdboxadmin/Settings/admin_deposits_risks.ctp:59
+msgid "Highest amount for deposit"
+msgstr "Υψηλότερο ποσό για κατάθεση"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:6
+msgid "General %s"
+msgstr "Γενικά %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:38
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Οι γενικές ρυθμίσεις ελέγχουν κάποιες από τις πιο βασικές ρυθμίσεις "
+"παραμέτρων για την ιστοσελίδα σου: τον τίτλο και την τοποθεσία της "
+"ιστοσελίδας σου, ποιος μπορεί να δημιουργήσει λογαριασμό στην ιστοσελίδα "
+"σου, και πώς υπολογίζονται και εμφανίζονται οι ημερομηνίες και η ώρα. "
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:53
+msgid "Copyright"
+msgstr "Copyright"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:57
+msgid "Contact Email"
+msgstr "Διεύθυνση email επικοινωνίας"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:69
+msgid "Password reset"
+msgstr "Επαναφορά κωδικού πρόσβασης"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:73
+msgid "Default currency"
+msgstr "Νόμισμα προεπιλογής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:77
+msgid "Default timezone:"
+msgstr "Προεπιλεγμένη ζώνη ώρας: "
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:81
+msgid "Default language"
+msgstr "Προεπιλεγμένη γλώσσα"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:85
+msgid "Charset"
+msgstr "Κωδικοποίηση χαρακτήρων"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:89
+msgid "Items per page"
+msgstr "Στοιχεία ανά σελίδα"
+
+#: View/Themed/Gdboxadmin/Settings/admin_index.ctp:93
+msgid "Referral system"
+msgstr "Σύστημα σύστασης φίλων"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:45
+msgid "Left active"
+msgstr "Αριστερό ενεργό"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:59
+msgid "Left sidebar title"
+msgstr "Τίτλος αριστερής πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:63
+msgid "Left sidebar content"
+msgstr "Περιεχόμενο αριστερής πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:77
+msgid "Right active"
+msgstr "Δεξί ενεργό"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:90
+msgid "Right sidebar title"
+msgstr "Tίτλος δεξιάς πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:94
+msgid "Right sidebar content"
+msgstr "Περιεχόμενο δεξιάς πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:107
+msgid "Bottom active"
+msgstr "Κάτω ενεργό"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:119
+msgid "Bottom sidebar title"
+msgstr "Tίτλος κάτω πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_promo.ctp:123
+msgid "Bottom sidebar content"
+msgstr "Περιεχόμενο κάτω πλαϊνής γραμμής"
+
+#: View/Themed/Gdboxadmin/Settings/admin_referral.ctp:7
+msgid "Referral Settings"
+msgstr "Ρυθμίσεις συστήματος σύστασης φίλων"
+
+#: View/Themed/Gdboxadmin/Settings/admin_referral.ctp:47
+msgid "First deposit percentage to referral"
+msgstr "Ποσοστό πρώτης κατάθεσης στον συστήνοντα"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:6
+msgid "SEO %s"
+msgstr "SEO %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:36
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Τι είναι το <b>SEO</b> / Βελτιστοποίηση της Μηχανής Αναζήτησης; "
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:40
+msgid ""
+"SEO stands for \"search engine optimization.\" It is the process of getting "
+"traffic from the \"free,\" \"organic,\" \"editorial\" or \"natural\" "
+"listings on search engines. All major search engines such as Google, Yahoo "
+"and Bing have such results, where web pages and other content such as videos "
+"or local listings are shown and ranked based on what the search engine "
+"considers most relevant to users. Payment is not involved, as it is with "
+"paid search ads."
+msgstr ""
+"SEO (search engine optimization) σημαίνει \"βελτιστοποίηση της μηχανής "
+"αναζήτησης.\" Είναι η διαδικασία του να λαμβάνεις κίνηση από τις  "
+"\"ελεύθερες,\" \"οργανικές,\" \"συντακτικές\" ή \"φυσικές\" καταχωρήσεις "
+"στις μηχανές αναζήτησης. Οι μεγαλύτερες μηχανές αναζήτησης όπως η Google, η "
+"Yahoo και η Bing έχουν τέτοια αποτελέσματα, όπου οι ιστοσελίδες και άλλο "
+"περιεχόμενο όπως τα βίντεο ή οι τοπικές καταχωρήσεις εμφανίζονται και "
+"κατατάσσονται σύμφωνα με τα στοιχεία που η μηχανή αναζήτησης θεωρεί πιο "
+"σχετικά με τους χρήστες. Δεν υπάρχει πληρωμή, καθώς στηρίζεται σε πληρωμένες "
+"διαφημίσεις αναζήτησης. "
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:53
+msgid "Title tag"
+msgstr "Ετικέτα τίτλου"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:57
+msgid "Keywords"
+msgstr "Λέξεις-κλειδιά"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:65
+msgid "Reply to email"
+msgstr "Απάντηση σε email"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:69
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:73
+msgid "Bot content revisit time"
+msgstr "Ώρα επαναληπτικής επίσκεψης του bot περιεχομένου"
+
+#: View/Themed/Gdboxadmin/Settings/admin_seo.ctp:77
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:6
+msgid "Tickets %s"
+msgstr "Δελτία %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:37
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Τα γενικά περί δελτίων ελέγχουν κάποιες από τις πιο βασικές ρυθμίσεις "
+"παραμέτρων που σχετίζονται με τα δελτία και τις λειτουργίες εκτύπωσης.  "
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:47
+msgid "Ticket printing"
+msgstr "Εκτύπωση δελτίου"
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:50
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Ενεργοποίηση (Ναι) ή απενεργοποίηση (Όχι) της εκτύπωσης των δελτίων για τους "
+"χρήστες και το προσωπικό."
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:54
+msgid "Ticket preview"
+msgstr "Προεπισκόπηση δελτίου"
+
+#: View/Themed/Gdboxadmin/Settings/admin_tickets.ctp:57
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Ενεργοποίηση (Ναι) ή απενεργοποίηση (Όχι) της προεπισκόπησης των δελτίων για "
+"τους χρήστες και το προσωπικό."
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:6
+msgid "Warnings %s"
+msgstr "Προειδοποιήσεις %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:42
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Οι ρυθμίσεις προειδοποίησης θα μπορούσαν να σε βοηθήσουν να φιλτράρεις τις "
+"προειδοποιητικές οθόνες από περιττές ειδοποιήσεις. Θεώρησε ότι αυτό είναι "
+"σημαντικό για το sportsbook και κάνε χρήση αυτής της λειτουργίας για να "
+"εξασφαλίσεις το κέρδος σου. "
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:51
+msgid "Deposit alert"
+msgstr "Ειδοποίηση για κατάθεση"
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:55
+msgid "Withdraw alert"
+msgstr "Ειδοποίηση για ανάληψη "
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:59
+msgid "Stake alert"
+msgstr "Ειδοποίηση για ποντάρισμα"
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:63
+msgid "Odds alert"
+msgstr "Ειδοποίηση αποδόσεων"
+
+#: View/Themed/Gdboxadmin/Settings/admin_warnings.ctp:67
+msgid "Potential winning alert"
+msgstr "Ειδοποίηση πιθανής νίκης"
+
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws.ctp:47
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:54
+msgid "Allow withdraws"
+msgstr "Άδεια για αναλήψεις"
+
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:6
+msgid "Withdraw %s"
+msgstr "Ανάληψη  %s"
+
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:36
+msgid "Please set withdraw risk management setting below:"
+msgstr "Όρισε τις ρυθμίσεις του ρίσκου διαχείρισης παρακάτω:"
+
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:46
+msgid "Lowest amount for withdraw request"
+msgstr "Ελάχιστο ποσό για αίτημα ανάληψης"
+
+#: View/Themed/Gdboxadmin/Settings/admin_withdraws_risks.ctp:50
+msgid "Highest amount for withdraw request"
+msgstr "Μέγιστο ποσό για αίτημα ανάληψης"
+
+#: View/Themed/Gdboxadmin/Slides/admin_index.ctp:6
+msgid "%s"
+msgstr "%s"
+
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:6
+msgid "Sports"
+msgstr "Αθλήματα"
+
+#: View/Themed/Gdboxadmin/Sports/admin_view.ctp:6;27
+msgid "Leagues"
+msgstr "Κατηγορίες"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:6
+msgid "View %s"
+msgstr "Προβολή %s"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:32;65
+msgid "Ticket Number"
+msgstr "Αριθμός Δελτίου"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:38
+msgid "Return"
+msgstr "Επιστροφή"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:53
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Το δελτίο θα διαγραφεί. Είσαι σίγουρος ότι θέλεις να διαγραφεί;"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:55
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Το δελτίο θα ακυρωθεί. Είσαι σίγουρος ότι θέλεις να ακυρωθεί;"
+
+#: View/Themed/Gdboxadmin/Tickets/admin_view.ctp:86
+msgid "Insert Result"
+msgstr "Συμπλήρωσε το Αποτέλεσμα"
+
+#: View/Themed/Gdboxadmin/Users/admin_add_balance.ctp:23
+msgid "Fund user"
+msgstr "Χρηματοδότηση χρήστη"
+
+#: View/Themed/Gdboxadmin/Users/admin_add_balance.ctp:24
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just credit user with 100 "
+msgstr ""
+"Για να χρηματοδοτήσεις απλά συμπλήρωσε το ποσό στο πεδίο και πάτησε υποβολή. "
+"Για παράδειγμα, εάν θέλεις να χρηματοδοτήσεις απλά πίστωσε τον χρήστη με 100"
+
+#: View/Themed/Gdboxadmin/Users/admin_add_balance.ctp:24
+msgid " just enter that amount into field and press submit"
+msgstr "συμπλήρωσε μόνο αυτό το ποσό στο πεδίο και πάτησε υποβολή"
+
+#: View/Themed/Gdboxadmin/Users/admin_charge_balance.ctp:23
+msgid "Charge user"
+msgstr "Χρέωση χρήστη"
+
+#: View/Themed/Gdboxadmin/Users/admin_charge_balance.ctp:24
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200 "
+msgstr ""
+"Για τη χρέωση συμπλήρωσε το ποσό και τα χρήματα θα αφαιρεθούν  από τον "
+"λογαριασμό του χρήστη. Για παράδειγμα, εάν θέλεις να χρεώσεις απλά χρέωσε "
+"τον χρήστη με 200"
+
+#: View/Themed/Gdboxadmin/Users/admin_charge_balance.ctp:24
+msgid " USD just enter that amount into field and press submit"
+msgstr "συμπλήρωσε το ποσό στο πεδίο και πάτησε υποβολή"
+
+#: View/Themed/Gdboxadmin/Users/admin_edit.ctp:6
+msgid "Add %s"
+msgstr "Προσθήκη %s "
+
+#: View/Themed/Gdboxadmin/Users/admin_index_new.ctp:35
+msgid "Registration chart"
+msgstr "Πίνακας Εγγραφών"
+
+#: View/Themed/Gdboxadmin/Users/admin_kyc.ctp:23
+msgid "KYC user"
+msgstr "Χρήστης KYC"
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:26
+msgid "KYC Documents"
+msgstr "Έγγραφα KYC"
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:27
+msgid "Change KYC Status"
+msgstr "Αλλαγή κατάστασης KYC "
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:31
+msgid "Deposits Bonus History"
+msgstr "Ιστορικό Μπόνους Καταθέσεων"
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:32
+msgid "Sum"
+msgstr "Άθροισμα"
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:35
+msgid "Affiliates"
+msgstr "Συνεργάτες"
+
+#: View/Themed/Gdboxadmin/Users/admin_view.ctp:36
+msgid "Kick"
+msgstr "Διακοπή"
+
+#: View/Themed/Gdboxadmin/Users/confirm.ctp:4
+msgid "Email has been confirmed. You can now login."
+msgstr "Το email επιβεβαιώθηκε. Μπορείς τώρα να συνδεθείς. "
+
+#: View/Themed/Gdboxadmin/Users/login.ctp:22
+msgid "Register now!"
+msgstr "Εγγραφείτε τώρα!"
+
+#: View/Themed/Gdboxadmin/Users/login.ctp:23
+msgid "Forgotten your password?"
+msgstr "Ξέχασες τον κωδικό πρόσβασής σου;"
+
+#: View/Themed/Gdboxadmin/Users/password.ctp:12
+msgid "Old password"
+msgstr "Παλιός κωδικός πρόσβασης"
+
+#: View/Themed/Gdboxadmin/Users/password.ctp:14
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+
+#: View/Themed/Gdboxadmin/Withdraws/settings.ctp:2
+msgid "Bank info"
+msgstr "Τραπεζικά στοιχεία"
+
+#: View/Themed/Gdboxadmin/Withdraws/settings.ctp:3
+msgid "Please provide your bank info"
+msgstr "Παρακαλούμε να μας παρέχεις τα τραπεζικά σου στοιχεία"
+
+#: View/Themed/Gdboxadmin/Withdraws/settings.ctp:29
+msgid "Account number"
+msgstr "Αριθμός Λογαριασμού"
+
+#: View/Themed/Gdboxadmin/transactionlog/admin_viewlog.ctp:40
+msgid "Transaction"
+msgstr "Συναλλαγή"
+
+#: View/Themed/Gdboxadmin/transactionlog/admin_viewlog.ctp:42
+msgid "User Balance"
+msgstr "Υπόλοιπο Χρήστη"
+
+#: Model/Affiliate.php:validation for field last_name Model/KYC.php:validation
+#: Model/User.php:validation
+msgid "Please enter your surname"
+msgstr "Πληκτρολόγησε το επώνυμό σου"
+
+#: Model/Affiliate.php:validation for field first_name
+msgid "Please enter your first name"
+msgstr "Συμπλήρωσε το όνομά σου"
+
+#: Model/Affiliate.php:validation for field address1
+msgid "Please enter your address"
+msgstr "Συμπλήρωσε τη διεύθυνσή σου"
+
+#: Model/Affiliate.php:validation for field address2
+msgid "Please enter your Region"
+msgstr "Συμπλήρωσε την Περιοχή σου"
+
+#: Model/Affiliate.php:validation for field city
+msgid "Please enter your City of residence"
+msgstr "Συμπλήρωσε την Πόλη όπου κατοικείς"
+
+#: Model/KYC.php:validation for field username Model/Staff.php:validation
+#: Model/User.php:validation
+msgid "Alphabets and numbers only"
+msgstr "Μόνο γράμματα και αριθμούς"
+
+#: Model/KYC.php:validation for field username Model/Staff.php:validation
+#: Model/User.php:validation
+msgid "Between 5 to 15 characters"
+msgstr "Ανάμεσα σε 5 και 15 χαρακτήρες"
+
+#: Model/KYC.php:validation for field username Model/Staff.php:validation
+#: Model/User.php:validation
+msgid "This username has already been taken."
+msgstr "Αυτό το όνομα χρήστη χρησιμοποιείται ήδη."
+
+#: Model/KYC.php:validation for field password_confirm
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει 6 με 15 χαρακτήρες"
+
+#: Model/KYC.php:validation for field password_confirm
+#: Model/User.php:validation
+msgid "Password must contain at least one number"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει τουλάχιστον έναν αριθμό"
+
+#: Model/KYC.php:validation for field password_confirm
+#: Model/User.php:validation
+msgid "Password must contain at least one letter"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει τουλάχιστον ένα γράμμα"
+
+#: Model/KYC.php:validation for field email Model/User.php:validation
+msgid "Please enter valid email address"
+msgstr "Πληκτρολόγησε μια έγκυρη διεύθυνση email"
+
+#: Model/KYC.php:validation for field email Model/User.php:validation
+msgid "This email has already been registered."
+msgstr "Αυτή η διεύθυνση email έχει ήδη εγγραφεί."
+
+#: Model/KYC.php:validation for field first_name Model/User.php:validation
+msgid "Please enter your name"
+msgstr "Πληκτρολόγησε το όνομά σου"
+
+#: Model/KYC.php:validation for field address1
+msgid "Please enter your street address"
+msgstr "Πληκτρολόγησε τη διεύθυνσή σου"
+
+#: Model/KYC.php:validation for field city Model/User.php:validation
+msgid "Please enter city"
+msgstr "Πληκτρολόγησε την πόλη σου"
+
+#: Model/KYC.php:validation for field country Model/User.php:validation
+msgid "Please enter country"
+msgstr "Πληκτρολόγησε τη χώρα σου"
+
+#: Model/KYC.php:validation for field date_of_birth Model/User.php:validation
+msgid "User should be over 21 years old to complete registration"
+msgstr ""
+"Ο χρήστης πρέπει να είναι άνω των 21 ετών για να ολοκληρώσει την εγγραφή"
+
+#: Model/KYC.php:validation for field date_of_birth Model/User.php:validation
+msgid "User should be over 18 years old to complete registration"
+msgstr ""
+"Ο χρήστης πρέπει να είναι άνω των 18 ετών για να ολοκληρώσει την εγγραφή"
+
+#: Model/KYC.php:validation for field mobile_number Model/User.php:validation
+msgid "Please enter valid mobile number"
+msgstr "Πληκτρολόγησε έναν έγκυρο αριθμό κινητού"
+
+#: Model/KYC.php:validation for field personal_question
+#: Model/User.php:validation
+msgid "Please your personal question"
+msgstr "Πληκτρολόγησε την προσωπική σου ερώτηση"
+
+#: Model/KYC.php:validation for field personal_answer;validation
+#: bank_name;validation account_number Model/User.php:validation
+msgid "Please enter valid answer"
+msgstr "Πληκτρολόγησε μια έγκυρη απάντηση"
+
+#: Model/KYC.php:validation for field agree Model/User.php:validation
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Πρέπει να αποδεχτείς τους Όρους Χρήσης για να μπορέσεις να εγγραφείς. "
+
+#: Model/Mb2Menu.php:validation for field title;validation url
+#: Model/Mb3Menu.php:validation Model/Mb4Menu.php:validation
+#: Model/MbMenu.php:validation Model/Mh2Menu.php:validation
+#: Model/Mh3Menu.php:validation Model/MhMenu.php:validation
+#: Model/MnMenu.php:validation Model/MtMenu.php:validation
+#: Model/News.php:validation summary;validation content
+#: Model/Page.php:validation url;validation Model/Slide.php:validation
+#: description;validation image Model/Template.php:validation
+#: subject;validation
+msgid "This field cannot be left blank"
+msgstr "Αυτό το πεδίο δεν μπορεί να μείνει κενό"
+
+#: Model/Staff.php:validation for field password_raw
+msgid "Mimimum 5 characters long"
+msgstr "Ελάχιστο 5 χαρακτήρες"
+
+#: Model/User.php:validation for field username
+msgid "The username should be different from email"
+msgstr "Το όνομα χρήστη πρέπει να είναι διαφορετικό από τη διεύθυνση email"
+
+#: Model/User.php:validation for field password_confirm
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει 8 με 15 χαρακτήρες"
+
+#: Model/User.php:validation for field password_confirm
+msgid "The Password has to be different from username."
+msgstr "Ο κωδικός πρόσβασης πρέπει να είναι διαφορετικός από το όνομα χρήστη. "
+
+#: Model/User.php:validation for field first_name
+msgid "It seems that you are already registered."
+msgstr "Φαίνεται πως είσαι ήδη εγγεγραμμένος."
+
+#: Model/User.php:validation for field address1
+msgid "Please enter your street address or street address does not exist"
+msgstr "Συμπλήρωσε τη διεύθυνσή σου ή η διεύθυνση δεν υπάρχει "
+
+#: webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+"Η ρύθμιση εντοπισμού σφαλμάτων δεν επιτρέπει την πρόσβαση σε αυτόν τον "
+"σύνδεσμο url. "
+
+msgid "Match odds"
+msgstr "Νικητής αγώνα"
+
+msgid "Remaining match"
+msgstr "Υπόλοιπος αγώνας "
+
+msgid "Next Goal"
+msgstr "Επόμενο Γκολ"
+
+msgid "Total Goals +/-"
+msgstr "Σύνολο Γκολ +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Νικητής αγώνα"
+
+msgid "Set 1 2"
+msgstr "Σετ 1 2"
+
+msgid "Set Score"
+msgstr "Αποτέλεσμα Σετ"
+
+msgid "Sets Overall"
+msgstr "Σετ Συνολικά"
+
+msgid "Total Points +/-"
+msgstr "Σύνολο πόντων +/-"
+
+msgid "Goals from now +/-"
+msgstr "Γκολ από τώρα +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Προγνωστικά αγώνα (1x2)"
+
+msgid "1 hour"
+msgstr "1 ώρα"
+
+msgid "2 hours"
+msgstr "2 ώρες"
+
+msgid "3 hours"
+msgstr "3 ώρες"
+
+msgid "Time"
+msgstr "Χρόνος"
+
+msgid "LIVE"
+msgstr "LIVE"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Click on team name for extra bets"
+msgstr "Κάνε κλικ στο όνομα της ομάδας για έξτρα στοιχήματα"
+
+msgid "Upcoming Live Matches"
+msgstr "Επερχόμενοι Live Αγώνες "
+
+msgid "Login For"
+msgstr "Συνδεδεμένος Για"
+
+msgid "minutes"
+msgstr "λεπτά"
+
+msgid "Bet Slip"
+msgstr "Κουπόνι"
+
+msgid "open"
+msgstr "Ανοιξε"
+
+msgid "Sport Bets"
+msgstr "Αθλητικό Στοίχημα"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr ""
+"Μεγάλες αποδόσεις στο ποδόσφαιρο, τένις, χόκεϊ επί πάγου και πολλά άλλα "
+
+msgid "Number of Bets Placed:"
+msgstr "Αριθμός στοιχημάτων: "
+
+msgid "Max Wager for bets:"
+msgstr "Μέγιστο ποντάρισμα:"
+
+msgid "Wager:"
+msgstr "Ποντάρισμα:"
+
+msgid "Max Payout:"
+msgstr "Μέγιστη Πληρωμή "
+
+msgid "All games / All events"
+msgstr "Όλα τα παιχνίδια/Όλες οι διοργανώσεις"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr ""
+"Όλα τα παιχνίδια με μια ματιά, όλα τα κανονικά αθλήματα και όλες οι "
+"αποδόσεις μπορούν να συνδυαστούν. "
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Αποκτήστε αυτή την καινοτόμο υπηρεσία τώρα από εμάς. Ζωντανά παιχνίδια, όπως "
+"ποτέ πριν! Καλή τύχη!!"
+
+msgid "more groups"
+msgstr "ακόμη γκρουπ"
+
+msgid "Draw no Bet Period"
+msgstr "Νίκη περιόδου 1 2"
+
+msgid "Total x Period"
+msgstr "Πόντοι περιόδου +/-"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Ρύθμιση ορίων κατάθεσης στον λογαριασμό σαυ"
+
+msgid "Play Session Limit"
+msgstr "Χρονικό όριο παιχνιδιού"
+
+msgid "Wager Limit"
+msgstr "Όριο στοιχήματος"
+
+msgid "Loss Limit"
+msgstr "Όριο απώλειας"
+
+msgid "Self Exclusion"
+msgstr "Aυτο-αποκλεισμός"
+
+msgid "DELETE ACCOUNT"
+msgstr "ΔΙΑΓΡΑΦΗ ΛΟΓΑΡΙΑΣΜΟΥ"
+
+msgid "Per Transaction"
+msgstr "Aνά συναλλαγή"
+
+msgid "Daily"
+msgstr "Kαθημερινά"
+
+msgid "Weekly"
+msgstr "Eβδομαδιαίος"
+
+msgid "Monthly"
+msgstr "Mηνιαίος"
+
+msgid "No Limit"
+msgstr "Χωρίς όριο"
+
+msgid "After %s minutes"
+msgstr "Μετά από %s λεπτά"
+
+msgid "After one Hour"
+msgstr "Μετά από μία ώρα"
+
+msgid "After two Hours"
+msgstr "Μετά από δύο ώρες"
+
+msgid "Login For:"
+msgstr "Σύνδεση για:"
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s  <br>Wagered € %s  <br>Lost € %s  <br>Won € %s"
+msgstr ""
+"Έπαιζες τα προηγούμενα %s λεπτά στα οποία έχεις:<br>Kαταθέσει € %s  "
+"<br>Στοιχηματήσει € %s  <br>Χάσει € %s  <br>Κερδίσει € %s"
+
+msgid "Outdated Browser Detected"
+msgstr "Παλιά Έκδοση Προγράμματος Περιήγησης"
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Η ιστοσελίδα μας εντόπισε ότι χρησιμοποιείτε μια ξεπερασμένη έκδοση "
+"προγράμματος περιήγησης. Χρησιμοποιώντας το τρέχον πρόγραμμα περιήγησης σας, "
+"θα σας αποτρέψει από την πρόσβαση σε λειτουργίες στην ιστοσελίδα μας. Η "
+"αναβάθμιση δεν είναι απαραίτητη, αλλά την συνιστάμε για να βελτιώσει την "
+"εμπειρία περιήγησής σας στην ιστοσελίδα μας."
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Χρησιμοποιήστε τους παρακάτω συνδέσμους για να κατεβάσετε ένα νέο πρόγραμμα "
+"περιήγησης ή να αναβαθμίσετε το υπάρχων."
+
+msgid "Remind me later"
+msgstr "Υπενθύμιση αργότερα"
+
+msgid "No available Bonuses."
+msgstr "Δεν υπάρχουν διαθέσιμα μπόνους."
+
+msgid "Available Bonuses."
+msgstr "Διαθέσιμα μπόνους."
+
+msgid "Locked Amount"
+msgstr "Κλειδωμένο ποσό"
+
+msgid "Opened on"
+msgstr "Έναρξη"
+
+msgid "Activation Date"
+msgstr "Ημερομηνία Ενεργοποίησης"
+
+msgid "Expiration Date"
+msgstr "Ημερομηνία Λήξης"
+
+msgid "Account Information"
+msgstr "Πληροφορίες Λογαριασμού"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr ""
+"Πίνακες Αποτελεσμάτων Προγράμματα και Ζωντανά αποτελέσματα για όλα τα "
+"πρωταθλήματα και συμβάντα"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Παίξε  Ρουλέτα, Μπλακτζακ και Μπακαρά στο Live Casino"
+
+msgid "Identity Card (back view)"
+msgstr "Ταυτότητα πίσω όψη"
+
+msgid "Identity Card (front view)"
+msgstr "Ταυτότητα μπροστά όψη"
+
+msgid "Bank Account"
+msgstr "Τραπεζικός λογαριασμός"
+
+msgid "Register now and get 7bonus7"
+msgstr "Κάνε εγγραφή τώρα και πάρε το 7bonus7"
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms>Η 7epta7 Limited &nbsp; είναι μία αδειοδοτημένη εταιρεία που "
+"υπόκειται στους κανονισμούς και νόμους της Μάλτας δηλωμένοι στα γραφεία του "
+" Tower Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara "
+"Μάλτας. Η εταιρεία κατέχει άδεια κλάσης 2 την οποία απέκτησε το 2013 από "
+"την  επιτροπή επίβλεψης λοταρίας και παιγνίων Μάλτας με νούμερο αδείας LGA/"
+"CL2/921/2013. H εταιρεία είναι ρυθμισμένη από την επιτροπή επίβλεψης "
+"λοταρίας και παιγνίων (LGA) Μάλτας.</p>"
+
+msgid "Top Winner"
+msgstr "Κορυφαία κουπόνια"
+
+msgid "close"
+msgstr "Κλείσιμο"
+
+msgid "hours"
+msgstr "ώρες"
+
+msgid "Instant Play"
+msgstr "Zωντανό παιχνίδι"
+
+msgid "Live Video Streaming"
+msgstr "Zωντανή μετάδοση εικόνας"
+
+msgid "Betslip Wagering"
+msgstr "Ποντάρισμα κουπονιού"
+
+msgid "Ticket Win"
+msgstr "Κερδισμένο στοίχημα"
+
+msgid "Bonus Cancellation by user."
+msgstr "Μπόνους ακύρωση από το χρήστη."
+
+msgid "Bonus activation"
+msgstr "Ενεργοποίηση μπόνους"
+
+msgid "APCO Deposit"
+msgstr "Κατάθεση μέσω κάρτας"
+
+msgid "Account Deposit"
+msgstr "Κατάθεση Λογαρισμού"
+
+msgid "Live Casino Transaction"
+msgstr "Συναλλαγή Ζωντανού Καζίνο"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Επαναφορά Συναλαγής Live Καζίνο"
+
+msgid "in every game"
+msgstr "σε κάθε παιχνίδι"
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Log in"
+msgstr "Σύνδεση"
+
+msgid "Stake:"
+msgstr "Ποντάρισμα:"
+
+msgid "View Tickets"
+msgstr "Δες τα κουπόνια σου"
+
+msgid "Number of Bets Placed: "
+msgstr "Αριθμός στοιχημάτων"
+
+msgid "Max Wager for bets: "
+msgstr "Συνολικό ποντάρισμα στοιχημάτων:"
+
+msgid "bets"
+msgstr "στοιχήματα"
+
+msgid "Admin add Funds"
+msgstr "Προσθήκη χρημάτων από Διαχειριστή"
+
+msgid "Bonus activation:"
+msgstr "Ενεργοποίηση Μπόνους:"
+
+msgid "APCO Deposit:"
+msgstr "Κατάθεση από κάρτα "
+
+msgid "Withdrawal"
+msgstr "Ανάληψη"
+
+msgid "Betslip Cancellation:"
+msgstr "Ακύρωση δελτίου"
+
+msgid "Cancelled WithDrawal"
+msgstr "Ακύρωση ανάληψης"
+
+msgid "Ticket Cancelled"
+msgstr "Ακύρωση δελτίου"
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz "
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Bet Split"
+msgstr "Απόδοση"
+
+msgid "The Company"
+msgstr "Η εταιρεία"
+
+msgid "Help & Legal"
+msgstr "Βοήθεια & Νομικά"
+
+msgid "Useful Links"
+msgstr "Χρήσιμοι Σύνδεσμοι"
+
+msgid "Payment Options"
+msgstr "Τρόποι Πληρωμής"
+
+msgid "Extra Bets"
+msgstr "Έξτρα στοιχήματα"
+
+msgid "No, don't remind me again"
+msgstr "Όχι, μη μου το θυμίσεις πάλι"
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Διάλεξε τα αγαπημένα σου σπορ και πρωταθλήματα από το μενού στα αριστερά "
+"ώστε να τα βρεις την επόμενη φορά που θα το ξανά επισκεφθείς. "
+
+msgid "3 Way"
+msgstr "Νικητής αγώνα"
+
+msgid "2 Way"
+msgstr "Νικητής αγώνα"
+
+msgid "Totals"
+msgstr "Σύνολο γκολ +/-"
+
+msgid "Championship Outrights"
+msgstr "Ειδικά στοιχήματα Πρωταθλήματος"
+
+msgid "Short Term Outrights"
+msgstr "Μικροπρόθεσμα ειδικά στοιχήματα"
+
+msgid "Podium Finish"
+msgstr "Θέση τερματισμού"
+
+msgid "3-balls"
+msgstr "3- Μπάλες"
+
+msgid "Correct score"
+msgstr "Ακριβές σκορ"
+
+msgid "First Team to score"
+msgstr "Πρώτη ομάδα που θα σκοράρει"
+
+msgid "1st Half - 1X2"
+msgstr "1ο Ημίχρονο - 1Χ2"
+
+msgid "Both Teams to Score"
+msgstr "Γκολ / Γκολ"
+
+msgid "Odd/Even goals"
+msgstr "Μονά/ζυγά γκολ"
+
+msgid "Draw no bet"
+msgstr "Draw no bet"
+
+msgid "Goals home team"
+msgstr "Σύνολο γκολ γηπεδούχου ομάδας"
+
+msgid "Goals away team"
+msgstr "Σύνολο γκολ Φιλοξενούμενης ομάδας"
+
+msgid "Asian Handicap"
+msgstr "Ασιατικό Χαντικαπ"
+
+msgid "Asian Total"
+msgstr "Ασιατικό σύνολο γκολ +/-"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1ο Ημίχρονο - Ασιατικό χαντικαπ"
+
+msgid "1st Half - Asian Total"
+msgstr "1ο Ημίχρονο - Ασιατικό σύνολο γκολ +/-"
+
+msgid "European Handicap"
+msgstr "Ευρωπ. Χάντικαπ"
+
+msgid "First goalscorer"
+msgstr "Πρώτος παίκτης που θα σκοράρει"
+
+msgid "Total Goals (aggregated)"
+msgstr "Σύνολο γκολ - Συνολικά γκολ"
+
+msgid "1st Half - Correct Score"
+msgstr "1ο Ημίχρονο ακριβές σκορ"
+
+msgid "Highest scoring half"
+msgstr "Ημίχρονο με τα περισσότερα γκολ"
+
+msgid "Matchbet + Totals"
+msgstr "Νίκη αγώνα και Σύνολο γκολ +/-"
+
+msgid "Matchflow"
+msgstr "Πρώτη ομάδα που θα σκοράρει και Νικητής αγώνα"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1ο Ημίχρονο Μονά/ζυγά γκολ"
+
+msgid "Overtime yes/no"
+msgstr "Θα υπάρξει παράταση;"
+
+msgid "Winning margins"
+msgstr "Με πόσα γκολ διαφορά θα κερδίσει ο νικητής;"
+
+msgid "Anytime goalscorer"
+msgstr "Παίκτης που θα σκοράρει"
+
+msgid "Total number of bookings"
+msgstr "Σύνολο καρτών"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1ο Ημίχρονο Σύνολο καρτών"
+
+msgid "Total number of booking points"
+msgstr "Συνολικοί πόντοι καρτών"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1ο Ημίχρονο - Συνολικοί πόντοι καρτών"
+
+msgid "Player sent off?"
+msgstr "Θα υπάρξει αποβολή; "
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1ο Ημίχρονο - Θα υπάρξει αποβολή; "
+
+msgid "Number of bookings home"
+msgstr "Σύνολο καρτών γηπεδούχου ομάδας"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1ο Ημίχρονο - Σύνολο καρτών γηπεδούχου ομάδας"
+
+msgid "Number of bookings away"
+msgstr "Σύνολο καρτών φιλοξενούμενης ομάδας"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1ο ημίχρονο - Σύνολο καρτών φιλοξενούμενης ομάδας"
+
+msgid "First Team Booked"
+msgstr "Πρώτη ομάδα που θα πάρει κάρτα"
+
+msgid "1st Half - First Team Booked"
+msgstr "1ο ημίχρονο - Πρώτη ομάδα που θα πάρει κάρτα"
+
+msgid "Match bookings"
+msgstr "Σύνολο καρτών αγώνα"
+
+msgid "1st Half - Match Bookings"
+msgstr "1ο Ημίχρονο - Σύνολο καρτών "
+
+msgid "Aggregated booking points"
+msgstr "1ο Ημίχρονο - Σύνολο καρτών "
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1ο Ημίχρονο - Ακριβής αριθμός πόντων καρτών"
+
+msgid "Exact bookings"
+msgstr "Ακριβής αριθμός καρτών αγώνα"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1ο Ημίχρονο - Ακριβής αριθμός καρτών"
+
+msgid "Home Team Player Sent Off"
+msgstr "Θα αποβληθεί παίκτης από την γηπεδούχο ομάδα;"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1ο Ημίχρονο - Θα αποβληθεί παίκτης από την γηπεδούχο ομάδα;"
+
+msgid "Away Team Player Sent Off"
+msgstr "Θα αποβληθεί παίκτης από την φιλοξενούμενη ομάδα;"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1ο Ημίχρονο - Θα αποβληθεί παίκτης από την φιλοξενούμενη ομάδα;"
+
+msgid "Total Goals (exact)"
+msgstr "Ακριβείς αριθμός γκολ αγώνα"
+
+msgid "2nd Half - 1X2"
+msgstr "2ο Ημίχρονο - Νικητής"
+
+msgid "2nd Half - Asian Total"
+msgstr "2ο Ημίχρονο Ασιατικό Σύνολο +/-"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2ο Ημίχρονο Ασιατικό Χάντικαπ"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Σκορ Ημιχρόνου / Σκορ Τελικό"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Γκολ στην παράταση Ναι / Όχι"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Διαδικασία Πέναλτι Ναι/Όχι"
+
+msgid "How will the match be decided?"
+msgstr "Πώς θα κριθεί ο αγώνας;"
+
+msgid "Clean sheet home team"
+msgstr "Νίκη Γηπεδούχου Ομάδας με μηδέν παθητικό"
+
+msgid "Clean sheet away team"
+msgstr "Νίκη Φιλεξενούμενης Ομάδας με μηδέν παθητικό"
+
+msgid "Which team to score"
+msgstr "Επόμενη ομάδα που θα σκοράρει;"
+
+msgid "1st Half - Total Goals"
+msgstr "1ο Ημίχρονο - Σύνολο γκολ +/-"
+
+msgid "2nd Half - Total Goals"
+msgstr "2ο Ημίχρονο - Σύνολο γκολ +/-"
+
+msgid "Total corners"
+msgstr "Σύνολο Κόρνερ"
+
+msgid "1st Half - Total Corners"
+msgstr "1ο ημίχρονο - Σύνολο κόρνερ"
+
+msgid "Corner handicap"
+msgstr "Κόρνερ χάντικαπ"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1ο ημίχρονο - κόρνερ χάντικαπ"
+
+msgid "Corner matchbet"
+msgstr "Ακριβής αριθμός κόρνερ"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1ο Ημίχρονο -Ακριβής αριθμός κόρνερ"
+
+msgid "Corner Odd/Even"
+msgstr "Κόρνερ Μονά/Ζυγά"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1ο Ημίχρονο - Κόρνερ Μονά/Ζυγά"
+
+msgid "First corner"
+msgstr "Πρώτο Κόρνερ"
+
+msgid "1st Half - First Corner"
+msgstr "1ο Ημίχρονο - 1ο κόρνερ"
+
+msgid "Home Team Number of Corners"
+msgstr "Γηπεδούχος ομάδα σύνολο κόρνερ"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1ο ημίχρονο - Γηπεδούχος ομάδα αριθμός κόρνερ"
+
+msgid "1st Half - Totals"
+msgstr "1ο Ημίχρονο - Σύνολο γκολ +/-"
+
+msgid "2nd Half - Totals"
+msgstr "2ο Ημίχρονο - Σύνολο γκολ +/-"
+
+msgid "Last corner"
+msgstr "Τελευταίο κόρνερ"
+
+msgid "1st Half - Last Corner"
+msgstr "1ο ημίχρονο - Τελευταίο κόρνερ"
+
+msgid "Away Team Number of Corners"
+msgstr "Φιλοξενούμεν ομάδα σύνολο κόρνερ"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1ο Ημίχρονο - Φιλοξενούμενη ομάδα σύνολο κόρνερ"
+
+msgid "Last team to score"
+msgstr "Τελευταία ομάδα που θα σκοράρει"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Σύνολο κόρνερ - Συνολικά κόρνερ"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1ο Ημίχρονο - Σύνολο κόρνερ - Συνολικά κόρνερ"
+
+msgid "Home to win both halves?"
+msgstr "Γηπεδούχος νικητής και των δύο ημιχρόνων"
+
+msgid "Home to win either half?"
+msgstr "Ποιο ημίχρονο θα κερδίσει ο γηπεδούχος"
+
+msgid "Home to score in both halves?"
+msgstr "Γηπεδούχος να σκοράρει και στα δύο ημίχρονα"
+
+msgid "Away to win both halves?"
+msgstr "Φιλοξενούμενος νικητής και των δύο ημιχρόνων"
+
+msgid "Away to win either half?"
+msgstr "Ποιο ημίχρονο θα κερδίσει ο φιλοξενούμενος"
+
+msgid "Away to score in both halves?"
+msgstr "Φιλοξενούμενος να σκοράρει και στα δύο ημίχρονα"
+
+msgid "Both halves over 1.5?"
+msgstr "Και τα δύο ημίχρονα +1.5 γκολ"
+
+msgid "Both halves under 1.5?"
+msgstr "Και τα δύο ημίχρονα -1.5 γκολ"
+
+msgid "1st Half Double Chance"
+msgstr "1ο Ημίχρονο - Διπλή ευκαιρία"
+
+msgid "1st Half Draw no Bet"
+msgstr "1st Half Draw no Bet "
+
+msgid "First goal interval 10 min"
+msgstr "Σε ποιο δεκάλεπτο θα μπει το πρώτο γκολ"
+
+msgid "First goal interval 15 min"
+msgstr "Σε ποιο δεκαπεντάλεπτο θα μπει το πρώτο γκολ"
+
+msgid "First 10 minutes -3 way"
+msgstr "Πρώτα δέκα λεπτα 1Χ2"
+
+msgid "1st Half - Both Teams to score"
+msgstr "1ο Ημίχρονο - Θα σκοράρουν και οι δύο ομάδες "
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2ο Ημίχρονο - Θα σκοράρουν και οι δύο ομάδες"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Ημίχρονο με τα περισσότερα γκολ για τη Γηπεδούχο"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Ημίχρονο με τα περισσότερα γκολ για τη φιλοξενούμενη"
+
+msgid "Correct score (incl. other)"
+msgstr "Ακριβές σκορ με περισσότερα αποτελέσματα"
+
+msgid "Odd/Even Points"
+msgstr "Μονοί / Ζυγοί Πόνται"
+
+msgid "Points Spreads"
+msgstr "Διαφορά πόντων νικητή"
+
+msgid "Total Spreads"
+msgstr "Σύνολο  πόντων +/-"
+
+msgid "1st Half - Points Spread"
+msgstr "1ο Ημίχρονο - Διαφορά Πόντων νικητή"
+
+msgid "1st Half - Total Spread"
+msgstr "1ο Ημίχρονο - Σύνολο  πόντων +/-"
+
+msgid "Matchbet and Totals"
+msgstr "Νίκη αγώνα + Σύνολο πόντων +/-"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1ο Ημίχρονο - Μονοί / Ζυγοί Πόντοι"
+
+msgid "1st Half - 2way"
+msgstr "1ο Ημίχρονο - 12"
+
+msgid "Highest Scoring Quarter"
+msgstr "Περίοδος με το υψιλότερο σκορ"
+
+msgid "3way"
+msgstr "1Χ2"
+
+msgid "2nd Half - Points Spread"
+msgstr "2ο Ημίχρονο - Διαφορά Πόντων νικητή"
+
+msgid "2nd Half - Total Spread"
+msgstr "2ο Ημίχρονο - Σύνολο  πόντων +/-"
+
+msgid "1st Half - Draw no bet"
+msgstr "1ο Ημίχρονο - Draw no bet"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2o Ημίχρονο - Μονοί / Ζυγοί πόντοι"
+
+msgid "2nd Half - Draw no bet"
+msgstr "2ο Ημίχρονο - Draw no bet"
+
+msgid "Total margins NBA-ranges"
+msgstr "Με πόσους πόντους διαφορά θα κερδίσει ο νικητής;"
+
+msgid "Total margins Regular-ranges"
+msgstr "Με πόσους πόντους διαφορά θα κερδίσει ο νικητής;"
+
+msgid "Totals away team"
+msgstr "Σύνολο πόντων φιλοξενούμενης ομάδας +/-"
+
+msgid "Totals home team"
+msgstr "Σύνολο πόντων γηπεδούχου ομάδας +/-"
+
+msgid "1st Quarter - 1X2"
+msgstr "1η περίοδος - 1Χ2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2η περίοδος - 1Χ2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3η περίοδος - 1Χ2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4η περίοδος - 1Χ2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1η περίοδος - Draw no bet"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2η περίοδος - Draw no bet"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3η περίοδος - Draw no bet"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4η περίοδος - Draw no bet"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1η περίοδος - Σύνολο πόντων"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2η περίοδος - Σύνολο πόντων"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3η περίοδος - Σύνολο πόντων"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4η περίοδος - Σύνολο πόντων"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1η περίοδος - Διαφορά πόντων νικητή"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2η περίοδος - Διαφορά πόντων νικητή"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3η περίοδος - Διαφορά πόντων νικητή"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4η περίοδος - Διαφορά πόντων νικητή"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1η περίοδος - Μονοί / Ζυγοί πόντοι"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2η περίοδος - Μονοί / Ζυγοί πόντοι"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3η περίοδος - Μονοί / Ζυγοί πόντοι"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4η περίοδος - Μονοί / Ζυγοί πόντοι"
+
+msgid "First to x points"
+msgstr "Πρώτη ομάδα στους X πόντους"
+
+msgid "Total AAMS"
+msgstr "Σύνολο πόντων +/- AAMS"
+
+msgid "Total 3way"
+msgstr "Σύνολο πόντων 1Χ2"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Διαφορά πόντων νικητή (παράταση)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Σύνολο πόντων +/- (παράταση)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Μονά / Ζυγά σερί (παράταση)"
+
+msgid "Correct Score"
+msgstr "Ακριβές σκορ"
+
+msgid "Both teams to score?"
+msgstr "Να σκοράρουν και οι δύο ομάδες"
+
+msgid "Goal Spreads"
+msgstr "Διαφορά γκολ νικητή"
+
+msgid "1st Period - 3way"
+msgstr "1η περίοδος - 1Χ2"
+
+msgid "3rd Period - 3way"
+msgstr "3η περίοδος - 1Χ2"
+
+msgid "1st Period – Total"
+msgstr "1η περίοδος - Σύνολο γκολ"
+
+msgid "2nd Period – Total"
+msgstr "2η περίοδος - Σύνολο γκολ"
+
+msgid "3rd Period – Total"
+msgstr "3η περίοδος - Σύνολο γκολ"
+
+msgid "1st Period - Double Chance"
+msgstr "1η περίοδος - Διπλή ευκαιρία"
+
+msgid "2nd Period - Double Chance"
+msgstr "2η περίοδος - Διπλή ευκαιρία"
+
+msgid "3rd Period - Double Chance"
+msgstr "3η περίοδος - Διπλή ευκαιρία"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Μονά / Ζυγά γκολ ( συμπ. Παράταση και πέναλτι)"
+
+msgid "Highest Scoring Period"
+msgstr "Περίοδος με τα περισσότερα γκολ"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Διαφορά γκολ νικητή ( συμπ. Παράτασης)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Σύνολο γκολ +/-  (συμπ. Παράτασης)"
+
+msgid "Last team to Score"
+msgstr "Τελευταί ομάδα που θα σκοράρει"
+
+msgid "2nd Period - 3way"
+msgstr "2η περίοδος - 1Χ2"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1η περίοδος - Μονά / Ζυγά γκολ"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2η περίοδος - Μονά / Ζυγά γκολ"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3η περίοδος - Μονά / Ζυγά γκολ"
+
+msgid "1st Period - Draw no bet"
+msgstr "1η περίοδος - Draw no bet"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2η περίοδος - Draw no bet"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3η περίοδος - Draw no bet"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2η περίοδος - Θα σκοράρουν και οι δύο ομάδες"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3η περίοδος - Θα σκοράρουν και οι δύο ομάδες"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1η περίοδος - Διαφορά γκολ νικητή"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2η περίοδος - Διαφορά γκολ νικητή"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3η περίοδος - Διαφορά γκολ νικητή"
+
+msgid "2nd Period - First team to score"
+msgstr "2η περίοδος - Πρώτη ομάδα που θα σκοράρει"
+
+msgid "3rd Period - First team to score"
+msgstr "3η περίοδος - Πρώτη ομάδα που θα σκοράρει"
+
+msgid "1st Period - Last team to score"
+msgstr "1η περίοδος - Τελευταία ομάδα που θα σκοράρει"
+
+msgid "2nd Period - Last team to score"
+msgstr "2η περίοδος - Τελευταία ομάδα που θα σκοράρει"
+
+msgid "3rd Period - Last team to score"
+msgstr "3η περίοδος - Τελευταία ομάδα που θα σκοράρει"
+
+msgid "1st Period - Both teams to score"
+msgstr "1η περίοδος - Θα σκοράρουν και οι δύο ομάδες"
+
+msgid "Totals (incl. OT)"
+msgstr "Σύνολο γκολ +/- (συμπ. Παράτασης)"
+
+msgid "2way (incl. OT)"
+msgstr "Νικητής 1 2 (συμπ. Παράτασης)"
+
+msgid "1st Set Winner"
+msgstr "1ο Σετ - Νικητής"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Συνολικός αριθμός Σετ ( Στα 3 σετ)"
+
+msgid "2nd Set Winner"
+msgstr "2ο Σετ νικητής"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Συνολικός αριθμός Σετ ( Στα 5 σετ)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Ακριβές σκορ σετ (Στα 3 σετ)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Ακριβές σκορ σετ (Στα 5 σετ)"
+
+msgid "1st Half - 3way"
+msgstr "1ο Ημίχρονο - 1Χ2"
+
+msgid "Halftime / Fulltime"
+msgstr "Ημίχρονο αγώνα / Ολόκληρου αγώνα"
+
+msgid "Odd / Even Goals"
+msgstr "Μονά / Ζυγά γκολ"
+
+msgid "1st Half - Goal Spread"
+msgstr "1ο Ημίχρονο - Διαφορά γκολ νικητή"
+
+msgid "2nd half - 3way"
+msgstr "2ο Ημίχρονο - 1Χ2"
+
+msgid "1st half - Double Chance"
+msgstr "1ο Ημίχρονο - Διπλή ευκαιρία"
+
+msgid "1st half - Draw no bet"
+msgstr "1st half - Draw no bet "
+
+msgid "1st Half - Odd / Even"
+msgstr "1ο Ημίχρονο - Μονά / Ζυγά"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2ο Ημίχρονο - Μονά / Ζυγά"
+
+msgid "2nd half - Draw no bet"
+msgstr "2ο Ημίχρονο - Draw no bet"
+
+msgid "2nd half - Double Chance"
+msgstr "2o Ημίχρονο - Διπλή ευκαιρία"
+
+msgid "Points Spread"
+msgstr "Διαφορά πόντων νικητή"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Με πόσους πόντους διαφορά θα κερδίσει ο νικητής;"
+
+msgid "Winning Margins Rugby League"
+msgstr "Με πόσους πόντους διαφορά θα κερδίσει ο νικητής;"
+
+msgid "1st Half - Points Spreads"
+msgstr "1ο Ημίχρονο - Διαφορά πόντων νικητή"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1ο Ημίχρονο - Μονοί / Ζυγοί Πόντοι"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Μονοί / Ζυγοί Πόντόι (Παράταση)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2ο Ημίχρονο - Διαφορά Πόντων νικητή (συμπ. Παράταση)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2ο Ημίχρονο - Σύνολο πόντων νικητή (συμπ. Παράταση)"
+
+msgid "Who wins first set"
+msgstr "Ποιος θα κερδίσει το πρώτο σετ;"
+
+msgid "Who wins second set"
+msgstr "Ποιος θα κερδίσει το δεύτερο σετ;"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Συνολικός αριθμός σετ +/-   (στα 5 Σετ)"
+
+msgid "Correct Set Score"
+msgstr "Ακριβές σκορ Σετ"
+
+msgid "How many sets will exceed score limit?"
+msgstr "Πόσα σετ θα ξεπεράσουν το όριο του σκορ;"
+
+msgid "1st Set Handicap"
+msgstr "1ο σετ - Χάντικαπ"
+
+msgid "1st Set Total"
+msgstr "1ο σετ - Σύνολο +/-"
+
+msgid "1st Set Race to X"
+msgstr "1ο Σετ Ποιος θα φτάσει τους Χ πόντους;"
+
+msgid "1st Set Odd/even"
+msgstr "1ο Σετ Μονοί / Ζυγοί πόντοι"
+
+msgid "Who wins third set"
+msgstr "Ποιος θα κερδίσει το τρίτο σετ;"
+
+msgid "Who wins fourth set"
+msgstr "Ποιος θα κερδίσει το τέταρτο  σετ;"
+
+msgid "Who wins fifth set"
+msgstr "Ποιος θα κερδίσει το πέμπτο σετ;"
+
+msgid "5th Set Played?"
+msgstr "Θα διεξαχθεί πέμπτο σετ;"
+
+msgid "4th Set Played?"
+msgstr "Θα διεξαχθεί τέταρτο σετ;"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Συνολικός αριθμός πόντων +/- ( στα 3 σετ)"
+
+msgid "Line"
+msgstr "Όριο"
+
+msgid "Over"
+msgstr "Άνω των"
+
+msgid "Under"
+msgstr "Κάτω των"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "goals"
+msgstr "γκολ"
+
+msgid "Goals"
+msgstr "Γκολ"
+
+msgid "Under and home"
+msgstr "Γηπεδούχος και κάτω των"
+
+msgid "Under and draw"
+msgstr "Ισοπαλία και κάτω των"
+
+msgid "Under and away"
+msgstr "Φιλοξενούμενη και κάτω των"
+
+msgid "1st"
+msgstr "Πρώτο"
+
+msgid "2nd"
+msgstr "Δεύτερο"
+
+msgid "Equal"
+msgstr "Ίσα"
+
+msgid "Hometeam scores first and home"
+msgstr "Γηπεδούχος σκοράρει πρώτος και νίκη γηπεδούχος"
+
+msgid "Hometeam scores first and draw"
+msgstr "Γηπεδούχος σκοράρει πρώτος και ισοπαλία"
+
+msgid "Hometeam scores first and away"
+msgstr "Γηπεδούχος σκοράρει πρώτος και νίκη φιλοξενούμενη"
+
+msgid "Awayteam scores first and home"
+msgstr "Φιλοξενούμενη σκοράρει πρώτη και νίκη γηπεδούχος"
+
+msgid "Awayteam scores first and draw"
+msgstr "Φιλοξενούμενη σκοράρει πρώτη και ισοπαλία"
+
+msgid "Awayteam scores first and away"
+msgstr "Φιλοξενούμενη σκοράρει πρώτη και νίκη φιλοξενούμενη"
+
+msgid "Odd"
+msgstr "Μονά"
+
+msgid "Even"
+msgstr "Ζυγά"
+
+msgid "Others"
+msgstr "Άλλοι"
+
+msgid "Both teams"
+msgstr "Και οι δύο ομάδες"
+
+msgid "Over and away"
+msgstr "Φιλοξενούμενη και άνω των"
+
+msgid "Over and draw"
+msgstr "Ισοπαλία και άνω των"
+
+msgid "Over and home"
+msgstr "Γηπεδούχος και άνω των"
+
+msgid "other"
+msgstr "Άλλο"
+
+msgid "1st period"
+msgstr "Πρώτη περίοδος"
+
+msgid "2nd period"
+msgstr "Δεύτερη περίοδος"
+
+msgid "3rd period"
+msgstr "Τρίτη περίοδος"
+
+msgid "1 sets"
+msgstr "1 Σετ"
+
+msgid "2 sets"
+msgstr "2 Σετ"
+
+msgid "3 sets"
+msgstr "3 Σετ"
+
+msgid "4 sets"
+msgstr "4 Σετ"
+
+msgid "5 sets"
+msgstr "5 Σετ"
+
+msgid "0 sets"
+msgstr "0 Σετ"
+
+msgid "1st quarter"
+msgstr "Πρώτη περίοδος"
+
+msgid "2nd quarter"
+msgstr "Δεύτερη περίοδος"
+
+msgid "3rd quarter"
+msgstr "Τρίτη περίοδος"
+
+msgid "4th quarter"
+msgstr "Τέτατη περίοδος"
+
+msgid "No goal"
+msgstr "Κανένα γκολ"
+
+msgid "Chat with Real Dealers"
+msgstr "Συνομιλία με Αληθινούς Ντήλερς"
+
+msgid "PLAY NOW"
+msgstr "ΠΑΙΞΕ ΤΩΡΑ"

@@ -1,0 +1,3405 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-16 12:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid "Your passwords does not much"
+msgstr "Lozinke se ne podudaraju "
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Vaš je račun otvoren. Potvrdite adresu e-pošte kako biste se mogli prijaviti"
+
+msgid "Password changed"
+msgstr "Lozinka je promijenjena "
+
+msgid "Wrong old password. Please try again"
+msgstr "Stara lozinka nije točna. Pokušajte ponovno."
+
+msgid "Passwords do not match. Please try again"
+msgstr "Lozinke se ne podudaraju. Pokušajte ponovno."
+
+msgid "Account information updated."
+msgstr "Podaci o računu su ažurirani. "
+
+msgid "Limits cancelled."
+msgstr "Ograničenja otkazana. "
+
+msgid "Unable to cancel limit"
+msgstr "Ne mogu otkazati ograničenje "
+
+msgid "Limits updated."
+msgstr "Ograničenja ažurirana. "
+
+msgid "Limits not updated."
+msgstr "Ograničenja nisu ažurirana. "
+
+msgid "You account has been deleted."
+msgstr "Vaš je račun izbrisan. "
+
+msgid "Account settings updated."
+msgstr "Postavke računa su ažurirane. "
+
+msgid "Password reset link sent to your email"
+msgstr "Na vašu e-poštu poslana je poveznica za resetiranje lozinke "
+
+msgid "E-mail not valid"
+msgstr "E-pošta nije ispravna "
+
+msgid "Promotional code successfully used"
+msgstr "Promotivni kod uspješno iskorišten "
+
+msgid "Invalid promotional code"
+msgstr "Neispravan promotivni kod "
+
+msgid "Confirm your email."
+msgstr "Potvrdite svoju e-poštu. "
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Vaš je račun zaključan. Molimo da ponovno postavite lozinku"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Vaš je račun trajno obrisan "
+
+msgid "You are Already Logged in."
+msgstr "Već ste prijavljeni. "
+
+msgid "Wrong Password"
+msgstr "Pogrešna lozinka "
+
+msgid "Username or password is incorrect"
+msgstr "Korisničko ime i lozinka su netočni "
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Osoblje %s (ID: %d) je zahtijevalo da uplati sredstva na vaš račun"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "S korisničkog %s (ID: %d) račun je kreditirao %s"
+
+msgid "User %s is credited by %d %s"
+msgstr "Korisnika %s je kreditirao %d %s "
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Osoblje %s (ID: %d) je zahtijevalo da naplati s vašeg računa"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "S korisničkog %s (ID: %d) računa naplatio je %s"
+
+msgid "User %s is charged by %d %s"
+msgstr "Korisniku %s je naplatio %d %s "
+
+msgid "KYC Data Accepted"
+msgstr "Prihvaćeni podaci o korisniku (KYC) "
+
+msgid "Email successfully sent"
+msgstr "E-pošta uspješno poslana "
+
+msgid "Cannot send email. Please try again."
+msgstr "Ne može se poslati e-pošta. Pokušajte ponovno. "
+
+msgid "can't find"
+msgstr "ne mogu pronaći "
+
+msgid "Changes saved"
+msgstr "Promjene spremljene "
+
+msgid "This cannot be saved."
+msgstr "Ovo se ne može spremiti. "
+
+msgid "Item added"
+msgstr "Stavka dodana "
+
+msgid "This cannot be added."
+msgstr "Ovo se ne može dodati. "
+
+msgid "Item deleted"
+msgstr "Stavka izbrisana "
+
+msgid "This cannot be deleted."
+msgstr "Ovo se ne može izbrisati. "
+
+msgid "Bet added"
+msgstr "Oklada dodana "
+
+msgid "Error adding bet"
+msgstr "Greška u dodavanju oklade "
+
+msgid "Lowest deposit amount is"
+msgstr "Najmanji iznos uloga jest "
+
+msgid "Highest deposit amount is"
+msgstr "Najveći iznos uloga jest "
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Dosegnuli ste ograničenje uloga po transakciji: "
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Dosegnuli ste dnevno ograničenje uloga: "
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Dosegnuli ste tjedno ograničenje uloga: "
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Dosegnuli ste mjesečno ograničenje uloga: "
+
+msgid "Bonus code expired or wrong"
+msgstr "Šifra bonusa je istekla ili nije točna "
+
+msgid "Bonus code expired"
+msgstr "Šifra bonusa je istekla "
+
+msgid "Your amount is too low for bonus"
+msgstr "Vaš iznos je prenizak za bonus "
+
+msgid "Your amount is too high for bonus "
+msgstr "Vaš iznos je previsok za bonus "
+
+msgid "User Terminated"
+msgstr "Korisnik uklonjen "
+
+msgid "Completed"
+msgstr "Dovršeno "
+
+msgid "Pending"
+msgstr "Na čekanju "
+
+msgid "Canceled"
+msgstr "Otkazano "
+
+msgid "Statuses chart"
+msgstr "Grafikon statusa "
+
+msgid "Amount chart"
+msgstr "Grafikon iznosa "
+
+msgid "Deposit not found!"
+msgstr "Uplata nije nađena! "
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Uplata je već označena kao \"izvršena\"\"! \""
+
+msgid "Deposit request set as completed"
+msgstr "Zahtjev za uplatu je postavljen kao dovršen "
+
+msgid "Deposit request canceled"
+msgstr "Zahtjev za uplatu je otkazan "
+
+msgid "Money transaction completed"
+msgstr "Novčana transakcija dovršena "
+
+msgid "Select Event"
+msgstr "Odaberite događaj "
+
+msgid "No search results found"
+msgstr "Nisu pronađeni rezultati pretrage "
+
+msgid "Permissions updated"
+msgstr "Dopuštenja ažurirana "
+
+msgid "Your request is accepted."
+msgstr "Vaš zahtjev je prihvaćen. "
+
+msgid "Language already exist"
+msgstr "Taj jezik već postoji "
+
+msgid "can't delete item"
+msgstr "ne može se izbrisati stavka "
+
+msgid "Emails successfully sent"
+msgstr "E-pošte su uspješno poslane "
+
+msgid "Please enter event result"
+msgstr "Unesite rezultat događaja "
+
+msgid "Results updated"
+msgstr "Rezultati su ažurirani "
+
+msgid "Settings saved."
+msgstr "Postavke su spremljene. "
+
+msgid "can't save settings."
+msgstr "ne mogu se spremiti postavke. "
+
+msgid "Types chart"
+msgstr "Grafikon vrsta "
+
+msgid "Cannot find ticket with id:"
+msgstr "Ne može se naći listić s id: "
+
+msgid "Ticket is not found"
+msgstr "Listić nije pronađen "
+
+msgid "Unknown ticket status"
+msgstr "Nepoznat status listića "
+
+msgid "Unknown paid status"
+msgstr "Nepoznat status plaćanja "
+
+msgid "Ok"
+msgstr "U redu "
+
+msgid "Unknown error"
+msgstr "Nepoznata pogreška "
+
+msgid "Insufficient credits"
+msgstr "Nedovoljno sredstava "
+
+msgid "Ticket is still pending or lost"
+msgstr "Listić još čeka ili je izgubljen "
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Listić je već otisnut. ID listića: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Ne može se naći listić. ID listića: %d "
+
+msgid "Please select another pick from different event"
+msgstr "Odaberite drugi ishod za neki drugi događaj "
+
+msgid "Min betting amount is %d"
+msgstr "Minimalni ulog je %d "
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Ne možete izraditi ovu vrstu listića, vraćanje na pojedinačnu okladu "
+
+msgid "Wrong Password or Username"
+msgstr "Pogrešna lozinka ili korisničko ime "
+
+msgid "Lowest amount for cashout is"
+msgstr "Najmanji iznos za isplatu jest "
+
+msgid "Highest amount for cashout is"
+msgstr "Najveći iznos za isplatu jest "
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Nema dovoljno novca za tu isplatu "
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Ne može vam se isplatiti novac. Postoji \"Locked Amount\"\" %s zbog politike "
+"bonusa. Možete podignuti %s\""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Prethodno podizanje novca nije dovršeno "
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Niste ovlašteni (sve) da izvršite tu transakciju. Molimo da ispunite obrazac "
+"na sljedećoj adresi: "
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Morate ponovno predati dokumente na verifikaciju. Molimo da ispunite obrazac "
+"na sljedećoj adresi"
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Niste ovlašteni (godine) da izvršite tu transakciju. Molimo da ispunite "
+"obrazac na sljedećoj adresi: "
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"Vaš je zahtjev za podizanje %s prihvaćen. Molimo da unesete svoje bankovne "
+"podatke na sljedećoj poveznici: <a href='/users/account'>Podaci o računu</a>"
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Vaš je zahtjev za podizanje %s prihvaćen. "
+
+msgid "Bank information updated."
+msgstr "Podaci o računu su ažurirani. "
+
+msgid "Withdraw request set as completed"
+msgstr "Zahtjev za isplatu je postavljen kao izvršen "
+
+msgid "Withdraw request updated"
+msgstr "Ažuriran zahtjev za podizanje "
+
+msgid "Withdraw request canceled"
+msgstr "Zahtjev za isplatu je otkazan "
+
+msgid "Win"
+msgstr "Dobitak "
+
+msgid "Lost"
+msgstr "Gubitak "
+
+msgid "Yes"
+msgstr "Da "
+
+msgid "No"
+msgstr "Ne "
+
+msgid "View"
+msgstr "Pregled "
+
+msgid "Edit"
+msgstr "Uredi "
+
+msgid "Delete"
+msgstr "Izbriši "
+
+msgid "List"
+msgstr "Popis "
+
+msgid "Create"
+msgstr "Izradi "
+
+msgid "All"
+msgstr "Sve "
+
+msgid "Users"
+msgstr "Korisnici "
+
+msgid "Complete"
+msgstr "Dovrši "
+
+msgid "Cancel"
+msgstr "Otkaži "
+
+msgid "Amount from"
+msgstr "Iznos od "
+
+msgid "Amount to"
+msgstr "Iznos do "
+
+msgid "Transaction ID"
+msgstr "ID transakcije "
+
+msgid "Event name"
+msgstr "Naziv događaja "
+
+msgid "Download"
+msgstr "Preuzmi "
+
+msgid "Language"
+msgstr "Jezik "
+
+msgid "League name"
+msgstr "Naziv lige "
+
+msgid "Sport"
+msgstr "Sport "
+
+msgid "View events"
+msgstr "Pogledaj događaje "
+
+msgid "Add Event"
+msgstr "Dodaj događaj "
+
+msgid "Send Mail"
+msgstr "Pošalji e-poštu "
+
+msgid "Send to All"
+msgstr "Pošalji svima "
+
+msgid "Header 2 menu"
+msgstr "Zaglavlje 2 izbornik "
+
+msgid "Header 3 menu"
+msgstr "Zaglavlje 3 izbornik "
+
+msgid "Bottom 4 menu"
+msgstr "Dno 4 izbornik "
+
+msgid "Footer menu"
+msgstr "Izbornik u podnožju "
+
+msgid "Header menu"
+msgstr "Izbornik u zaglavlju "
+
+msgid "Top Header menu"
+msgstr "Izbornik u gornjem zaglavlju "
+
+msgid "Top menu"
+msgstr "Gornji izbornik "
+
+msgid "Tickets"
+msgstr "Listići "
+
+msgid "Deposits"
+msgstr "Uplate "
+
+msgid "Withdraws"
+msgstr "Isplate "
+
+msgid "Results"
+msgstr "Rezultati "
+
+msgid "Finished events in tickets"
+msgstr "Završeni događaji na listićima "
+
+msgid "Pending events in tickets"
+msgstr "Nezavršeni događaji na listićima "
+
+msgid "All finished events"
+msgstr "Svi završeni događaji "
+
+msgid "Warnings"
+msgstr "Upozorenja "
+
+msgid "Settings"
+msgstr "Postavke "
+
+msgid "Identity number"
+msgstr "Identifikacijski broj "
+
+msgid "Words in title"
+msgstr "Riječi u naslovu "
+
+msgid "Words in description"
+msgstr "Riječi u opisu "
+
+msgid "Url link"
+msgstr "Url poveznice "
+
+msgid "Add League"
+msgstr "Dodaj ligu "
+
+msgid "Password"
+msgstr "Zaporka "
+
+msgid "Fund staff"
+msgstr "Uplati sredstva na račun osoblja "
+
+msgid "Charge staff"
+msgstr "Osoblje za naplatu "
+
+msgid "Login/Logout"
+msgstr "Prijava/odjava "
+
+msgid "Ticket Fraud Check"
+msgstr "Provjera lažnih listića "
+
+msgid "Mark as paid"
+msgstr "Označi kao plaćeno "
+
+msgid "Group ID"
+msgstr "ID grupe "
+
+msgid "Tickets created"
+msgstr "Izrađeni listići "
+
+msgid "Total"
+msgstr "Ukupno "
+
+msgid "Total payout"
+msgstr "Ukupni dobitak "
+
+msgid "Profit"
+msgstr "Profit "
+
+msgid "1Lowest stake on %s is %d"
+msgstr "1Najniži iznos na %s jest %d "
+
+msgid "Highest stake on %s is %d"
+msgstr "1Najviši iznos na %s jest %d "
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2Najniži ulog na %s jest %d "
+
+msgid "3Lowest stake amount is %d"
+msgstr "3Najniži iznos uloga jest %d "
+
+msgid "Highest stake amount is %d"
+msgstr "Najviši iznos uloga jest %d "
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Dosegnuli ste ograničenje oklade po transakciji: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Dosegnuli ste dnevno ograničenje oklade: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Dosegnuli ste tjedno ograničenje oklade: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Dosegnuli ste mjesečno ograničenje oklade: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Dosegnuli ste ograničenje gubitka po transakciji: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Dosegnuli ste dnevno ograničenje gubitka: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Dosegnuli ste tjedno ograničenje gubitka: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Dosegnuli ste mjesečno ograničenje gubitka: %d %s"
+
+msgid "Please login"
+msgstr "Molimo da se prijavite "
+
+msgid "Please select at least %d picks"
+msgstr "Molimo da označite barem %d odabira "
+
+msgid "Not enough money"
+msgstr "Nema dovoljno novca "
+
+msgid "One or more events already started, please remove them"
+msgstr "Jedan ili više događaja već su počeli, uklonite ih "
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Koeficijenti su neažurirani. Uklonite neispravne koeficijente"
+
+msgid "One or mode bets are inactive"
+msgstr "Jedna ili više oklada nisu aktivne "
+
+msgid "Printed"
+msgstr "Otisnuto "
+
+msgid "User Id"
+msgstr "Korisnički ID "
+
+msgid "Amount From"
+msgstr "Iznos od "
+
+msgid "Amount To"
+msgstr "Iznos do "
+
+msgid "Potential Winning From"
+msgstr "Mogući dobitak od "
+
+msgid "Potential Winning To"
+msgstr "Mogući dobitak do "
+
+msgid "Odd From"
+msgstr "Koeficijent od "
+
+msgid "Odd To"
+msgstr "Koeficijent do "
+
+msgid "Fund"
+msgstr "Sredstva "
+
+msgid "Charge"
+msgstr "Naplati "
+
+msgid "User ID"
+msgstr "Korisnički ID "
+
+msgid "Back"
+msgstr "Natrag "
+
+msgid "All feeds updated"
+msgstr "Svi sažeci ažurirani "
+
+msgid "All feeds downloaded"
+msgstr "Svi sažeci preuzeti "
+
+msgid "All feeds parsed"
+msgstr "Svi sažeci raščlanjeni "
+
+msgid "Feed updated"
+msgstr "Sažetak ažuriran "
+
+msgid "Cannot find feed"
+msgstr "Ne može se naći sažetak "
+
+msgid "Cant find feed"
+msgstr "Ne može se naći sažetak "
+
+msgid "Update"
+msgstr "Ažuriranje "
+
+msgid "Update All"
+msgstr "Ažuriraj sve "
+
+msgid "Deposit"
+msgstr "Polog "
+
+msgid "Thank You"
+msgstr "Hvala "
+
+msgid "You successfully deposit %d"
+msgstr "Uspješno ste uložili %d "
+
+msgid "You cancel your deposit"
+msgstr "Otkažite ulog "
+
+msgid "You have successfully made deposit for"
+msgstr "Uspješno ste uložili novac za "
+
+msgid "Sorry, we can not find your payment"
+msgstr "Žao nam je, ali ne možemo pronaći vašu uplatu "
+
+msgid "Make Deposit"
+msgstr "Uplati "
+
+msgid "Amount"
+msgstr "Iznos "
+
+msgid "Make your Deposit"
+msgstr "Uplatite "
+
+msgid "Bonus code or leave empty"
+msgstr "Šifra bonusa ili ostavite prazno "
+
+msgid "Available ACO sync commands:"
+msgstr "Raspoložive naredbe za ACO sinkronizaciju: "
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"Za pomoć pokrenite naredbu 'pomoć'. Za pomoć o određenoj naredbi, pokrenite "
+"'<naredba> pomoć' "
+
+msgid "Deleted %s and all children"
+msgstr "Izbrisano %s i sva djeca "
+
+msgid "Aco Update Complete"
+msgstr "Završeno je ACO ažuriranje "
+
+msgid "Created Aco node: %s"
+msgstr "Izrađeni Aco čvor: %s "
+
+msgid "Deleted Aco node %s"
+msgstr "Izbrisani Aco čvor %s "
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Iskorištenost: cake aco_sync <naredba> "
+
+msgid "Commands:"
+msgstr "Naredbe: "
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Dodaj nove ACO za nove kontrolere i radnje "
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Izradi nove ACO za kontrolere i njihove radnje. Ne uklanja čvorove iz ACO "
+"tablice"
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Izrađuje nove ACO za nedostajuće kontrolere i njihove radnje. Uklanja "
+"izgubljene stavke u ACO tablici. "
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Prikazuje ovu poruku za pomoć ili poruku za posebnu naredbu. "
+
+msgid "Command '%s' not found"
+msgstr "Naredba '%s' nije pronađena "
+
+msgid "day"
+msgstr "dan "
+
+msgid "days"
+msgstr "dana "
+
+msgid "h"
+msgstr "h "
+
+msgid "min"
+msgstr "min "
+
+msgid "Successful"
+msgstr "Uspješno "
+
+msgid "Failed"
+msgstr "Neuspješno "
+
+msgid "Unknown"
+msgstr "Nepoznato "
+
+msgid "Decimal"
+msgstr "Decimalni "
+
+msgid "Fractional"
+msgstr "Razlomak "
+
+msgid "American"
+msgstr "Američki "
+
+msgid "ID:"
+msgstr "ID: "
+
+msgid "more"
+msgstr "više "
+
+msgid "Event"
+msgstr "Događaj "
+
+msgid "Pick"
+msgstr "Ishod "
+
+msgid "odd"
+msgstr "koeficijent "
+
+msgid "Result"
+msgstr "Rezultat "
+
+msgid "Outcome"
+msgstr "Ishod "
+
+msgid "Status"
+msgstr "Status "
+
+msgid "Username"
+msgstr "Korisničko ime "
+
+msgid "Forgot your password?"
+msgstr "Zaboravili ste svoju lozinku? "
+
+msgid "Login"
+msgstr "Prijava "
+
+msgid "Affiliate Registration Form"
+msgstr "Obrazac za registraciju suradnika "
+
+msgid "Personal information"
+msgstr "Osobni podaci "
+
+msgid "First name"
+msgstr "Ime "
+
+msgid "Last name"
+msgstr "Prezime "
+
+msgid "Address"
+msgstr "Adresa "
+
+msgid "Region"
+msgstr "Regija "
+
+msgid "Zip / Postal code"
+msgstr "Pozivni/Poštanski broj "
+
+msgid "City"
+msgstr "Grad "
+
+msgid "Country"
+msgstr "Zemlja "
+
+msgid "Date of birth:"
+msgstr "Datum rođenja: "
+
+msgid "E-mail"
+msgstr "E-pošta "
+
+msgid "Mobile number"
+msgstr "Broj mobitela "
+
+msgid "Website name"
+msgstr "Naziv web stranice "
+
+msgid "Send"
+msgstr "Pošalji "
+
+msgid "Choose Payment Gateway"
+msgstr "Odaberite način plaćanja "
+
+msgid "Bank Transfer Payment"
+msgstr "Plaćanje bankovnim transferom "
+
+msgid "eTranzact"
+msgstr "eTranzact "
+
+msgid "Online Payment"
+msgstr "Internetsko plaćanje "
+
+msgid "Please see you latest deposits below:"
+msgstr "U nastavku pregledajte svoje posljednje uplate: "
+
+msgid "Date"
+msgstr "Datum "
+
+msgid "Type"
+msgstr "Vrsta "
+
+msgid "Bonus"
+msgstr "Bonus "
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr ""
+"Nije nađena povijest uplata. Kako biste napravili novu, idite na \"Make New"
+"\"\" (Napravi novu). \""
+
+msgid "Deposit information:"
+msgstr "Podaci o uplati: "
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Zatraži ručnu uplatu (kreditira se nakon verifikacije) "
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Stranica {:page} od {:pages}, prikazuje {:current} zapise od {:count} "
+"ukupno, početak sa zapisom {:start}, završetak sa {:end} "
+
+msgid "previous"
+msgstr "prethodno "
+
+msgid "next"
+msgstr "sljedeće "
+
+msgid "Show"
+msgstr "Prikaži "
+
+msgid "User"
+msgstr "Korisnik "
+
+msgid "Deposit type"
+msgstr "Vrsta uplate "
+
+msgid "Bonus type"
+msgstr "Vrsta bonusa "
+
+msgid "Bonus valid until"
+msgstr "Bonus vrijedi do "
+
+msgid "Bonus used"
+msgstr "Bonus iskorišten "
+
+msgid "Bonus amount to your account"
+msgstr "Iznos bonusa za vaš račun "
+
+msgid "League"
+msgstr "Liga "
+
+msgid "No available odds found for this event"
+msgstr "Nisu pronađeni koeficijenti za ovaj događaj "
+
+msgid "First team to Score"
+msgstr "Prva ekipa koja osvoji bod "
+
+msgid "1st Half"
+msgstr "Prva polovina "
+
+msgid "Both Team to Score"
+msgstr "Obje ekipe daju gol "
+
+msgid "Halftime/Fulltime"
+msgstr "Poluvrijeme/kraj utakmice "
+
+msgid "Double Chance"
+msgstr "Dvostruka šansa "
+
+msgid "From:"
+msgstr "Od: "
+
+msgid "Email:"
+msgstr "E-pošta: "
+
+msgid "Odds"
+msgstr "Koeficijenti "
+
+msgid "Reset Password"
+msgstr "Ponovno postavi lozinku "
+
+msgid "Register"
+msgstr "Registrirajte se "
+
+msgid "User Menu"
+msgstr "Korisnički izbornik "
+
+msgid "My Account"
+msgstr "Moj račun "
+
+msgid "Balance"
+msgstr "Saldo "
+
+msgid "Log out"
+msgstr "Odjava "
+
+msgid "Casino"
+msgstr "Kasino "
+
+msgid "Live Casino"
+msgstr "Kasino uživo (Live Casino) "
+
+msgid "Betting Tools"
+msgstr "Alat za klađenje "
+
+msgid "Register now and get"
+msgstr "Registrirajte se sad i osvojite "
+
+msgid "email"
+msgstr "e-pošta "
+
+msgid "Register now"
+msgstr "Registrirajte se sad "
+
+msgid "Registration"
+msgstr "Registracija "
+
+msgid "Password reminder"
+msgstr "Podsjetnik za lozinku "
+
+msgid "Search Ticket"
+msgstr "Traži listić "
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "Enter ticket ID"
+msgstr "Unesi ID listića "
+
+msgid "Search"
+msgstr "Traži "
+
+msgid "Ticket"
+msgstr "Listić "
+
+msgid "Unknown ticked ID"
+msgstr "Nepoznat broj listića "
+
+msgid "Money"
+msgstr "Novac "
+
+msgid "Pay"
+msgstr "Plati "
+
+msgid "Find event"
+msgstr "Nađi događaj "
+
+msgid "Search by event name"
+msgstr "Traži po nazivu događaja "
+
+msgid "Search by event ID"
+msgstr "Traži po ID-u događaja "
+
+msgid "Search results for:"
+msgstr "Traži rezultate za: "
+
+msgid "No available events are found for this league"
+msgstr "Nisu pronađeni događaji za ovu ligu "
+
+msgid "Search Events"
+msgstr "Traži događaje "
+
+msgid "Search another event ID"
+msgstr "Traži drugi ID događaja "
+
+msgid "Search another event name"
+msgstr "Traži naziv drugog događaja "
+
+msgid "Please complete the following form"
+msgstr "Molimo da ispunite sljedeći obrazac "
+
+msgid "Confirm changes"
+msgstr "Potvrdi promjene "
+
+msgid "Activity Column"
+msgstr "Stupac za aktivnosti "
+
+msgid "Current balance"
+msgstr "Trenutni saldo "
+
+msgid "Today placed tickets"
+msgstr "Danas odigrani listići "
+
+msgid "Contact us"
+msgstr "Obratite nam se "
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Ako imate problema, nemojte oklijevati već se obratite korisničkoj službi "
+"pomoću donjeg obrasca: "
+
+msgid "Subject"
+msgstr "Predmet "
+
+msgid "Name"
+msgstr "Ime "
+
+msgid "Email"
+msgstr "E-pošta "
+
+msgid "Message"
+msgstr "Poruka "
+
+msgid "News"
+msgstr "Vijesti "
+
+msgid "Read more"
+msgstr "Pročitaj više "
+
+msgid "Soccer"
+msgstr "Nogomet "
+
+msgid "Basketball"
+msgstr "Košarka "
+
+msgid "Ice Hockey"
+msgstr "Hokej na ledu "
+
+msgid "Tennis"
+msgstr "Tenis "
+
+msgid "Rugby"
+msgstr "Ragbi "
+
+msgid "Half Time 3 way"
+msgstr "Poluvrijeme, 3 moguća ishoda "
+
+msgid "Top Games"
+msgstr "Najbolje igre "
+
+msgid "IceHockey"
+msgstr "Hokej na ledu "
+
+msgid "Handball"
+msgstr "Rukomet "
+
+msgid "Last Minute Bets"
+msgstr "Oklade u posljednji trenutak "
+
+msgid "Shortly"
+msgstr "Ubrzo "
+
+msgid "%d events available"
+msgstr "%d raspoloživih događaja "
+
+msgid "Bet now"
+msgstr "Okladi se odmah "
+
+msgid "Football"
+msgstr "Nogomet "
+
+msgid "Draw"
+msgstr "Neriješeno "
+
+msgid "League not found"
+msgstr "Liga nije pronađena "
+
+msgid "No available events found for this league"
+msgstr "Nisu pronađeni događaji za ovu ligu "
+
+msgid "Last Minute"
+msgstr "Posljednji trenutak "
+
+msgid "No leagues selected"
+msgstr "Nije odabrana nijedna liga "
+
+msgid "Single"
+msgstr "Pojedinačno "
+
+msgid "Combi"
+msgstr "Kombinacija "
+
+msgid "System"
+msgstr "Sustav "
+
+msgid "Delete all bets"
+msgstr "Obriši sve oklade "
+
+msgid "Total odds"
+msgstr "Ukupni izgledi "
+
+msgid "Stake"
+msgstr "Ulog "
+
+msgid "Winning"
+msgstr "Dobitak "
+
+msgid "Preview"
+msgstr "Pregled "
+
+msgid "Place Bet"
+msgstr "Uplati okladu "
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Još nije odabrana oklada. <br>Kliknite na odgovarajuće koeficijente kako "
+"biste odabrali oklade. "
+
+msgid "Ticket History"
+msgstr "Povijest listića "
+
+msgid "Ticket ID:"
+msgstr "ID listića: "
+
+msgid "Print"
+msgstr "Ispiši "
+
+msgid "No tickets activity available"
+msgstr "Nije pronađena aktivnost na listiću "
+
+msgid "Date and time"
+msgstr "Datum i vrijeme "
+
+msgid "Ticket id"
+msgstr "ID listića "
+
+msgid "ID / Date"
+msgstr "ID/datum "
+
+msgid "Total:"
+msgstr "Ukupno: "
+
+msgid "Amount:"
+msgstr "Iznos: "
+
+msgid "Return:"
+msgstr "Povrat: "
+
+msgid "Please see your betting history below:"
+msgstr "U nastavku pregledajte povijest svojih oklada: "
+
+msgid "Ticket ID"
+msgstr "ID listića "
+
+msgid "Note"
+msgstr "Napomena "
+
+msgid "To place ticket please use betslip."
+msgstr "Prilikom uplate listića koristite se obrascem za oklade. "
+
+msgid "Pending tickets"
+msgstr "Listići na čekanju "
+
+msgid "Please see you recently placed tickets below:"
+msgstr "U nastavku pregledajte svoje nedavno uplaćene listiće: "
+
+msgid "Paid"
+msgstr "Plaćeno "
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Nisu pronađeni listići na čekanju. Za prijašnje listiće pregledajte povijest "
+"listića. "
+
+msgid "History"
+msgstr "Povijest "
+
+msgid "Ticket Preview"
+msgstr "Pregled listića "
+
+msgid "Event ID / Date"
+msgstr "ID/datum događaja "
+
+msgid "Sport / League"
+msgstr "Sport/liga "
+
+msgid "Submit Ticket"
+msgstr "Uplati listić "
+
+msgid "Clear Ticket"
+msgstr "Obriši listić "
+
+msgid "No bets selected"
+msgstr "Nema odabranih oklada "
+
+msgid "Ticket placed"
+msgstr "Listić je uplaćen "
+
+msgid "Your ticket is created successfully"
+msgstr "Vaš listić je uspješno izrađen "
+
+msgid "Your ticket number is"
+msgstr "Broj vašeg listića je "
+
+msgid "Ticket information"
+msgstr "Podaci o listiću "
+
+msgid "Login/Logout History"
+msgstr "Povijest prijava/odjava "
+
+msgid "User Login/Logout History:"
+msgstr "Povijest prijave/odjave korisnika: "
+
+msgid "Action"
+msgstr "Radnja "
+
+msgid "IP"
+msgstr "IP "
+
+msgid "Please set up options for more comfortable view."
+msgstr "Postavite mogućnosti za prikaz koji vam više odgovara. "
+
+msgid "Odds type"
+msgstr "Vrsta koeficijenata "
+
+msgid "Time zone"
+msgstr "Vremenska zona "
+
+msgid "Change Password"
+msgstr "Promijeni lozinku "
+
+msgid "Account information"
+msgstr "Podaci o računu "
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Unesite pune osobne podatke kako bismo mogli potvrditi vaš identitet. "
+"Sukladno pravilima, može biti ograničen pristup nekim proizvodima, tržištima "
+"i popustima na maržu dok ne potvrdite svoj identitet. Osobne dokumente "
+"možete dostaviti putem naše usluge sigurne e-pošte. "
+
+msgid "Date of birth"
+msgstr "Datum rođenja "
+
+msgid "Bank name"
+msgstr "Naziv banke "
+
+msgid "Bank code"
+msgstr "Šifra banke "
+
+msgid "Bank account number"
+msgstr "Broj bankovnog računa "
+
+msgid "Ref. Code"
+msgstr "Ref. šifra "
+
+msgid "Balance Information Analysis"
+msgstr "Analiza podataka za ravnotežu "
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Ovdje možete vidjeti sve podatke o svom trenutnom stanju. "
+
+msgid "Promotional Code"
+msgstr "Promotivni kod "
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr ""
+"Dolje unesite promotivni kod kako biste dobili dodatna sredstva ili druge "
+"koristi. "
+
+msgid "Code"
+msgstr "Šifra "
+
+msgid "Submit bonus code"
+msgstr "Upišite šifru bonusa "
+
+msgid "Confirmation"
+msgstr "Potvrda "
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"E-poruka je potvrđena. Preusmjerit ćemo vas na početnu stranicu za 5 sekundi."
+"</ br>Ako ne budete preusmjereni u navedenom vremenu, molimo da odete na <a "
+"href=\"/\"\">link</a>\""
+
+msgid "Incorect confirmation code"
+msgstr "Netočna potvrdna šifra "
+
+msgid "Responsible Gaming Settings"
+msgstr "Postavke odgovornog igranja "
+
+msgid "Responsible gaming text"
+msgstr "Tekst za odgovorno igranje "
+
+msgid "Add Limit"
+msgstr "Dodaj ograničenje "
+
+msgid "Set the limit you can play for each session"
+msgstr "Postavite ograničenja za ulog u svakoj igri "
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Nemojte mi dopustiti da uđem na svoj račun za oklade u idućih 7 dana "
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr ""
+"Nemojte mi dopustiti da uđem na svoj račun za oklade u idućih 6 mjeseci "
+
+msgid "Block Account"
+msgstr "Blokiraj račun "
+
+msgid "Permanently delete your account."
+msgstr "Trajno izbrišite svoj račun. "
+
+msgid "Delete My Account"
+msgstr "Obriši moj račun "
+
+msgid "Open account with us!"
+msgstr "Otvorite račun kod nas! "
+
+msgid "Account data"
+msgstr "Podaci o računu "
+
+msgid "Confirm password"
+msgstr "Potvrdi zaporku "
+
+msgid "Personal question"
+msgstr "Osobno pitanje "
+
+msgid "Personal answer"
+msgstr "Osobni odgovor "
+
+msgid "Referral ID"
+msgstr "ID posrednika "
+
+msgid "Affiliate ID"
+msgstr "ID suradnika "
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Bankovni podaci (ovaj odjeljak možete ispuniti kasnije) "
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Imam 18 ili više godina i pročitao/la sam i prihvatio/la "
+
+msgid "Terms And Conditions"
+msgstr "Uvjete korištenja "
+
+msgid "Confirm registration"
+msgstr "Potvrdi registraciju "
+
+msgid "Password Reset"
+msgstr "Resetiraj lozinku "
+
+msgid "Enter your new password"
+msgstr "Unesite svoju novu lozinku "
+
+msgid "Change password"
+msgstr "Promijeni zaporku "
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"U nastavku unesite podatke o e-pošti. Na unesenu adresu e-pošte poslana je "
+"poveznica za resetiranje lozinke. Moći ćete izraditi novu lozinku koju ćete "
+"koristiti za prijavu. "
+
+msgid "Withdraw"
+msgstr "Isplata "
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr ""
+"Ako želite isplatiti novac, dolje upišite željeni iznos i izvršite "
+"transakciju: "
+
+msgid "Withdraw ID"
+msgstr "ID isplate "
+
+msgid "Request Manual Withdraw"
+msgstr "Zatraži ručnu isplatu "
+
+msgid "Transaction Log"
+msgstr "Dnevnik transakcija "
+
+msgid "List of transactions:"
+msgstr "Popis transakcija: "
+
+msgid "Transaction Type"
+msgstr "Vrsta transakcije "
+
+msgid "Add/Edit %s"
+msgstr "Dodaj/uredi %s "
+
+msgid "Description"
+msgstr "Opis "
+
+msgid "Value"
+msgstr "Vrijednost "
+
+msgid "Parent"
+msgstr "Roditeljska "
+
+msgid "Created"
+msgstr "Otvoren "
+
+msgid "Modified"
+msgstr "Izmijenjen "
+
+msgid "Percentage"
+msgstr "Postotak "
+
+msgid "Custom Affiliate ID"
+msgstr "Prilagođeni ID suradnika "
+
+msgid "Submit"
+msgstr "Pošalji "
+
+msgid "List %s"
+msgstr "Popis %s "
+
+msgid "File"
+msgstr "Datoteka "
+
+msgid "URL"
+msgstr "URL "
+
+msgid "Image"
+msgstr "Slika "
+
+msgid "Alert ID"
+msgstr "ID upozorenja "
+
+msgid "User id"
+msgstr "Korisnički ID "
+
+msgid "Alert Title"
+msgstr "Naziv upozorenja "
+
+msgid "Alert"
+msgstr "Upozorenje "
+
+msgid "Add bet"
+msgstr "Dodaj okladu "
+
+msgid "Alerts"
+msgstr "Upozorenja "
+
+msgid "Admin Audit Trail"
+msgstr "Administratorski postupak pri reviziji "
+
+msgid "Application File Backups"
+msgstr "Sigurnosne kopije datoteka aplikacije "
+
+msgid "Database Backups"
+msgstr "Sigurnosne kopije baze podataka "
+
+msgid "Betradar Feeds Log"
+msgstr "Sažeci sadržaja Betaradara "
+
+msgid "Liability Dumps"
+msgstr "Sigurnosne kopije za Liability"
+
+msgid "Data list"
+msgstr "Popis podataka "
+
+msgid "Actions"
+msgstr "Radnje "
+
+msgid "Translations"
+msgstr "Prijevodi "
+
+msgid "Translate"
+msgstr "Prevedi "
+
+msgid "No records found"
+msgstr "Nema pronađenih zapisa "
+
+msgid "Sports and Leagues"
+msgstr "Sportovi i lige "
+
+msgid "Events management"
+msgstr "Upravljanje događajima "
+
+msgid "Events Printing"
+msgstr "Ispis događaja "
+
+msgid "Users report"
+msgstr "Korisnički izvještaj "
+
+msgid "Tickets report"
+msgstr "Izvještaj o listićima "
+
+msgid "Deposits report"
+msgstr "Izvještaj o ulozima "
+
+msgid "Witdraw report"
+msgstr "Izvještaj o podizanju novca "
+
+msgid "Liability report"
+msgstr "Izvještaj za Liability"
+
+msgid "Active Users"
+msgstr "Aktivni korisnici "
+
+msgid "locale"
+msgstr "lokalno "
+
+msgid "Create %s"
+msgstr "Izradi %s "
+
+msgid "Event ID"
+msgstr "ID događaja "
+
+msgid "User:"
+msgstr "Korisnik: "
+
+msgid "Level:"
+msgstr "Razina: "
+
+msgid "Current Time:"
+msgstr "Trenutno vrijeme: "
+
+msgid "Current Language:"
+msgstr "Trenutni jezik: "
+
+msgid "Front Page"
+msgstr "Naslovnica "
+
+msgid "Under / Over"
+msgstr "Manje/više "
+
+msgid "Handicap"
+msgstr "Hendikep "
+
+msgid "%s Printing"
+msgstr "%s ispis "
+
+msgid "Available Events List For:"
+msgstr "Popis raspoloživih događaja za: "
+
+msgid "Unknown Sport"
+msgstr "Nepoznat sport "
+
+msgid "Please select sport below:"
+msgstr "U nastavku odaberite sport: "
+
+msgid "View Events"
+msgstr "Pogledaj događaje "
+
+msgid "No available events found for this sport"
+msgstr "Nisu pronađeni događaji za ovaj sport "
+
+msgid "Can not find event"
+msgstr "Ne može se pronaći događaj "
+
+msgid "Edit %s"
+msgstr "Uredi %s "
+
+msgid "Save"
+msgstr "Spremi "
+
+msgid "Users %s"
+msgstr "Korisnici %s "
+
+msgid "Edit User"
+msgstr "Uredi korisnika "
+
+msgid "Administration Panel"
+msgstr "Administracijska ploča "
+
+msgid "Logout"
+msgstr "Odjava "
+
+msgid "Staff Login"
+msgstr "Prijava osoblja "
+
+msgid "Events"
+msgstr "Događaji "
+
+msgid "Available cultures"
+msgstr "Dostupne kulture "
+
+msgid "Add a culture"
+msgstr "Dodaj kulturu "
+
+msgid "Add"
+msgstr "Dodaj "
+
+msgid "Cultures this site supports"
+msgstr "Kulture koje ova stranica podržava "
+
+msgid "X"
+msgstr "X "
+
+msgid "Are you sure you want to delete"
+msgstr "Jeste li sigurni da želite izbrisati "
+
+msgid "ID"
+msgstr "ID "
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Napišite promotivno pismo svim korisnicima. Poruke će stići na korisničke "
+"adrese e-pošte. "
+
+msgid "Subject:"
+msgstr "Predmet: "
+
+msgid "Content:"
+msgstr "Sadržaj: "
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Preuzmi sve e-poruke (csv datoteka) "
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Napišite promotivno pismo određenom korisniku. Poruka će stići na adresu e-"
+"pošte korisnika. "
+
+msgid "To:"
+msgstr "Prima: "
+
+msgid "Contact support team"
+msgstr "Obratite se korisničkoj službi "
+
+msgid "<br>No data in this period"
+msgstr "<br>Nema podataka u ovom razdoblju "
+
+msgid "No data in this period"
+msgstr "Nema podataka u ovom razdoblju "
+
+msgid "User name"
+msgstr "Korisničko ime "
+
+msgid "Date of registration"
+msgstr "Datum registracije "
+
+msgid "Won"
+msgstr "Osvojeno "
+
+msgid "Liability"
+msgstr "Liability"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Bonus je otkazan zbog Liability"
+
+msgid "Download (Excel file)"
+msgstr "Preuzmi (dokument u Excelu) "
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Jeste li sigurni da želite otkazati ovaj događaj? "
+
+msgid "No events found"
+msgstr "Nema nađenih događaja "
+
+msgid "No events in this league"
+msgstr "Nema događaja u ovoj ligi "
+
+msgid "Risk Management Settings"
+msgstr "Postavke upravljanja rizicima "
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"Upravljanje rizicima ključno je za klađenje. Budite pažljivi pri određivanju "
+"svih mogućnosti. "
+
+msgid "Lowest stake"
+msgstr "Najniži ulog "
+
+msgid "Highest stake"
+msgstr "Najviši ulog "
+
+msgid "Highest winning amount"
+msgstr "Najveći dobitak "
+
+msgid "Lowest number of events in one ticket"
+msgstr "Najmanji broj događaja na jednom listiću "
+
+msgid "Highest number of events in one ticket"
+msgstr "Najviši broj događaja po listiću "
+
+msgid "List Leagues"
+msgstr "Navedi lige "
+
+msgid "League ID"
+msgstr "ID lige "
+
+msgid "No limits"
+msgstr "Bez ograničenja "
+
+msgid "List Sports"
+msgstr "Navedi sportove "
+
+msgid "Sport ID"
+msgstr "ID sporta "
+
+msgid "Warning Withdraws"
+msgstr "Upozorenje za isplate "
+
+msgid "Id"
+msgstr "Id "
+
+msgid "Warning Stakes"
+msgstr "Upozorenje za uloge "
+
+msgid "Warning Winnings"
+msgstr "Upozorenje za dobitke "
+
+msgid "Warning Deposits"
+msgstr "Upozorenje za uplate "
+
+msgid "amount"
+msgstr "iznos "
+
+msgid "Deposit fee percentage"
+msgstr "Postotak naknade pri uplati "
+
+msgid "Payment gateways"
+msgstr "Načini plaćanja "
+
+msgid "Please set payment gateways below:"
+msgstr "U nastavku postavite načine plaćanja: "
+
+msgid "Payments"
+msgstr "Plaćanja "
+
+msgid "Deposits %s"
+msgstr "Uplate %s "
+
+msgid "Please set deposit risk management setting below:"
+msgstr "U nastavku odredite postavku za upravljanje rizicima kod uplata: "
+
+msgid "Allow automated deposits"
+msgstr "Dozvoli automatizirane uplate "
+
+msgid "Allow manual deposits"
+msgstr "Dozvoli ručne uplate "
+
+msgid "Lowest amount for deposit"
+msgstr "Najniži iznos uplate "
+
+msgid "Highest amount for deposit"
+msgstr "Najviši iznos uplate "
+
+msgid "General %s"
+msgstr "Općenito %s "
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Opće postavke kontroliraju neke od najvažnijih konfiguracijskih postavki na "
+"vašoj stranici: naziv i lokaciju vaše stranice, tko se može prijaviti na nju "
+"te kako se datum i vrijeme računaju i prikazuju. "
+
+msgid "Copyright"
+msgstr "Copyright "
+
+msgid "Contact Email"
+msgstr "Adresa e-pošte za kontakt "
+
+msgid "Password reset"
+msgstr "Resetiraj lozinku "
+
+msgid "Default currency"
+msgstr "Zadana valuta "
+
+msgid "Default timezone:"
+msgstr "Zadana vremenska zona: "
+
+msgid "Default language"
+msgstr "Zadani jezik "
+
+msgid "Charset"
+msgstr "Skup znakova "
+
+msgid "Items per page"
+msgstr "Stavki po stranici "
+
+msgid "Referral system"
+msgstr "Posrednički sustav "
+
+msgid "Left active"
+msgstr "Lijevo aktivno "
+
+msgid "Left sidebar title"
+msgstr "Naslov lijeve bočne trake "
+
+msgid "Left sidebar content"
+msgstr "Sadržaj lijeve bočne trake "
+
+msgid "Right active"
+msgstr "Desno aktivno "
+
+msgid "Right sidebar title"
+msgstr "Naslov desne bočne trake "
+
+msgid "Right sidebar content"
+msgstr "Sadržaj desne bočne trake "
+
+msgid "Bottom active"
+msgstr "Donje aktivno "
+
+msgid "Bottom sidebar title"
+msgstr "Naslov donje bočne trake "
+
+msgid "Bottom sidebar content"
+msgstr "Sadržaj donje bočne trake "
+
+msgid "Referral Settings"
+msgstr "Postavke posrednika "
+
+msgid "First deposit percentage to referral"
+msgstr "Postotak za posrednika prilikom prve uplate "
+
+msgid "SEO %s"
+msgstr "SEO %s "
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr ""
+"Što je <b>SEO</b>/Search Engine Optimization (optimizacija tražilice)? "
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"SEO je pokrata za \"search engine optimization.\"\" To je postupak dobivanja "
+"prometa s  \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" ili \"\"natural"
+"\"\" popisa na tražilicama. Sve najveće tražilice poput Googlea, Yahooa i "
+"Binga imaju rezultate gdje se internetske stranice i drugi sadržaji poput "
+"videozapisa ili lokalnih popisa prikazuju i slažu na temelju onoga što "
+"tražilica smatra najvažnijim za korisnike. Nema plaćanja kao na plaćenim "
+"reklamama u tražilicama. \""
+
+msgid "Title tag"
+msgstr "Naslovna oznaka "
+
+msgid "Keywords"
+msgstr "Ključne riječi "
+
+msgid "Reply to email"
+msgstr "Odgovor na e-poštu "
+
+msgid "Copyright:"
+msgstr "Copyright: "
+
+msgid "Bot content revisit time"
+msgstr "Vrijeme za ponovni posjet sadržaja od strane robota "
+
+msgid "Author"
+msgstr "Autor "
+
+msgid "Tickets %s"
+msgstr "Listići %s "
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Opći listić upravlja nekim od najosnovnijih funkcija u vezi konfiguracije i "
+"ispisa koje su povezane s listićima. "
+
+msgid "Ticket printing"
+msgstr "Ispis listića "
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Omogućite (Da) ili onemogućite (Ne) ispis listića za korisnike i osoblje. "
+
+msgid "Ticket preview"
+msgstr "Pregled listića "
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Omogućite (Da) ili onemogućite (Ne) pregled listića prije njegove uplate. "
+
+msgid "Warnings %s"
+msgstr "Upozorenja %s "
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Postavke upozorenja mogu vam pomoći da filtrirate poruke upozorenja od "
+"nepotrebnih upozorenja. Molimo da uzmete u obzir što je ključno za vaše "
+"oklade i koristite se tom funkcijom da osigurate zaradu. "
+
+msgid "Deposit alert"
+msgstr "Upozorenje o ulaganju "
+
+msgid "Withdraw alert"
+msgstr "Upozorenje o podizanju novca "
+
+msgid "Stake alert"
+msgstr "Upozorenje o ulogu "
+
+msgid "Odds alert"
+msgstr "Upozorenje o izgledima "
+
+msgid "Potential winning alert"
+msgstr "Upozorenje o mogućoj pobjedi "
+
+msgid "Allow withdraws"
+msgstr "Omogući isplate "
+
+msgid "Withdraw %s"
+msgstr "Podignite %s "
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "U nastavku odredite postavku za upravljanje rizicima kod isplata: "
+
+msgid "Lowest amount for withdraw request"
+msgstr "Najmanji iznos za zahtjev za podizanje "
+
+msgid "Highest amount for withdraw request"
+msgstr "Najveći iznos za zahtjev za podizanje "
+
+msgid "%s"
+msgstr "%s "
+
+msgid "Sports"
+msgstr "Sportovi "
+
+msgid "Leagues"
+msgstr "Lige "
+
+msgid "View %s"
+msgstr "Prikaži %s "
+
+msgid "Ticket Number"
+msgstr "Broj listića "
+
+msgid "Return"
+msgstr "Povratak "
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Listić će biti izbrisan. Jeste li sigurni da želite izbrisati? "
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Listić će biti otkazan. Jeste li sigurni da želite otkazati? "
+
+msgid "Insert Result"
+msgstr "Unesi rezultat "
+
+msgid "Fund user"
+msgstr "Uplati korisniku "
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Za uplaćivanje sredstava samo unesite iznos u polje za unos i odaberite "
+"\"predaj\". Na primjer, ako želite uplatiti sredstva samo kreditirajte "
+"korisnika sa 100 "
+
+msgid " just enter that amount into field and press submit"
+msgstr "samo unesite taj iznos u polje i odaberite \"predaj\" "
+
+msgid "Charge user"
+msgstr "Naplati korisniku "
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Za naplatu unesite iznos i novac će se skinuti s korisničkog računa. Na "
+"primjer, ako želite naplatiti samo kreditirajte korisnika s 200 "
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "američki dolari samo unesite taj iznos u polje i odaberite \"predaj\" "
+
+msgid "Add %s"
+msgstr "Dodaj %s "
+
+msgid "Registration chart"
+msgstr "Grafikon registracije "
+
+msgid "KYC user"
+msgstr "KYC korisnik "
+
+msgid "KYC Documents"
+msgstr "KYC dokumenti "
+
+msgid "Change KYC Status"
+msgstr "Promijeni KYC status "
+
+msgid "Deposits Bonus History"
+msgstr "Povijest bonusa za ulaganja "
+
+msgid "Sum"
+msgstr "Zbroj "
+
+msgid "Affiliates"
+msgstr "Suradnici "
+
+msgid "Kick"
+msgstr "Izbaci"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "E-poruka je potvrđena. Sada se možete prijaviti. "
+
+msgid "Register now!"
+msgstr "Registrirajte se sada! "
+
+msgid "Forgotten your password?"
+msgstr "Zaboravili ste svoju lozinku? "
+
+msgid "Old password"
+msgstr "Stara lozinka "
+
+msgid "New password"
+msgstr "Nova lozinka "
+
+msgid "Bank info"
+msgstr "Bank. podaci "
+
+msgid "Please provide your bank info"
+msgstr "Unesite svoje bankovne podatke "
+
+msgid "Account number"
+msgstr "Broj računa "
+
+msgid "Transaction"
+msgstr "Transakcija "
+
+msgid "User Balance"
+msgstr "Korisnička ravnoteža "
+
+msgid "Please enter your surname"
+msgstr "Upišite svoje prezime "
+
+msgid "Please enter your first name"
+msgstr "Molimo da unesete svoje ime "
+
+msgid "Please enter your address"
+msgstr "Molimo da unesete svoju adresu "
+
+msgid "Please enter your Region"
+msgstr "Molimo da unesete svoju regiju "
+
+msgid "Please enter your City of residence"
+msgstr "Molimo da unesete svoj grad "
+
+msgid "Alphabets and numbers only"
+msgstr "Samo slova abecede i brojevi "
+
+msgid "Between 5 to 15 characters"
+msgstr "Između 5 i 15 znakova "
+
+msgid "This username has already been taken."
+msgstr "Ovo korisničko ime već je zauzeto. "
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Lozinka mora imati između 6 i 15 znakova "
+
+msgid "Password must contain at least one number"
+msgstr "Lozinka mora sadržavati barem jedan broj "
+
+msgid "Password must contain at least one letter"
+msgstr "Lozinka mora sadržavati barem jedno slovo "
+
+msgid "Please enter valid email address"
+msgstr "Unesite ispravnu adresu e-pošte "
+
+msgid "This email has already been registered."
+msgstr "Ova adresa e-pošte već je registrirana. "
+
+msgid "Please enter your name"
+msgstr "Unesite svoje ime "
+
+msgid "Please enter your street address"
+msgstr "Unesite svoju adresu "
+
+msgid "Please enter city"
+msgstr "Unesite grad "
+
+msgid "Please enter country"
+msgstr "Unesite zemlju "
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Korisnik mora imati više od 21 godine kako bi dovršio registraciju "
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Korisnik mora imati više od 18 godine kako bi dovršio registraciju "
+
+msgid "Please enter valid mobile number"
+msgstr "Unesite ispravan broj mobitela "
+
+msgid "Please your personal question"
+msgstr "Odaberite svoje osobno pitanje "
+
+msgid "Please enter valid answer"
+msgstr "Upišite ispravan odgovor "
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Morate prihvatiti Uvjete korištenja da biste s mogli registrirati. "
+
+msgid "This field cannot be left blank"
+msgstr "Ovo polje ne smije se ostaviti praznim "
+
+msgid "Mimimum 5 characters long"
+msgstr "Minimalno 5 znakova "
+
+msgid "The username should be different from email"
+msgstr "Korisničko ime treba biti drukčije od adrese e-pošte "
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Lozinka mora imati između 8 i 15 znakova "
+
+msgid "The Password has to be different from username."
+msgstr "Lozinka se mora razlikovati od korisničkog imena. "
+
+msgid "It seems that you are already registered."
+msgstr "Čini se da ste se već registrirali. "
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Molimo da unesete svoju kućnu adresu ili kućna adresa ne postoji "
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Postavka uklanjanja greške ne dozvoljava pristup ovom URL-u. "
+
+msgid "Match odds"
+msgstr "Izgledi na utakmici "
+
+msgid "Remaining match"
+msgstr "Preostala utakmica "
+
+msgid "Next Goal"
+msgstr "Sljedeći gol "
+
+msgid "Total Goals +/-"
+msgstr "Ukupno golova +/- "
+
+msgid "Match odds (1 2)"
+msgstr "Koeficijenti za utakmicu (1 2) "
+
+msgid "Set 1 2"
+msgstr "Odaberi 1 2 "
+
+msgid "Set Score"
+msgstr "Odaberi rezultat "
+
+msgid "Sets Overall"
+msgstr "Odaberi ukupno "
+
+msgid "Total Points +/-"
+msgstr "Ukupno bodova +/- "
+
+msgid "Goals from now +/-"
+msgstr "Golova odsad +/- "
+
+msgid "Match odds (1x2)"
+msgstr "Koeficijenti za utakmicu (1x2) "
+
+msgid "1 hour"
+msgstr "1 sat "
+
+msgid "2 hours"
+msgstr "2 sata "
+
+msgid "3 hours"
+msgstr "3 sata "
+
+msgid "Time"
+msgstr "Vrijeme "
+
+msgid "LIVE"
+msgstr "UŽIVO "
+
+msgid "Statistics"
+msgstr "Statistika "
+
+msgid "Click on team name for extra bets"
+msgstr "Kliknite na ime momčadi za dodatne oklade "
+
+msgid "Upcoming Live Matches"
+msgstr "Nadolazeće utakmice uživo "
+
+msgid "Login For"
+msgstr "Prijava za "
+
+msgid "minutes"
+msgstr "minuta "
+
+msgid "Bet Slip"
+msgstr "Obrazac za okladu "
+
+msgid "open"
+msgstr "otvori "
+
+msgid "Sport Bets"
+msgstr "Sportske oklade "
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr ""
+"Odlični koeficijenti za nogomet, tenis, hokej na ledu i još mnogo sportova "
+
+msgid "Number of Bets Placed:"
+msgstr "Broj uplaćenih oklada: "
+
+msgid "Max Wager for bets:"
+msgstr "Najviši ulog za oklade: "
+
+msgid "Wager:"
+msgstr "Ulog: "
+
+msgid "Max Payout:"
+msgstr "Najveći dobitak: "
+
+msgid "All games / All events"
+msgstr "Sve utakmice/svi događaji "
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr ""
+"Sve utakmice na jednom mjestu, mogu se kombinirati svi normalni sportovi i "
+"svi koeficijenti. "
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Uzmite sada ovu našu inovativnu uslugu. Pristup utakmicama uživo kao nikada "
+"prije! Sretno!! "
+
+msgid "more groups"
+msgstr "više grupa "
+
+msgid "Draw no Bet Period"
+msgstr "Razdoblje oklade bez neriješenog "
+
+msgid "Total x Period"
+msgstr "Ukupno x razdoblje "
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Postavite ograničenja uplate za svoj račun "
+
+msgid "Play Session Limit"
+msgstr "Ograničenje trajanja klađenja "
+
+msgid "Wager Limit"
+msgstr "Ograničenje uloga "
+
+msgid "Loss Limit"
+msgstr "Ograničenje gubitaka "
+
+msgid "Self Exclusion"
+msgstr "Samoisključivanje "
+
+msgid "DELETE ACCOUNT"
+msgstr "IZBRIŠI RAČUN "
+
+msgid "Per Transaction"
+msgstr "Po transakciji "
+
+msgid "Daily"
+msgstr "Dnevno "
+
+msgid "Weekly"
+msgstr "Tjedno "
+
+msgid "Monthly"
+msgstr "Mjesečno "
+
+msgid "No Limit"
+msgstr "Bez ograničenja "
+
+msgid "After %s minutes"
+msgstr "Nakon %s minuta "
+
+msgid "After one Hour"
+msgstr "Nakon jednog sata "
+
+msgid "After two Hours"
+msgstr "Nakon dva sata "
+
+msgid "Login For:"
+msgstr "Prijavljen od: "
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Igrate već %s minuta, u kojima ste: <br>Uplatili € %s <br>Uložili € %s "
+"<br>Izgubili € %s <br>Dobili € %s "
+
+msgid "Outdated Browser Detected"
+msgstr "Otkriven je neažurirani preglednik "
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Naša internetska stranica otkrila je da koristite neažurirani preglednik. "
+"Korištenjem trenutnog preglednika nećete moći pristupiti svim značajkama na "
+"našom internetskoj stranici. Nije potrebno izvršiti nadogradnji, ali snažno "
+"preporučujemo da poboljšate pregledavanje naše internetske stranice. "
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Koristite poveznice u nastavku za preuzimanje novog preglednika ili "
+"nadogradnju postojećeg preglednika. "
+
+msgid "Remind me later"
+msgstr "Podsjeti me kasnije "
+
+msgid "No available Bonuses."
+msgstr "Nema raspoloživih bonusa. "
+
+msgid "Available Bonuses."
+msgstr "Raspoloživi bonusi. "
+
+msgid "Locked Amount"
+msgstr "Zaključan iznos "
+
+msgid "Opened on"
+msgstr "Otvoreno "
+
+msgid "Activation Date"
+msgstr "Datum aktivacije "
+
+msgid "Expiration Date"
+msgstr "Datum isteka "
+
+msgid "Account Information"
+msgstr "Podaci o računu "
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr ""
+"Rezultati, tablice, rasporedi i rezultati uživo za sve lige i događaje "
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Igrajte rulet, ajnc i Baccarat u Kasinu uživo "
+
+msgid "Identity Card (back view)"
+msgstr "Identifikacijska kartica (stražnji pogled) "
+
+msgid "Identity Card (front view)"
+msgstr "Identifikacijska kartica (prednji pogled) "
+
+msgid "Bank Account"
+msgstr "Bankovni račun "
+
+msgid "Register now and get 7bonus7"
+msgstr "Registrirajte se sada i dobit ćete 7bonus7 "
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms>7Epta7 Limited&nbsp; je tvrtka registrirana prema zakonima Malte "
+"i čije djelovanje je regulirano tim zakonima, a ima ured registriran na "
+"adresi Tower Business Centre, apartman 5, razina 1, Tower Street, Swatar, "
+"Birkirkara. Tvrtka je u vlasništvu licence klase 2 koju je dobila na &nbsp;"
+"&nbsp; 2013 od malteškog tijela za lutriju i igre na sreću, s licencnim "
+"brojem LGA/CL2/921/2013. Djelovanje tvrtke regulira malteško tijelo za "
+"lutriju i igre na sreću (Lotteries and Gaming Authority, LGA)).</p> "
+
+msgid "Top Winner"
+msgstr "Najveći dobitak "
+
+msgid "close"
+msgstr "zatvori "
+
+msgid "hours"
+msgstr "sati "
+
+msgid "Instant Play"
+msgstr "Brza igra "
+
+msgid "Live Video Streaming"
+msgstr "Video prijenos uživo "
+
+msgid "Betslip Wagering"
+msgstr "Obrazac za oklade, ulaganje "
+
+msgid "Ticket Win"
+msgstr "Dobitan listić "
+
+msgid "Bonus Cancellation by user."
+msgstr "Korisnik je poništio bonus. "
+
+msgid "Bonus activation"
+msgstr "Aktivacija bonusa "
+
+msgid "APCO Deposit"
+msgstr "APCO uplata "
+
+msgid "Account Deposit"
+msgstr "Uplata na račun "
+
+msgid "Live Casino Transaction"
+msgstr "Transakcija u Kasino uživo "
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Vraćanje transakcija u Kasino uživo "
+
+msgid "in every game"
+msgstr "u svakoj utakmici "
+
+msgid "Today"
+msgstr "Danas "
+
+msgid "Log in"
+msgstr "Prijavi se "
+
+msgid "Stake:"
+msgstr "Ulog: "
+
+msgid "View Tickets"
+msgstr "Pregled listića "
+
+msgid "Number of Bets Placed: "
+msgstr "Broj uplaćenih oklada: "
+
+msgid "Max Wager for bets: "
+msgstr "Njviši ulog za oklade: "
+
+msgid "bets"
+msgstr "oklade "
+
+msgid "Admin add Funds"
+msgstr "Admin. dodaje sredstva "
+
+msgid "Bonus activation:"
+msgstr "Aktivacija bonusa: "
+
+msgid "APCO Deposit:"
+msgstr "APCO uplata: "
+
+msgid "Withdrawal"
+msgstr "Isplata "
+
+msgid "Betslip Cancellation:"
+msgstr "Otkazivanje obrasca za okladu: "
+
+msgid "Cancelled WithDrawal"
+msgstr "Otkaži isplatu "
+
+msgid "Ticket Cancelled"
+msgstr "Listić poništen "
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz"
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Bet Split"
+msgstr "Obrazac za oklade "
+
+msgid "The Company"
+msgstr "Tvrtka "
+
+msgid "Help & Legal"
+msgstr "Pomoć i pravne napomene "
+
+msgid "Useful Links"
+msgstr "Korisne poveznice "
+
+msgid "Payment Options"
+msgstr "Mogućnosti plaćanja "
+
+msgid "Extra Bets"
+msgstr "Dodatne oklade "
+
+msgid "No, don't remind me again"
+msgstr "Ne, nemoj me više podsjećati "
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"U izborniku na lijevoj strani odaberite ligu iz svog omiljenog sporta. Tako "
+"da je možete pronaći prilikom sljedeće posjete "
+
+msgid "3 Way"
+msgstr "3 ishoda "
+
+msgid "2 Way"
+msgstr "2 ishoda "
+
+msgid "Totals"
+msgstr "Ukupno "
+
+msgid "Championship Outrights"
+msgstr "Pobjednik prvenstva "
+
+msgid "Short Term Outrights"
+msgstr "Kratkoročni pobjednici "
+
+msgid "Podium Finish"
+msgstr "Pobjedničko postolje "
+
+msgid "3-balls"
+msgstr "3-lopte "
+
+msgid "Correct score"
+msgstr "Točan rezultat "
+
+msgid "First Team to score"
+msgstr "Prva ekipa osvaja bod "
+
+msgid "1st Half - 1X2"
+msgstr "1. poluvrijeme - 1X2 "
+
+msgid "Both Teams to Score"
+msgstr "Obje ekipe daju gol "
+
+msgid "Odd/Even goals"
+msgstr "Paran/neparan broj golova "
+
+msgid "Draw no bet"
+msgstr "Oklada bez neriješenog "
+
+msgid "Goals home team"
+msgstr "Broj golova domaće momčadi "
+
+msgid "Goals away team"
+msgstr "Broj golova gostujuće momčadi "
+
+msgid "Asian Handicap"
+msgstr "Azijski hendikep "
+
+msgid "Asian Total"
+msgstr "Azijski zbroj "
+
+msgid "1st Half - Asian Handicap"
+msgstr "1. poluvrijeme - azijski hendikep "
+
+msgid "1st Half - Asian Total"
+msgstr "1. poluvrijeme - azijski zbroj "
+
+msgid "European Handicap"
+msgstr "Europski hendikep "
+
+msgid "First goalscorer"
+msgstr "Prvi strijelac "
+
+msgid "Total Goals (aggregated)"
+msgstr "Ukupan broj golova (zajedno) "
+
+msgid "1st Half - Correct Score"
+msgstr "1. poluvrijeme - točan rezultat "
+
+msgid "Highest scoring half"
+msgstr "Poluvrijeme s više golova "
+
+msgid "Matchbet + Totals"
+msgstr "Oklada na utakmicu + zbroj "
+
+msgid "Matchflow"
+msgstr "Matchflow "
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1. poluvrijeme - paran/neparan broj golova "
+
+msgid "Overtime yes/no"
+msgstr "Produžetak da/ne "
+
+msgid "Winning margins"
+msgstr "Razlika "
+
+msgid "Anytime goalscorer"
+msgstr "Zabija gol bilo kada "
+
+msgid "Total number of bookings"
+msgstr "Ukupan broj kartona "
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1. poluvrijeme - ukupan broj kartona "
+
+msgid "Total number of booking points"
+msgstr "Ukupan broj bodova za kartone "
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1. poluvrijeme - ukupan broj bodova za kartone "
+
+msgid "Player sent off?"
+msgstr "Isključen igrač? "
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1. poluvrijeme - isključen igrač"
+
+msgid "Number of bookings home"
+msgstr "Broj kartona za domaćina "
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1. poluvrijeme - broj kartona za domaćina "
+
+msgid "Number of bookings away"
+msgstr "Broj kartona za gosta "
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1. poluvrijeme - broj kartona za gosta "
+
+msgid "First Team Booked"
+msgstr "Prva momčad s kartonom "
+
+msgid "1st Half - First Team Booked"
+msgstr "1. poluvrijeme - prva momčad s kartonom "
+
+msgid "Match bookings"
+msgstr "Kartoni na utakmici "
+
+msgid "1st Half - Match Bookings"
+msgstr "1. poluvrijeme - kartoni na utakmici "
+
+msgid "Aggregated booking points"
+msgstr "Zbroj bodova za kartone "
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1. poluvrijeme - zbroj bodova za kartone "
+
+msgid "Exact bookings"
+msgstr "Točan broj kartona "
+
+msgid "1st Half - Exact Bookings"
+msgstr "1. poluvrijeme - točan broj kartona "
+
+msgid "Home Team Player Sent Off"
+msgstr "Isključenje domaćeg igrača "
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1. poluvrijeme - isključenje domaćeg igrača "
+
+msgid "Away Team Player Sent Off"
+msgstr "Isključenje gostujućeg igrača "
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1. poluvrijeme - isključenje gostujućeg igrača "
+
+msgid "Total Goals (exact)"
+msgstr "Ukupan broj golova (točno) "
+
+msgid "2nd Half - 1X2"
+msgstr "2. poluvrijeme - 1X2 "
+
+msgid "2nd Half - Asian Total"
+msgstr "2. poluvrijeme - azijski zbroj "
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2. poluvrijeme - azijski hendikep "
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Poluvrijeme/kraj, točan rezultat "
+
+msgid "Overtime + goal Yes/No"
+msgstr "Produžetak + gol, da/ne "
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Izvođenje jedanaesteraca, da/ne "
+
+msgid "How will the match be decided?"
+msgstr "Kako će utakmica biti odlučena? "
+
+msgid "Clean sheet home team"
+msgstr "Domaća momčad ne prima gol "
+
+msgid "Clean sheet away team"
+msgstr "Gostujuća momčad ne prima gol "
+
+msgid "Which team to score"
+msgstr "Koja momčad zabija "
+
+msgid "1st Half - Total Goals"
+msgstr "1. poluvrijeme - ukupno golova "
+
+msgid "2nd Half - Total Goals"
+msgstr "2. poluvrijeme - ukupno golova "
+
+msgid "Total corners"
+msgstr "Ukupno kornera "
+
+msgid "1st Half - Total Corners"
+msgstr "1. poluvrijeme - ukupno kornera "
+
+msgid "Corner handicap"
+msgstr "Hendikep kornera "
+
+msgid "1st Half - Corner Handicap"
+msgstr "1. poluvrijeme - hendikep kornera "
+
+msgid "Corner matchbet"
+msgstr "Oklada na kornere za cijelu utakmicu "
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1. poluvrijeme - oklada na kornere za cijelu utakmicu "
+
+msgid "Corner Odd/Even"
+msgstr "Paran/neparan broj kornera "
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1. poluvrijeme - paran/neparan broj kornera "
+
+msgid "First corner"
+msgstr "Prvi korner "
+
+msgid "1st Half - First Corner"
+msgstr "1. poluvrijeme - prvi korner "
+
+msgid "Home Team Number of Corners"
+msgstr "Broj kornera domaće momčadi "
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1. poluvrijeme - broj kornera domaće momčadi "
+
+msgid "1st Half - Totals"
+msgstr "1. poluvrijeme - zbroj "
+
+msgid "2nd Half - Totals"
+msgstr "2. poluvrijeme - zbroj "
+
+msgid "Last corner"
+msgstr "Posljednji korner "
+
+msgid "1st Half - Last Corner"
+msgstr "1. poluvrijeme - posljednji korner "
+
+msgid "Away Team Number of Corners"
+msgstr "Broj kornera gostujuće momčadi "
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1. poluvrijeme - broj kornera gostujuće momčadi "
+
+msgid "Last team to score"
+msgstr "Momčad koja posljednja zabija "
+
+msgid "Corner Total (Aggregated)"
+msgstr "Zbroj kornera (zajedno) "
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1. poluvrijeme - zbroj kornera (zajedno) "
+
+msgid "Home to win both halves?"
+msgstr "Domaćin pobjeđuje u oba poluvremena"
+
+msgid "Home to win either half?"
+msgstr "Domaćin pobjeđuje u bilo kojem poluvremenu"
+
+msgid "Home to score in both halves?"
+msgstr "Domaćin zabija u oba poluvremena"
+
+msgid "Away to win both halves?"
+msgstr "Gost pobjeđuje u oba poluvremena"
+
+msgid "Away to win either half?"
+msgstr "Gost pobjeđuje u bilo kojem poluvremenu"
+
+msgid "Away to score in both halves?"
+msgstr "Gost zabija u oba poluvremena"
+
+msgid "Both halves over 1.5?"
+msgstr "Oba poluvremena više od 1,5"
+
+msgid "Both halves under 1.5?"
+msgstr "Oba poluvremena manje od 1,5"
+
+msgid "1st Half Double Chance"
+msgstr "Dvoznak za 1. poluvrijeme "
+
+msgid "1st Half Draw no Bet"
+msgstr "Oklada bez neriješenog za 1. poluvrijeme "
+
+msgid "First goal interval 10 min"
+msgstr "Interval za prvi gol 10 min "
+
+msgid "First goal interval 15 min"
+msgstr "Interval za prvi gol 15 min "
+
+msgid "First 10 minutes -3 way"
+msgstr "Prvi 10 minuta -3 ishoda "
+
+msgid "1st Half - Both Teams to score"
+msgstr "1. poluvrijeme - obje momčadi zabijaju "
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2. poluvrijeme - obje momčadi zabijaju "
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Poluvrijeme s više golova, domaćin "
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Poluvrijeme s više golova, gost "
+
+msgid "Correct score (incl. other)"
+msgstr "Točan rezultat (uklj. ostale) "
+
+msgid "Odd/Even Points"
+msgstr "Paran/neparan broj bodova "
+
+msgid "Points Spreads"
+msgstr "Razlika u bodovima "
+
+msgid "Total Spreads"
+msgstr "Ukupna razlika "
+
+msgid "1st Half - Points Spread"
+msgstr "1. poluvrijeme - razlika u bodovima "
+
+msgid "1st Half - Total Spread"
+msgstr "1. poluvrijeme - ukupna razlika "
+
+msgid "Matchbet and Totals"
+msgstr "Oklada na utakmicu i zbroj "
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1. poluvrijeme - paran/neparan broj bodova "
+
+msgid "1st Half - 2way"
+msgstr "1. poluvrijeme - 2 ishoda "
+
+msgid "Highest Scoring Quarter"
+msgstr "Četvrtina s najviše bodova "
+
+msgid "3way"
+msgstr "3 ishoda "
+
+msgid "2nd Half - Points Spread"
+msgstr "2. poluvrijeme - razlika u bodovima "
+
+msgid "2nd Half - Total Spread"
+msgstr "2. poluvrijeme - ukupna razlika "
+
+msgid "1st Half - Draw no bet"
+msgstr "1. poluvrijeme - oklada bez neriješenog "
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2. poluvrijeme - paran/neparan broj bodova "
+
+msgid "2nd Half - Draw no bet"
+msgstr "2. poluvrijeme - oklada bez neriješenog "
+
+msgid "Total margins NBA-ranges"
+msgstr "Ukupan hendikep, NBA rasponi "
+
+msgid "Total margins Regular-ranges"
+msgstr "Ukupan hendikep, obični rasponi "
+
+msgid "Totals away team"
+msgstr "Ukupan broj koševa, gost "
+
+msgid "Totals home team"
+msgstr "Ukupan broj koševa, domaćin "
+
+msgid "1st Quarter - 1X2"
+msgstr "1. četvrtina - 1X2 "
+
+msgid "2nd Quarter - 1X2"
+msgstr "2. četvrtina - 1X2 "
+
+msgid "3rd Quarter - 1X2"
+msgstr "3. četvrtina - 1X2 "
+
+msgid "4th Quarter - 1X2"
+msgstr "4. četvrtina - 1X2 "
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1. četvrtina - oklada bez neriješenog "
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2. četvrtina - oklada bez neriješenog "
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3. četvrtina - oklada bez neriješenog "
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4. četvrtina - oklada bez neriješenog "
+
+msgid "1st Quarter - Total Spread"
+msgstr "1. četvrtina - ukupna razlika "
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2. četvrtina - ukupna razlika "
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3. četvrtina - ukupna razlika "
+
+msgid "4th Quarter - Total Spread"
+msgstr "4. četvrtina - ukupna razlika "
+
+msgid "1st Quarter - Points Spread"
+msgstr "1. četvrtina - razlika koševa "
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2. četvrtina - razlika koševa "
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3. četvrtina - razlika koševa "
+
+msgid "4th Quarter - Points Spread"
+msgstr "4. četvrtina - razlika koševa "
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1. četvrtina - paran/neparan broj koševa "
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2. četvrtina - paran/neparan broj koševa "
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3. četvrtina - paran/neparan broj koševa "
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4. četvrtina - paran/neparan broj koševa "
+
+msgid "First to x points"
+msgstr "Prvi do x koševa "
+
+msgid "Total AAMS"
+msgstr "Ukupno AAMS "
+
+msgid "Total 3way"
+msgstr "Ukupno, 3 ishoda "
+
+msgid "Points Spreads (Overtime)"
+msgstr "Razlika koševa (produžetak) "
+
+msgid "Total Spreads (Overtime)"
+msgstr "Ukupna razlika (produžetak) "
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Paran/neparan broj bodova (produžetak) "
+
+msgid "Correct Score"
+msgstr "Točan rezultat "
+
+msgid "Both teams to score?"
+msgstr "Obje momčadi postižu gol"
+
+msgid "Goal Spreads"
+msgstr "Razlike golova "
+
+msgid "1st Period - 3way"
+msgstr "1. trećina - 3 ishoda "
+
+msgid "3rd Period - 3way"
+msgstr "3. trećina - 3 ishoda "
+
+msgid "1st Period – Total"
+msgstr "1. trećina – ukupno "
+
+msgid "2nd Period – Total"
+msgstr "2. trećina – ukupno "
+
+msgid "3rd Period – Total"
+msgstr "3. trećina – ukupno "
+
+msgid "1st Period - Double Chance"
+msgstr "1. trećina - dvoznak "
+
+msgid "2nd Period - Double Chance"
+msgstr "2. trećina - dvoznak "
+
+msgid "3rd Period - Double Chance"
+msgstr "3. trećina - dvoznak "
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Paran/neparan broj golova (uklj. PROD. i kaznene udarce) "
+
+msgid "Highest Scoring Period"
+msgstr "Trećina s najviše golova "
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Razlika golova (uklj. PROD) "
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Ukupna razlika (uklj. PROD) "
+
+msgid "Last team to Score"
+msgstr "Momčad koja posljednja zabija "
+
+msgid "2nd Period - 3way"
+msgstr "2. trećina - 3 ishoda "
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1. trećina - paran/neparan broj golova "
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2. trećina - paran/neparan broj golova "
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3. trećina - paran/neparan broj golova "
+
+msgid "1st Period - Draw no bet"
+msgstr "1. trećina - oklada bez neriješenog "
+
+msgid "2nd Period - Draw no bet"
+msgstr "2. trećina - oklada bez neriješenog "
+
+msgid "3rd Period - Draw no bet"
+msgstr "3. trećina - oklada bez neriješenog "
+
+msgid "2nd Period - Both teams to score"
+msgstr "2. trećina - obje momčadi zabijaju "
+
+msgid "3rd Period - Both teams to score"
+msgstr "3. trećina - obje momčadi zabijaju "
+
+msgid "1st Period - Goal Spreads"
+msgstr "1. trećina - razlika golova "
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2. trećina - razlika golova "
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3. trećina - razlika golova "
+
+msgid "2nd Period - First team to score"
+msgstr "2. trećina - momčad koja prva zabija "
+
+msgid "3rd Period - First team to score"
+msgstr "3. trećina - momčad koja prva zabija "
+
+msgid "1st Period - Last team to score"
+msgstr "1. trećina - momčad koja posljednja zabija "
+
+msgid "2nd Period - Last team to score"
+msgstr "2. trećina - momčad koja posljednja zabija "
+
+msgid "3rd Period - Last team to score"
+msgstr "3. trećina - momčad koja posljednja zabija "
+
+msgid "1st Period - Both teams to score"
+msgstr "1. trećina - obje momčadi zabijaju "
+
+msgid "Totals (incl. OT)"
+msgstr "Zbroj (uklj. PROD) "
+
+msgid "2way (incl. OT)"
+msgstr "2 ishoda (uklj. PROD) "
+
+msgid "1st Set Winner"
+msgstr "Pobjednik 1. seta "
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Ukupan broj setova (do 2 osvojena seta) "
+
+msgid "2nd Set Winner"
+msgstr "Pobjednik 2. seta "
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Ukupan broj setova (do 3 osvojena seta) "
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Točan rezultat u setovima (do 2 osvojena seta) "
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Točan rezultat u setovima (do 3 osvojena seta) "
+
+msgid "1st Half - 3way"
+msgstr "1. poluvrijeme - 3 ishoda "
+
+msgid "Halftime / Fulltime"
+msgstr "Poluvrijeme/kraj utakmice "
+
+msgid "Odd / Even Goals"
+msgstr "Paran/neparan broj golova "
+
+msgid "1st Half - Goal Spread"
+msgstr "1. poluvrijeme - razlika u golovima "
+
+msgid "2nd half - 3way"
+msgstr "2. poluvrijeme - 3 ishoda "
+
+msgid "1st half - Double Chance"
+msgstr "1. poluvrijeme - dvoznak "
+
+msgid "1st half - Draw no bet"
+msgstr "1. poluvrijeme - oklada bez neriješenog "
+
+msgid "1st Half - Odd / Even"
+msgstr "1. poluvrijeme - paran/neparan broj "
+
+msgid "2nd Half - Odd / Even"
+msgstr "2. poluvrijeme - paran/neparan broj "
+
+msgid "2nd half - Draw no bet"
+msgstr "2. poluvrijeme - oklada bez neriješenog "
+
+msgid "2nd half - Double Chance"
+msgstr "2. poluvrijeme - dvoznak "
+
+msgid "Points Spread"
+msgstr "Razlika u bodovima "
+
+msgid "Winning Margins Rugby Union"
+msgstr "Razlika, Rugby Union "
+
+msgid "Winning Margins Rugby League"
+msgstr "Razlika, Rugby League "
+
+msgid "1st Half - Points Spreads"
+msgstr "1. poluvrijeme - razlika u bodovima "
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1. poluvrijeme – paran/neparan broj bodova "
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Paran/neparan broj bodova (produžetak) "
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2. poluvrijeme - razlika u bodovima (uklj. produžetak) "
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2. poluvrijeme - ukupna razlika (uklj. produžetak) "
+
+msgid "Who wins first set"
+msgstr "Pobjednik prvog seta "
+
+msgid "Who wins second set"
+msgstr "Pobjednik drugog seta "
+
+msgid "Total number of sets (best of 5)"
+msgstr "Ukupan broj setova (do 3 osvojena seta) "
+
+msgid "Correct Set Score"
+msgstr "Točan rezultat u setovima "
+
+msgid "How many sets will exceed score limit?"
+msgstr "U koliko setova će biti prekoračena rezultatska granica"
+
+msgid "1st Set Handicap"
+msgstr "Hendikep u 1. setu "
+
+msgid "1st Set Total"
+msgstr "Zbroj u 1. setu "
+
+msgid "1st Set Race to X"
+msgstr "Utrka do X u 1. setu "
+
+msgid "1st Set Odd/even"
+msgstr "Paran/neparan broj u 1. setu "
+
+msgid "Who wins third set"
+msgstr "Pobjednik trećeg seta "
+
+msgid "Who wins fourth set"
+msgstr "Pobjednik četvrtog seta "
+
+msgid "Who wins fifth set"
+msgstr "Pobjednik petog seta "
+
+msgid "5th Set Played?"
+msgstr "Hoće li se igrati 5. set"
+
+msgid "4th Set Played?"
+msgstr "Hoće li se igrati 4. set"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Ukupan broj setova (do 2 osvojena seta) "
+
+msgid "Line"
+msgstr "Margina "
+
+msgid "Over"
+msgstr "Više "
+
+msgid "Under"
+msgstr "Manje "
+
+msgid "None"
+msgstr "Niti jedno "
+
+msgid "goals"
+msgstr "golova "
+
+msgid "Goals"
+msgstr "Golova "
+
+msgid "Under and home"
+msgstr "Manje i pobjeda domaćina "
+
+msgid "Under and draw"
+msgstr "Manje i neriješeno "
+
+msgid "Under and away"
+msgstr "Manje i pobjeda gosta "
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "Equal"
+msgstr "Jednako "
+
+msgid "Hometeam scores first and home"
+msgstr "Domaćin zabija prvi i pobjeda domaćina "
+
+msgid "Hometeam scores first and draw"
+msgstr "Domaćin zabija prvi i neriješeno "
+
+msgid "Hometeam scores first and away"
+msgstr "Domaćin zabija prvi i pobjeda gosta "
+
+msgid "Awayteam scores first and home"
+msgstr "Gost zabija prvi i pobjeda domaćina "
+
+msgid "Awayteam scores first and draw"
+msgstr "Gost zabija prvi i neriješeno "
+
+msgid "Awayteam scores first and away"
+msgstr "Gost zabija prvi i pobjeda gosta "
+
+msgid "Odd"
+msgstr "Neparan zbroj "
+
+msgid "Even"
+msgstr "Paran zbroj "
+
+msgid "Others"
+msgstr "Ostalo "
+
+msgid "Both teams"
+msgstr "Obje momčadi "
+
+msgid "Over and away"
+msgstr "Više i pobjeda gosta "
+
+msgid "Over and draw"
+msgstr "Više i neriješeno "
+
+msgid "Over and home"
+msgstr "Više i pobjeda domaćina "
+
+msgid "other"
+msgstr "ostalo "
+
+msgid "1st period"
+msgstr "1. trećina "
+
+msgid "2nd period"
+msgstr "2. trećina "
+
+msgid "3rd period"
+msgstr "3. trećina "
+
+msgid "1 sets"
+msgstr "1 set "
+
+msgid "2 sets"
+msgstr "2 seta "
+
+msgid "3 sets"
+msgstr "3 seta "
+
+msgid "4 sets"
+msgstr "4 seta "
+
+msgid "5 sets"
+msgstr "5 setova "
+
+msgid "0 sets"
+msgstr "0 setova "
+
+msgid "1st quarter"
+msgstr "1. četvrtina "
+
+msgid "2nd quarter"
+msgstr "2. četvrtina "
+
+msgid "3rd quarter"
+msgstr "3. četvrtina "
+
+msgid "4th quarter"
+msgstr "4. četvrtina "
+
+msgid "No goal"
+msgstr "Bez gola "
+
+msgid "Chat with Real Dealers"
+msgstr "Čavrljajte s pravim djeliteljima."
+
+msgid "PLAY NOW"
+msgstr "ZAIGRAJTE ODMAH"

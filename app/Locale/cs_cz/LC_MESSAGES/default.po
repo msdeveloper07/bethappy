@@ -1,0 +1,3387 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-12 18:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+
+msgid "Your passwords does not much"
+msgstr "Hesla se neshodují. "
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Účet byl vytvořen. Abyste se mohli přihlásit, potvrďte prosím svůj e-mail. "
+
+msgid "Password changed"
+msgstr "Heslo bylo změněno "
+
+msgid "Wrong old password. Please try again"
+msgstr "Nesprávné původní heslo. Zkuste to prosím znovu. "
+
+msgid "Passwords do not match. Please try again"
+msgstr "Hesla se neshodují. Zkuste to prosím znovu. "
+
+msgid "Account information updated."
+msgstr "Informace o účtu byly aktualizovány. "
+
+msgid "Limits cancelled."
+msgstr "Limity zrušeny. "
+
+msgid "Unable to cancel limit"
+msgstr "Limit nebylo možné zrušit. "
+
+msgid "Limits updated."
+msgstr "Limity aktualizovány. "
+
+msgid "Limits not updated."
+msgstr "Limity nebyly aktualizovány. "
+
+msgid "You account has been deleted."
+msgstr "Váš účet byl smazán. "
+
+msgid "Account settings updated."
+msgstr "Nastavení účtu bylo aktualizováno. "
+
+msgid "Password reset link sent to your email"
+msgstr "Odkaz pro resetování hesla byl odeslán na vaši e-mailovou adresu. "
+
+msgid "E-mail not valid"
+msgstr "E-mail je neplatný. "
+
+msgid "Promotional code successfully used"
+msgstr "Kód propagační akce byl úspěšně uplatněn. "
+
+msgid "Invalid promotional code"
+msgstr "Chybný kód propagační akce "
+
+msgid "Confirm your email."
+msgstr "Potvrďte svoji e-mailovou adresu. "
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Váš účet byl uzamčen. Znovu si prosím nastavte heslo. "
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Váš účet byl trvale smazán. "
+
+msgid "You are Already Logged in."
+msgstr "Již jste přihlášeni. "
+
+msgid "Wrong Password"
+msgstr "Chybné heslo "
+
+msgid "Username or password is incorrect"
+msgstr "Chybné uživatelské jméno nebo heslo "
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Pracovník společnosti %s (ID: %d) požádal o vklad na váš účet. "
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Na účet zákazníka (ID: %d) bylo připsáno %s. "
+
+msgid "User %s is credited by %d %s"
+msgstr "Uživatel %s obdržel %d %s "
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Pracovník společnosti %s (ID: %d) požádal o výběr z vašeho účtu. "
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Z účtu zákazníka (ID: %d) bylo odečteno %s. "
+
+msgid "User %s is charged by %d %s"
+msgstr "Uživatel %s zaplatil %d %s "
+
+msgid "KYC Data Accepted"
+msgstr "KYC data přijata. "
+
+msgid "Email successfully sent"
+msgstr "E-mail byl úspěšně odeslán. "
+
+msgid "Cannot send email. Please try again."
+msgstr "E-mail nelze odeslat. Zkuste to prosím znovu. "
+
+msgid "can't find"
+msgstr "nenalezeno "
+
+msgid "Changes saved"
+msgstr "Změny byly uloženy. "
+
+msgid "This cannot be saved."
+msgstr "Toto nelze uložit. "
+
+msgid "Item added"
+msgstr "Položka byla přidána. "
+
+msgid "This cannot be added."
+msgstr "Toto nelze přidat. "
+
+msgid "Item deleted"
+msgstr "Položka byla smazána. "
+
+msgid "This cannot be deleted."
+msgstr "Toto nelze smazat. "
+
+msgid "Bet added"
+msgstr "Sázka byla přidána. "
+
+msgid "Error adding bet"
+msgstr "Při přidávání sázky došlo k chybě. "
+
+msgid "Lowest deposit amount is"
+msgstr "Nejnižší možný vklad činí "
+
+msgid "Highest deposit amount is"
+msgstr "Nejvyšší možný vklad činí "
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Dosáhli jste limitu vkladu jednou transakcí: "
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Dosáhli jste limitu denního vkladu: "
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Dosáhli jste limitu týdenního vkladu: "
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Dosáhli jste limitu měsíčního vkladu: "
+
+msgid "Bonus code expired or wrong"
+msgstr "Prémiový kód je chybný nebo vypršela jeho platnost "
+
+msgid "Bonus code expired"
+msgstr "Platnost prémiového kódu vypršela "
+
+msgid "Your amount is too low for bonus"
+msgstr "Částka je na prémii příliš nízká "
+
+msgid "Your amount is too high for bonus "
+msgstr "Částka je na prémii příliš vysoká "
+
+msgid "User Terminated"
+msgstr "Ukončeno uživatelem "
+
+msgid "Completed"
+msgstr "Dokončeno "
+
+msgid "Pending"
+msgstr "Dosud nevyřízeno "
+
+msgid "Canceled"
+msgstr "Zrušeno "
+
+msgid "Statuses chart"
+msgstr "Tabulka stavů "
+
+msgid "Amount chart"
+msgstr "Tabulka částek "
+
+msgid "Deposit not found!"
+msgstr "Vklad nebyl nalezen! "
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Vklad již byl označen jako \"dokončený\"\"!  \""
+
+msgid "Deposit request set as completed"
+msgstr "Žádost o vklad byla označena jako dokončená. "
+
+msgid "Deposit request canceled"
+msgstr "Žádost o vklad byla zrušena "
+
+msgid "Money transaction completed"
+msgstr "Peněžní transakce byla dokončena. "
+
+msgid "Select Event"
+msgstr "Zvolte událost. "
+
+msgid "No search results found"
+msgstr "Nebyly nalezeny žádné odpovídající výsledky. "
+
+msgid "Permissions updated"
+msgstr "Oprávnění aktualizována. "
+
+msgid "Your request is accepted."
+msgstr "Váš požadavek byl přijat. "
+
+msgid "Language already exist"
+msgstr "Tento jazyk již existuje "
+
+msgid "can't delete item"
+msgstr "položku nelze smazat "
+
+msgid "Emails successfully sent"
+msgstr "E-mail byl úspěšně odeslán. "
+
+msgid "Please enter event result"
+msgstr "Zadejte výsledek akce "
+
+msgid "Results updated"
+msgstr "Výsledky byly aktualizovány. "
+
+msgid "Settings saved."
+msgstr "Nastavení byla uložena. "
+
+msgid "can't save settings."
+msgstr "nastavení nelze uložit. "
+
+msgid "Types chart"
+msgstr "Tabulka typů "
+
+msgid "Cannot find ticket with id:"
+msgstr "Nepodařilo se nalézt tiket s id: "
+
+msgid "Ticket is not found"
+msgstr "Tiket nenalezen "
+
+msgid "Unknown ticket status"
+msgstr "Neznámý stav tiketu "
+
+msgid "Unknown paid status"
+msgstr "Neznámý stav výplaty "
+
+msgid "Ok"
+msgstr "Ok "
+
+msgid "Unknown error"
+msgstr "Neznámá chyba "
+
+msgid "Insufficient credits"
+msgstr "Nedostatek kreditů "
+
+msgid "Ticket is still pending or lost"
+msgstr "Tiket ještě nebyl vyhodnocen nebo prohrál. "
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Tiket byl již vytištěn. ID tiketu: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Tiket nenalezen. ID tiketu: %d "
+
+msgid "Please select another pick from different event"
+msgstr "Vyberte jiný tip z jiné akce "
+
+msgid "Min betting amount is %d"
+msgstr "Minimální výše sázky je %d "
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Tento typ tiketu nelze vytvořit. Přepínám zpět na jednoduchý tiket. "
+
+msgid "Wrong Password or Username"
+msgstr "Nesprávné heslo nebo uživatelské jméno "
+
+msgid "Lowest amount for cashout is"
+msgstr "Nejnižší možná vybraná částka činí "
+
+msgid "Highest amount for cashout is"
+msgstr "Nejnižší možná vybraná částka činí "
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Na požadovaný výběr nemáte dost peněz "
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Výběr nelze provést. Existuje zde \"Uzamčená částka\"\" ve výši %s vzniklá "
+"požadavky bonusu. Vybrat můžete %s. \""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Předchozí výběr ještě nebyl dokončen. "
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"K provedení této transakce nemáte potřebné ověření. Vyplňte prosím příslušný "
+"formulář na adrese: "
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Musíte znovu zaslat dokumenty pro ověření. Vyplňte prosím příslušný formulář "
+"na adrese: "
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"K provedení této transakce nemáte potřebné ověření (věk). Vyplňte prosím "
+"příslušný formulář na adrese: "
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"Váš požadavek výběru %s byl přijat. Na následujícím odkazu prosím zadejte "
+"své bankovní údaje: <a href='/users/account'>Účetní informace</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Váš požadavek výběru %s byl přijat. "
+
+msgid "Bank information updated."
+msgstr "Bankovní údaje byly aktualizovány. "
+
+msgid "Withdraw request set as completed"
+msgstr "Požadavek na výběr peněz byl označen jako dokončený. "
+
+msgid "Withdraw request updated"
+msgstr "Požadavek na výběr peněz byl zrušen. "
+
+msgid "Withdraw request canceled"
+msgstr "Požadavek na výběr peněz byl zrušen "
+
+msgid "Win"
+msgstr "Výhra "
+
+msgid "Lost"
+msgstr "Prohra "
+
+msgid "Yes"
+msgstr "Ano "
+
+msgid "No"
+msgstr "Ne "
+
+msgid "View"
+msgstr "Zobrazit "
+
+msgid "Edit"
+msgstr "Upravit "
+
+msgid "Delete"
+msgstr "Vymazat "
+
+msgid "List"
+msgstr "Vypsat "
+
+msgid "Create"
+msgstr "Vytvořit "
+
+msgid "All"
+msgstr "Vše "
+
+msgid "Users"
+msgstr "Uživatelé "
+
+msgid "Complete"
+msgstr "Kompletní "
+
+msgid "Cancel"
+msgstr "Zrušit "
+
+msgid "Amount from"
+msgstr "Částka od "
+
+msgid "Amount to"
+msgstr "Částka do "
+
+msgid "Transaction ID"
+msgstr "Číslo transakce "
+
+msgid "Event name"
+msgstr "Název akce "
+
+msgid "Download"
+msgstr "Stáhnout "
+
+msgid "Language"
+msgstr "Jazyk "
+
+msgid "League name"
+msgstr "Název ligy "
+
+msgid "Sport"
+msgstr "Sport "
+
+msgid "View events"
+msgstr "Zobrazit akce "
+
+msgid "Add Event"
+msgstr "Přidat akci "
+
+msgid "Send Mail"
+msgstr "Poslat e-mail "
+
+msgid "Send to All"
+msgstr "Poslat všem "
+
+msgid "Header 2 menu"
+msgstr "Nabídka v hlavičce 2 "
+
+msgid "Header 3 menu"
+msgstr "Nabídka v hlavičce 3 "
+
+msgid "Bottom 4 menu"
+msgstr "Nabídka v hlavičce 4 "
+
+msgid "Footer menu"
+msgstr "Spodní nabídka "
+
+msgid "Header menu"
+msgstr "Nabídka v hlavičce "
+
+msgid "Top Header menu"
+msgstr "Nabídka v horní hlavičce "
+
+msgid "Top menu"
+msgstr "Horní nabídka "
+
+msgid "Tickets"
+msgstr "Tikety "
+
+msgid "Deposits"
+msgstr "Vklady "
+
+msgid "Withdraws"
+msgstr "Výběry "
+
+msgid "Results"
+msgstr "Výsledky "
+
+msgid "Finished events in tickets"
+msgstr "Skončené akce na tiketech "
+
+msgid "Pending events in tickets"
+msgstr "Zatím neskončené akce na tiketech "
+
+msgid "All finished events"
+msgstr "Všechny skončené akce "
+
+msgid "Warnings"
+msgstr "Varování "
+
+msgid "Settings"
+msgstr "Nastavení "
+
+msgid "Identity number"
+msgstr "Identifikační číslo "
+
+msgid "Words in title"
+msgstr "Slova v nadpisu "
+
+msgid "Words in description"
+msgstr "Slova v popisu "
+
+msgid "Url link"
+msgstr "URL odkaz "
+
+msgid "Add League"
+msgstr "Přidat ligu "
+
+msgid "Password"
+msgstr "Heslo "
+
+msgid "Fund staff"
+msgstr "Zaměstnanec  – připsat "
+
+msgid "Charge staff"
+msgstr "Zaměstnanec – strhnout "
+
+msgid "Login/Logout"
+msgstr "Přihlášení/odhlášení "
+
+msgid "Ticket Fraud Check"
+msgstr "Kontrola pravosti tiketu "
+
+msgid "Mark as paid"
+msgstr "Označeno jako vyplacené "
+
+msgid "Group ID"
+msgstr "ID skupiny "
+
+msgid "Tickets created"
+msgstr "Vytvořené tikety "
+
+msgid "Total"
+msgstr "Celkem "
+
+msgid "Total payout"
+msgstr "Celková výplata "
+
+msgid "Profit"
+msgstr "Zisk "
+
+msgid "1Lowest stake on %s is %d"
+msgstr "1Nejnižší sázka na %s je %d "
+
+msgid "Highest stake on %s is %d"
+msgstr "Nejvyšší sázka na %s je %d "
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2Nejnižší sázka na %s je %d "
+
+msgid "3Lowest stake amount is %d"
+msgstr "3Nejnižší vsazená částka na %s je %d "
+
+msgid "Highest stake amount is %d"
+msgstr "Nejvyšší vsazená částka na %s je %d "
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Dosáhli jste limitu sázky na jednu transakci: %d %s "
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Dosáhli jste limitu denního sázení: %d %s "
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Dosáhli jste limitu týdenního sázení: %d %s "
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Dosáhli jste limitu měsíčního sázení: %d %s "
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Dosáhli jste limitu ztrát na jednu transakci: %d %s "
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Dosáhli jste limitu denních ztrát: %d %s "
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Dosáhli jste limitu týdenních ztrát: %d %s "
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Dosáhli jste limitu měsíčních ztrát: %d %s "
+
+msgid "Please login"
+msgstr "Prosím přihlaste se "
+
+msgid "Please select at least %d picks"
+msgstr "Zvolte prosím alespoň %d tipů "
+
+msgid "Not enough money"
+msgstr "Nedostatek prostředků "
+
+msgid "One or more events already started, please remove them"
+msgstr "Jedna či více akcí již začala, prosím odstraňte je. "
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Zastaralý kurz Odstraňte prosím neplatný kurz. "
+
+msgid "One or mode bets are inactive"
+msgstr "Jedna nebo více sázek není aktivní. "
+
+msgid "Printed"
+msgstr "Vytištěno "
+
+msgid "User Id"
+msgstr "ID uživatele "
+
+msgid "Amount From"
+msgstr "Částka od "
+
+msgid "Amount To"
+msgstr "Částka do "
+
+msgid "Potential Winning From"
+msgstr "Potenciální výhra od "
+
+msgid "Potential Winning To"
+msgstr "Potenciální výhra do "
+
+msgid "Odd From"
+msgstr "Kurz od "
+
+msgid "Odd To"
+msgstr "Kurz do "
+
+msgid "Fund"
+msgstr "Připsat peníze "
+
+msgid "Charge"
+msgstr "Strhnout peníze "
+
+msgid "User ID"
+msgstr "ID uživatele "
+
+msgid "Back"
+msgstr "Zpět "
+
+msgid "All feeds updated"
+msgstr "Všechny zdroje dat byly aktualizovány "
+
+msgid "All feeds downloaded"
+msgstr "Všechny zdroje dat byly staženy "
+
+msgid "All feeds parsed"
+msgstr "Všechny zdroje dat byly zpracovány "
+
+msgid "Feed updated"
+msgstr "Zdroje dat byly aktualizovány "
+
+msgid "Cannot find feed"
+msgstr "Zdroj dat nebyl nalezen "
+
+msgid "Cant find feed"
+msgstr "Zdroj dat nebyl nalezen "
+
+msgid "Update"
+msgstr "Aktualizovat "
+
+msgid "Update All"
+msgstr "Aktualizovat vše "
+
+msgid "Deposit"
+msgstr "Vklad "
+
+msgid "Thank You"
+msgstr "Děkujeme "
+
+msgid "You successfully deposit %d"
+msgstr "Úspěšně jste vložili %d "
+
+msgid "You cancel your deposit"
+msgstr "Zrušili jste svůj vklad. "
+
+msgid "You have successfully made deposit for"
+msgstr "Úspěšně jste provedli vklad pro "
+
+msgid "Sorry, we can not find your payment"
+msgstr "Litujeme, ale váš vklad jsme nenašli. "
+
+msgid "Make Deposit"
+msgstr "Provést vklad "
+
+msgid "Amount"
+msgstr "Částka "
+
+msgid "Make your Deposit"
+msgstr "Provést vklad "
+
+msgid "Bonus code or leave empty"
+msgstr "Vložte prémiový kód nebo nechte prázdné "
+
+msgid "Available ACO sync commands:"
+msgstr "ACO sync příkazy k dispozici: "
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"Pokud potřebujete pomoc, zadejte příkaz „help“. Pokud potřebujete pomoc "
+"s konkrétním příkazem, zadejte „help <příkaz>“. "
+
+msgid "Deleted %s and all children"
+msgstr "Smazáni %s a všechny děti "
+
+msgid "Aco Update Complete"
+msgstr "Aktualizace ACO dokončena "
+
+msgid "Created Aco node: %s"
+msgstr "Vytvořený ACO bod: %s "
+
+msgid "Deleted Aco node %s"
+msgstr "ACO bod %s smazán. "
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Využití: cake aco_sync <command> "
+
+msgid "Commands:"
+msgstr "Příkazy: "
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Pro nové ovládání a činnosti přidejte nové ACO. "
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Pro nové ovládání a činnosti vytvořte nové ACO. Neodstraňuje body z ACO "
+"tabulky. "
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Vytváří nové ACO body pro chybějící ovládání a činnosti. Odstraňuje "
+"nepřiřazené záznamy v ACO tabulce. "
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Zobrazuje nápovědu nebo nápovědu konkrétního příkazu. "
+
+msgid "Command '%s' not found"
+msgstr "Příkaz „%s“ nebyl nalezen. "
+
+msgid "day"
+msgstr "den "
+
+msgid "days"
+msgstr "dny "
+
+msgid "h"
+msgstr "h "
+
+msgid "min"
+msgstr "min "
+
+msgid "Successful"
+msgstr "Podařilo se "
+
+msgid "Failed"
+msgstr "Nepodařilo se "
+
+msgid "Unknown"
+msgstr "Neznámé "
+
+msgid "Decimal"
+msgstr "Decimální "
+
+msgid "Fractional"
+msgstr "Zlomkové "
+
+msgid "American"
+msgstr "Americké "
+
+msgid "ID:"
+msgstr "ID: "
+
+msgid "more"
+msgstr "další "
+
+msgid "Event"
+msgstr "Akce "
+
+msgid "Pick"
+msgstr "Tip "
+
+msgid "odd"
+msgstr "kurz "
+
+msgid "Result"
+msgstr "Výsledek "
+
+msgid "Outcome"
+msgstr "Výsledek "
+
+msgid "Status"
+msgstr "Stav "
+
+msgid "Username"
+msgstr "Uživatelské jméno "
+
+msgid "Forgot your password?"
+msgstr "Zapomněli jste heslo? "
+
+msgid "Login"
+msgstr "Přihlásit se "
+
+msgid "Affiliate Registration Form"
+msgstr "Registrační formulář pro partnery "
+
+msgid "Personal information"
+msgstr "Osobní údaje "
+
+msgid "First name"
+msgstr "Jméno "
+
+msgid "Last name"
+msgstr "Příjmení "
+
+msgid "Address"
+msgstr "Adresa "
+
+msgid "Region"
+msgstr "Kraj "
+
+msgid "Zip / Postal code"
+msgstr "Poštovní směrovací číslo "
+
+msgid "City"
+msgstr "Město "
+
+msgid "Country"
+msgstr "Stát "
+
+msgid "Date of birth:"
+msgstr "Datum narození: "
+
+msgid "E-mail"
+msgstr "E-mail "
+
+msgid "Mobile number"
+msgstr "Číslo mobilního telefonu "
+
+msgid "Website name"
+msgstr "Název webové stránky "
+
+msgid "Send"
+msgstr "Odeslat "
+
+msgid "Choose Payment Gateway"
+msgstr "Zvolte způsob placení "
+
+msgid "Bank Transfer Payment"
+msgstr "Platba bankovním převodem "
+
+msgid "eTranzact"
+msgstr "eTranzact "
+
+msgid "Online Payment"
+msgstr "Platba online "
+
+msgid "Please see you latest deposits below:"
+msgstr "Své poslední vklady vidíte níže: "
+
+msgid "Date"
+msgstr "Datum "
+
+msgid "Type"
+msgstr "Typ "
+
+msgid "Bonus"
+msgstr "Prémie "
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr "Nebyly nalezeny žádné vklady. Pro nový klikněte \"Make New\"\". \""
+
+msgid "Deposit information:"
+msgstr "Informace o vkladu: "
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Vyžádat manuální vklad (bude připsán po ověření) "
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Strana {:page} z celkového počtu {:pages}, zobrazený počet záznamů je {:"
+"current} z celkového počtu {:count}. První zobrazený záznam je {:start}, "
+"poslední {:end} "
+
+msgid "previous"
+msgstr "předchozí "
+
+msgid "next"
+msgstr "další "
+
+msgid "Show"
+msgstr "Zobrazit "
+
+msgid "User"
+msgstr "Uživatel "
+
+msgid "Deposit type"
+msgstr "Typ vkladu "
+
+msgid "Bonus type"
+msgstr "Typ prémie "
+
+msgid "Bonus valid until"
+msgstr "Prémie platná do "
+
+msgid "Bonus used"
+msgstr "Prémie využita "
+
+msgid "Bonus amount to your account"
+msgstr "Částka prémie k vašemu účtu "
+
+msgid "League"
+msgstr "Liga "
+
+msgid "No available odds found for this event"
+msgstr "Pro tuto akci nebyl nalezen žádný dostupný kurz "
+
+msgid "First team to Score"
+msgstr "První skóruje "
+
+msgid "1st Half"
+msgstr "1. poločas "
+
+msgid "Both Team to Score"
+msgstr "Skórují oba týmy "
+
+msgid "Halftime/Fulltime"
+msgstr "Poločas/zápas "
+
+msgid "Double Chance"
+msgstr "Dvojitá šance "
+
+msgid "From:"
+msgstr "Od: "
+
+msgid "Email:"
+msgstr "E-mail: "
+
+msgid "Odds"
+msgstr "Kurz "
+
+msgid "Reset Password"
+msgstr "Obnovit heslo "
+
+msgid "Register"
+msgstr "Zaregistrovat se "
+
+msgid "User Menu"
+msgstr "Uživatelská nabídka "
+
+msgid "My Account"
+msgstr "Můj účet "
+
+msgid "Balance"
+msgstr "Zůstatek "
+
+msgid "Log out"
+msgstr "Odhlásit se "
+
+msgid "Casino"
+msgstr "Kasino "
+
+msgid "Live Casino"
+msgstr "Živé kasino "
+
+msgid "Betting Tools"
+msgstr "Sázkové nástroje "
+
+msgid "Register now and get"
+msgstr "Registrujte se právě teď a získejte "
+
+msgid "email"
+msgstr "e-mail "
+
+msgid "Register now"
+msgstr "Zaregistrujte se! "
+
+msgid "Registration"
+msgstr "Registrace "
+
+msgid "Password reminder"
+msgstr "Připomenutí hesla "
+
+msgid "Search Ticket"
+msgstr "Vyhledat tiket "
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "Enter ticket ID"
+msgstr "Zadejte číslo tiketu "
+
+msgid "Search"
+msgstr "Hledat "
+
+msgid "Ticket"
+msgstr "Tiket "
+
+msgid "Unknown ticked ID"
+msgstr "Neznámé číslo tiketu "
+
+msgid "Money"
+msgstr "Peníze "
+
+msgid "Pay"
+msgstr "Platit "
+
+msgid "Find event"
+msgstr "Najít akci "
+
+msgid "Search by event name"
+msgstr "Najít podle názvu akce "
+
+msgid "Search by event ID"
+msgstr "Najít podle ID akce "
+
+msgid "Search results for:"
+msgstr "Výsledky pro: "
+
+msgid "No available events are found for this league"
+msgstr "Pro tuto ligu nebyly nalezeny žádné akce "
+
+msgid "Search Events"
+msgstr "Prohledat akce "
+
+msgid "Search another event ID"
+msgstr "Najít akci s jiným ID "
+
+msgid "Search another event name"
+msgstr "Najít akci s jiným názvem "
+
+msgid "Please complete the following form"
+msgstr "Vyplňte prosím následující formulář "
+
+msgid "Confirm changes"
+msgstr "Potvrďte změny "
+
+msgid "Activity Column"
+msgstr "Sloupec činnosti "
+
+msgid "Current balance"
+msgstr "Aktuální zůstatek "
+
+msgid "Today placed tickets"
+msgstr "Dnes vsazené tikety "
+
+msgid "Contact us"
+msgstr "Kontaktujte nás "
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Pokud máte jakékoli problémy, nezdráhejte pomocí níže uvedeného formuláře "
+"kontaktovat tým služeb zákazníkům: "
+
+msgid "Subject"
+msgstr "Předmět "
+
+msgid "Name"
+msgstr "Název "
+
+msgid "Email"
+msgstr "E-mail "
+
+msgid "Message"
+msgstr "Zpráva "
+
+msgid "News"
+msgstr "Novinky "
+
+msgid "Read more"
+msgstr "Další informace "
+
+msgid "Soccer"
+msgstr "Fotbal "
+
+msgid "Basketball"
+msgstr "Basketbal "
+
+msgid "Ice Hockey"
+msgstr "Lední hokej "
+
+msgid "Tennis"
+msgstr "Tenis "
+
+msgid "Rugby"
+msgstr "Rugby "
+
+msgid "Half Time 3 way"
+msgstr "Výsledek poločasu "
+
+msgid "Top Games"
+msgstr "Top zápasy "
+
+msgid "IceHockey"
+msgstr "Lední hokej "
+
+msgid "Handball"
+msgstr "Házená "
+
+msgid "Last Minute Bets"
+msgstr "Sázky na poslední chvíli "
+
+msgid "Shortly"
+msgstr "Již brzy "
+
+msgid "%d events available"
+msgstr "Počet akcí k dispozici: %d "
+
+msgid "Bet now"
+msgstr "Vsaďte si "
+
+msgid "Football"
+msgstr "Fotbal "
+
+msgid "Draw"
+msgstr "Remíza "
+
+msgid "League not found"
+msgstr "Liga nenalezena! "
+
+msgid "No available events found for this league"
+msgstr "Pro tuto ligu nebyly nalezeny žádné akce "
+
+msgid "Last Minute"
+msgstr "Last Minute "
+
+msgid "No leagues selected"
+msgstr "Nebyla vybrána žádná liga "
+
+msgid "Single"
+msgstr "Jednoduchá "
+
+msgid "Combi"
+msgstr "Kombi "
+
+msgid "System"
+msgstr "Systém "
+
+msgid "Delete all bets"
+msgstr "Smazat všechny sázky "
+
+msgid "Total odds"
+msgstr "Celkový kurz "
+
+msgid "Stake"
+msgstr "Sázka "
+
+msgid "Winning"
+msgstr "Výhra "
+
+msgid "Preview"
+msgstr "Náhled "
+
+msgid "Place Bet"
+msgstr "Vsadit "
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Nebyly vybrány žádné sázky. <br>Pro výběr sázky klikněte na příslušný kurz. "
+
+msgid "Ticket History"
+msgstr "Historie tiketu "
+
+msgid "Ticket ID:"
+msgstr "ID tiketu: "
+
+msgid "Print"
+msgstr "Vytisknout "
+
+msgid "No tickets activity available"
+msgstr "U tiketu není k dispozici žádná činnost "
+
+msgid "Date and time"
+msgstr "Datum a čas "
+
+msgid "Ticket id"
+msgstr "ID tiketu "
+
+msgid "ID / Date"
+msgstr "ID / datum "
+
+msgid "Total:"
+msgstr "Celkem: "
+
+msgid "Amount:"
+msgstr "Částka: "
+
+msgid "Return:"
+msgstr "Návratnost: "
+
+msgid "Please see your betting history below:"
+msgstr "Níže vidíte historii svých sázek: "
+
+msgid "Ticket ID"
+msgstr "ID tiketu "
+
+msgid "Note"
+msgstr "Poznámka "
+
+msgid "To place ticket please use betslip."
+msgstr "Tiket vytvoříte pomocí sázenky. "
+
+msgid "Pending tickets"
+msgstr "Nevyřešené tikety "
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Níže vidíte své poslední tikety: "
+
+msgid "Paid"
+msgstr "Vyplaceno "
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Nebyly nalezeny žádné nevyřešené tikety. Starší tikety naleznete v historii "
+"tiketů. "
+
+msgid "History"
+msgstr "Historie "
+
+msgid "Ticket Preview"
+msgstr "Náhled tiketu "
+
+msgid "Event ID / Date"
+msgstr "ID a datum akce "
+
+msgid "Sport / League"
+msgstr "Sport / liga "
+
+msgid "Submit Ticket"
+msgstr "Odeslat tiket "
+
+msgid "Clear Ticket"
+msgstr "Vymazat tiket "
+
+msgid "No bets selected"
+msgstr "Nebyly vybrány žádné sázky "
+
+msgid "Ticket placed"
+msgstr "Tiket byl vytvořen "
+
+msgid "Your ticket is created successfully"
+msgstr "Váš tiket byl úspěšně vytvořen "
+
+msgid "Your ticket number is"
+msgstr "Číslo vašeho tiketu je "
+
+msgid "Ticket information"
+msgstr "Údaje tiketu "
+
+msgid "Login/Logout History"
+msgstr "Historie přihlášení/odhlášení "
+
+msgid "User Login/Logout History:"
+msgstr "Historie přihlášení/odhlášení uživatele "
+
+msgid "Action"
+msgstr "Akce "
+
+msgid "IP"
+msgstr "IP "
+
+msgid "Please set up options for more comfortable view."
+msgstr "Proveďte nastavení tak, aby se vám stránky prohlížely pohodlněji. "
+
+msgid "Odds type"
+msgstr "Typ kurzu "
+
+msgid "Time zone"
+msgstr "Časové pásmo "
+
+msgid "Change Password"
+msgstr "Změnit heslo "
+
+msgid "Account information"
+msgstr "Informace o účtu "
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Zadejte prosím všechny své osobní údaje pro ověření totožnosti. Dokud "
+"neověříte svou totožnost, váš přístup k některým našim produktům, sázkovým "
+"trhům nebo provizím může být ze zákonných důvodů omezen. Osobní dokumentaci "
+"můžete poskytnout pomocí našeho zabezpečeného systému. "
+
+msgid "Date of birth"
+msgstr "Datum narození "
+
+msgid "Bank name"
+msgstr "Název banky "
+
+msgid "Bank code"
+msgstr "Kód banky "
+
+msgid "Bank account number"
+msgstr "Číslo bankovního účtu "
+
+msgid "Ref. Code"
+msgstr "Referenční kód "
+
+msgid "Balance Information Analysis"
+msgstr "Analýza zůstatku "
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Zde najdete všechny informace týkající se vašeho zůstatku. "
+
+msgid "Promotional Code"
+msgstr "Kód propagační akce "
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr ""
+"Zadáte-li níže kód propagační akce, získáte peníze navíc nebo jinou výhodu. "
+
+msgid "Code"
+msgstr "Kód "
+
+msgid "Submit bonus code"
+msgstr "Odeslat prémiový kód "
+
+msgid "Confirmation"
+msgstr "Potvrzení "
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"Email byl potvrzen. Do 5 vteřin budete přesměrováni na domácí stránku.</ "
+"br>Pokud nebudete za tuto dobu přesměrováni, klikněte prosím na následující "
+"<a href=\"/\"\">odkaz</a>. \""
+
+msgid "Incorect confirmation code"
+msgstr "Chybný potvrzovací kód "
+
+msgid "Responsible Gaming Settings"
+msgstr "Nastavení zodpovědného hraní "
+
+msgid "Responsible gaming text"
+msgstr "Text o zodpovědném hraní "
+
+msgid "Add Limit"
+msgstr "Přidat limit "
+
+msgid "Set the limit you can play for each session"
+msgstr "Zadejte limit, po který můžete v každé relaci hrát. "
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Po následujících 7 dní mi nedovolte přístup na sázkový účet. "
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "Po následujících 6 měsíců mi nedovolte přístup na sázkový účet. "
+
+msgid "Block Account"
+msgstr "Zablokovat účet "
+
+msgid "Permanently delete your account."
+msgstr "Trvale smazat účet. "
+
+msgid "Delete My Account"
+msgstr "Smazat můj účet "
+
+msgid "Open account with us!"
+msgstr "Otevřete si u nás účet! "
+
+msgid "Account data"
+msgstr "Informace o účtu "
+
+msgid "Confirm password"
+msgstr "Potvrzení hesla "
+
+msgid "Personal question"
+msgstr "Osobní otázka "
+
+msgid "Personal answer"
+msgstr "Odpověď na osobní otázku "
+
+msgid "Referral ID"
+msgstr "ID doporučujícího "
+
+msgid "Affiliate ID"
+msgstr "ID partnera "
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Bankovní údaje (tuto část lze vyplnit později) "
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Jsem starší 18 let, přečetl jsem si a odsouhlasil "
+
+msgid "Terms And Conditions"
+msgstr "Smluvní podmínky "
+
+msgid "Confirm registration"
+msgstr "Potvrdit registraci "
+
+msgid "Password Reset"
+msgstr "Resetování hesla "
+
+msgid "Enter your new password"
+msgstr "Zadejte nové heslo "
+
+msgid "Change password"
+msgstr "Změnit heslo "
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Níže zadejte svůj e-mail. Odkaz pro resetování hesla byl odeslán na vaši e-"
+"mailovou adresu. Budete si moci vytvořit nové přihlašovací heslo. "
+
+msgid "Withdraw"
+msgstr "Výběr "
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "Chcete-li vybrat peníze, zadejte částku a prověřte transakci: "
+
+msgid "Withdraw ID"
+msgstr "ID výběru "
+
+msgid "Request Manual Withdraw"
+msgstr "Vyžádat si manuální výběr "
+
+msgid "Transaction Log"
+msgstr "Záznam transakce "
+
+msgid "List of transactions:"
+msgstr "Seznam transakcí "
+
+msgid "Transaction Type"
+msgstr "Typ transakce "
+
+msgid "Add/Edit %s"
+msgstr "Přidat/upravit %s "
+
+msgid "Description"
+msgstr "Popis "
+
+msgid "Value"
+msgstr "Hodnota "
+
+msgid "Parent"
+msgstr "Zdroj "
+
+msgid "Created"
+msgstr "Vytvořeno "
+
+msgid "Modified"
+msgstr "Upraveno "
+
+msgid "Percentage"
+msgstr "Procento "
+
+msgid "Custom Affiliate ID"
+msgstr "Výchozí ID partnera "
+
+msgid "Submit"
+msgstr "Odeslat "
+
+msgid "List %s"
+msgstr "Vypsat %s "
+
+msgid "File"
+msgstr "Soubor "
+
+msgid "URL"
+msgstr "URL "
+
+msgid "Image"
+msgstr "Obrázek "
+
+msgid "Alert ID"
+msgstr "ID upozornění "
+
+msgid "User id"
+msgstr "ID uživatele "
+
+msgid "Alert Title"
+msgstr "Název upozornění "
+
+msgid "Alert"
+msgstr "Upozornění "
+
+msgid "Add bet"
+msgstr "Přidat sázku "
+
+msgid "Alerts"
+msgstr "Upozornění "
+
+msgid "Admin Audit Trail"
+msgstr "Admin Audit Trail "
+
+msgid "Application File Backups"
+msgstr "Záloha souborů aplikace "
+
+msgid "Database Backups"
+msgstr "Záloha databáze "
+
+msgid "Betradar Feeds Log"
+msgstr "Záznam dat z Betradaru "
+
+msgid "Liability Dumps"
+msgstr "Liability Dumps "
+
+msgid "Data list"
+msgstr "Seznam dat "
+
+msgid "Actions"
+msgstr "Akce "
+
+msgid "Translations"
+msgstr "Překlady "
+
+msgid "Translate"
+msgstr "Přeložit "
+
+msgid "No records found"
+msgstr "Nebyly nalezeny žádné záznamy "
+
+msgid "Sports and Leagues"
+msgstr "Sporty a ligy "
+
+msgid "Events management"
+msgstr "Správa akcí "
+
+msgid "Events Printing"
+msgstr "Tisk akcí "
+
+msgid "Users report"
+msgstr "Uživatelské zprávy "
+
+msgid "Tickets report"
+msgstr "Zprávy tiketů "
+
+msgid "Deposits report"
+msgstr "Zprávy vkladů "
+
+msgid "Witdraw report"
+msgstr "Zprávy výběrů "
+
+msgid "Liability report"
+msgstr "Liability report "
+
+msgid "Active Users"
+msgstr "Aktivní uživatelé "
+
+msgid "locale"
+msgstr "lokalita "
+
+msgid "Create %s"
+msgstr "Vytvořit %s "
+
+msgid "Event ID"
+msgstr "ID akce "
+
+msgid "User:"
+msgstr "Uživatel: "
+
+msgid "Level:"
+msgstr "Úroveň: "
+
+msgid "Current Time:"
+msgstr "Aktuální čas: "
+
+msgid "Current Language:"
+msgstr "Aktuální jazyk: "
+
+msgid "Front Page"
+msgstr "Hlavní strana "
+
+msgid "Under / Over"
+msgstr "Pod / Nad "
+
+msgid "Handicap"
+msgstr "Hendikep "
+
+msgid "%s Printing"
+msgstr "Tisk %s "
+
+msgid "Available Events List For:"
+msgstr "Seznam akcí pro: "
+
+msgid "Unknown Sport"
+msgstr "Neznámý sport "
+
+msgid "Please select sport below:"
+msgstr "Zvolte prosím sport níže: "
+
+msgid "View Events"
+msgstr "Zobrazit akce "
+
+msgid "No available events found for this sport"
+msgstr "Pro tento sport nebyly nalezeny žádné dostupné akce "
+
+msgid "Can not find event"
+msgstr "Akci se nepodařilo najít "
+
+msgid "Edit %s"
+msgstr "Upravit %s "
+
+msgid "Save"
+msgstr "Uložit "
+
+msgid "Users %s"
+msgstr "Uživatelé %s "
+
+msgid "Edit User"
+msgstr "Upravit uživatele "
+
+msgid "Administration Panel"
+msgstr "Panel administrativy "
+
+msgid "Logout"
+msgstr "Odhlásit se "
+
+msgid "Staff Login"
+msgstr "Přihlášení zaměstnance "
+
+msgid "Events"
+msgstr "Akce "
+
+msgid "Available cultures"
+msgstr "Dostupné kultury "
+
+msgid "Add a culture"
+msgstr "Přidat kulturu "
+
+msgid "Add"
+msgstr "Přidat "
+
+msgid "Cultures this site supports"
+msgstr "Kultury podporované touto stránkou "
+
+msgid "X"
+msgstr "X "
+
+msgid "Are you sure you want to delete"
+msgstr "Skutečně vymazat "
+
+msgid "ID"
+msgstr "ID "
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Napsat reklamní dopis všem uživatelům. Zprávy budou odeslány na e-mailové "
+"adresy uživatelů. "
+
+msgid "Subject:"
+msgstr "Předmět: "
+
+msgid "Content:"
+msgstr "Obsah: "
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Stáhnout všechny e-maily (soubor .csv) "
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Napsat reklamní dopis určitému uživateli. Zpráva bude odeslána na e-mailovou "
+"adresu uživatele. "
+
+msgid "To:"
+msgstr "Adresát: "
+
+msgid "Contact support team"
+msgstr "Kontaktujte tým zákaznické podpory "
+
+msgid "<br>No data in this period"
+msgstr "<br>Za toto období neexistují žádné údaje "
+
+msgid "No data in this period"
+msgstr "Za toto období neexistují žádné údaje "
+
+msgid "User name"
+msgstr "Jméno uživatele "
+
+msgid "Date of registration"
+msgstr "Datum registrace "
+
+msgid "Won"
+msgstr "Vyhráno "
+
+msgid "Liability"
+msgstr "Liability "
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability Cancelled the Bonus "
+
+msgid "Download (Excel file)"
+msgstr "Stáhnout (soubor Excel) "
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Skutečně chcete tuto akci zrušit? "
+
+msgid "No events found"
+msgstr "Žádné akce nebyly nalezeny "
+
+msgid "No events in this league"
+msgstr "V této lize nejsou žádné akce "
+
+msgid "Risk Management Settings"
+msgstr "Řízení rizika "
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"Zvládání rizika je pro sázkovou kancelář zásadní. Buďte prosím při "
+"nastavování opatrní. "
+
+msgid "Lowest stake"
+msgstr "Nejnižší sázka "
+
+msgid "Highest stake"
+msgstr "Nejvyšší sázka "
+
+msgid "Highest winning amount"
+msgstr "Nejvyšší vyhraná částka "
+
+msgid "Lowest number of events in one ticket"
+msgstr "Nejnižší počet akcí na jednom tiketu "
+
+msgid "Highest number of events in one ticket"
+msgstr "Nejvyšší počet akcí na jednom tiketu "
+
+msgid "List Leagues"
+msgstr "Seznam lig "
+
+msgid "League ID"
+msgstr "ID ligy "
+
+msgid "No limits"
+msgstr "Bez limitu "
+
+msgid "List Sports"
+msgstr "Seznam sportů "
+
+msgid "Sport ID"
+msgstr "ID sportu "
+
+msgid "Warning Withdraws"
+msgstr "Varování pro výběr "
+
+msgid "Id"
+msgstr "ID "
+
+msgid "Warning Stakes"
+msgstr "Varování pro sázky "
+
+msgid "Warning Winnings"
+msgstr "Varování pro výhry "
+
+msgid "Warning Deposits"
+msgstr "Varování pro vklady "
+
+msgid "amount"
+msgstr "částka "
+
+msgid "Deposit fee percentage"
+msgstr "Procentuální poplatek z vkladů "
+
+msgid "Payment gateways"
+msgstr "Způsoby platby "
+
+msgid "Please set payment gateways below:"
+msgstr "Nastavte si prosím způsob placení níže: "
+
+msgid "Payments"
+msgstr "Platby "
+
+msgid "Deposits %s"
+msgstr "Vklady %s "
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Nastavte si prosím rizika vkladů níže: "
+
+msgid "Allow automated deposits"
+msgstr "Povolit automatické vklady "
+
+msgid "Allow manual deposits"
+msgstr "Povolit manuální vklady "
+
+msgid "Lowest amount for deposit"
+msgstr "Nejnižší vložená částka "
+
+msgid "Highest amount for deposit"
+msgstr "Nejvyšší vložená částka "
+
+msgid "General %s"
+msgstr "Obecná %s "
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Obecná nastavení ovládají nejzákladnější konfigurace vašich stránek: jejich "
+"název a umístění, kdo si u vás může zřídit účet, jak se vypočítává a "
+"zobrazuje čas a datum. "
+
+msgid "Copyright"
+msgstr "Copyright "
+
+msgid "Contact Email"
+msgstr "Kontaktní e-mail "
+
+msgid "Password reset"
+msgstr "Resetování hesla "
+
+msgid "Default currency"
+msgstr "Výchozí měna "
+
+msgid "Default timezone:"
+msgstr "Výchozí časové pásmo: "
+
+msgid "Default language"
+msgstr "Výchozí jazyk "
+
+msgid "Charset"
+msgstr "Znaková sada "
+
+msgid "Items per page"
+msgstr "Položek na stranu "
+
+msgid "Referral system"
+msgstr "Systém doporučování "
+
+msgid "Left active"
+msgstr "Levá aktivní "
+
+msgid "Left sidebar title"
+msgstr "Nadpis levé lišty "
+
+msgid "Left sidebar content"
+msgstr "Obsah levé lišty "
+
+msgid "Right active"
+msgstr "Pravá aktivní "
+
+msgid "Right sidebar title"
+msgstr "Nadpis pravé lišty "
+
+msgid "Right sidebar content"
+msgstr "Obsah pravé lišty "
+
+msgid "Bottom active"
+msgstr "Spodní aktivní "
+
+msgid "Bottom sidebar title"
+msgstr "Nadpis spodní lišty "
+
+msgid "Bottom sidebar content"
+msgstr "Obsah spodní lišty "
+
+msgid "Referral Settings"
+msgstr "Nastavení doporučování "
+
+msgid "First deposit percentage to referral"
+msgstr "Procento z prvního vkladu pro doporučujícího "
+
+msgid "SEO %s"
+msgstr "SEO %s "
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Co je <b>SEO</b> / Search Engine Optimization? "
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"SEO znamená „search engine optimalization“, tedy optimalizace pro "
+"vyhledávače. Jde o proces, jak se umístit ve vyhledávání specializovaných "
+"vyhledávačů. Všechny velké vyhledávače, jako je Google, Yahoo nebo Bing, "
+"s ním pracují, když řadí své výsledky (například videa nebo inzeráty) podle "
+"toho, co by mělo nejužitečnější pro uživatele. Na rozdíl od reklamy se "
+"neplatí. "
+
+msgid "Title tag"
+msgstr "Značka nadpisu "
+
+msgid "Keywords"
+msgstr "Klíčová slova "
+
+msgid "Reply to email"
+msgstr "Odpovědět na e-mail "
+
+msgid "Copyright:"
+msgstr "Copyright: "
+
+msgid "Bot content revisit time"
+msgstr "Interval prohlížení obsahu automatem "
+
+msgid "Author"
+msgstr "Autor "
+
+msgid "Tickets %s"
+msgstr "Tikety %s "
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr "Obecná základní nastavení tiketů a tisku. "
+
+msgid "Ticket printing"
+msgstr "Tisk tiketu "
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Zde můžete povolit (Ano) nebo zakázat (Ne) tisk tiketů ze strany uživatelů "
+"či zaměstnanců. "
+
+msgid "Ticket preview"
+msgstr "Náhled tiketu "
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "Zde povolujete (ano/ne) náhled tiketu před podáním. "
+
+msgid "Warnings %s"
+msgstr "Varování %s "
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Nastavení varování pomáhá třídit nepotřebná upozornění. Pečlivě zvažte, co "
+"je pro vaši kancelář nejdůležitější, a pomocí této funkce si můžete zajistit "
+"zisk. "
+
+msgid "Deposit alert"
+msgstr "Upozornění na vklad "
+
+msgid "Withdraw alert"
+msgstr "Upozornění na výběr "
+
+msgid "Stake alert"
+msgstr "Upozornění na výši sázky "
+
+msgid "Odds alert"
+msgstr "Upozornění na kurz "
+
+msgid "Potential winning alert"
+msgstr "Upozornění na potenciální výhru "
+
+msgid "Allow withdraws"
+msgstr "Povolit výběry "
+
+msgid "Withdraw %s"
+msgstr "Výběr %s "
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Nastavte si prosím rizika výběrů níže: "
+
+msgid "Lowest amount for withdraw request"
+msgstr "Nejnižší možná vybraná částka činí "
+
+msgid "Highest amount for withdraw request"
+msgstr "Nejvyšší možná vybraná částka činí "
+
+msgid "%s"
+msgstr "%s "
+
+msgid "Sports"
+msgstr "Sporty "
+
+msgid "Leagues"
+msgstr "Ligy "
+
+msgid "View %s"
+msgstr "Zobrazit %s "
+
+msgid "Ticket Number"
+msgstr "Číslo tiketu "
+
+msgid "Return"
+msgstr "Návratnost "
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Tiket bude smazán. Skutečně vymazat? "
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Tiket bude zrušen. Skutečně zrušit? "
+
+msgid "Insert Result"
+msgstr "Vložit výsledek "
+
+msgid "Fund user"
+msgstr "Dotovat uživatele "
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Stačí vyplnit částku a stisknout Odeslat. Například pokud chcete uživateli "
+"poslat 100, "
+
+msgid " just enter that amount into field and press submit"
+msgstr "stačí napsat částku do příslušného pole a odeslat. "
+
+msgid "Charge user"
+msgstr "Účtovat uživateli "
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Zadejte částku, která bude stržena z uživatelova účtu. Například pokud "
+"chcete uživateli strhnout 200 "
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "USD, stačí napsat částku do příslušného pole a odeslat. "
+
+msgid "Add %s"
+msgstr "Přidat %s "
+
+msgid "Registration chart"
+msgstr "Tabulka registrace "
+
+msgid "KYC user"
+msgstr "Uživatelova kontrola KYC "
+
+msgid "KYC Documents"
+msgstr "Dokumenty KYC "
+
+msgid "Change KYC Status"
+msgstr "Změnit stav KYC "
+
+msgid "Deposits Bonus History"
+msgstr "Historie vkladových prémií "
+
+msgid "Sum"
+msgstr "Součet "
+
+msgid "Affiliates"
+msgstr "Partneři "
+
+msgid "Kick"
+msgstr "Nucené odhlášení"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "Email byl potvrzen. Nyní se můžete přihlásit. "
+
+msgid "Register now!"
+msgstr "Zaregistrujte se! "
+
+msgid "Forgotten your password?"
+msgstr "Zapomněli jste heslo? "
+
+msgid "Old password"
+msgstr "Staré heslo "
+
+msgid "New password"
+msgstr "Nové heslo "
+
+msgid "Bank info"
+msgstr "Bankovní údaje "
+
+msgid "Please provide your bank info"
+msgstr "Zadejte údaje o své bance "
+
+msgid "Account number"
+msgstr "Číslo účtu "
+
+msgid "Transaction"
+msgstr "Transakce "
+
+msgid "User Balance"
+msgstr "Zůstatek uživatele "
+
+msgid "Please enter your surname"
+msgstr "Zadejte prosím příjmení "
+
+msgid "Please enter your first name"
+msgstr "Zadejte prosím jméno "
+
+msgid "Please enter your address"
+msgstr "Zadejte prosím adresu "
+
+msgid "Please enter your Region"
+msgstr "Zadejte prosím kraj "
+
+msgid "Please enter your City of residence"
+msgstr "Zadejte prosím město pobytu "
+
+msgid "Alphabets and numbers only"
+msgstr "Lze použít pouze písmena a číslice "
+
+msgid "Between 5 to 15 characters"
+msgstr "Délka od 5 do 15 znaků "
+
+msgid "This username has already been taken."
+msgstr "Toto uživatelské jméno je již obsazené. "
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Heslo musí obsahovat 6 až 15 znaků. "
+
+msgid "Password must contain at least one number"
+msgstr "Heslo musí obsahovat alespoň jedno číslo. "
+
+msgid "Password must contain at least one letter"
+msgstr "Heslo musí obsahovat alespoň jedno písmeno. "
+
+msgid "Please enter valid email address"
+msgstr "Zadejte platnou e-mailovou adresu "
+
+msgid "This email has already been registered."
+msgstr "Tato e-mailová adresa již byla zaregistrována. "
+
+msgid "Please enter your name"
+msgstr "Zadejte prosím jméno "
+
+msgid "Please enter your street address"
+msgstr "Zadejte prosím adresu "
+
+msgid "Please enter city"
+msgstr "Zadejte prosím město "
+
+msgid "Please enter country"
+msgstr "Zadejte prosím zemi "
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Pro dokončení registrace musí být uživatel starší 21 let. "
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Pro dokončení registrace musí být uživatel starší 18 let. "
+
+msgid "Please enter valid mobile number"
+msgstr "Zadejte platné číslo mobilního telefonu "
+
+msgid "Please your personal question"
+msgstr "Zadejte osobní otázku "
+
+msgid "Please enter valid answer"
+msgstr "Zadejte platnou odpověď "
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Bez akceptování podmínek použití se nemůžete zaregistrovat. "
+
+msgid "This field cannot be left blank"
+msgstr "Toto pole je nutno vyplnit "
+
+msgid "Mimimum 5 characters long"
+msgstr "Minimální délka je 5 znaků "
+
+msgid "The username should be different from email"
+msgstr "Uživatelské jméno se nesmí shodovat s emailem. "
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Heslo musí obsahovat 8 až 15 znaků. "
+
+msgid "The Password has to be different from username."
+msgstr "Heslo se nesmí shodovat s uživatelským jménem. "
+
+msgid "It seems that you are already registered."
+msgstr "Vypadá to, že již jste registrováni. "
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Zadejte prosím ulici, případně zadaná neexistuje "
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Nastavení ladění neumožňuje přístup k této adrese. "
+
+msgid "Match odds"
+msgstr "Kurzy na zápas "
+
+msgid "Remaining match"
+msgstr "Zbývající zápas "
+
+msgid "Next Goal"
+msgstr "Další gól "
+
+msgid "Total Goals +/-"
+msgstr "Celkem gólů +/- "
+
+msgid "Match odds (1 2)"
+msgstr "Kurzy na zápas (1, 2) "
+
+msgid "Set 1 2"
+msgstr "Set 1 2 "
+
+msgid "Set Score"
+msgstr "Skóre setu "
+
+msgid "Sets Overall"
+msgstr "Sety celkem "
+
+msgid "Total Points +/-"
+msgstr "Celkem bodů +/- "
+
+msgid "Goals from now +/-"
+msgstr "Góly od teď +/- "
+
+msgid "Match odds (1x2)"
+msgstr "Kurzy na zápas (1x2) "
+
+msgid "1 hour"
+msgstr "1 hodina "
+
+msgid "2 hours"
+msgstr "2 hodiny "
+
+msgid "3 hours"
+msgstr "3 hodiny "
+
+msgid "Time"
+msgstr "Čas "
+
+msgid "LIVE"
+msgstr "ŽIVĚ "
+
+msgid "Statistics"
+msgstr "Statistiky "
+
+msgid "Click on team name for extra bets"
+msgstr "Pro další sázky klikněte na název týmu "
+
+msgid "Upcoming Live Matches"
+msgstr "Nadcházející živé zápasy "
+
+msgid "Login For"
+msgstr "Přihlášení pro "
+
+msgid "minutes"
+msgstr "minuty "
+
+msgid "Bet Slip"
+msgstr "Sázenka "
+
+msgid "open"
+msgstr "otevřeno "
+
+msgid "Sport Bets"
+msgstr "Sportovní sázky "
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Skvělé kurzy na fotbal, tenis, hokej a spoustu dalších sportů "
+
+msgid "Number of Bets Placed:"
+msgstr "Počet podaných sázek: "
+
+msgid "Max Wager for bets:"
+msgstr "Maximální vklad sázky: "
+
+msgid "Wager:"
+msgstr "Sázka: "
+
+msgid "Max Payout:"
+msgstr "Maximální výplata: "
+
+msgid "All games / All events"
+msgstr "Všechny hry/akce "
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr ""
+"Všechny hry v jednom náhledu, kombinace všech obvyklých sportů a kurzů. "
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Využijte našich inovativních služeb. Živé zápasy jako nikdy předtím! Hodně "
+"štěstí! "
+
+msgid "more groups"
+msgstr "více skupin "
+
+msgid "Draw no Bet Period"
+msgstr "Období pro „remíza ruší sázky“ "
+
+msgid "Total x Period"
+msgstr "Období x celkem "
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Nastavení limitu vkladů "
+
+msgid "Play Session Limit"
+msgstr "Limit délky relace "
+
+msgid "Wager Limit"
+msgstr "Limit sázek "
+
+msgid "Loss Limit"
+msgstr "Limit ztrát "
+
+msgid "Self Exclusion"
+msgstr "Sebe-vyloučení "
+
+msgid "DELETE ACCOUNT"
+msgstr "SMAZAT ÚČET "
+
+msgid "Per Transaction"
+msgstr "Na transakci "
+
+msgid "Daily"
+msgstr "Denně "
+
+msgid "Weekly"
+msgstr "Za týden "
+
+msgid "Monthly"
+msgstr "Za měsíc "
+
+msgid "No Limit"
+msgstr "Bez limitu "
+
+msgid "After %s minutes"
+msgstr "Po %s minutách "
+
+msgid "After one Hour"
+msgstr "Po 1 hodině "
+
+msgid "After two Hours"
+msgstr "Po 2 hodinách "
+
+msgid "Login For:"
+msgstr "Přihlášení pro: "
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Už hrajete %s minut, za které jste: <br>vložili %s € <br>Vsadili %s € "
+"<br>Prohráli %s € <br>Vyhráli %s € "
+
+msgid "Outdated Browser Detected"
+msgstr "Detekován zastaralý prohlížeč "
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Naše stránky zjistily, že používáte zastaralý prohlížeč. Při používání "
+"stávajícího prohlížeče vám v budoucnu znemožní využívat některé funkce. "
+"Aktualizace není nutná, ale pro lepší používání našich stránek je silně "
+"doporučena. "
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr "Pro stažení nového nebo pro aktualizaci můžete využít odkazy níže. "
+
+msgid "Remind me later"
+msgstr "Připomenout později "
+
+msgid "No available Bonuses."
+msgstr "Nejsou k dispozici žádné prémie. "
+
+msgid "Available Bonuses."
+msgstr "Prémie k dispozici. "
+
+msgid "Locked Amount"
+msgstr "Uzamčený účet "
+
+msgid "Opened on"
+msgstr "Otevřeno dne "
+
+msgid "Activation Date"
+msgstr "Datum aktivace "
+
+msgid "Expiration Date"
+msgstr "Ukončení platnosti "
+
+msgid "Account Information"
+msgstr "Informace o účtu "
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "Výsledky, tabulky, rozpisy a živá skóre všech lig a akcí "
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Hrajte ruletu, Blackjack nebo Baccarat v Živém kasinu "
+
+msgid "Identity Card (back view)"
+msgstr "Průkaz totožnosti (zadní strana) "
+
+msgid "Identity Card (front view)"
+msgstr "Průkaz totožnosti (přední strana) "
+
+msgid "Bank Account"
+msgstr "Bankovní účet "
+
+msgid "Register now and get 7bonus7"
+msgstr "Registrujte se právě teď a získejte 7bonus7 "
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p> "
+msgstr ""
+"<p id=terms>7Epta7 Limited&nbsp; je společnost registrovaná podle zákonů "
+"státu Malta, kterým zároveň podléhá, se sídlem na adrese Tower Business "
+"Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. Společnost je "
+"držitelem licence druhé třídy s číslem LGA/CL2/921/2013, kterou získala "
+"v roce 2013 od maltského Úřadu pro loterie a hazardní hry. Společnost "
+"podléhá regulaci maltského Úřadu pro loterie a hazardní hry (LGA).</p> "
+
+msgid "Top Winner"
+msgstr "Hlavní vítěz "
+
+msgid "close"
+msgstr "zavřít "
+
+msgid "hours"
+msgstr "hodiny "
+
+msgid "Instant Play"
+msgstr "Okamžitá hra "
+
+msgid "Live Video Streaming"
+msgstr "Živé přenosy "
+
+msgid "Betslip Wagering"
+msgstr "Sázenky "
+
+msgid "Ticket Win"
+msgstr "Tikety "
+
+msgid "Bonus Cancellation by user."
+msgstr "Zrušení prémie uživatelem. "
+
+msgid "Bonus activation"
+msgstr "Aktivace prémie "
+
+msgid "APCO Deposit"
+msgstr "Vklad APCO "
+
+msgid "Account Deposit"
+msgstr "Vklad účtu "
+
+msgid "Live Casino Transaction"
+msgstr "Transakce živého kasina "
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Transakce RollBack živého kasina "
+
+msgid "in every game"
+msgstr "v každé hře "
+
+msgid "Today"
+msgstr "Dnes "
+
+msgid "Log in"
+msgstr "Přihlášení "
+
+msgid "Stake:"
+msgstr "Vsazená částka: "
+
+msgid "View Tickets"
+msgstr "Zobrazit tikety "
+
+msgid "Number of Bets Placed: "
+msgstr "Počet podaných sázek: "
+
+msgid "Max Wager for bets: "
+msgstr "Maximální vklad sázky: "
+
+msgid "bets"
+msgstr "sázky "
+
+msgid "Admin add Funds"
+msgstr "Administrativa a prostředky "
+
+msgid "Bonus activation:"
+msgstr "Aktivace prémie: "
+
+msgid "APCO Deposit:"
+msgstr "Vklad APCO: "
+
+msgid "Withdrawal"
+msgstr "Výběr "
+
+msgid "Betslip Cancellation:"
+msgstr "Zrušení sázenky: "
+
+msgid "Cancelled WithDrawal"
+msgstr "Zrušit výběr "
+
+msgid "Ticket Cancelled"
+msgstr "Tiket zrušen "
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz"
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Price "
+
+msgid "Bet Split"
+msgstr "Bet Split"
+
+msgid "The Company"
+msgstr "Společnost "
+
+msgid "Help & Legal"
+msgstr "Nápověda a právní záležitosti "
+
+msgid "Useful Links"
+msgstr "Užitečné odkazy "
+
+msgid "Payment Options"
+msgstr "Platební metody "
+
+msgid "Extra Bets"
+msgstr "Sázky navíc "
+
+msgid "No, don't remind me again"
+msgstr "Ne, už nepřipomínat "
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Vyberte si nejoblíbenější sportovní ligu v menu vlevo. Příště ji tak snáze "
+"najdete. "
+
+msgid "3 Way"
+msgstr "3 Way "
+
+msgid "2 Way"
+msgstr "2 Way "
+
+msgid "Totals"
+msgstr "Totals "
+
+msgid "Championship Outrights"
+msgstr "Vítěz Championship "
+
+msgid "Short Term Outrights"
+msgstr "Krátkodobý vítěz "
+
+msgid "Podium Finish"
+msgstr "Do 3. místa "
+
+msgid "3-balls"
+msgstr "3-balls "
+
+msgid "Correct score"
+msgstr "Přesný výsledek "
+
+msgid "First Team to score"
+msgstr "První skóruje "
+
+msgid "1st Half - 1X2"
+msgstr "1. poločas – 1X2 "
+
+msgid "Both Teams to Score"
+msgstr "Skórují oba týmy "
+
+msgid "Odd/Even goals"
+msgstr "Liché/sudé góly "
+
+msgid "Draw no bet"
+msgstr "Remíza ruší sázky "
+
+msgid "Goals home team"
+msgstr "Góly domácí "
+
+msgid "Goals away team"
+msgstr "Góly hosté "
+
+msgid "Asian Handicap"
+msgstr "Asijský hendikep "
+
+msgid "Asian Total"
+msgstr "Asijský Total "
+
+msgid "1st Half - Asian Handicap"
+msgstr "1. poločas – asijský hendikep "
+
+msgid "1st Half - Asian Total"
+msgstr "1. poločas – asijský total "
+
+msgid "European Handicap"
+msgstr "Evropský hendikep "
+
+msgid "First goalscorer"
+msgstr "První střelec "
+
+msgid "Total Goals (aggregated)"
+msgstr "Celkem gólů (součet) "
+
+msgid "1st Half - Correct Score"
+msgstr "1. poločas – přesný výsledek "
+
+msgid "Highest scoring half"
+msgstr "Poločas s více góly "
+
+msgid "Matchbet + Totals"
+msgstr "Matchbet + Totals "
+
+msgid "Matchflow"
+msgstr "Matchflow "
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1. poločas – liché/sudé góly "
+
+msgid "Overtime yes/no"
+msgstr "Prodloužení ano/ne "
+
+msgid "Winning margins"
+msgstr "Výherní rozdíly "
+
+msgid "Anytime goalscorer"
+msgstr "Vstřelí branku "
+
+msgid "Total number of bookings"
+msgstr "Celkem karet "
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1. poločas – celkem karet "
+
+msgid "Total number of booking points"
+msgstr "Celkem bodů za karty "
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1. poločas – celkem bodů za karty "
+
+msgid "Player sent off?"
+msgstr "Vyloučení"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1. poločas – vyloučení"
+
+msgid "Number of bookings home"
+msgstr "Počet karet domácí "
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1. poločas – počet karet domácí "
+
+msgid "Number of bookings away"
+msgstr "Počet karet hosté "
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1. poločas – počet karet hosté "
+
+msgid "First Team Booked"
+msgstr "První tým dostane kartu "
+
+msgid "1st Half - First Team Booked"
+msgstr "1. poločas – první tým dostane kartu "
+
+msgid "Match bookings"
+msgstr "Karty v zápase "
+
+msgid "1st Half - Match Bookings"
+msgstr "1. poločas – karty v zápase "
+
+msgid "Aggregated booking points"
+msgstr "Součet bodů za karty "
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1. poločas – součet bodů za karty "
+
+msgid "Exact bookings"
+msgstr "Karty přesně "
+
+msgid "1st Half - Exact Bookings"
+msgstr "1. poločas – karty přesně "
+
+msgid "Home Team Player Sent Off"
+msgstr "Vyloučení – domácí "
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1. poločas – vyloučení – domácí "
+
+msgid "Away Team Player Sent Off"
+msgstr "Vyloučení – hosté "
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1. poločas – vyloučení – hosté "
+
+msgid "Total Goals (exact)"
+msgstr "Celkem gólů (přesně) "
+
+msgid "2nd Half - 1X2"
+msgstr "2. poločas – 1X2 "
+
+msgid "2nd Half - Asian Total"
+msgstr "2. poločas – asijský total "
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2. poločas – asijský hendikep "
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Přesný výsledek poločas/zápas  "
+
+msgid "Overtime + goal Yes/No"
+msgstr "Prodloužení + gól Ano/ne "
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Penaltový rozstřel Ano/ne "
+
+msgid "How will the match be decided?"
+msgstr "Jak bude zápas rozhodnut"
+
+msgid "Clean sheet home team"
+msgstr "Čisté konto – domácí "
+
+msgid "Clean sheet away team"
+msgstr "Čisté konto – hosté "
+
+msgid "Which team to score"
+msgstr "Který tým skóruje "
+
+msgid "1st Half - Total Goals"
+msgstr "1. poločas – góly celkem "
+
+msgid "2nd Half - Total Goals"
+msgstr "2. poločas – góly celkem "
+
+msgid "Total corners"
+msgstr "Rohy celkem "
+
+msgid "1st Half - Total Corners"
+msgstr "1. poločas – rohy celkem "
+
+msgid "Corner handicap"
+msgstr "Rohy – hendikep "
+
+msgid "1st Half - Corner Handicap"
+msgstr "1. poločas – rohy – hendikep "
+
+msgid "Corner matchbet"
+msgstr "Rohy – matchbet "
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1. poločas – rohy matchbet "
+
+msgid "Corner Odd/Even"
+msgstr "Rohy sudé/liché "
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1. poločas – rohy sudé/liché "
+
+msgid "First corner"
+msgstr "První roh "
+
+msgid "1st Half - First Corner"
+msgstr "1. poločas – první roh "
+
+msgid "Home Team Number of Corners"
+msgstr "Počet rohů – domácí "
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1. poločas – počet rohů – domácí "
+
+msgid "1st Half - Totals"
+msgstr "1. poločas – Totals "
+
+msgid "2nd Half - Totals"
+msgstr "2. poločas – Totals "
+
+msgid "Last corner"
+msgstr "Poslední roh "
+
+msgid "1st Half - Last Corner"
+msgstr "1. poločas – poslední roh "
+
+msgid "Away Team Number of Corners"
+msgstr "Počet rohů – hosté "
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1. poločas – počet rohů – hosté "
+
+msgid "Last team to score"
+msgstr "Skóruje jako poslední "
+
+msgid "Corner Total (Aggregated)"
+msgstr "Celkem rohů (součet) "
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1. poločas – celkem rohů (součet) "
+
+msgid "Home to win both halves?"
+msgstr "Domácí vyhrají oba poločasy "
+
+msgid "Home to win either half?"
+msgstr "Domácí vyhrají jeden poločas "
+
+msgid "Home to score in both halves?"
+msgstr "Domácí skórují oba poločasy "
+
+msgid "Away to win both halves?"
+msgstr "Hosté vyhrají oba poločasy "
+
+msgid "Away to win either half?"
+msgstr "Hosté vyhrají jeden poločas "
+
+msgid "Away to score in both halves?"
+msgstr "Hosté skórují oba poločasy "
+
+msgid "Both halves over 1.5?"
+msgstr "Oba poločasy nad 1,5"
+
+msgid "Both halves under 1.5?"
+msgstr "Oba poločasy pod 1,5"
+
+msgid "1st Half Double Chance"
+msgstr "1. poločas – dvojitá šance "
+
+msgid "1st Half Draw no Bet"
+msgstr "1. poločas – remíza ruší sázku "
+
+msgid "First goal interval 10 min"
+msgstr "První gól do 10 minut "
+
+msgid "First goal interval 15 min"
+msgstr "První gól do 15 minut "
+
+msgid "First 10 minutes -3 way"
+msgstr "Prvních 10 minut - 3 way "
+
+msgid "1st Half - Both Teams to score"
+msgstr "1. poločas – oba týmy skórují "
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2. poločas – oba týmy skórují "
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Poločas s více góly – domácí "
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Poločas s více góly – hosté "
+
+msgid "Correct score (incl. other)"
+msgstr "Přesný výsledek (včetně jiné) "
+
+msgid "Odd/Even Points"
+msgstr "Liché/sudé body "
+
+msgid "Points Spreads"
+msgstr "Points Spreads "
+
+msgid "Total Spreads"
+msgstr "Total Spreads "
+
+msgid "1st Half - Points Spread"
+msgstr "1. poločas – points spreads "
+
+msgid "1st Half - Total Spread"
+msgstr "1. poločas – total spreads "
+
+msgid "Matchbet and Totals"
+msgstr "Matchbet a Total "
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1. poločas – liché/sudé body "
+
+msgid "1st Half - 2way"
+msgstr "1. poločas – 2 way "
+
+msgid "Highest Scoring Quarter"
+msgstr "Čtvrtina  s více góly "
+
+msgid "3way"
+msgstr "3 way "
+
+msgid "2nd Half - Points Spread"
+msgstr "2. poločas – points spreads "
+
+msgid "2nd Half - Total Spread"
+msgstr "2. poločas – total spreads "
+
+msgid "1st Half - Draw no bet"
+msgstr "1. poločas – remíza ruší sázku "
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2. poločas – liché/sudé body "
+
+msgid "2nd Half - Draw no bet"
+msgstr "2. poločas – remíza ruší sázku "
+
+msgid "Total margins NBA-ranges"
+msgstr "Rozdíl celkem rozsah NBA "
+
+msgid "Total margins Regular-ranges"
+msgstr "Rozdíl celkem obvyklý rozsah "
+
+msgid "Totals away team"
+msgstr "Totals hosté "
+
+msgid "Totals home team"
+msgstr "Totals domácí "
+
+msgid "1st Quarter - 1X2"
+msgstr "1. čtvrtina – 1X2 "
+
+msgid "2nd Quarter - 1X2"
+msgstr "2. čtvrtina – 1X2 "
+
+msgid "3rd Quarter - 1X2"
+msgstr "3. čtvrtina – 1X2 "
+
+msgid "4th Quarter - 1X2"
+msgstr "4. čtvrtina – 1X2 "
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1. čtvrtina – remíza ruší sázku "
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2. čtvrtina – remíza ruší sázku "
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3. čtvrtina – remíza ruší sázku "
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4. čtvrtina – remíza ruší sázku "
+
+msgid "1st Quarter - Total Spread"
+msgstr "1. čtvrtina – total spreads "
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2. čtvrtina – total spreads "
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3. čtvrtina – total spreads "
+
+msgid "4th Quarter - Total Spread"
+msgstr "4. čtvrtina – total spreads "
+
+msgid "1st Quarter - Points Spread"
+msgstr "1. čtvrtina – points spreads "
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2. čtvrtina – points spreads "
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3. čtvrtina – points spreads "
+
+msgid "4th Quarter - Points Spread"
+msgstr "4. čtvrtina – points spreads "
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1. čtvrtina – liché/sudé body "
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2. čtvrtina – liché/sudé body "
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3. čtvrtina – liché/sudé body "
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4. čtvrtina – liché/sudé body "
+
+msgid "First to x points"
+msgstr "První dosáhne x bodů "
+
+msgid "Total AAMS"
+msgstr "Total AAMS "
+
+msgid "Total 3way"
+msgstr "Total 3 way "
+
+msgid "Points Spreads (Overtime)"
+msgstr "Points Spreads (prodloužení) "
+
+msgid "Total Spreads (Overtime)"
+msgstr "Total Spreads (prodloužení) "
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Liché/sudé přeběhy (prodloužení) "
+
+msgid "Correct Score"
+msgstr "Přesný výsledek "
+
+msgid "Both teams to score?"
+msgstr "Skórují oba týmy "
+
+msgid "Goal Spreads"
+msgstr "Goal Spreads "
+
+msgid "1st Period - 3way"
+msgstr "1. třetina – 3 way "
+
+msgid "3rd Period - 3way"
+msgstr "3. třetina – 3 way "
+
+msgid "1st Period – Total"
+msgstr "1. třetina – Total "
+
+msgid "2nd Period – Total"
+msgstr "2. třetina – Total "
+
+msgid "3rd Period – Total"
+msgstr "3. třetina – Total "
+
+msgid "1st Period - Double Chance"
+msgstr "1. třetina – Double Chance "
+
+msgid "2nd Period - Double Chance"
+msgstr "2. třetina – Double Chance "
+
+msgid "3rd Period - Double Chance"
+msgstr "3. třetina – Double Chance "
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Liché/sudé góly (včetně prodloužení a penaltového rozstřelu) "
+
+msgid "Highest Scoring Period"
+msgstr "Třetina s více góly "
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Goal Spreads (včetně prodloužení) "
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Total Spreads (včetně prodloužení) "
+
+msgid "Last team to Score"
+msgstr "Skóruje jako poslední "
+
+msgid "2nd Period - 3way"
+msgstr "2. třetina – 3 way "
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1. třetina – liché/sudé góly "
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2. třetina – liché/sudé góly "
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3. třetina – liché/sudé góly "
+
+msgid "1st Period - Draw no bet"
+msgstr "1. třetina – remíza ruší sázku "
+
+msgid "2nd Period - Draw no bet"
+msgstr "2. třetina – remíza ruší sázku "
+
+msgid "3rd Period - Draw no bet"
+msgstr "3. třetina – remíza ruší sázku "
+
+msgid "2nd Period - Both teams to score"
+msgstr "2. třetina – oba týmy skórují "
+
+msgid "3rd Period - Both teams to score"
+msgstr "3. třetina – oba týmy skórují "
+
+msgid "1st Period - Goal Spreads"
+msgstr "1. třetina – Goal Spreads "
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2. třetina – Goal Spreads "
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3. třetina – Goal Spreads "
+
+msgid "2nd Period - First team to score"
+msgstr "2. třetina – První skóruje "
+
+msgid "3rd Period - First team to score"
+msgstr "3. třetina – První skóruje "
+
+msgid "1st Period - Last team to score"
+msgstr "1. třetina – Poslední skóruje "
+
+msgid "2nd Period - Last team to score"
+msgstr "2. třetina – Poslední skóruje "
+
+msgid "3rd Period - Last team to score"
+msgstr "3. třetina – Poslední skóruje "
+
+msgid "1st Period - Both teams to score"
+msgstr "1. třetina – oba týmy skórují "
+
+msgid "Totals (incl. OT)"
+msgstr "Totals (včetně prodloužení) "
+
+msgid "2way (incl. OT)"
+msgstr "2 way (včetně prodloužení) "
+
+msgid "1st Set Winner"
+msgstr "Vítěz prvního setu "
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Celkem setů (na dva vítězné) "
+
+msgid "2nd Set Winner"
+msgstr "Vítěz druhého setu "
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Celkem setů (na tři vítězné) "
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Přesný výsledek (na dva vítězné sety) "
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Přesný výsledek (na tři vítězné sety) "
+
+msgid "1st Half - 3way"
+msgstr "1. poločas – 3 way "
+
+msgid "Halftime / Fulltime"
+msgstr "Poločas/zápas "
+
+msgid "Odd / Even Goals"
+msgstr "Liché/sudé góly "
+
+msgid "1st Half - Goal Spread"
+msgstr "1. poločas – goal spreads "
+
+msgid "2nd half - 3way"
+msgstr "2. poločas – 3 way "
+
+msgid "1st half - Double Chance"
+msgstr "1. poločas – Double Chance "
+
+msgid "1st half - Draw no bet"
+msgstr "1. poločas – remíza ruší sázku "
+
+msgid "1st Half - Odd / Even"
+msgstr "1. poločas – liché/sudé "
+
+msgid "2nd Half - Odd / Even"
+msgstr "2. poločas – liché/sudé "
+
+msgid "2nd half - Draw no bet"
+msgstr "2. poločas – remíza ruší sázku "
+
+msgid "2nd half - Double Chance"
+msgstr "2. poločas – Double Chance "
+
+msgid "Points Spread"
+msgstr "Points Spread "
+
+msgid "Winning Margins Rugby Union"
+msgstr "Vítězný rozdíl – Rugby Union "
+
+msgid "Winning Margins Rugby League"
+msgstr "Vítězný rozdíl – Rugby League "
+
+msgid "1st Half - Points Spreads"
+msgstr "1. poločas – points spreads "
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1. poločas – liché/sudé body "
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Liché/sudé body (prodloužení) "
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2. poločas – points spreads (vč. prodloužení) "
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2. poločas – total spreads (vč. prodloužení) "
+
+msgid "Who wins first set"
+msgstr "Kdo vyhraje první set "
+
+msgid "Who wins second set"
+msgstr "Kdo vyhraje druhý set "
+
+msgid "Total number of sets (best of 5)"
+msgstr "Celkem setů (na tři vítězné) "
+
+msgid "Correct Set Score"
+msgstr "Přesný výsledek setu "
+
+msgid "How many sets will exceed score limit?"
+msgstr "Kolik setů přesáhne limit"
+
+msgid "1st Set Handicap"
+msgstr "1. set – hendikep "
+
+msgid "1st Set Total"
+msgstr "1. set – total "
+
+msgid "1st Set Race to X"
+msgstr "1. set – do X "
+
+msgid "1st Set Odd/even"
+msgstr "1. set – lichý/sudý "
+
+msgid "Who wins third set"
+msgstr "Kdo vyhraje třetí set "
+
+msgid "Who wins fourth set"
+msgstr "Kdo vyhraje čtvrtý set "
+
+msgid "Who wins fifth set"
+msgstr "Kdo vyhraje pátý set "
+
+msgid "5th Set Played?"
+msgstr "Bude pátý set? "
+
+msgid "4th Set Played?"
+msgstr "Bude čtvrtý set? "
+
+msgid "Total number of sets (best of 3)"
+msgstr "Celkem setů (na dva vítězné) "
+
+msgid "Line"
+msgstr "Line "
+
+msgid "Over"
+msgstr "Nad "
+
+msgid "Under"
+msgstr "Pod "
+
+msgid "None"
+msgstr "Nic "
+
+msgid "goals"
+msgstr "góly "
+
+msgid "Goals"
+msgstr "Góly "
+
+msgid "Under and home"
+msgstr "Pod a domácí "
+
+msgid "Under and draw"
+msgstr "Pod a remíza "
+
+msgid "Under and away"
+msgstr "Pod a hosté "
+
+msgid "1st"
+msgstr "1. "
+
+msgid "2nd"
+msgstr "2. "
+
+msgid "Equal"
+msgstr "Stejně "
+
+msgid "Hometeam scores first and home"
+msgstr "Domácí skórují první a domácí "
+
+msgid "Hometeam scores first and draw"
+msgstr "Domácí skórují první a remíza "
+
+msgid "Hometeam scores first and away"
+msgstr "Domácí skórují první a hosté "
+
+msgid "Awayteam scores first and home"
+msgstr "Hosté skórují první a domácí "
+
+msgid "Awayteam scores first and draw"
+msgstr "Hosté skórují první a remíza "
+
+msgid "Awayteam scores first and away"
+msgstr "Hosté skórují první a hosté "
+
+msgid "Odd"
+msgstr "Lichý "
+
+msgid "Even"
+msgstr "Sudý "
+
+msgid "Others"
+msgstr "Jiné "
+
+msgid "Both teams"
+msgstr "Oba týmy "
+
+msgid "Over and away"
+msgstr "Nad a hosté "
+
+msgid "Over and draw"
+msgstr "Nad a remíza "
+
+msgid "Over and home"
+msgstr "Nad a domácí "
+
+msgid "other"
+msgstr "jiné "
+
+msgid "1st period"
+msgstr "1. třetina "
+
+msgid "2nd period"
+msgstr "2. třetina "
+
+msgid "3rd period"
+msgstr "3. třetina "
+
+msgid "1 sets"
+msgstr "1 set "
+
+msgid "2 sets"
+msgstr "2 sety "
+
+msgid "3 sets"
+msgstr "3 sety "
+
+msgid "4 sets"
+msgstr "4 sety "
+
+msgid "5 sets"
+msgstr "5 setů "
+
+msgid "0 sets"
+msgstr "0 setů "
+
+msgid "1st quarter"
+msgstr "1. čtvrtina "
+
+msgid "2nd quarter"
+msgstr "2. čtvrtina "
+
+msgid "3rd quarter"
+msgstr "3. čtvrtina "
+
+msgid "4th quarter"
+msgstr "4. čtvrtina "
+
+msgid "No goal"
+msgstr "Bez gólu "
+
+msgid "Chat with Real Dealers"
+msgstr "Chatujte s opravdovými krupiéry"
+
+msgid "PLAY NOW"
+msgstr "HRAJTE TEĎ"

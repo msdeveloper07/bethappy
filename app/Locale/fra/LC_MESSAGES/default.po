@@ -1,0 +1,3801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 10:47+0200\n"
+"PO-Revision-Date: 2019-07-01 15:21+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+
+msgid "Your passwords does not much"
+msgstr "Vos mots de passe ne correspondent pas"
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "Votre Compte a été créé. Veuillez confirmer votre adresse e-mail pour pouvoir vous connecter"
+
+msgid "Password changed"
+msgstr "Mot de passe modifié"
+
+msgid "Wrong old password. Please try again"
+msgstr "Ancien mot de passe erroné. Veuillez réessayer"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Les mots de passe ne correspondent pas. Veuillez réessayer"
+
+msgid "Account information updated."
+msgstr "Informations du compte mises à jour."
+
+msgid "Limits cancelled."
+msgstr "Limites supprimées."
+
+msgid "Unable to cancel limit"
+msgstr "Impossible de supprimer cette limite"
+
+msgid "Limits updated."
+msgstr "Limites mises à jour."
+
+msgid "Limits not updated."
+msgstr "Limites non mises à jour."
+
+msgid "You account has been deleted."
+msgstr "Votre compte a été supprimé."
+
+msgid "Account settings updated."
+msgstr "Paramètres du compte mises à jour."
+
+msgid "Password reset link sent to your email"
+msgstr "Lien de réinitialisation du mot de passe envoyé à votre adresse e-mail"
+
+msgid "E-mail not valid"
+msgstr "E-mail invalide"
+
+msgid "Promotional code successfully used"
+msgstr "Code promotionnel utilisé avec succès"
+
+msgid "Invalid promotional code"
+msgstr "Code promotionnel invalide"
+
+msgid "Confirm your email."
+msgstr "Confirmez votre e-mail."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Votre Compte est verrouillé. Veuillez réinitialiser votre mot de passe"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Votre compte a été Définitivement Supprimé"
+
+msgid "You are Already Logged in."
+msgstr "Vous êtes déjà connecté(e)."
+
+msgid "Wrong Password"
+msgstr "Mot de passe erroné"
+
+msgid "Username or password is incorrect"
+msgstr "Identifiant ou mot de passe incorrect"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Personnel %s (ID: %d) requis pour financer votre compte"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Le compte %s (ID: %d) a été crédité par %s"
+
+msgid "User %s is credited by %d %s"
+msgstr "L'utilisateur %s est crédité par %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Personnel %s (ID: %d) demandé pour charger votre compte"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Le compte %s (ID: %d) a été chargé par %s"
+
+msgid "User %s is charged by %d %s"
+msgstr "L'utilisateur %s est chargé par %d %s"
+
+msgid "KYC Data Accepted"
+msgstr "Données KYC acceptées"
+
+msgid "Email successfully sent"
+msgstr "E-mail envoyé avec succès"
+
+msgid "Cannot send email. Please try again."
+msgstr "Impossible d'envoyer un courrier électronique. Veuillez réessayer."
+
+msgid "can't find"
+msgstr "impossible de trouver"
+
+msgid "Changes saved"
+msgstr "Modifications enregistrées"
+
+msgid "This cannot be saved."
+msgstr "Impossible d'enregistrer ceci."
+
+msgid "Item added"
+msgstr "Objet ajouté"
+
+msgid "This cannot be added."
+msgstr "Impossible d'ajouter ceci."
+
+msgid "Item deleted"
+msgstr "Objet supprimé"
+
+msgid "This cannot be deleted."
+msgstr "Impossible de supprimer ceci."
+
+msgid "Bet added"
+msgstr "Pari ajouté"
+
+msgid "Error adding bet"
+msgstr "Erreur lors de l'ajout du pari"
+
+msgid "Lowest deposit amount is"
+msgstr "Le montant le plus bas est"
+
+msgid "Highest deposit amount is"
+msgstr "Le montant le plus élevé est"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Vous avez atteint votre limite de dépôt par montant de transaction:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Vous avez atteint votre limite de dépôt quotidienne:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Vous avez atteint votre limite de dépôt hebdomadaire:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Vous avez atteint votre limite de dépôt mensuelle:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Code bonus expiré ou erroné"
+
+msgid "Bonus code expired"
+msgstr "Code bonus expiré"
+
+msgid "Your amount is too low for bonus"
+msgstr "Votre montant est trop bas pour le bonus"
+
+msgid "Your amount is too high for bonus"
+msgstr "Votre montant est trop élevé pour le bonus"
+
+msgid "User Terminated"
+msgstr "Utilisateur résilié"
+
+msgid "Canceled"
+msgstr "Annulé"
+
+msgid "Statuses chart"
+msgstr "Charte des statuts"
+
+msgid "Amount chart"
+msgstr "Charte des montants"
+
+msgid "Deposit not found!"
+msgstr "Dépôt introuvable!"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Dépôt déjà renseigné comme \"terminé\"\" ! \""
+
+msgid "Deposit request set as completed"
+msgstr "Demande de dépôt indiquée comme terminée"
+
+msgid "Deposit request canceled"
+msgstr "Demande de dépôt annulée"
+
+msgid "Money transaction completed"
+msgstr "Transaction d'argent terminée"
+
+msgid "Select Event"
+msgstr "Sélectionner événement"
+
+msgid "No search results found"
+msgstr "Aucun résultat trouvé"
+
+msgid "Permissions updated"
+msgstr "Autorisations mises à jour"
+
+msgid "Your request is accepted."
+msgstr "Votre requête est acceptée."
+
+msgid "Language already exist"
+msgstr "Langue déjà existante"
+
+msgid "can't delete item"
+msgstr "impossible de supprimer l'objet"
+
+msgid "Emails successfully sent"
+msgstr "E-mails envoyés avec succès"
+
+msgid "Please enter event result"
+msgstr "Veuillez saisir le résultat de l'événement"
+
+msgid "Results updated"
+msgstr "Résultats mis à jour"
+
+msgid "Settings saved."
+msgstr "Paramètres enregistrés."
+
+msgid "can't save settings."
+msgstr "impossible d'enregistrer les paramètres."
+
+msgid "Types chart"
+msgstr "Charte des types"
+
+msgid "Cannot find ticket with id:"
+msgstr "Impossible de trouver le ticket avec pour id:"
+
+msgid "Ticket is not found"
+msgstr "Ticket introuvable"
+
+msgid "Unknown ticket status"
+msgstr "Statut de ticket inconnu"
+
+msgid "Unknown paid status"
+msgstr "Statut payé inconnu"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+msgid "Insufficient credits"
+msgstr "Crédits insuffisants"
+
+msgid "Ticket is still pending or lost"
+msgstr "Le ticket est toujours en attente ou perdu"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Ticket déjà imprimé. ID du ticket: %d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Ticket introuvable. ID du ticket: %d"
+
+msgid "Please select another pick from different event"
+msgstr "Veuillez procéder à une autre sélection pour un événement différent"
+
+msgid "Min betting amount is %d"
+msgstr "Le montant minimum de pari est %d"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Vous ne pouvez pas former ce type de ticket, retour au ticket simple"
+
+msgid "Wrong Password or Username"
+msgstr "Identifiant ou mot de passe incorrect"
+
+msgid "Lowest amount for cashout is"
+msgstr "Le montant le plus bas pour les retraits est de"
+
+msgid "Highest amount for cashout is"
+msgstr "Le montant maximum pour un retrait est de"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Argent insuffisant pour ce retrait"
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "Vous ne pouvez pas procéder à un retrait. Il existe un \"Montant Fixe\"\" de %s imposé par la politique des bonus. Vous pouvez retirer %s \""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "La transaction de retrait précédente n'est pas terminée"
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "Vous n'avez pas été vérifié(e) (général) pour pouvoir terminer cette transaction. Veuillez compléter le formulaire à l'adresse suivante:"
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "Vous devez à nouveau soumettre vos documents à des fins de vérification. Veuillez compléter le formulaire à l'adresse suivante"
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "Vous n'avez pas été vérifié(e) (âge) pour pouvoir terminer cette transaction. Veuillez compléter le formulaire à l'adresse suivante:"
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+msgstr "Votre demande de retrait de %s est acceptée. Veuillez saisir vos coordonnées bancaires en suivant le lien suivant : <a href='/users/account'>Informations du Compte</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Votre demande de retrait de %s est acceptée."
+
+msgid "Bank information updated."
+msgstr "Informations bancaires mises à jour."
+
+msgid "Withdraw request set as completed"
+msgstr "Demande de retrait indiquée comme terminée"
+
+msgid "Withdraw request updated"
+msgstr "Demande de retrait mise à jour"
+
+msgid "Withdraw request canceled"
+msgstr "Demande de retrait annulée"
+
+msgid "Win"
+msgstr "Gagner"
+
+msgid "Lost"
+msgstr "Perdu"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "List"
+msgstr "Lister"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Complete"
+msgstr "Images du bas"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Amount from"
+msgstr "Montant de"
+
+msgid "Amount to"
+msgstr "Montant vers"
+
+msgid "Transaction ID"
+msgstr "ID de la transaction"
+
+msgid "Event name"
+msgstr "Nom de l'événement"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "language"
+msgstr "langue"
+
+msgid "League name"
+msgstr "Nom de la ligue"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "View events"
+msgstr "Consulter événements"
+
+msgid "Add Event"
+msgstr "Ajouter événement"
+
+msgid "Send Mail"
+msgstr "Envoyer un Courrier"
+
+msgid "Send to All"
+msgstr "Envoyer à Tous"
+
+msgid "Header 2 menu"
+msgstr "Menu haut de page 2"
+
+msgid "Header 3 menu"
+msgstr "Menu haut de page 3"
+
+msgid "Bottom 4 menu"
+msgstr "Menu bas de page 4"
+
+msgid "Footer menu"
+msgstr "Menu bas de page"
+
+msgid "Header menu"
+msgstr "Menu haut de page"
+
+msgid "Top Header menu"
+msgstr "Menu titre"
+
+msgid "Top menu"
+msgstr "Menu titre"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Deposits"
+msgstr "Dépôts"
+
+msgid "Withdraws"
+msgstr "Retraits"
+
+msgid "Withdraws List"
+msgstr "Liste des retraits"
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "Finished events in tickets"
+msgstr "Événements terminés en tickets"
+
+msgid "Pending events in tickets"
+msgstr "Événements en attente en tickets"
+
+msgid "All finished events"
+msgstr "Tous les événements terminés"
+
+msgid "Warnings"
+msgstr "Alertes"
+
+msgid "Identity number"
+msgstr "Numéro d'identité"
+
+msgid "Words in title"
+msgstr "Mots dans un titre"
+
+msgid "Words in description"
+msgstr "Mots dans une description"
+
+msgid "Url link"
+msgstr "Lien Url"
+
+msgid "Add League"
+msgstr "Ajouter Ligue"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Fund staff"
+msgstr "Alimenter le compte"
+
+msgid "Charge staff"
+msgstr "Débiter le compte"
+
+msgid "Login/Logout"
+msgstr "Connexion/Déconnexion"
+
+msgid "Ticket Fraud Check"
+msgstr "Vérification antifraude"
+
+msgid "Mark as paid"
+msgstr "Marquer comme payé"
+
+msgid "Group ID"
+msgstr "ID du groupe"
+
+msgid "Tickets created"
+msgstr "Tickets crées"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total payout"
+msgstr "Gains totaux"
+
+msgid "Profit"
+msgstr "Profit"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "La mise minimale sur %s est de %d"
+
+msgid "Highest stake on %s is %d"
+msgstr "La mise maximale sur %s est de %d"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2La mise minimale sur %s est de %d"
+
+msgid "3Lowest stake amount is %d"
+msgstr "3La mise minimale est de %d"
+
+msgid "Highest stake amount is %d"
+msgstr "Le montant le plus élevé est %d"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Vous avez atteint votre limite de mise par montant de transaction : %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Vous avez atteint votre limite de mise quotidienne : %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Vous avez atteint votre limite de mise hebdomadaire : %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Vous avez atteint votre limite de mise mensuelle : %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Vous avez atteint votre limite de pertes par montant de transaction : %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Vous avez atteint votre limite de pertes quotidienne : %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Vous avez atteint votre limite de pertes hebdomadaire : %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Vous avez atteint votre limite de pertes mensuelle : %d %s"
+
+msgid "Please login"
+msgstr "Veuillez vous connecter"
+
+msgid "Please login first!"
+msgstr "Veuillez d'abord vous connecter!"
+
+msgid "Please select at least %d picks"
+msgstr "Veuillez sélectionner au moins %d choix"
+
+msgid "Not enough money"
+msgstr "Argent insuffisant"
+
+msgid "One or more events already started, please remove them"
+msgstr "Un ou plusieurs événements ont déjà commencé, veuillez les retirer"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Cote surannée. Veuillez retirer la cote invalide"
+
+msgid "One or mode bets are inactive"
+msgstr "Un ou plusieurs paris sont inactifs"
+
+msgid "Printed"
+msgstr "Imprimé"
+
+msgid "User Id"
+msgstr "ID utilisateur"
+
+msgid "Amount From"
+msgstr "Montant de"
+
+msgid "Amount To"
+msgstr "Montant vers"
+
+msgid "Potential Winning From"
+msgstr "Gain Potentiel de"
+
+msgid "Potential Winning To"
+msgstr "Gain Potentiel vers"
+
+msgid "Odd From"
+msgstr "Cote de"
+
+msgid "Odd To"
+msgstr "Cote vers"
+
+msgid "Fund"
+msgstr "Approvisionner"
+
+msgid "Charge"
+msgstr "Faire payer"
+
+msgid "User ID"
+msgstr "ID utilisateur"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "All feeds updated"
+msgstr "Toutes alimentations mises à jour"
+
+msgid "All feeds downloaded"
+msgstr "Toutes alimentations téléchargées"
+
+msgid "All feeds parsed"
+msgstr "Toutes alimentations analysées"
+
+msgid "Feed updated"
+msgstr "Alimentation mise à jour"
+
+msgid "Cannot find feed"
+msgstr "Alimentation introuvable"
+
+msgid "Cant find feed"
+msgstr "Alimentation introuvable"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Update All"
+msgstr "Mettre à jour tous"
+
+msgid "Thank You"
+msgstr "Merci"
+
+msgid "You successfully deposit %d"
+msgstr "Vous avez déposé %d avec succès"
+
+msgid "You cancel your deposit"
+msgstr "Vous avez annulé votre dépôt"
+
+msgid "You have successfully made deposit for"
+msgstr "Vous avez procédé avec succès à un retrait de"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Désolé, nous ne trouvons pas votre paiement"
+
+msgid "Make Deposit"
+msgstr "Effectuer un dépôt"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Make your Deposit"
+msgstr "Effectuez votre dépôt"
+
+msgid "Bonus code or leave empty"
+msgstr "Code bonus sinon laisser vide"
+
+msgid "Available ACO sync commands:"
+msgstr "Commandes ACO sync disponibles:"
+
+msgid "help"
+msgstr "aide"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+msgstr "Pour obtenir de l'aide, exécutez la commande 'aide'. Pour obtenir de l'aide sur une commande spécifique, exécutez 'aide commande'"
+
+msgid "Deleted %s and all children"
+msgstr "Supprimé %s et tous les enfants"
+
+msgid "Aco Update Complete"
+msgstr "Mise à jour du compte terminée"
+
+msgid "Created Aco node: %s"
+msgstr "Nœud de compte créé : %s"
+
+msgid "Deleted Aco node %s"
+msgstr "Nœud de compte %s supprimé"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Usage : gâteau aco_sync <command>"
+
+msgid "Commands:"
+msgstr "Commandes:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Ajoute de nouv. comptes pour de nouv. contrôleurs et actions"
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "Crée de nouv. comptes pour les contrôleurs et leurs actions Ne retire aucun nœud du tableau des comptes"
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "Crée de nouv. comptes pour des contrôleurs et actions manquants Retire les entrées orphelines du tableau des comptes."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Affiche ce message d'aide ou un message sur une commande spécifique."
+
+msgid "Command '%s' not found"
+msgstr "Commande \"%s\" introuvable"
+
+msgid "day"
+msgstr "jour"
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "month"
+msgstr "mois"
+
+msgid "year"
+msgstr "année"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "days"
+msgstr "jours"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "Successful"
+msgstr "Réussi"
+
+msgid "Failed"
+msgstr "Échec"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Decimal"
+msgstr "Décimal"
+
+msgid "Fractional"
+msgstr "Fractionnaire"
+
+msgid "American"
+msgstr "Américain"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "more"
+msgstr "plus"
+
+msgid "Event"
+msgstr "Événement"
+
+msgid "Pick"
+msgstr "Choix"
+
+msgid "odd"
+msgstr "cote"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "Outcome"
+msgstr "Résultat"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Forgot your password?"
+msgstr "Vous avez oublié votre mot de passe?"
+
+msgid "Sign In"
+msgstr "Se connecter"
+
+msgid "Login"
+msgstr "Se connecter"
+
+msgid "Affiliate Registration Form"
+msgstr "Formulaire d'inscription d'affilié"
+
+msgid "Personal information"
+msgstr "Informations personnelles"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "Last name"
+msgstr "Nom"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Date of birth:"
+msgstr "Date de naissance:"
+
+msgid "Mobile number"
+msgstr "Téléphone mobile"
+
+msgid "Website name"
+msgstr "Nom du site web"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Choose Payment Gateway"
+msgstr "Choisissez un portail de paiement"
+
+msgid "Bank Transfer Payment"
+msgstr "Paiement par virement bancaire"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Paiement en ligne"
+
+msgid "Please see you latest deposits below:"
+msgstr "Consultez vos derniers dépôts ci-dessous:"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr "Aucun historique de dépôt n'a été trouvé. Pour en créer un nouveau, veuillez suivre \"Créer Nouveau\"\". \""
+
+msgid "Deposit information:"
+msgstr "Informations de dépôt:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Demande de dépôt manuel (crédité après vérification)"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Page {:page} sur {:pages}, affichant {:current} archives sur {:count} au total, commençant par l'archive {:start}, se terminant le {:end}"
+
+msgid "previous"
+msgstr "précédent"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "Show"
+msgstr "Afficher"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Deposit type"
+msgstr "Type de dépôt"
+
+msgid "Bonus type"
+msgstr "Type de bonus"
+
+msgid "Bonus valid until"
+msgstr "Bonus valide jusqu'au"
+
+msgid "Bonus used"
+msgstr "Bonus utilisé"
+
+msgid "Bonus amount to your account"
+msgstr "Montant du bonus vers votre compte"
+
+msgid "League"
+msgstr "Ligue"
+
+msgid "No available odds found for this event"
+msgstr "Aucunes cotes disponibles pour cet événement"
+
+msgid "First team to Score"
+msgstr "Première équipe à marquer"
+
+msgid "1st Half"
+msgstr "1ère mi-temps"
+
+msgid "Both Team to Score"
+msgstr "Les deux équipes pour marquer"
+
+msgid "Halftime/Fulltime"
+msgstr "Mi-temps/Fin du match"
+
+msgid "Double Chance"
+msgstr "Double Chance"
+
+msgid "From"
+msgstr "De"
+
+msgid "Odds"
+msgstr "Cotes"
+
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "User Menu"
+msgstr "Menu utilisateur"
+
+msgid "My Account"
+msgstr "Mon compte"
+
+msgid "Balance"
+msgstr "Solde"
+
+msgid "Log out"
+msgstr "Se déconnecter"
+
+msgid "Casino"
+msgstr "Casino"
+
+msgid "Live Casino"
+msgstr "Casino Live"
+
+msgid "Betting Tools"
+msgstr "Outils de mise"
+
+msgid "Register now and get"
+msgstr "Inscrivez-vous maintenant et recevez"
+
+msgid "Register now"
+msgstr "S'inscrire maintenant"
+
+msgid "Registration"
+msgstr "Inscription"
+
+msgid "Password Reminder"
+msgstr "Rappel de mot de passe"
+
+msgid "Search Ticket"
+msgstr "Chercher ticket"
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "Enter ticket ID"
+msgstr "Saisir l'ID du ticket"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Unknown ticked ID"
+msgstr "ID du ticket inconnu"
+
+msgid "Money"
+msgstr "Argent"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "Find event"
+msgstr "Trouver événement"
+
+msgid "Search by event name"
+msgstr "Rechercher par nom d'événement"
+
+msgid "Search by event ID"
+msgstr "Rechercher par ID d'événement"
+
+msgid "Search results for:"
+msgstr "Chercher des résultats pour:"
+
+msgid "No available events are found for this league"
+msgstr "Aucun événement disponible pour cette ligue"
+
+msgid "Search Events"
+msgstr "Rechercher des événements"
+
+msgid "Search another event ID"
+msgstr "Rechercher un autre ID d'événement"
+
+msgid "Search another event name"
+msgstr "Rechercher un autre nom d'événement"
+
+msgid "Please complete the following form"
+msgstr "Veuillez compléter le formulaire suivant"
+
+msgid "Confirm changes"
+msgstr "Confirmer modifications"
+
+msgid "Activity Column"
+msgstr "Colonne activité"
+
+msgid "Current balance"
+msgstr "Solde actuel"
+
+msgid "Today placed tickets"
+msgstr "Tickets placés aujourd'hui"
+
+msgid "Contact Us"
+msgstr "Contactez-Nous"
+
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "Si vous rencontrez un problème, n'hésitez pas à contacter le service client en vous servant du formulaire ci-dessous :"
+
+msgid "Subject"
+msgstr "Objet"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "News"
+msgstr "Nouveautés"
+
+msgid "Read more"
+msgstr "En savoir plus"
+
+msgid "Soccer"
+msgstr "Football"
+
+msgid "Basketball"
+msgstr "Basketball"
+
+msgid "Ice Hockey"
+msgstr "Hockey sur glace"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Rugby"
+msgstr "Rugby"
+
+msgid "Half Time 3 way"
+msgstr "Mi-temps 3-way"
+
+msgid "Top Games"
+msgstr "Top matchs"
+
+msgid "IceHockey"
+msgstr "Hockey sur glace"
+
+msgid "Handball"
+msgstr "Handball"
+
+msgid "Last Minute Bets"
+msgstr "Paris de Dernière Minute"
+
+msgid "Shortly"
+msgstr "Bientôt"
+
+msgid "%d events available"
+msgstr "%d événements disponibles"
+
+msgid "Bet now"
+msgstr "Parier maintenant"
+
+msgid "Football"
+msgstr "Football"
+
+msgid "Draw"
+msgstr "Match nul"
+
+msgid "League not found"
+msgstr "Ligue introuvable"
+
+msgid "No available events found for this league"
+msgstr "Aucun événement disponible pour cette ligue"
+
+msgid "Last Minute"
+msgstr "Dernière Minute"
+
+msgid "No leagues selected"
+msgstr "Aucune ligue sélectionnée"
+
+msgid "Single"
+msgstr "Simple"
+
+msgid "Combi"
+msgstr "Combi"
+
+msgid "System"
+msgstr "Système"
+
+msgid "Delete all bets"
+msgstr "Supprimer tous les paris"
+
+msgid "Total odds"
+msgstr "Cotes totales"
+
+msgid "Stake"
+msgstr "Mise"
+
+msgid "Winning"
+msgstr "Gain"
+
+msgid "Preview"
+msgstr "Prévisualiser"
+
+msgid "Place Bet"
+msgstr "Placer un pari"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "Aucun pari sélectionné pour le moment. <br>Cliquez sur les cotes respectives pour sélectionner les paris."
+
+msgid "Ticket History"
+msgstr "Historique des tickets"
+
+msgid "Ticket ID:"
+msgstr "ID de billets:"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "No tickets activity available"
+msgstr "Aucune activité de tickets disponible"
+
+msgid "Date and time"
+msgstr "Date et heure"
+
+msgid "Ticket id"
+msgstr "ID du ticket"
+
+msgid "ID / Date"
+msgstr "ID / Date"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Amount:"
+msgstr "Montant :"
+
+msgid "Return:"
+msgstr "Retour:"
+
+msgid "Please see your betting history below:"
+msgstr "Consultez votre historique des paris ci-dessous:"
+
+msgid "Ticket ID"
+msgstr "ID du ticket"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "To place ticket please use betslip."
+msgstr "Pour placer un ticket, utilisez le pari combiné."
+
+msgid "Pending tickets"
+msgstr "Tickets en attente"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Consultez vos tickets placés récemment ci-dessous:"
+
+msgid "Paid"
+msgstr "Payé"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "Aucun ticket en attente trouvé. Pour les tickets précédents, consultez l'historique des tickets."
+
+msgid "History"
+msgstr "Historique"
+
+msgid "Ticket Preview"
+msgstr "Prévisualiser ticket"
+
+msgid "Event ID / Date"
+msgstr "ID / date de l'événement"
+
+msgid "Sport / League"
+msgstr "Sport / Ligue"
+
+msgid "Submit Ticket"
+msgstr "Soumettre ticket"
+
+msgid "Clear Ticket"
+msgstr "Vider ticket"
+
+msgid "No bets selected"
+msgstr "Aucun pari sélectionné"
+
+msgid "Ticket placed"
+msgstr "Ticket placé"
+
+msgid "Your ticket is created successfully"
+msgstr "Votre ticket a été créé avec succès"
+
+msgid "Your ticket number is"
+msgstr "Votre numéro de ticket est"
+
+msgid "Ticket information"
+msgstr "Informations ticket"
+
+msgid "Login/Logout History"
+msgstr "Historique des Connexion / Déconnexion"
+
+msgid "User Login/Logout History:"
+msgstr "Historique de connexion / déconnexion de l'utilisateur:"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "Veuillez configurer les options pour un plus grand confort d'affichage."
+
+msgid "Odds type"
+msgstr "Type de cotes"
+
+msgid "Time zone"
+msgstr "Fuseau horaire"
+
+msgid "Time Zone"
+msgstr "Fuseau Horaire"
+
+msgid "Change Password"
+msgstr "Modifiez le mot de passe"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr "Veuillez fournir vos informations personnelles complètes afin de confirmer votre identité. Conformément au règlement, votre accès à certains produits, marchés et escomptes de commission peut être restreint jusqu'à la confirmation de votre identité. Vous pouvez nous fournir des documents personnels en utilisant notre service d'e-mail sécurisé."
+
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+msgid "Bank name"
+msgstr "Nom de la banque"
+
+msgid "Bank code"
+msgstr "Code bancaire"
+
+msgid "Bank account number"
+msgstr "Numéro de compte bancaire"
+
+msgid "Ref. Code"
+msgstr "Code réf."
+
+msgid "Balance Information Analysis"
+msgstr "Analyse des informations du solde"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Ici vous pouvez voir toutes les informations se rapportent à votre solde actuel."
+
+msgid "Promotional Code"
+msgstr "Code promotionnel"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "Veuillez ajouter le code promotionnel ci-dessous pour recevoir de l'argent supplémentaire ou un autre avantage."
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Submit bonus code"
+msgstr "Soumettre le code bonus"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "L'e-mail a été confirmé. Vous allez être redirigé(e) vers la page d'accueil dans 5 secondes.</ br>Si vous n'avez pas été redirigé(e) dans le temps spécifié, veuillez cliquer sur ce <a href=\"/\"\">lien</a> \""
+
+msgid "Incorect confirmation code"
+msgstr "Code de confirmation incorrect"
+
+msgid "Responsible Gaming Settings"
+msgstr "Paramètres de jeu responsable"
+
+msgid "Responsible gaming text"
+msgstr "Texte relatif au jeu responsable"
+
+msgid "Add Limit"
+msgstr "Ajouter une limite"
+
+msgid "Set the limit you can play for each session"
+msgstr "Définissez la limite que vous pouvez jouer pour chaque session"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Ne me permettez pas d'accéder à mon compte de paris sportifs pendant les 7 prochains jours"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "Ne me permettez pas d'accéder à mon compte de paris sportifs pendant les 6 prochains mois"
+
+msgid "Block Account"
+msgstr "Bloquer compte"
+
+msgid "Permanently delete your account."
+msgstr "Supprimer définitivement votre compte."
+
+msgid "Delete My Account"
+msgstr "Supprimer mon compte"
+
+msgid "Open account with us!"
+msgstr "Ouvrez un compte chez nous!"
+
+msgid "Account data"
+msgstr "Données du compte"
+
+msgid "Confirm password"
+msgstr "Confirmer mot de passe"
+
+msgid "Personal question"
+msgstr "Question personnelle"
+
+msgid "Personal answer"
+msgstr "Réponse personnelle"
+
+msgid "Referral ID"
+msgstr "ID de parrainage"
+
+msgid "Affiliate ID"
+msgstr "ID d'affilié"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Données bancaires (cette section peut être complétée ultérieurement)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "J'ai plus de 18 ans et j'ai lu et accepté"
+
+msgid "Terms And Conditions"
+msgstr "Modalités"
+
+msgid "Confirm registration"
+msgstr "Confirmer l'inscription"
+
+msgid "Password Reset"
+msgstr "Réinitialisation du mot de passe"
+
+msgid "Enter your new password"
+msgstr "Saisissez votre nouveau mot de passe"
+
+msgid "Change password"
+msgstr "Modifiez le mot de passe"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "Renseignez les informations d'e-mail ci-dessous. Lien de réinitialisation du mot de passe envoyé à votre adresse e-mail. Vous serez en mesure de créer un nouveau mot de passe qui vous permettra de vous connecter."
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "Pour retirer de l'argent, veuillez saisir le montant souhaité et suivre la procédure de transaction ci-dessous:"
+
+msgid "Withdraw ID"
+msgstr "ID du retrait"
+
+msgid "Request Manual Withdraw"
+msgstr "Demande de retrait manuel"
+
+msgid "Transaction Log"
+msgstr "Journal des transactions"
+
+msgid "List of transactions:"
+msgstr "Liste des transactions:"
+
+msgid "Transaction Type"
+msgstr "Type de transaction"
+
+msgid "Add/Edit %s"
+msgstr "Ajouter/Éditer %s"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Parent"
+msgstr "Parent"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Modified"
+msgstr "Modifié"
+
+msgid "Percentage"
+msgstr "Pourcentage"
+
+msgid "Custom Affiliate ID"
+msgstr "ID d'affilié personnalisé"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "List %s"
+msgstr "Lister %s"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Alert ID"
+msgstr "ID de l'alerte"
+
+msgid "User id"
+msgstr "ID utilisateur"
+
+msgid "Alert Title"
+msgstr "Titre de l'alerte"
+
+msgid "Alert"
+msgstr "Alerte"
+
+msgid "Add bet"
+msgstr "Ajouter pari"
+
+msgid "Alerts"
+msgstr "Alertes"
+
+msgid "Admin Audit Trail"
+msgstr "Journal d'audit administratif"
+
+msgid "Application File Backups"
+msgstr "Sauvegardes des fichiers d'application"
+
+msgid "Database Backups"
+msgstr "Sauvegardes de la base de données"
+
+msgid "Betradar Feeds Log"
+msgstr "Journal Betradar"
+
+msgid "Liability Dumps"
+msgstr "Déchets des droits de recours"
+
+msgid "Data list"
+msgstr "Liste des données"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Translations"
+msgstr "Traductions"
+
+msgid "Translate"
+msgstr "Traduire"
+
+msgid "No records found"
+msgstr "Aucune archive trouvée"
+
+msgid "Sports and Leagues"
+msgstr "Sports et Ligues"
+
+msgid "Events management"
+msgstr "Gestion d'événements"
+
+msgid "Events Printing"
+msgstr "Impression d'événements"
+
+msgid "Users report"
+msgstr "Rapport des utilisateurs"
+
+msgid "Tickets report"
+msgstr "Rapport des tickets"
+
+msgid "Deposits report"
+msgstr "Rapport des dépôts"
+
+msgid "Witdraw report"
+msgstr "Rapport des retraits"
+
+msgid "Liability report"
+msgstr "Rapport des droits de recours"
+
+msgid "Active Users"
+msgstr "Utilisateurs actifs"
+
+msgid "locale"
+msgstr "lieu"
+
+msgid "Create %s"
+msgstr "Créer %s"
+
+msgid "Event ID"
+msgstr "ID d'événement"
+
+msgid "User:"
+msgstr "Utilisateur:"
+
+msgid "Level:"
+msgstr "Niveau:"
+
+msgid "Current Time:"
+msgstr "Heure actuelle:"
+
+msgid "Current Language:"
+msgstr "Langue actuelle :"
+
+msgid "Front Page"
+msgstr "Première page"
+
+msgid "Under / Over"
+msgstr "En-dessous/Au-dessous"
+
+msgid "Handicap"
+msgstr "Handicap"
+
+msgid "%s Printing"
+msgstr "Impression de %s"
+
+msgid "Available Events List For:"
+msgstr "Liste d'événements disponibles pour:"
+
+msgid "Unknown Sport"
+msgstr "Sport inconnu"
+
+msgid "Please select sport below:"
+msgstr "Veuillez sélectionner un sport ci-dessous:"
+
+msgid "View Events"
+msgstr "Consulter événements"
+
+msgid "No available events found for this sport"
+msgstr "Aucune événement disponible pour ce sport"
+
+msgid "Can not find event"
+msgstr "Événement introuvable"
+
+msgid "Edit %s"
+msgstr "Éditer %s"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Users %s"
+msgstr "Utilisateurs %s"
+
+msgid "Edit User"
+msgstr "Éditer utilisateur"
+
+msgid "Administration Panel"
+msgstr "Panneau d'Administration"
+
+msgid "Sign Out"
+msgstr "Se déconnecter"
+
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgid "Staff Login"
+msgstr "Connexion du personnel"
+
+msgid "Events"
+msgstr "Événements"
+
+msgid "Available cultures"
+msgstr "Cultures disponibles"
+
+msgid "Add a culture"
+msgstr "Ajouter un format régional"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Cultures this site supports"
+msgstr "Ce site prend en charge les cultures"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "Rédiger un courrier promotionnel à tous les utilisateurs. Les messages arriveront aux adresses e-mail des utilisateurs."
+
+msgid "Subject:"
+msgstr "Objet:"
+
+msgid "Content:"
+msgstr "Contenu:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Télécharger tous les e-mails (fichier csv)"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "Rédiger un courrier promotionnel à un utilisateur déterminé. Les messages arriveront à l'adresse e-mail de l'utilisateur."
+
+msgid "To:"
+msgstr "À:"
+
+msgid "Contact support team"
+msgstr "Contacter l'équipe d'assistance"
+
+msgid "<br>No data in this period"
+msgstr "<br>Aucune donnée pendant cette période"
+
+msgid "No data in this period"
+msgstr "Aucune donnée pendant cette période"
+
+msgid "User name"
+msgstr "Identifiant"
+
+msgid "Date of registration"
+msgstr "Date d'inscription"
+
+msgid "Won"
+msgstr "Gagné"
+
+msgid "Liability"
+msgstr "Liability"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability a annulé le bonus"
+
+msgid "Download (Excel file)"
+msgstr "Télécharger (fichier Excel)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Êtes-vous sûr(e) de vouloir annuler cet événement?"
+
+msgid "No events found"
+msgstr "Aucun événement trouvé"
+
+msgid "No events in this league"
+msgstr "Aucun événement dans cette ligue"
+
+msgid "Risk Management Settings"
+msgstr "Paramètres de gestion des risques"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "La gestion des risques est cruciale dans les paris sportifs. Soyez prudent(e) lors du paramétrage de toutes les options."
+
+msgid "Lowest stake"
+msgstr "Mise la plus basse"
+
+msgid "Highest stake"
+msgstr "Mise la plus haute"
+
+msgid "Highest winning amount"
+msgstr "Plus grand montant à gagner"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Plus petit nombre d'événements dans un ticket"
+
+msgid "Highest number of events in one ticket"
+msgstr "Plus grand nombre d'événements dans un ticket"
+
+msgid "List Leagues"
+msgstr "Liste des ligues"
+
+msgid "League ID"
+msgstr "ID de la ligue"
+
+msgid "No limits"
+msgstr "Aucune limite"
+
+msgid "List Sports"
+msgstr "Liste des sports"
+
+msgid "Sport ID"
+msgstr "ID du sport"
+
+msgid "Warning Withdraws"
+msgstr "Alerte concernant les retraits"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Warning Stakes"
+msgstr "Alerte concernant les Mises"
+
+msgid "Warning Winnings"
+msgstr "Alerte concernant les Mises"
+
+msgid "Warning Deposits"
+msgstr "Alerte concernant les Dépôts"
+
+msgid "amount"
+msgstr "montant"
+
+msgid "Deposit fee percentage"
+msgstr "Pourcentages de taxes sur un dépôt"
+
+msgid "Payment gateways"
+msgstr "Portails de paiement"
+
+msgid "Please set payment gateways below:"
+msgstr "Veuillez configurer les portails de paiement ci-dessous:"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "Deposits %s"
+msgstr "Dépôts %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Veuillez configurer le paramètre de gestion des risques de dépôt ci-dessous:"
+
+msgid "Allow automated deposits"
+msgstr "Autoriser les dépôts automatisés"
+
+msgid "Allow manual deposits"
+msgstr "Autoriser les dépôts manuels"
+
+msgid "Lowest amount for deposit"
+msgstr "Le montant le plus bas pour le dépôt"
+
+msgid "Highest amount for deposit"
+msgstr "Montant le plus élevé pour le dépôt"
+
+msgid "General %s"
+msgstr "Général %s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "Les paramètres généraux contrôlent certains des paramètres de configuration les plus élémentaires de votre site: le titre et l'emplacement de votre site, qui peuvent enregistrer un compte sur votre site et la façon dont les dates et les heures sont calculées et affichées."
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Contact Email"
+msgstr "E-mail de contact"
+
+msgid "Password reset"
+msgstr "Mot de passe réinitialisé"
+
+msgid "Default currency"
+msgstr "Devise par défaut"
+
+msgid "Default timezone:"
+msgstr "Par défaut timezone:"
+
+msgid "Default language"
+msgstr "Langage par défaut"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Items per page"
+msgstr "Objets par page"
+
+msgid "Referral system"
+msgstr "Système de parrainage"
+
+msgid "Left active"
+msgstr "Gauche active"
+
+msgid "Left sidebar title"
+msgstr "Titre barre latérale gauche"
+
+msgid "Left sidebar content"
+msgstr "Contenu barre latérale gauche"
+
+msgid "Right active"
+msgstr "Droite active"
+
+msgid "Right sidebar title"
+msgstr "Titre barre latérale droite"
+
+msgid "Right sidebar content"
+msgstr "Contenu barre latérale droite"
+
+msgid "Bottom active"
+msgstr "Basse active"
+
+msgid "Bottom sidebar title"
+msgstr "Titre barre latérale basse"
+
+msgid "Bottom sidebar content"
+msgstr "Contenu barre latérale basse"
+
+msgid "Referral Settings"
+msgstr "Paramètres de parrainage"
+
+msgid "First deposit percentage to referral"
+msgstr "Pourcentage du premier dépôt en parrainage"
+
+msgid "SEO %s"
+msgstr "OMR %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Qu'est-ce que l'<b>OMR</b> / Optimisation du Moteur de Recherche?"
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or \"\"natural\"\" listings on search engines. All major search engines such as Google, Yahoo and Bing have such results, where web pages and other content such as videos or local listings are shown and "
+"ranked based on what the search engine considers most relevant to users. Payment is not involved, as it is with paid search ads.\""
+msgstr ""
+"OMR signifie \"Optimisation du Moteur de Recherche.\"\" Il s'agit du processus permettant d'obtenir du trafic à partir des listes \"\"gratuit,\"\" \"\"organique,\"\" \"\"éditorial\"\" ou \"\"naturel\"\" sur les moteurs de recherche. Tous les principaux moteurs de recherche tels que Google, Yahoo et Bing obtiennent des résultats là où des pages web "
+"et autres contenus tels que des vidéos ou des listes locales sont affichés et classés en fonction de ce que le moteur de recherche considère comme le plus pertinent pour les utilisateurs. Aucun paiement n'est impliqué comme il le serait avec des annonces de recherche payées. \""
+
+msgid "Title tag"
+msgstr "Tag de titre"
+
+msgid "Keywords"
+msgstr "Mots-clés"
+
+msgid "Reply to email"
+msgstr "Répondre à l'e-mail"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Bot content revisit time"
+msgstr "Temps de réobservation du contenu du bot"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Tickets %s"
+msgstr "Tickets %s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "Le ticket général contrôle certaines des configurations les plus élémentaires liées aux tickets et aux fonctions d'impression."
+
+msgid "Ticket printing"
+msgstr "Impression du ticket"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "Activer (Oui) ou désactiver (Non) l'impression de tickets pour les utilisateurs et le personnel."
+
+msgid "Ticket preview"
+msgstr "Prévisualiser le ticket"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "Activer (Oui) ou désactiver (Non) la prévisualisation du ticket avant de le placer."
+
+msgid "Warnings %s"
+msgstr "Alertes %s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "Les paramètres d'avertissement vous aideraient à filtrer l'écran d'avertissement avec des alertes inutiles. S'il vous plaît considérer ce qui est crucial pour vous sportsbook et utiliser cette fonction pour sécuriser votre profit."
+
+msgid "Deposit alert"
+msgstr "Alerte de dépôt"
+
+msgid "Withdraw alert"
+msgstr "Alerte de retrait"
+
+msgid "Stake alert"
+msgstr "Alerte de tapis"
+
+msgid "Odds alert"
+msgstr "Alerte de cotes"
+
+msgid "Potential winning alert"
+msgstr "Alerte de gains potentiels"
+
+msgid "Allow withdraws"
+msgstr "Autoriser les retraits"
+
+msgid "Withdraw %s"
+msgstr "Retrait %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Veuillez configurer la gestion des risques de retrait ci-dessous:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Montant minimum pour une demande de retrait"
+
+msgid "Highest amount for withdraw request"
+msgstr "Montant maximum pour une demande de retrait"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Leagues"
+msgstr "Ligues"
+
+msgid "View %s"
+msgstr "Consulter %s"
+
+msgid "Ticket Number"
+msgstr "Numéro du ticket"
+
+msgid "Return"
+msgstr "Retour"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Le ticket sera supprimé. Êtes-vous sûr(e) de vouloir supprimer?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Le ticket sera annulé. Êtes-vous sûr(e) de vouloir annuler?"
+
+msgid "Insert Result"
+msgstr "Insérer le résultat"
+
+msgid "Fund user"
+msgstr "Approvisionner l'utilisateur"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 %s"
+msgstr "Pour approvisionner, saisissez simplement le montant dans le champ de saisie et appuyez sur soumettre. Par exemple, si vous souhaitez approvisionner, créditez simplement l'utilisateur de 100 %s"
+
+msgid " just enter that amount into field and press submit"
+msgstr " saisissez ce montant dans le champ et appuyez sur soumettre"
+
+msgid "Charge user"
+msgstr "Débiter l'utilisateur"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200"
+msgstr "Pour débiter, saisissez le montant et l'argent sera déduit du compte du joueur. Par exemple, si vous souhaitez débiter, créditez simplement l'utilisateur de 200"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "USD saisissez ce montant dans le champ et appuyez sur soumettre"
+
+msgid "Add %s"
+msgstr "Ajouter %s"
+
+msgid "Registration chart"
+msgstr "Charte d'inscription"
+
+msgid "KYC user"
+msgstr "Utilisateur KYC"
+
+msgid "KYC Documents"
+msgstr "Documents KYC"
+
+msgid "Change KYC Status"
+msgstr "Changer le statut KYC"
+
+msgid "Deposits Bonus History"
+msgstr "Historique des bonus de dépôt"
+
+msgid "Sum"
+msgstr "Somme"
+
+msgid "Affiliates"
+msgstr "Affiliés"
+
+msgid "Kick"
+msgstr "Expulser"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "L'e-mail a été confirmé. Vous pouvez à présent vous connecter."
+
+msgid "Register now!"
+msgstr "Inscrivez-vous dès maintenant!"
+
+msgid "Forgotten your password?"
+msgstr "Vous avez oublié votre mot de passe?"
+
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Bank info"
+msgstr "Informations bancaires"
+
+msgid "Please provide your bank info"
+msgstr "Veuillez nous fournir vos informations bancaires"
+
+msgid "Account number"
+msgstr "Numéro de compte"
+
+msgid "Transaction"
+msgstr "Transaction"
+
+msgid "User Balance"
+msgstr "Solde utilisateur"
+
+msgid "Please enter your surname"
+msgstr "Veuillez saisir votre nom"
+
+msgid "Please enter your first name"
+msgstr "Veuillez saisir votre prénom"
+
+msgid "Please enter your address"
+msgstr "Veuillez saisir votre adresse"
+
+msgid "Please enter your Region"
+msgstr "Veuillez saisir votre région"
+
+msgid "Please enter your City of residence"
+msgstr "Veuillez saisir votre ville de résidence"
+
+msgid "Alphabets and numbers only"
+msgstr "Alphabets et nombres uniquement"
+
+msgid "Between 5 to 15 characters"
+msgstr "De 5 à 15 caractères"
+
+msgid "This username has already been taken."
+msgstr "Cet identifiant est déjà pris."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Le mot de passe doit comprendre de 6 à 15 caractères"
+
+msgid "Password must contain at least one number"
+msgstr "Le mot de passe doit contenir au moins un chiffre"
+
+msgid "Password must contain at least one letter"
+msgstr "Le mot de passe doit contenir au moins une lettre"
+
+msgid "Please enter valid email address"
+msgstr "Veuillez saisir une adresse e-mail valide"
+
+msgid "This email has already been registered."
+msgstr "Cet e-mail a déjà été enregistré."
+
+msgid "Please enter your name"
+msgstr "Veuillez saisir votre prénom"
+
+msgid "Please enter your street address"
+msgstr "Veuillez saisir votre adresse"
+
+msgid "Please enter city"
+msgstr "Veuillez saisir une ville"
+
+msgid "Please enter country"
+msgstr "Veuillez saisir un pays"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "L'utilisateur doit avoir au moins 21 ans pour pouvoir s'inscrire"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "L'utilisateur doit avoir au moins 18 ans pour pouvoir s'inscrire"
+
+msgid "Please enter valid mobile number"
+msgstr "Veuillez saisir un numéro de mobile valide"
+
+msgid "Please your personal question"
+msgstr "Veuillez saisir votre question personnelle"
+
+msgid "Please enter valid answer"
+msgstr "Veuillez saisir une réponse valide"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Vous devez accepter les Conditions d'Utilisation pour pouvoir vous inscrire."
+
+msgid "This field cannot be left blank"
+msgstr "Ce champ ne peut être laissé vierge"
+
+msgid "Mimimum 5 characters long"
+msgstr "Au moins 5 caractères de long"
+
+msgid "The username should be different from email"
+msgstr "L'identifiant doit être différent de l'adresse e-mail"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Le mot de passe doit comprendre de 8 à 15 caractères"
+
+msgid "The Password has to be different from username."
+msgstr "Le mot de passe doit être différent de l'identifiant."
+
+msgid "It seems that you are already registered."
+msgstr "Il semble que vous êtes déjà enregistré(e)."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Veuillez saisir votre adresse postale ou l'adresse postale n'existe pas"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Le paramètre de débogage ne permet l'accès à cet url."
+
+msgid "Match odds"
+msgstr "Cotes du match"
+
+msgid "Remaining match"
+msgstr "Match restant"
+
+msgid "Next Goal"
+msgstr "Prochain but"
+
+msgid "Total Goals +/-"
+msgstr "Buts totaux +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Cotes du match (1 2)"
+
+msgid "Set 1 2"
+msgstr "Set 1 2"
+
+msgid "Set Score"
+msgstr "Score du set"
+
+msgid "Sets Overall"
+msgstr "Sets en général"
+
+msgid "Total Points +/-"
+msgstr "Points totaux +/-"
+
+msgid "Goals from now +/-"
+msgstr "Buts à partir de maintenant +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Cotes du match (1x2)"
+
+msgid "1 hour"
+msgstr "1 heure"
+
+msgid "2 hours"
+msgstr "2 heures"
+
+msgid "3 hours"
+msgstr "3 heures"
+
+msgid "Time"
+msgstr "Durée"
+
+msgid "LIVE"
+msgstr "LIVE"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "Click on team name for extra bets"
+msgstr "Cliquez sur le nom de l'équipe pour des paris supplémentaires"
+
+msgid "Upcoming Live Matches"
+msgstr "Matchs live à venir"
+
+msgid "Login For"
+msgstr "Se connecter pour"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "Bet Slip"
+msgstr "Pari combiné"
+
+msgid "open"
+msgstr "ouvert"
+
+msgid "Sport Bets"
+msgstr "Paris sportifs"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Formidables cotes sur le football, le tennis, le hockey sur glace et bien d'autres"
+
+msgid "Number of Bets Placed:"
+msgstr "Nombre de paris placés:"
+
+msgid "Max Wager for bets:"
+msgstr "Mise max. pour les paris:"
+
+msgid "Wager:"
+msgstr "Mise:"
+
+msgid "Max Payout:"
+msgstr "Gain max:"
+
+msgid "All games / All events"
+msgstr "Tous les matchs / Tous les événements"
+
+msgid "All games at one look, all normal sports and all odds can be combined."
+msgstr "Tous les matchs en un coup d'œil, tous les sports classiques et toutes les cotes peuvent se combiner."
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "Profitez dès maintenant de ce service innovant. Des matchs en direct inédits! Bonne chance !"
+
+msgid "more groups"
+msgstr "plus de groupes"
+
+msgid "Draw no Bet Period"
+msgstr "Période de nul écarté"
+
+msgid "Total x Period"
+msgstr "Total période x"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Configurer les limites de dépôt sur votre compte"
+
+msgid "Play Session Limit"
+msgstr "Jouer en session limitée"
+
+msgid "Wager Limit"
+msgstr "Limite de mise"
+
+msgid "Loss Limit"
+msgstr "Limite de pertes"
+
+msgid "Self Exclusion"
+msgstr "Auto-exclusion"
+
+msgid "DELETE ACCOUNT"
+msgstr "SUPPRIMER COMPTE"
+
+msgid "Per Transaction"
+msgstr "Par transaction"
+
+msgid "Daily"
+msgstr "Par jour"
+
+msgid "Weekly"
+msgstr "Par semaine"
+
+msgid "Monthly"
+msgstr "Par mois"
+
+msgid "No Limit"
+msgstr "Aucune limite"
+
+msgid "After %s minutes"
+msgstr "Après %s minutes"
+
+msgid "After one Hour"
+msgstr "Après une heure"
+
+msgid "After two Hours"
+msgstr "Après deux heures"
+
+msgid "Login For:"
+msgstr "Se connecter pour:"
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "Vous avez joué pendant %s minutes au cours desquelles vous avez : <br>déposé € %s <br>misé € %s <br>perdu € %s <brgagné € %s"
+
+msgid "Outdated Browser Detected"
+msgstr "Navigateur obsolète détecté"
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "Notre site web a détecté que vous utilisez un navigateur obsolète. Utiliser votre navigateur actuel vous empêchera de profiter de certaines fonctionnalités de notre site Une mise à jour n'est pas obligatoire, mais est fortement recommandée pour améliorer votre expérience de navigation sur notre site."
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "Utilisez les liens ci-dessous pour télécharger un nouveau navigateur ou mettre à jour votre navigateur existant."
+
+msgid "Remind me later"
+msgstr "Me le rappeler plus tard"
+
+msgid "No available Bonuses."
+msgstr "Aucun bonus disponible."
+
+msgid "Available Bonuses."
+msgstr "Bonus disponibles."
+
+msgid "Locked Amount"
+msgstr "Somme bloquée"
+
+msgid "Opened on"
+msgstr "Ouvert le"
+
+msgid "Activation Date"
+msgstr "Date d'activation"
+
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+msgid "Account Information"
+msgstr "Information du compte"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "Résultats Tableaux Agendas et Scores en direct pour toutes les ligues et événements"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Jouez à la roulette, au BlackJack et au Baccarat au Casino Live"
+
+msgid "Identity Card (back view)"
+msgstr "Carte d'identité (vue arrière)"
+
+msgid "Identity Card (front view)"
+msgstr "Carte d'identité (vue avant)"
+
+msgid "Bank Account"
+msgstr "Compte bancaire"
+
+msgid "Register now and get bonus"
+msgstr "Inscrivez-vous maintenant et recevez prime"
+
+msgid "Top Winner"
+msgstr "Grand vainqueur"
+
+msgid "close"
+msgstr "fermer"
+
+msgid "hours"
+msgstr "heures"
+
+msgid "Instant Play"
+msgstr "Jeu instantané"
+
+msgid "Live Video Streaming"
+msgstr "Streaming vidéo en direct"
+
+msgid "Betslip Wagering"
+msgstr "Mise Betslip"
+
+msgid "Ticket Win"
+msgstr "Gain ticket"
+
+msgid "Bonus Cancellation by user."
+msgstr "Annulation du bonus par l'utilisateur."
+
+msgid "Bonus activation"
+msgstr "Activation du bonus"
+
+msgid "APCO Deposit"
+msgstr "Dépôt APCO"
+
+msgid "Account Deposit"
+msgstr "Dépôt sur le compte"
+
+msgid "Live Casino Transaction"
+msgstr "Transaction Casino Live"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Transaction RollBack Casino Live"
+
+msgid "in every game"
+msgstr "dans chaque jeu"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Log in"
+msgstr "Se connecter"
+
+msgid "Stake:"
+msgstr "Mise:"
+
+msgid "View Tickets"
+msgstr "Consulter tickets"
+
+msgid "Number of Bets Placed: "
+msgstr "Nombre de paris placés: "
+
+msgid "Max Wager for bets: "
+msgstr "Mise max. pour les paris: "
+
+msgid "bets"
+msgstr "paris"
+
+msgid "Admin add Funds"
+msgstr "Admin. ajoute fonds"
+
+msgid "Bonus activation:"
+msgstr "Activation du bonus:"
+
+msgid "APCO Deposit:"
+msgstr "Dépôt APCO:"
+
+msgid "Withdrawal"
+msgstr "Retrait"
+
+msgid "Betslip Cancellation:"
+msgstr "Annulation du Betslip:"
+
+msgid "Cancelled WithDrawal"
+msgstr "Retrait annulé"
+
+msgid "Ticket Cancelled"
+msgstr "Ticket annulé"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Bet Split"
+msgstr "Pari scindé"
+
+msgid "The Company"
+msgstr "La Société"
+
+msgid "Help & Legal"
+msgstr "Aide et Mentions légales"
+
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+msgid "Payment Options"
+msgstr "Méthodes de paiement"
+
+msgid "Extra Bets"
+msgstr "Paris extra"
+
+msgid "No, don't remind me again"
+msgstr "Non, ne plus me le rappeler"
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "Choisissez votre ligue préférée dans le menu à gauche. Ainsi vous pourrez la retrouver lors de votre prochaine visite"
+
+msgid "3 Way"
+msgstr "3 Way"
+
+msgid "2 Way"
+msgstr "2 Way"
+
+msgid "Totals"
+msgstr "Totaux"
+
+msgid "Championship Outrights"
+msgstr "Championnats"
+
+msgid "Short Term Outrights"
+msgstr "Compétitions à court terme"
+
+msgid "Podium Finish"
+msgstr "Podiums"
+
+msgid "3-balls"
+msgstr "3 balles"
+
+msgid "Correct score"
+msgstr "Score exact"
+
+msgid "First Team to score"
+msgstr "Première équipe à marquer"
+
+msgid "1st Half - 1X2"
+msgstr "1ère mi-temps - 1X2"
+
+msgid "Both Teams to Score"
+msgstr "Les deux équipes marquent"
+
+msgid "Odd/Even goals"
+msgstr "Buts pairs/impairs"
+
+msgid "Draw no bet"
+msgstr "Match nul écarté"
+
+msgid "Goals home team"
+msgstr "Buts équipe hôte"
+
+msgid "Goals away team"
+msgstr "Buts équipe visiteuse"
+
+msgid "Asian Handicap"
+msgstr "Handicap asiatique"
+
+msgid "Asian Total"
+msgstr "Total asiatique"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1ère mi-temps - Handicap asiatique"
+
+msgid "1st Half - Asian Total"
+msgstr "1ère mi-temps - Total asiatique"
+
+msgid "European Handicap"
+msgstr "Handicap européen"
+
+msgid "First goalscorer"
+msgstr "Premier buteur"
+
+msgid "Total Goals (aggregated)"
+msgstr "Buts au total (score cumulé)"
+
+msgid "1st Half - Correct Score"
+msgstr "1ère mi-temps - Score exact"
+
+msgid "Highest scoring half"
+msgstr "Mi-temps la plus prolifique"
+
+msgid "Matchbet + Totals"
+msgstr "Paris match + Totaux"
+
+msgid "Matchflow"
+msgstr "Matchflow"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1ère mi-temps - Buts pairs/impairs"
+
+msgid "Overtime yes/no"
+msgstr "Prolongation Oui/Non"
+
+msgid "Winning margins"
+msgstr "Marges gagnantes"
+
+msgid "Anytime goalscorer"
+msgstr "Buteur à tout moment"
+
+msgid "Total number of bookings"
+msgstr "Nombre total d'avertissements"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1ère mi-temps - Nombre total d'avertissements"
+
+msgid "Total number of booking points"
+msgstr "Nombre total de points d'avertissements"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1ère mi-temps - Nombre total de points d'avertissements"
+
+msgid "Player sent off?"
+msgstr "Joueur expulsé?"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1ère mi-temps - Joueur expulsé?"
+
+msgid "Number of bookings home"
+msgstr "Nombre d'avertissement domicile"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1ère mi-temps - Nombre d'avertissements domicile"
+
+msgid "Number of bookings away"
+msgstr "Nombre d'avertissements extérieur"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1ère mi-temps - Nombre d'avertissements extérieur"
+
+msgid "First Team Booked"
+msgstr "Première équipe avertie"
+
+msgid "1st Half - First Team Booked"
+msgstr "1ère mi-temps - Première équipe enregistrée"
+
+msgid "Match bookings"
+msgstr "Avertissements match"
+
+msgid "1st Half - Match Bookings"
+msgstr "1ère mi-temps - Avertissements match"
+
+msgid "Aggregated booking points"
+msgstr "Points d'avertissements cumulés"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1ère mi-temps - Points de réservation agrégés"
+
+msgid "Exact bookings"
+msgstr "Avertissements exacts"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1ère mi-temps - Avertissements exacts"
+
+msgid "Home Team Player Sent Off"
+msgstr "Joueur équipe hôte exclu"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1ère  mi-temps - Accueil Équipe Joueur expulsé"
+
+msgid "Away Team Player Sent Off"
+msgstr "Joueur équipe visiteuse exclu"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1ère mi-temps - Équipe extérieure Joueur expulsé"
+
+msgid "Total Goals (exact)"
+msgstr "Buts au total (score exact)"
+
+msgid "2nd Half - 1X2"
+msgstr "2e mi-temps - 1X2"
+
+msgid "2nd Half - Asian Total"
+msgstr "2e mi-temps - Total asiatique"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2e mi-temps - Handicap asiatique"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Score exact à la mi-temps/fin du match"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Prolongation + but Oui/Non"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Séance de tirs au but Oui/Non"
+
+msgid "How will the match be decided?"
+msgstr "Comment le match se décidera-t-il?"
+
+msgid "Clean sheet home team"
+msgstr "Clean sheet équipe hôte"
+
+msgid "Clean sheet away team"
+msgstr "Clean sheet équipe visiteuse"
+
+msgid "Which team to score"
+msgstr "Quelle équipe va marquer"
+
+msgid "1st Half - Total Goals"
+msgstr "1ère mi-temps - Buts totaux"
+
+msgid "2nd Half - Total Goals"
+msgstr "2e mi-temps - Buts totaux"
+
+msgid "Total corners"
+msgstr "Corners totaux"
+
+msgid "1st Half - Total Corners"
+msgstr "1ère mi-temps - Total Corners"
+
+msgid "Corner handicap"
+msgstr "Handicap corner"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1ère mi-temps - Handicap d'angle"
+
+msgid "Corner matchbet"
+msgstr "Paris match corner"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1ère mi-temps - Paris match corner"
+
+msgid "Corner Odd/Even"
+msgstr "Corner pair/impair"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1er Demi - Corner Odd / Even"
+
+msgid "First corner"
+msgstr "Premier corner"
+
+msgid "1st Half - First Corner"
+msgstr "1ère mi-temps - Premier corner"
+
+msgid "Home Team Number of Corners"
+msgstr "Nombre de corners équipe hôte"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1ère mi-temps - Nombre de corners équipe hôte"
+
+msgid "1st Half - Totals"
+msgstr "1ère mi-temps - Totaux"
+
+msgid "2nd Half - Totals"
+msgstr "2e mi-temps - Totaux"
+
+msgid "Last corner"
+msgstr "Dernier corner"
+
+msgid "1st Half - Last Corner"
+msgstr "1ère mi-temps - Dernier corner"
+
+msgid "Away Team Number of Corners"
+msgstr "Nombre de corners équipe visiteuse"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1ère mi-temps - Nombre de corners équipe visiteuse"
+
+msgid "Last team to score"
+msgstr "Dernière équipe à marquer"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Total corners (cumulés)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1ère mi-temps - Total corners (cumulés)"
+
+msgid "Home to win both halves?"
+msgstr "Équipe hôte gagne les deux mi-temps?"
+
+msgid "Home to win either half?"
+msgstr "Équipe hôte gagne une des deux mi-temps?"
+
+msgid "Home to score in both halves?"
+msgstr "Équipe hôte marque dans les deux mi-temps?"
+
+msgid "Away to win both halves?"
+msgstr "Équipe visiteuse gagne les deux mi-temps?"
+
+msgid "Away to win either half?"
+msgstr "Équipe visiteuse gagne une des deux mi-temps?"
+
+msgid "Away to score in both halves?"
+msgstr "Équipe visiteuse marque dans les deux mi-temps?"
+
+msgid "Both halves over 1.5?"
+msgstr "Deux mi-temps au-dessus de 1,5?"
+
+msgid "Both halves under 1.5?"
+msgstr "Deux mi-temps en-dessous de 1,5?"
+
+msgid "1st Half Double Chance"
+msgstr "Double chance 1ère mi-temps"
+
+msgid "1st Half Draw no Bet"
+msgstr "Match nul écarté 1ère mi-temps"
+
+msgid "First goal interval 10 min"
+msgstr "Intervalle premier but 10 min"
+
+msgid "First goal interval 15 min"
+msgstr "Intervalle premier but 15 min"
+
+msgid "First 10 minutes -3 way"
+msgstr "Premières 10 minutes -3 way"
+
+msgid "1st Half - Both Teams to score"
+msgstr "1ère mi-temps - Les deux equipes marquent"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2e mi-temps - Les deux équipes marquent"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Mi-temps la plus prolifique équipe hôte"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Mi-temps la plus prolifique équipe visiteuse"
+
+msgid "Correct score (incl. other)"
+msgstr "Score exact (retour incl.)"
+
+msgid "Odd/Even Points"
+msgstr "Points pairs/impairs"
+
+msgid "Points Spreads"
+msgstr "Écarts points"
+
+msgid "Total Spreads"
+msgstr "Écarts totaux"
+
+msgid "1st Half - Points Spread"
+msgstr "1ère mi-temps - Écarts points"
+
+msgid "1st Half - Total Spread"
+msgstr "1ère mi-temps - Écarts totaux"
+
+msgid "Matchbet and Totals"
+msgstr "Paris match et Totaux"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1ère mi-temps - Points pairs/impairs"
+
+msgid "1st Half - 2way"
+msgstr "1ère mi-temps - 2 way"
+
+msgid "Highest Scoring Quarter"
+msgstr "Quart temps la plus prolifique"
+
+msgid "3way"
+msgstr "3 way"
+
+msgid "2nd Half - Points Spread"
+msgstr "2e mi-temps - Écarts points"
+
+msgid "2nd Half - Total Spread"
+msgstr "2e mi-temps - Écarts totaux"
+
+msgid "1st Half - Draw no bet"
+msgstr "1ère mi-temps - Draw no bet"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2e mi-temps - Points pairs/impairs"
+
+msgid "2nd Half - Draw no bet"
+msgstr "2e mi-temps - Match nul écarté"
+
+msgid "Total margins NBA-ranges"
+msgstr "Marges totales séries NBA"
+
+msgid "Total margins Regular-ranges"
+msgstr "Marges totales séries normales"
+
+msgid "Totals away team"
+msgstr "Totaux équipe visiteuse"
+
+msgid "Totals home team"
+msgstr "Totaux équipe hôte"
+
+msgid "1st Quarter - 1X2"
+msgstr "1er quart temps - 1X2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2e quart temps - 1X2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3e quart temps - 1X2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4e quart temps - 1X2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1er quart temps -  Draw no bet"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2e quart temps - Match nul écarté"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3e quart temps - Match nul écarté"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4e quart temps - Match nul écarté"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1er quart temps - Écart total"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2e quart temps - Écart total"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3e quart temps - Écart total"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4e quart temps - Écart total"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1er quart temps - Écarts points"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2e quart temps - Écarts points"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3e quart temps - Écarts points"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4e quart temps - Écarts points"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1er quart temps - Points pairs/impairs"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2e quart temps - Points pairs/impairs"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3e quart temps - Points pairs/impairs"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4e quart temps - Points pairs/impairs"
+
+msgid "First to x points"
+msgstr "Premier à x points"
+
+msgid "Total AAMS"
+msgstr "Total AAMS"
+
+msgid "Total 3way"
+msgstr "Total 3 way"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Écarts points (prolongation)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Écarts totaux (prolongation)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Séries paires/impaires (prolongation)"
+
+msgid "Correct Score"
+msgstr "Score exact"
+
+msgid "Both teams to score?"
+msgstr "Les deux equipes marquent?"
+
+msgid "Goal Spreads"
+msgstr "Écarts buts"
+
+msgid "1st Period - 3way"
+msgstr "1ère période - 3 way"
+
+msgid "3rd Period - 3way"
+msgstr "3e période - 3 way"
+
+msgid "1st Period – Total"
+msgstr "1ère période - Total"
+
+msgid "2nd Period – Total"
+msgstr "2e période – Total"
+
+msgid "3rd Period – Total"
+msgstr "3e période – Total"
+
+msgid "1st Period - Double Chance"
+msgstr "1ère période - Double Chance"
+
+msgid "2nd Period - Double Chance"
+msgstr "2e période - Double Chance"
+
+msgid "3rd Period - Double Chance"
+msgstr "3e période - Double Chance"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Buts pairs/impairs (prolongation et tirs aux buts incl.)"
+
+msgid "Highest Scoring Period"
+msgstr "Période la plus prolifique"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Écarts buts (prolongation incl.)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Écarts totaux (prolongation incl.)"
+
+msgid "Last team to Score"
+msgstr "Dernière équipe à marquer"
+
+msgid "2nd Period - 3way"
+msgstr "2e période - 3 way"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1ère période - Buts pairs/impairs"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2e période - Buts pairs/impairs"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3e période - Buts pairs/impairs"
+
+msgid "1st Period - Draw no bet"
+msgstr "1ère période - Draw no bet"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2e période - Match nul écarté"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3e période - Match nul écarté"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2e période - Les deux équipes marquent"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3e période - Les deux équipes marquent"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1ère période\" - Objectifs"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2e période - Écarts buts"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3e période - Écarts buts"
+
+msgid "2nd Period - First team to score"
+msgstr "2e période - Première équipe à marquer"
+
+msgid "3rd Period - First team to score"
+msgstr "3e période - Première équipe à marquer"
+
+msgid "1st Period - Last team to score"
+msgstr "1ère période - Dernière équipe à marquer"
+
+msgid "2nd Period - Last team to score"
+msgstr "2e période - Dernière équipe à marquer"
+
+msgid "3rd Period - Last team to score"
+msgstr "3e période - Dernière équipe à marquer"
+
+msgid "1st Period - Both teams to score"
+msgstr "1ère période - Les deux equipes marquent"
+
+msgid "Totals (incl. OT)"
+msgstr "Totaux (prolongation incl.)"
+
+msgid "2way (incl. OT)"
+msgstr "2 way (prolongation incl.)"
+
+msgid "1st Set Winner"
+msgstr "Vainqueur du 1er set"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Nombre total de sets (au meilleur des 3)"
+
+msgid "2nd Set Winner"
+msgstr "Vainqueur du 2e set"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Nombre total de sets (au meilleur des 5)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Score exact des sets (au meilleur des 3 sets)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Score exact des sets (au meilleur des 5 sets)"
+
+msgid "1st Half - 3way"
+msgstr "1ère mi-temps - 3 way"
+
+msgid "Halftime / Fulltime"
+msgstr "Mi-temps/Fin du match"
+
+msgid "Odd / Even Goals"
+msgstr "Buts pairs/impairs"
+
+msgid "1st Half - Goal Spread"
+msgstr "1ère mi-temps - Écart buts"
+
+msgid "2nd half - 3way"
+msgstr "2e mi-temps - 3 way"
+
+msgid "1st half - Double Chance"
+msgstr "1ère mi-temps - Double Chance"
+
+msgid "1st half - Draw no bet"
+msgstr "1ère mi-temps - Draw no bet"
+
+msgid "1st Half - Odd / Even"
+msgstr "1ère mi-temps - Pair/impair"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2e mi-temps - Pair/impair"
+
+msgid "2nd half - Draw no bet"
+msgstr "2e mi-temps - Match nul écarté"
+
+msgid "2nd half - Double Chance"
+msgstr "2e mi-temps - Double Chance"
+
+msgid "Points Spread"
+msgstr "Écart points"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Marges gagnantes Rugby Union"
+
+msgid "Winning Margins Rugby League"
+msgstr "Marges gagnantes Rugby League"
+
+msgid "1st Half - Points Spreads"
+msgstr "1ère mi-temps - Écarts points"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1ère mi-temps - Points pairs/impairs"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Points pairs/impairs (prolongation)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2e mi-temps - Écarts points (prolongation incl.)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2e mi-temps - Écarts totaux (prolongation incl.)"
+
+msgid "Who wins first set"
+msgstr "Qui remporte le premier set"
+
+msgid "Who wins second set"
+msgstr "Qui remporte le deuxième set"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Nombre total de sets (au meilleur des 5)"
+
+msgid "Correct Set Score"
+msgstr "Score exact des sets"
+
+msgid "How many sets will exceed score limit?"
+msgstr "Combien de sets excéderont le score limite?"
+
+msgid "1st Set Handicap"
+msgstr "Handicap 1er set"
+
+msgid "1st Set Total"
+msgstr "Total 1er set"
+
+msgid "1st Set Race to X"
+msgstr "1er set de course à X"
+
+msgid "1st Set Odd/even"
+msgstr "1ère pair/impair"
+
+msgid "Who wins third set"
+msgstr "Qui remporte le troisième set"
+
+msgid "Who wins fourth set"
+msgstr "Qui remporte le quatrième set"
+
+msgid "Who wins fifth set"
+msgstr "Qui remporte le cinquième set"
+
+msgid "5th Set Played?"
+msgstr "5ème jeu joué?"
+
+msgid "4th Set Played?"
+msgstr "4ème set joué?"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Nombre total de sets (au meilleur des 3)"
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Over"
+msgstr "Plus"
+
+msgid "Under"
+msgstr "Moins"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "goals"
+msgstr "buts"
+
+msgid "Goals"
+msgstr "Buts"
+
+msgid "Under and home"
+msgstr "Moins et hôte"
+
+msgid "Under and draw"
+msgstr "Moins et nul"
+
+msgid "Under and away"
+msgstr "Moins et visiteur"
+
+msgid "1st"
+msgstr "1er"
+
+msgid "2nd"
+msgstr "2e"
+
+msgid "Equal"
+msgstr "Égal"
+
+msgid "Hometeam scores first and home"
+msgstr "Équipe hôte marque en premier et hôte"
+
+msgid "Hometeam scores first and draw"
+msgstr "Équipe hôte marque en premier et nul"
+
+msgid "Hometeam scores first and away"
+msgstr "Équipe hôte marque en premier et visiteur"
+
+msgid "Awayteam scores first and home"
+msgstr "Équipe visiteuse marque en premier et hôte"
+
+msgid "Awayteam scores first and draw"
+msgstr "Équipe visiteuse marque en premier et nul"
+
+msgid "Awayteam scores first and away"
+msgstr "Équipe visiteuse marque en premier et visiteur"
+
+msgid "Odd"
+msgstr "Cote"
+
+msgid "Even"
+msgstr "Pair"
+
+msgid "Others"
+msgstr "Autres"
+
+msgid "Both teams"
+msgstr "Les deux équipes"
+
+msgid "Over and away"
+msgstr "Plus et visiteur"
+
+msgid "Over and draw"
+msgstr "Plus et nul"
+
+msgid "Over and home"
+msgstr "Plus et hôte"
+
+msgid "other"
+msgstr "autre"
+
+msgid "1st period"
+msgstr "1ère période"
+
+msgid "2nd period"
+msgstr "2e période"
+
+msgid "3rd period"
+msgstr "3e période"
+
+msgid "1 sets"
+msgstr "1 set"
+
+msgid "2 sets"
+msgstr "2 sets"
+
+msgid "3 sets"
+msgstr "3 sets"
+
+msgid "4 sets"
+msgstr "4 sets"
+
+msgid "5 sets"
+msgstr "5 sets"
+
+msgid "0 sets"
+msgstr "0 set"
+
+msgid "1st quarter"
+msgstr "1re quart temps"
+
+msgid "2nd quarter"
+msgstr "2e quart temps"
+
+msgid "3rd quarter"
+msgstr "3e quart temps"
+
+msgid "4th quarter"
+msgstr "4e quart temps"
+
+msgid "No goal"
+msgstr "Aucun but"
+
+msgid "Chat with Real Dealers"
+msgstr "Chattez avec de véritables croupiers"
+
+msgid "Play Now"
+msgstr "Jouez Maintenant"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgctxt ""
+msgid "Live Casino"
+msgstr "Casino En Direct"
+
+msgid "Promotions"
+msgstr "Promotions"
+
+msgid "More"
+msgstr "Autres"
+
+msgid "Banking"
+msgstr "Banque"
+
+msgid "Getting Started"
+msgstr "Démarrer"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Video Slots"
+msgstr "Machines a sous vidéo"
+
+msgid "Table Games"
+msgstr "Jeux de Table"
+
+msgid "Keno"
+msgstr "Keno"
+
+msgid "Reel Slot"
+msgstr "Reel Slot"
+
+msgid "Unique Game"
+msgstr "Jeux Unique"
+
+msgid "Video Poker"
+msgstr "Vidéo Poker"
+
+msgid "Scratch Cards"
+msgstr "Cartes Grattage"
+
+msgid "Virtual Games"
+msgstr "Jeux Virtuels"
+
+msgid "Filter by provider"
+msgstr "Filtrer par fournisseur"
+
+msgid "Name"
+msgstr "Prenom"
+
+msgid "Enter Name"
+msgstr "Entrez votre Nom"
+
+msgid "Enter name"
+msgstr "Entrez votre nom"
+
+msgid "Enter subject"
+msgstr "Entrez votre Sujet"
+
+msgid "Enter your message"
+msgstr "Entrez votre Message"
+
+msgid "Enter email"
+msgstr "Entrez votre Mail"
+
+msgid "Filter by company"
+msgstr "Filtrer par société"
+
+msgid "Find a game"
+msgstr "Trouver un jeu"
+
+msgid "There are %s more games awaiting you"
+msgstr "Il y'a %s de jeux qui vous attendent"
+
+msgid "Showing %s games of %s"
+msgstr "Affiche %s jeux sur %s"
+
+msgid "There are no games to show. Please try a different search and/or filter."
+msgstr "Il n'y a aucun jeu à afficher. Veuillez essayer une autre recherche et / ou un filtre."
+
+msgid "Play"
+msgstr "Jouer"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Partner"
+msgstr "Partenaire"
+
+msgid "General T&C"
+msgstr "T&C Général"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Create Account"
+msgstr "Créer un compte"
+
+msgid "Step"
+msgstr "Étape"
+
+msgid "Personal Information"
+msgstr "Informations personnelles"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "email"
+msgstr "e-mail"
+
+msgid "Confirm E-mail"
+msgstr "Confirmez votre e-mail"
+
+msgid "Zip/Postal Code"
+msgstr "Code Postal"
+
+msgid "Please Select"
+msgstr "Veuillez sélectionner"
+
+msgid "Male"
+msgstr "Homme"
+
+msgid "Female"
+msgstr "Femme"
+
+msgid "is required"
+msgstr "est requis"
+
+msgid "Emails do not match"
+msgstr "Les mails ne correspondent pas"
+
+msgid "Continue to step 2"
+msgstr "Passez à l'étape 2"
+
+msgid "Accept Terms And Conditions"
+msgstr "Accepter les termes et conditions"
+
+msgid "You need to accept the Terms Of Use to be able to register"
+msgstr "Vous devez accepter les conditions d'utilisation pour pouvoir vous inscrire"
+
+msgid "Your password does not match"
+msgstr "Vos mots de passe ne correspondent pas"
+
+msgid "Welcome to %s"
+msgstr "Bienvenue à %s"
+
+msgid "Your account has been created."
+msgstr "Votre compte a bien été créé."
+
+msgid "You must activate your account in order to login and start playing."
+msgstr "Vous devez activer votre compte pour vous connecter et commencer à jouer."
+
+msgid "Please look for your activation mail and click on the activation link."
+msgstr "Veuillez rechercher votre email d'activation et cliquer sur le lien d'activation."
+
+msgid "If you wish to change your e-mail address, please press the \"I have another e-mail address\"."
+msgstr "Si vous souhaitez modifier votre adresse e-mail, appuyez sur le boutton «J'ai une autre adresse e-mail»."
+
+msgid "If you cannot find your activation mail, you should check your junk, spam folder."
+msgstr "Si vous ne trouvez pas votre courrier d'activation, vous devriez vérifier votre dossier indésirable, spam."
+
+msgid "I have another email address."
+msgstr "J'ai une autre adresse e-mail."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Resend verification mail"
+msgstr "Renvoyer le courrier de validation"
+
+msgid "Need Help?"
+msgstr "Besoin d'aide?"
+
+msgid "20% Cashback"
+msgstr "20% Cashback"
+
+msgid "Special Promotions Every Week"
+msgstr "Promotions spéciales chaque semaine"
+
+msgid "FastCashout System"
+msgstr "Système de retrait rapide"
+
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié?"
+
+msgid "Change your password"
+msgstr "Changez votre mot de passe"
+
+msgid "Request password reset"
+msgstr "Demande de réinitialisation du mot de passe"
+
+msgid "Live Chat"
+msgstr "Live Chat"
+
+msgid "Deposit"
+msgstr "Dépôt"
+
+msgid "Personal Details"
+msgstr "Détails personnels"
+
+msgid "Account Statement"
+msgstr "Relevé de compte"
+
+msgid "Game History"
+msgstr "Historique du jeu"
+
+msgid "KYC"
+msgstr "KYC"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Responsible Gaming"
+msgstr "Jeu responsable"
+
+msgid "Withdraw"
+msgstr "Retrait"
+
+msgid "Deposit List"
+msgstr "Liste de dépôt"
+
+msgid "Total Deposits"
+msgstr "Total dépôts"
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "Completed"
+msgstr "Complété"
+
+msgid "Cancelled"
+msgstr "Annulé"
+
+msgid "Method"
+msgstr "Méthode"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Insert Date"
+msgstr "Insérer la date"
+
+msgid "Update Date"
+msgstr "Date de mise à jour"
+
+msgid "Update Details"
+msgstr "Détails de la mise à jour"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Credit"
+msgstr "Crédit"
+
+msgid "Debit"
+msgstr "Débit"
+
+msgid "Not available yet."
+msgstr "Pas encore disponible."
+
+msgid "Know your customer (KYC)"
+msgstr "Connaître son Client (KYC)"
+
+msgid "Upload Documents"
+msgstr "Télécharger des documents"
+
+msgid "Currency"
+msgstr "Devise"
+
+msgid "No Limits assigned yet"
+msgstr "Aucune limite assignée"
+
+msgid "Do not allow me to access my account for the next 7 days"
+msgstr "Ne me permettez pas d'accéder à mon compte pour les 7 prochains jours"
+
+msgid "Do not allow me to access my account for the next 6 months"
+msgstr "Ne me permettez pas d'accéder à mon compte pour les 6 prochains mois"
+
+msgid "Withdraw List"
+msgstr "Retirer la liste"
+
+msgid "Make Withdraw"
+msgstr "Effectuer un Retrait"
+
+msgid "Total Withdraws"
+msgstr "Retraits totaux"
+
+msgid "Request Withdraw"
+msgstr "Demande de retrait"
+
+msgid "Confirmation failed. Please re-send the confirmation code to your email."
+msgstr "Échec de la confirmation. Veuillez renvoyer le code de confirmation à votre email."
+
+msgid "Show more"
+msgstr "Afficher plus"
+
+msgid "Try it"
+msgstr "Essayez-le"
+
+msgid "Responsibility"
+msgstr "Responsabilité"
+
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+msgid "Gambling is fun and can be addictive"
+msgstr "Les jeux d'argent sont amusants mais peuvent être addictifs"
+
+msgid "Please play responsibly"
+msgstr "Veuillez jouer responsable"
+
+msgid "Game Payout Validation Security"
+msgstr "Sécurité de validation des paiements des gains"
+
+msgid "Play on any device"
+msgstr "Jouez sur tous les appareils"
+
+msgid "Manual Payment"
+msgstr "Paiement manuel"
+
+msgid "Real money player"
+msgstr "Joueur en mode réel"
+
+msgid "%s is an online casino that continuously strives to provide you with the best range of online slots from different suppliers, all in one place that is easy and fun to use."
+msgstr "%s est un casino en ligne qui fait tout pour vous fournir la meilleure sélection de machines à sous en ligne des différents fournisseurs, le tout dans un seul et même endroit facile et amusant à utiliser."
+
+msgid "Login Failed"
+msgstr "Échec de la connexion"
+
+msgid "Due to legal gaming restriction in your region we are unable to log you in."
+msgstr "En raison de la restriction juridique des jeux dans votre région, nous ne pouvons vous connecter."
+
+msgid "%s apologies for any inconvenience caused."
+msgstr "Chez %s, nous nous excusons pour tout inconvénient causé."
+
+msgid "For more information please contact our %ssupport 24/7%s."
+msgstr "Pour plus d'informations, contactez notre %ssupport 24/7%s."
+
+msgid "Enter your user name and e-mail address, a password reset mail will be sent to your e-mail address."
+msgstr "Entrez votre nom d'utilisateur et votre adresse électronique, un mail de réinitialisation de mot de passe sera envoyé à votre adresse e-mail."
+
+msgid "Please enter your new password"
+msgstr "Entrez votre nouveau mot de passe"
+
+msgid "Retype password"
+msgstr "Retapez le mot de passe"
+
+msgid "Thank you %s your password has been successfully changed."
+msgstr "Merci %s votre mot de passe a été changé avec succès."
+
+msgid "Your %s details are"
+msgstr "Vos détails sont"
+
+msgid "Please save your user name"
+msgstr "Veuillez enregistrer votre nom d'utilisateur"
+
+msgid "Done"
+msgstr "Terminé"
+
+msgid "Create your account today"
+msgstr "Créer votre compte"
+
+msgid "Signup now and get %s 150%s up to %s 1500 %s"
+msgstr "Inscrivez-vous maintenant et obtenez %s 150%s jusqu'à %s 1500 %s"
+
+msgid "Enjoy all %s our games %s on your %s mobile"
+msgstr "Profitez de tous %s nos jeux %s sur votre %s mobile"
+
+msgid "DEPOSIT BONUS %s 150%s up to %s 1500 %s"
+msgstr "BONUS DE DÉPÔT %s 150%s jusqu'à %s 1500 %s"
+
+msgid "Have an account already"
+msgstr "Avez-vous un compte déjà"
+
+msgid "The following descriptions will appear on your credit card or on your account statement: %s."
+msgstr "Les descriptions suivantes apparaîtront sur votre carte de crédit ou sur votre relevé de compte: %s."
+
+msgid "Successful Registration"
+msgstr "Inscription réussie"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Please update your e-mail address"
+msgstr "Veuillez mettre à jour votre adresse e-mail"
+
+msgid "Email sent"
+msgstr "Email envoyé"
+
+msgid "This e-mail address already exists"
+msgstr "Cette adresse email existe déja"
+
+msgid "Current E-mail"
+msgstr "E-mail actuel"
+
+msgid "New E-mail"
+msgstr "Nouveau E-mail"
+
+msgid "Confirm New E-mail"
+msgstr "Confirmer le Nouveau E-mail"
+
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Enter your username and password to confirm the update"
+msgstr "Entrez votre nom d'utilisateur et votre mot de passe pour confirmer la mise à jour"
+
+msgid "Thank you %s your email has been successfully changed. Please confirm the update from your email account."
+msgstr "Merci %s votre courriel a été changé avec succès. Veuillez confirmer la mise à jour à partir de votre compte de messagerie."
+
+msgid "Resend password reset email"
+msgstr "Renvoyer l'email de remise à zéro"
+
+msgid "Hello"
+msgstr "Salut"
+
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+msgid "Set new password for user %s"
+msgstr "Définir un nouveau mot de passe pour l'utilisateur %s"
+
+msgid "Join Now"
+msgstr "Inscrivez-Vous"
+
+msgid "Refund Policy"
+msgstr "Politique de remboursement"
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "Licensing"
+msgstr "Licence"
+
+msgid "%s is the seller and distributor."
+msgstr "%s est le vendeur et le distributeur."
+
+msgid "%s is owned and operated by Lsmedia Adv N.V Curacao and its wholly owned, Sprocess Limited 71-75 Shelton Street, Covent Garden, London, UK. WC2H 9JQ."
+msgstr "%s est détenue et exploitée par Lsmedia Adv N.V Curacao et sa propriété exclusive, Sprocess Limited 71-75 Shelton Street, Covent Garden, Londres, Royaume-Uni. WC2H 9JQ."
+
+msgid "%s operates under Master License No. 8048/JAZ, granted by the Government of Curaçao."
+msgstr "%s opère sous licence de maître n ° 8048 / JAZ, accordée par le gouvernement de Curaçao."
+
+msgid "%s operates under laws of Curacao No. curucao licence 8049/JAZ granted by the Government of Curaçao."
+msgstr "%s opère en vertu des lois de Curaçao No. curucao licence 8049 / JAZ accordées par le gouvernement de Curaçao."
+
+msgid "Account cannot be created."
+msgstr "Votre compte ne peut pas enregistré."
+
+msgid "Email is already taken!"
+msgstr "Cet email est déjà pris!"
+
+msgid "Username is already taken!"
+msgstr "Nom d'utilisateur déjà pris!"
+
+msgid "Choose your country"
+msgstr "Choisissez votre pays"
+
+msgid "Select your preferred payment method"
+msgstr "Sélectionnez votre mode de paiement préféré"
+
+msgid "Enter your deposit amount"
+msgstr "Entrez votre montant de dépôt"
+
+msgid "Amount is required."
+msgstr "Un Montant est requis."
+
+msgid "Amount is not a valid number."
+msgstr "Le montant n'est pas valide."
+
+msgid "Minimum deposit is %s."
+msgstr "Le dépôt minimum est de %s."
+
+msgid "Bonus Code"
+msgstr "Code Bonus"
+
+msgid "Continue"
+msgstr "Continuer"
+
+msgid "Deposit the amount of your choice to one of the banks below"
+msgstr "Déposez le montant de votre choix à l'une des banques ci-dessous"
+
+msgid "Please, select a country first!"
+msgstr "Veuillez sélectionner un pays en premier!"
+
+msgid "Please, select a payment method first!"
+msgstr "Veuillez sélectionner un mode de paiement en premier!"
+
+msgid "Save this card info from next time"
+msgstr "Enregistrez les informations de cette carte à partir de la prochaine fois"
+
+msgid "Enter CCV"
+msgstr "Entrez CCV"
+
+msgid "Expiration"
+msgstr "Date d'expiration"
+
+msgid "Enter card number"
+msgstr "Entrez le numéro de la carte"
+
+msgid "Card Number"
+msgstr "Numéro de carte"
+
+msgid "Select a Card"
+msgstr "Sélectionnez une carte"
+
+msgid "A password reset mail was sent to your e-mail address."
+msgstr "Un message de réinitialisation de mot de passe a été envoyé à votre adresse e-mail."
+
+msgid "You have just deposited money, %s thanks you and wish you good luck."
+msgstr "Vous venez de deposer de l'argent, Winner Million vous remercie et vous souhaitent bonne chance."
+
+msgid "You can start playing."
+msgstr "Vous pouvez commencer a jouer."
+
+msgid "Back to the games"
+msgstr "Revenir aux jeux"
+
+msgid "Your deposit failed."
+msgstr "Votre dépôt a échoué."
+
+msgid "Please try another credit card, or contact support."
+msgstr "Essayez une autre carte de crédit ou contactez le support."
+
+msgid "Contact Support"
+msgstr "Contactez le support"
+
+msgid "%s, you have no money in your balance"
+msgstr "%s, vous n'avez pas d'argent dans votre solde"
+
+msgid "Go to the CASHIER to make a deposit"
+msgstr "Aller à la CASHIER pour faire un dépôt"
+
+msgid "Enjoy Your Luck"
+msgstr "Profitez de votre chance"
+
+msgid "Change Email"
+msgstr "Changer l'e-mail"
+
+msgid "Contact by phone"
+msgstr "Contact par téléphone"
+
+msgid "In the event you need to reach a customer %s support person via phone, please dial %s"
+msgstr "Dans le cas où vous devez contacter un client %s par téléphone, composez %s"
+
+msgid "In order to make additional deposits, you have to verify your account by sending us your piece of identical recto verso, credit card recto verso (hiding the figures of the middle) as well as a note of telephone, gas, Electricity."
+msgstr "Afin de faire des depots supplementaires, il vous faut verifier votre compte en nous envoyant votre piece d identite recto verso, carte de credit recto verso(en cachant les chiffres du millieu) ainsi qu une note de telephone, gaz, Electricite, ou releve bancaire."
+
+msgid "You can send them to %s or upload your documents in the KYC section."
+msgstr "Vous pouvez les envoye a %s ou bien merci de telecharger vos documents dans la rubrique KYC."
+
+msgid "Thanking you in advance."
+msgstr "En vous remerciant par avance."
+
+msgid "The %s Team"
+msgstr "L'Équipe %s"
+
+msgid "Select your preferred deposit method"
+msgstr "Sélectionnez votre méthode de dépôt préférée"
+
+msgid "Select your preferred withdraw method"
+msgstr "Sélectionnez votre méthode de retrait préférée"
+
+msgid "No data to show."
+msgstr "Rien à montrer."
+
+msgid "I accept the Terms and Conditions"
+msgstr "J'accepte les Termes et Conditions"
+
+msgid "By clicking the Continue button you will be redirected to %s payment page."
+msgstr "En cliquant sur le bouton Continuer, vous serez redirigé vers la page de paiement %s."
+
+msgid "Form is invalid. Please check your inputs."
+msgstr "Le formulaire est invalide. S'il vous plaît vérifier vos entrées."
+
+msgid "Make sure you enter correct amount and accept the Terms and Conditions."
+msgstr "Assurez-vous de saisir le montant correct et d'accepter les Termes et Conditions."
+
+msgid "Your withdraw request failed."
+msgstr "Votre demande de retrait a échoué."
+
+msgid "Please try again or contact support."
+msgstr "Veuillez réessayer ou contacter le support."
+
+msgid "Security Code"
+msgstr "Code de Sécurité"
+
+msgid "%s Account"
+msgstr "Compte %s"
+
+msgid "Payoff Amount"
+msgstr "Montant du Paiement"
+
+msgid "Turnover Amount"
+msgstr "Montant du Chiffre d'affaires"
+
+msgid "Bonus Name"
+msgstr "Nom du Bonus"
+
+msgid "Activated"
+msgstr "Activé"
+
+msgid "Released"
+msgstr "Terminé"
+
+msgid "main_banner_1.jpg"
+msgstr "main_banner_1_fr_fr.jpg"
+
+msgid "main_banner_2.jpg"
+msgstr "main_banner_2_fr_fr.jpg"
+
+msgid "main_banner_3.jpg"
+msgstr "main_banner_3_fr_fr.jpg"
+
+msgid "Licencing"
+msgstr "Licence"
+
+msgid "Please fill out this field."
+msgstr "S'il vous plaît remplir ce champ."
+
+msgid "At Macao Spin Casino we give you high end, high class casino experience, best in class slots games with all the glamour."
+msgstr "Au Macao Spin Casino, nous vous offrons une expérience de casino haut de gamme et haut de gamme, ainsi que des jeux de machines à sous de premier ordre avec tout le glamour."
+
+msgid "Macao Spin Casino not only gives you a high-end experience in games, we also make sure we keep all of our players happy by giving them highest level customer service and satisfaction."
+msgstr "Macao Spin Casino vous offre non seulement une expérience haut de gamme dans les jeux, mais nous veillons également à ce que tous nos joueurs soient satisfaits en leur offrant un service et une satisfaction de la plus haute qualité."
+
+msgid "Macao Spin Casino also keep players' security and safety in mind. We are fully licensed by top renowned gambling authorities. All player data and personal details are totally safe and secure with us. We will never let you down."
+msgstr "Le casino Macao Spin tient également compte de la sécurité des joueurs. Nous sommes entièrement agréés par les plus grandes autorités de jeu renommées. Toutes les données et informations personnelles des joueurs sont totalement sûres avec nous. Nous ne vous laisserons jamais tomber."
+
+msgid "Macao Spin Casino is an online casino that continuously strives to provide you with the best range of online slots from different suppliers, all in one place that is easy and fun to use."
+msgstr "Macao Spin Casino est un casino en ligne qui s'efforce en permanence de vous proposer la meilleure gamme de machines à sous en ligne de différents fournisseurs, le tout dans un seul endroit facile et amusant à utiliser."
+
+msgid "Gambling is fun and can be addictive. Please play responsibly."
+msgstr "Le jeu est amusant et peut créer une dépendance. S'il vous plaît jouer de manière responsable."
+
+msgid "Macaospin (www.macaospin.com) is owned and operated by Macaospin ADV N.V. Curaçao © 2017."
+msgstr "Macaospin (www.macaospin.com) est détenu et exploité par Macaospin ADV N.V. Curaçao © 2017."
+
+msgid "Macaospin operates under Master License No. 1668/JAZ, granted by the Government of Curaçao."
+msgstr "Macaospin fonctionne sous la licence principale N° 1668/JAZ, accordée par le gouvernement de Curaçao."

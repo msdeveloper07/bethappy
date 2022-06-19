@@ -1,0 +1,3338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELYSiUM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-14 11:27+0300\n"
+"PO-Revision-Date: 2015-07-22 13:15+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+
+msgid "Your passwords does not much"
+msgstr "您的密码不相配"
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "您的帐户已建立。请确认您的电邮以进行登录。"
+
+msgid "Password changed"
+msgstr "密码已变更"
+
+msgid "Wrong old password. Please try again"
+msgstr "旧密码不正确。请再试一次。"
+
+msgid "Passwords do not match. Please try again"
+msgstr "密码不相配。请再试一次。"
+
+msgid "Account information updated."
+msgstr "帐户信息已更新。"
+
+msgid "Limits cancelled."
+msgstr "限制已取消。"
+
+msgid "Unable to cancel limit"
+msgstr "无法取消限制。"
+
+msgid "Limits updated."
+msgstr "限制已更新。"
+
+msgid "Limits not updated."
+msgstr "限制尚未更新。"
+
+msgid "You account has been deleted."
+msgstr "您的帐户已被删除。"
+
+msgid "Account settings updated."
+msgstr "帐户设置已更新。"
+
+msgid "Password reset link sent to your email"
+msgstr "密码重置链接已发送到您的电邮"
+
+msgid "E-mail not valid"
+msgstr "电邮无效"
+
+msgid "Promotional code successfully used"
+msgstr "促销代码已成功使用"
+
+msgid "Invalid promotional code"
+msgstr "促销代码无效"
+
+msgid "Confirm your email."
+msgstr "确认您的电邮。"
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "您的帐户被锁定。请重新设置您的密码"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "您的帐户已被永久删除"
+
+msgid "You are Already Logged in."
+msgstr "您已登录。"
+
+msgid "Wrong Password"
+msgstr "密码不正确"
+
+msgid "Username or password is incorrect"
+msgstr "用户名称或密码不正确。"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "职员%s (编号：%d) 要求存款到您的帐户。"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "用户%s (编号：%d) 的帐户已被贷记 %s"
+
+msgid "User %s is credited by %d %s"
+msgstr "用户 %s 被贷记 %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "职员 %s (编号：%d) 要求向您的帐户收费"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "用户 %s (编号：%d) 的帐户被扣除 %s"
+
+msgid "User %s is charged by %d %s"
+msgstr "用户 %s 已被扣除 %d %s"
+
+msgid "KYC Data Accepted"
+msgstr "已接受\"了解您的客户\"数据"
+
+msgid "Email successfully sent"
+msgstr "电邮成功发送"
+
+msgid "Cannot send email. Please try again."
+msgstr "电邮无法发送。请再试一次。"
+
+msgid "can't find"
+msgstr "无法找到"
+
+msgid "Changes saved"
+msgstr "变更已保存"
+
+msgid "This cannot be saved."
+msgstr "此无法保存。"
+
+msgid "Item added"
+msgstr "项目已新增"
+
+msgid "This cannot be added."
+msgstr "此无法新增。"
+
+msgid "Item deleted"
+msgstr "项目已删除"
+
+msgid "This cannot be deleted."
+msgstr "此无法删除。"
+
+msgid "Bet added"
+msgstr "赌注已新增"
+
+msgid "Error adding bet"
+msgstr "添加赌注错误"
+
+msgid "Lowest deposit amount is"
+msgstr "最低存款额是"
+
+msgid "Highest deposit amount is"
+msgstr "最高存款额是"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "您已到达每项交易的存款上限："
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "您已到达每天的存款上限："
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "您已到达每星期的存款上限："
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "您已到达每月的存款上限："
+
+msgid "Bonus code expired or wrong"
+msgstr "奖金代码已过期或不正确"
+
+msgid "Bonus code expired"
+msgstr "奖金代码已过期"
+
+msgid "Your amount is too low for bonus"
+msgstr "您想取得奖金的金额太低"
+
+msgid "Your amount is too high for bonus"
+msgstr "您想取得奖金的金额太高"
+
+msgid "User Terminated"
+msgstr "用户已终止"
+
+msgid "Completed"
+msgstr "完成"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Canceled"
+msgstr "取消"
+
+msgid "Statuses chart"
+msgstr "状态图"
+
+msgid "Amount chart"
+msgstr "金额图"
+
+msgid "Deposit not found!"
+msgstr "未有找到存款！"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "存款已被标记为 \"完成\"\"！\""
+
+msgid "Deposit request set as completed"
+msgstr "存款请求设置为完成"
+
+msgid "Deposit request canceled"
+msgstr "存款请求取消"
+
+msgid "Money transaction completed"
+msgstr "货币交易已完成"
+
+msgid "Select Event"
+msgstr "选择赛事"
+
+msgid "No search results found"
+msgstr "没有相关搜索结果"
+
+msgid "Permissions updated"
+msgstr "权限已更新"
+
+msgid "Your request is accepted."
+msgstr "您的请求已被接纳。"
+
+msgid "Language already exist"
+msgstr "语言已存在"
+
+msgid "can't delete item"
+msgstr "无法删除项目"
+
+msgid "Emails successfully sent"
+msgstr "电邮已成功发送"
+
+msgid "Please enter event result"
+msgstr "请输入赛事结果"
+
+msgid "Results updated"
+msgstr "结果已更新"
+
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+msgid "can't save settings."
+msgstr "无法保存设置。"
+
+msgid "Types chart"
+msgstr "图表类型"
+
+msgid "Cannot find ticket with id:"
+msgstr "无法找到此编号的彩票："
+
+msgid "Ticket is not found"
+msgstr "无法找到彩票"
+
+msgid "Unknown ticket status"
+msgstr "未知彩票状态"
+
+msgid "Unknown paid status"
+msgstr "未知支付状态"
+
+msgid "Ok"
+msgstr "同意"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Insufficient credits"
+msgstr "信用度不足"
+
+msgid "Ticket is still pending or lost"
+msgstr "彩票仍待处理或遗失"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "彩票已被打印。彩票编号： %d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "无法找到彩票。彩票编号： %d"
+
+msgid "Please select another pick from different event"
+msgstr "请挑选不同赛事的另一选择"
+
+msgid "Min betting amount is %d"
+msgstr "最低下注金额是 %d"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "您不能组成此彩票种类，请切换到单一彩票"
+
+msgid "Wrong Password or Username"
+msgstr "密码或用户名称不正确。"
+
+msgid "Lowest amount for cashout is"
+msgstr "最低套现金额是"
+
+msgid "Highest amount for cashout is"
+msgstr "最高套现金额是"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "没有足够款项进行套现"
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "您无法套现。由于奖金政策设置为 %s 的 \"锁定金额\"\" ，您可提取 %s\""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "之前的提款交易尚未完成"
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "您尚未完成此交易的(所有)验证。请在下面地址完成表格："
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "您需要重新提交文档以完成验证。请在下面地址完成表格："
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "您尚未完成此交易的(年龄)验证。请在下面地址完成表格："
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a>"
+msgstr "您提款 %s 的请求已被接纳。请在下面链接输入您的银行资料： <a href='/users/account'>帐户信息</a>"
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "您提款 %s 的请求已被接纳。"
+
+msgid "Bank information updated."
+msgstr "银行资料更新。"
+
+msgid "Withdraw request set as completed"
+msgstr "提款请求设置为完成"
+
+msgid "Withdraw request updated"
+msgstr "提款请求已更新"
+
+msgid "Withdraw request canceled"
+msgstr "提款请求已取消"
+
+msgid "Win"
+msgstr "赢"
+
+msgid "Lost"
+msgstr "输"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "不是"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "List"
+msgstr "列出"
+
+msgid "Create"
+msgstr "建立"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Complete"
+msgstr "完成"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Amount from"
+msgstr "金额由"
+
+msgid "Amount to"
+msgstr "金额至"
+
+msgid "Transaction ID"
+msgstr "交易编号"
+
+msgid "Event name"
+msgstr "赛事名称"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "League name"
+msgstr "联赛名称"
+
+msgid "Sport"
+msgstr "运动"
+
+msgid "View events"
+msgstr "观看赛事"
+
+msgid "Add Event"
+msgstr "新增赛事"
+
+msgid "Send Mail"
+msgstr "发送邮件"
+
+msgid "Send to All"
+msgstr "发送到全部"
+
+msgid "Header 2 menu"
+msgstr "标题 2 菜单"
+
+msgid "Header 3 menu"
+msgstr "标题 3 菜单"
+
+msgid "Bottom 4 menu"
+msgstr "末端 4 菜单"
+
+msgid "Footer menu"
+msgstr "页脚菜单"
+
+msgid "Header menu"
+msgstr "标题菜单"
+
+msgid "Top Header menu"
+msgstr "顶部标题菜单"
+
+msgid "Top menu"
+msgstr "顶部菜单"
+
+msgid "Tickets"
+msgstr "彩票"
+
+msgid "Deposits"
+msgstr "存款"
+
+msgid "Withdraws"
+msgstr "提款"
+
+msgid "Results"
+msgstr "结果"
+
+msgid "Finished events in tickets"
+msgstr "已完成赛事彩票"
+
+msgid "Pending events in tickets"
+msgstr "待决赛事彩票"
+
+msgid "All finished events"
+msgstr "全部完成赛事"
+
+msgid "Warnings"
+msgstr "警示"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Identity number"
+msgstr "身份编号"
+
+msgid "Words in title"
+msgstr "标题文字"
+
+msgid "Words in description"
+msgstr "描述文字"
+
+msgid "Url link"
+msgstr "网站链接"
+
+msgid "Add League"
+msgstr "新增联赛"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Fund staff"
+msgstr "向职员提供资金"
+
+msgid "Charge staff"
+msgstr "向职员收费"
+
+msgid "Login/Logout"
+msgstr "登录 / 退出"
+
+msgid "Ticket Fraud Check"
+msgstr "彩票诈欺检查"
+
+msgid "Mark as paid"
+msgstr "标记为已支付"
+
+msgid "Group ID"
+msgstr "群组编号"
+
+msgid "Tickets created"
+msgstr "彩票已建立"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Total payout"
+msgstr "总彩金"
+
+msgid "Profit"
+msgstr "利润"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "%s 的1最低赌注为 %d"
+
+msgid "Highest stake on %s is %d"
+msgstr "%s 的最高赌注为 %d"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "%s 的2最低赌注为 %d"
+
+msgid "3Lowest stake amount is %d"
+msgstr "%s 的3最低赌注金额为 %d"
+
+msgid "Highest stake amount is %d"
+msgstr "最高赌注金额为 %d"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "您已到达每次交易的下注上限： %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "您已到达每天的下注上限： %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "您已到达每星期的下注上限： %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "您已到达每月的下注上限： %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "您已到达每次交易的亏损上限： %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "您已到达每天的亏损上限： %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "您已到达每星期的亏损上限： %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "您已到达每月的亏损上限： %d %s"
+
+msgid "Please login"
+msgstr "请登录"
+
+msgid "Please select at least %d picks"
+msgstr "请挑选最少 %d 个选择"
+
+msgid "Not enough money"
+msgstr "没有足够款项"
+
+msgid "One or more events already started, please remove them"
+msgstr "一个或多个赛事已开始，请移除"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "赔率已过时。请移除无效的赔率"
+
+msgid "One or mode bets are inactive"
+msgstr "一个或多个赌注已无效"
+
+msgid "Printed"
+msgstr "已打印"
+
+msgid "User Id"
+msgstr "用户编号"
+
+msgid "Amount From"
+msgstr "金额由"
+
+msgid "Amount To"
+msgstr "金额至"
+
+msgid "Potential Winning From"
+msgstr "潜在赢利由"
+
+msgid "Potential Winning To"
+msgstr "潜在赢利至"
+
+msgid "Odd From"
+msgstr "赔率由"
+
+msgid "Odd To"
+msgstr "赔率至"
+
+msgid "Fund"
+msgstr "资金"
+
+msgid "Charge"
+msgstr "收费"
+
+msgid "User ID"
+msgstr "用户编号"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "All feeds updated"
+msgstr "全部资讯已更新"
+
+msgid "All feeds downloaded"
+msgstr "全部资讯已下载"
+
+msgid "All feeds parsed"
+msgstr "全部资讯已分析"
+
+msgid "Feed updated"
+msgstr "资讯已更新"
+
+msgid "Cannot find feed"
+msgstr "无法找到资讯"
+
+msgid "Cant find feed"
+msgstr "无法找到资讯"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update All"
+msgstr "更新全部"
+
+msgid "Deposit"
+msgstr "存款"
+
+msgid "Thank You"
+msgstr "谢谢"
+
+msgid "You successfully deposit %d"
+msgstr "您成功存入 %d"
+
+msgid "You cancel your deposit"
+msgstr "您取消存款"
+
+msgid "You have successfully made deposit for"
+msgstr "您已成功存款到"
+
+msgid "Sorry, we can not find your payment"
+msgstr "很抱歉，我们找不到您的支付款项"
+
+msgid "Make Deposit"
+msgstr "存款"
+
+msgid "Amount"
+msgstr "金额"
+
+msgid "Make your Deposit"
+msgstr "存入您的款项"
+
+msgid "Bonus code or leave empty"
+msgstr "奖金代码或留空"
+
+msgid "Available ACO sync commands:"
+msgstr "可用鉴权加密偏移同步指令："
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+msgstr "如需帮助，请执行'帮助'指令。如需要特定指令的帮助，请执行'帮助<command>'"
+
+msgid "Deleted %s and all children"
+msgstr "删除 %s 和所有子元素"
+
+msgid "Aco Update Complete"
+msgstr "鉴权加密偏移更新完成"
+
+msgid "Created Aco node: %s"
+msgstr "建立鉴权加密偏移节点： %s"
+
+msgid "Deleted Aco node %s"
+msgstr "删除鉴权加密偏移节点： %s"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "用量：Cake 鉴权加密偏移同步 <command>"
+
+msgid "Commands:"
+msgstr "指令："
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "新增新控制器和动作的新鉴权加密偏移"
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "建立控制器和动作的新鉴权加密偏移。不移除任何节点"
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "新增失踪的控制器和动作的新鉴权加密偏移。移除鉴权加密偏移表格内的孤儿事项。"
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "显示此帮助信息，或特定指令信息。"
+
+msgid "Command '%s' not found"
+msgstr "无法找到指令 '%s'"
+
+msgid "day"
+msgstr "天"
+
+msgid "days"
+msgstr "天"
+
+msgid "h"
+msgstr "小时"
+
+msgid "min"
+msgstr "分钟"
+
+msgid "Successful"
+msgstr "成功"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Decimal"
+msgstr "小数"
+
+msgid "Fractional"
+msgstr "分数"
+
+msgid "American"
+msgstr "美国"
+
+msgid "ID:"
+msgstr "编号:"
+
+msgid "more"
+msgstr "更多"
+
+msgid "Event"
+msgstr "赛事"
+
+msgid "Pick"
+msgstr "选择"
+
+msgid "odd"
+msgstr "赔率"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Outcome"
+msgstr "结果"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Username"
+msgstr "用户名称"
+
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Affiliate Registration Form"
+msgstr "联盟注册表格"
+
+msgid "Personal information"
+msgstr "个人信息"
+
+msgid "First name"
+msgstr "名"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "Zip / Postal code"
+msgstr "邮编"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Date of birth:"
+msgstr "出生日期："
+
+msgid "E-mail"
+msgstr "电邮"
+
+msgid "Mobile number"
+msgstr "手机号码"
+
+msgid "Website name"
+msgstr "网站名称"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Choose Payment Gateway"
+msgstr "选择支付途径"
+
+msgid "Bank Transfer Payment"
+msgstr "银行汇款"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "在线支付"
+
+msgid "Please see your latest deposits below:"
+msgstr "请查阅以下最新存款："
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Bonus"
+msgstr "奖金"
+
+msgid "No deposits history found. To make new please follow \"Make New\"."
+msgstr "无法找到存款记录。要新增存款，请遵循 \"新增\"\" 指示\""
+
+msgid "Deposit information:"
+msgstr "存款信息："
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "要求手动存款 (经验证存款)"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "{:pages} 中的 {:page}，显示由 {:start} 到 {:end} ，总计 {:count} 中的  {:current}  个记录"
+
+msgid "previous"
+msgstr "上一个"
+
+msgid "next"
+msgstr "下一个"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Deposit type"
+msgstr "存款类型"
+
+msgid "Bonus type"
+msgstr "奖金类型"
+
+msgid "Bonus valid until"
+msgstr "奖金有效期至"
+
+msgid "Bonus used"
+msgstr "已用奖金"
+
+msgid "Bonus amount to your account"
+msgstr "存到您帐户的奖金总额"
+
+msgid "League"
+msgstr "联赛"
+
+msgid "No available odds found for this event"
+msgstr "无法找到此赛事的可用赔率"
+
+msgid "First team to Score"
+msgstr "首队得分"
+
+msgid "1st Half"
+msgstr "上半场"
+
+msgid "Both Team to Score"
+msgstr "两队都有得分"
+
+msgid "Halftime/Fulltime"
+msgstr "半场 / 全场"
+
+msgid "Double Chance"
+msgstr "双胜"
+
+msgid "From:"
+msgstr "来自："
+
+msgid "Email:"
+msgstr "电邮："
+
+msgid "Odds"
+msgstr "赔率"
+
+msgid "Reset Password"
+msgstr "重置密码"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "User Menu"
+msgstr "用户菜单"
+
+msgid "My Account"
+msgstr "我的帐户"
+
+msgid "Balance"
+msgstr "余额"
+
+msgid "Log out"
+msgstr "退出"
+
+msgid "Casino"
+msgstr "娱乐场"
+
+msgid "Live Casino"
+msgstr "真人娱乐场"
+
+msgid "Betting Tools"
+msgstr "投注工具"
+
+msgid "Register now and get"
+msgstr "立即注册以获得"
+
+msgid "email"
+msgstr "电邮"
+
+msgid "Register now"
+msgstr "立即注册"
+
+msgid "Registration"
+msgstr "注册"
+
+msgid "Password reminder"
+msgstr "密码提示"
+
+msgid "Search Ticket"
+msgstr "搜索彩票"
+
+msgid "Enter ticket ID"
+msgstr "输入彩票编号："
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Ticket"
+msgstr "彩票"
+
+msgid "Unknown ticked ID"
+msgstr "未知彩票编号"
+
+msgid "Money"
+msgstr "款项"
+
+msgid "Pay"
+msgstr "支付"
+
+msgid "Find event"
+msgstr "搜索赛事"
+
+msgid "Search by event name"
+msgstr "按赛事名称搜索"
+
+msgid "Search by event ID"
+msgstr "按赛事编号搜索"
+
+msgid "Search results for:"
+msgstr "搜索结果："
+
+msgid "No available events are found for this league"
+msgstr "无法找到此联赛的赛事"
+
+msgid "Search Events"
+msgstr "搜索赛事"
+
+msgid "Search another event ID"
+msgstr "搜索另一赛事编号"
+
+msgid "Search another event name"
+msgstr "搜索另一赛事名称"
+
+msgid "Please complete the following form"
+msgstr "请填写以下表格"
+
+msgid "Confirm changes"
+msgstr "确认变更"
+
+msgid "Activity Column"
+msgstr "活动栏"
+
+msgid "Current balance"
+msgstr "当前余额"
+
+msgid "Today placed tickets"
+msgstr "今天已购买彩票"
+
+msgid "Contact us"
+msgstr "联系我们"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "如有任何问题，欢迎使用以下表格与客服连系："
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Email"
+msgstr "电邮"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "News"
+msgstr "消息"
+
+msgid "Read more"
+msgstr "阅读更多"
+
+msgid "Soccer"
+msgstr "足球"
+
+msgid "Basketball"
+msgstr "篮球"
+
+msgid "Ice Hockey"
+msgstr "冰球"
+
+msgid "Tennis"
+msgstr "网球"
+
+msgid "Rugby"
+msgstr "橄榄球"
+
+msgid "Half Time 3 way"
+msgstr "半场三路"
+
+msgid "Top Games"
+msgstr "热门赛事"
+
+msgid "IceHockey"
+msgstr "冰球"
+
+msgid "Handball"
+msgstr "手球"
+
+msgid "Last Minute Bets"
+msgstr "最后投注"
+
+msgid "Shortly"
+msgstr "稍后"
+
+msgid "%d events available"
+msgstr "%d 赛事提供"
+
+msgid "Bet now"
+msgstr "即时投注"
+
+msgid "Football"
+msgstr "足球"
+
+msgid "Draw"
+msgstr "平手"
+
+msgid "League not found"
+msgstr "无法找到联赛"
+
+msgid "No available events found for this league"
+msgstr "无法找到此联赛的赛事"
+
+msgid "Last Minute"
+msgstr "最后一分钟"
+
+msgid "No leagues selected"
+msgstr "未选择联赛"
+
+msgid "Single"
+msgstr "单一"
+
+msgid "Combi"
+msgstr "组合"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Delete all bets"
+msgstr "删除全部投注"
+
+msgid "Total odds"
+msgstr "总赔率"
+
+msgid "Stake"
+msgstr "赌注"
+
+msgid "Winning"
+msgstr "赢"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Place Bet"
+msgstr "投注"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "未有选择赌注。 <br> 点击相应赔率以选择赌注。"
+
+msgid "Ticket History"
+msgstr "彩票记录"
+
+msgid "Ticket ID:"
+msgstr "彩票编号："
+
+msgid "Print"
+msgstr "打印"
+
+msgid "No tickets activity available"
+msgstr "无可用彩票活动"
+
+msgid "Date and time"
+msgstr "日期和时间"
+
+msgid "Ticket id"
+msgstr "彩票编号"
+
+msgid "ID / Date"
+msgstr "编号 / 日期"
+
+msgid "Total:"
+msgstr "总计："
+
+msgid "Amount:"
+msgstr "金额："
+
+msgid "Return:"
+msgstr "收益："
+
+msgid "Please see your betting history below:"
+msgstr "请查看以下您的投注记录："
+
+msgid "Ticket ID"
+msgstr "彩票编号："
+
+msgid "Note"
+msgstr "备忘"
+
+msgid "To place ticket please use betslip."
+msgstr "请使用投注单购买彩票。"
+
+msgid "Pending tickets"
+msgstr "待处理彩票"
+
+msgid "Please see your recently placed tickets below:"
+msgstr "请查看以下您最近购买的彩票："
+
+msgid "Paid"
+msgstr "已支付"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "未发现待处理彩票。请查看彩票记录以检视之前的彩票。"
+
+msgid "History"
+msgstr "记录"
+
+msgid "Ticket Preview"
+msgstr "彩票预览"
+
+msgid "Event ID / Date"
+msgstr "赛事编号 / 日期"
+
+msgid "Sport / League"
+msgstr "运动 / 联赛"
+
+msgid "Submit Ticket"
+msgstr "提交彩票"
+
+msgid "Clear Ticket"
+msgstr "清除彩票"
+
+msgid "No bets selected"
+msgstr "未选择赌注"
+
+msgid "Ticket placed"
+msgstr "彩票已购买"
+
+msgid "Your ticket is created successfully"
+msgstr "您的彩票已成功建立"
+
+msgid "Your ticket number is"
+msgstr "您的彩票号码是"
+
+msgid "Ticket information"
+msgstr "彩票信息"
+
+msgid "Login/Logout History"
+msgstr "登录 / 退出记录"
+
+msgid "User Login/Logout History:"
+msgstr "用户登录 / 退出记录"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "IP"
+msgstr "互联网协议"
+
+msgid "Please set up options for more comfortable view."
+msgstr "请设置选项以体验更舒适视野。"
+
+msgid "Odds type"
+msgstr "赔率类型"
+
+msgid "Time zone"
+msgstr "时区"
+
+msgid "Change Password"
+msgstr "更改密码"
+
+msgid "Account information"
+msgstr "帐户信息"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr "请提供完整的个人信息以确认您的身份。基于法规，在您确认身份前，所存取的一些产品、市场和佣金折扣可能会受到限制。您可使用我们的安全电邮服务提供个人文档。"
+
+msgid "Date of birth"
+msgstr "出生日期"
+
+msgid "Bank name"
+msgstr "银行名称"
+
+msgid "Bank code"
+msgstr "银行代码"
+
+msgid "Bank account number"
+msgstr "银行帐号"
+
+msgid "Ref. Code"
+msgstr "参考代码"
+
+msgid "Balance Information Analysis"
+msgstr "余额信息分析"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "您在这里可查看所有与您当前余额相关的信息。"
+
+msgid "Promotional Code"
+msgstr "促销代码"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "请在下面加入促销代码以获得额外款项或其他好处。"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Submit bonus code"
+msgstr "提交奖金代码"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "电邮已被确认。您将会在5秒内跳转至首页。 </br> 如果您未有在特定时间内跳转，请按 <a href=\"/\"\">链接</a>\""
+
+msgid "Incorect confirmation code"
+msgstr "确认代码不正确"
+
+msgid "Responsible Gaming Settings"
+msgstr "理性博彩设置"
+
+msgid "Responsible gaming text"
+msgstr "理性博彩文本"
+
+msgid "Add Limit"
+msgstr "新增限制"
+
+msgid "Set the limit you can play for each session"
+msgstr "设置您每个时段的可玩限制"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "在未来7天不要让我进入我的博彩帐户"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "在未来6个月不要让我进入我的博彩帐户"
+
+msgid "Block Account"
+msgstr "封锁帐户"
+
+msgid "Permanently delete your account."
+msgstr "永久删除您的帐户。"
+
+msgid "Delete My Account"
+msgstr "删除我的帐户"
+
+msgid "Open account with us!"
+msgstr "在这里开设帐户！"
+
+msgid "Account data"
+msgstr "帐户数据"
+
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Personal question"
+msgstr "个人问题"
+
+msgid "Personal answer"
+msgstr "个人答案"
+
+msgid "Referral ID"
+msgstr "推荐人会员号"
+
+msgid "Affiliate ID"
+msgstr "联盟会员号"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "银行数据 (此部分可稍后填写)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "我已年满18岁并已阅读及接受"
+
+msgid "Terms And Conditions"
+msgstr "条款和条件"
+
+msgid "Confirm registration"
+msgstr "确认注册"
+
+msgid "Password Reset"
+msgstr "重新设置密码"
+
+msgid "Enter your new password"
+msgstr "输入您的新密码"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "在下面填写电邮资料。重设密码链接会发送到您的电邮。您将可建立新密码以进行登录。"
+
+msgid "Withdraw"
+msgstr "提款"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "如要提款，请在下面输入金额并处理交易："
+
+msgid "Withdraw ID"
+msgstr "提款编号"
+
+msgid "Request Manual Withdraw"
+msgstr "请求手动提款"
+
+msgid "Transaction Log"
+msgstr "交易记录"
+
+msgid "List of transactions:"
+msgstr "交易清单："
+
+msgid "Transaction Type"
+msgstr "交易类型"
+
+msgid "Add/Edit %s"
+msgstr "新增 / 编辑 %s"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Value"
+msgstr "价值"
+
+msgid "Parent"
+msgstr "家长"
+
+msgid "Created"
+msgstr "建立"
+
+msgid "Modified"
+msgstr "修改"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Custom Affiliate ID"
+msgstr "自订联盟会员号"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "List %s"
+msgstr "列表 %s"
+
+msgid "File"
+msgstr "文件"
+
+msgid "URL"
+msgstr "网址"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Alert ID"
+msgstr "警报编号"
+
+msgid "User id"
+msgstr "用户编号"
+
+msgid "Alert Title"
+msgstr "警报标题"
+
+msgid "Alert"
+msgstr "警报"
+
+msgid "Add bet"
+msgstr "新增赌注"
+
+msgid "Alerts"
+msgstr "警报"
+
+msgid "Admin Audit Trail"
+msgstr "管理审计记录"
+
+msgid "Application File Backups"
+msgstr "应用文件备份"
+
+msgid "Database Backups"
+msgstr "数据库备份"
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar消息记录"
+
+msgid "Liability Dumps"
+msgstr "负债转储"
+
+msgid "Data list"
+msgstr "数据列表"
+
+msgid "Actions"
+msgstr "行动"
+
+msgid "Translations"
+msgstr "译本"
+
+msgid "Translate"
+msgstr "翻译"
+
+msgid "No records found"
+msgstr "无法找到记录"
+
+msgid "Sports and Leagues"
+msgstr "运动和联赛"
+
+msgid "Events management"
+msgstr "赛事管理"
+
+msgid "Events Printing"
+msgstr "赛事打印"
+
+msgid "Users report"
+msgstr "用户报告"
+
+msgid "Tickets report"
+msgstr "彩票报告"
+
+msgid "Deposits report"
+msgstr "存款报告"
+
+msgid "Witdraw report"
+msgstr "提款报告"
+
+msgid "Liability report"
+msgstr "负债报告"
+
+msgid "Active Users"
+msgstr "活跃用户"
+
+msgid "locale"
+msgstr "地点"
+
+msgid "Create %s"
+msgstr "建立 %s"
+
+msgid "Event ID"
+msgstr "赛事编号："
+
+msgid "User:"
+msgstr "用户："
+
+msgid "Level:"
+msgstr "级别："
+
+msgid "Current Time:"
+msgstr "当前时间："
+
+msgid "Current Language:"
+msgstr "当前语言："
+
+msgid "Front Page"
+msgstr "标题页"
+
+msgid "Under / Over"
+msgstr "低于 / 高于"
+
+msgid "Handicap"
+msgstr "让分盘"
+
+msgid "%s Printing"
+msgstr "%s  打印"
+
+msgid "Available Events List For:"
+msgstr "提供赛事列表："
+
+msgid "Unknown Sport"
+msgstr "未知运动"
+
+msgid "Please select sport below:"
+msgstr "请在下面选择运动："
+
+msgid "View Events"
+msgstr "查看赛事"
+
+msgid "No available events found for this sport"
+msgstr "无法找到此运动的赛事"
+
+msgid "Can not find event"
+msgstr "无法找到赛事"
+
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Users %s"
+msgstr "用户 %s"
+
+msgid "Edit User"
+msgstr "编辑用户"
+
+msgid "Administration Panel"
+msgstr "管理面板"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Staff Login"
+msgstr "职员登录"
+
+msgid "Events"
+msgstr "赛事"
+
+msgid "Available cultures"
+msgstr "提供文化"
+
+msgid "Add a culture"
+msgstr "新增文化"
+
+msgid "Add"
+msgstr "新增"
+
+msgid "Cultures this site supports"
+msgstr "此网站支持的文化"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "您是否确定要删除"
+
+msgid "ID"
+msgstr "编号"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "撰写促俏信予所有用户。信息将会送到用户的电邮地址。"
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid "Content:"
+msgstr "内容："
+
+msgid "Download all e-Mails (csv file)"
+msgstr "下载全部电邮 (csv文件)"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "撰写促俏信予部分用户。信息将会送到用户的电邮地址。"
+
+msgid "To:"
+msgstr "给："
+
+msgid "Contact support team"
+msgstr "联系支持团队"
+
+msgid "<br>No data in this period"
+msgstr "<br> 无法找到此期间内数据"
+
+msgid "No data in this period"
+msgstr "此期间没有数据"
+
+msgid "User name"
+msgstr "用户名称"
+
+msgid "Date of registration"
+msgstr "注册日期"
+
+msgid "Won"
+msgstr "赢"
+
+msgid "Liability"
+msgstr "负债"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "负债抵销奖金"
+
+msgid "Download (Excel file)"
+msgstr "下载 (Excel文件)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "您是否确定要取消这场赛事？"
+
+msgid "No events found"
+msgstr "无法找到赛事"
+
+msgid "No events in this league"
+msgstr "无法找到此联赛的赛事"
+
+msgid "Risk Management Settings"
+msgstr "风险管理设置"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "风险管理对博彩至关重要。请小心设置全部选项。"
+
+msgid "Lowest stake"
+msgstr "最低赌注"
+
+msgid "Highest stake"
+msgstr "最高赌注"
+
+msgid "Highest winning amount"
+msgstr "最高赢利金额"
+
+msgid "Lowest number of events in one ticket"
+msgstr "每张彩票最少的赛事数量"
+
+msgid "Highest number of events in one ticket"
+msgstr "每张彩票最多的赛事数量"
+
+msgid "List Leagues"
+msgstr "列出联赛"
+
+msgid "League ID"
+msgstr "联赛编号"
+
+msgid "No limits"
+msgstr "没有限制"
+
+msgid "List Sports"
+msgstr "列出运动"
+
+msgid "Sport ID"
+msgstr "运动编号"
+
+msgid "Warning Withdraws"
+msgstr "警示撤回"
+
+msgid "Id"
+msgstr "编号"
+
+msgid "Warning Stakes"
+msgstr "警示赌注"
+
+msgid "Warning Winnings"
+msgstr "警示赢利"
+
+msgid "Warning Deposits"
+msgstr "警示存款"
+
+msgid "amount"
+msgstr "金额"
+
+msgid "Deposit fee percentage"
+msgstr "存款收费百分比"
+
+msgid "Payment gateways"
+msgstr "支付途径"
+
+msgid "Please set payment gateways below:"
+msgstr "请在下面设置支付途径："
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Deposits %s"
+msgstr "存款 %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "请在下面设置存款风险管理："
+
+msgid "Allow automated deposits"
+msgstr "允许自动化存款"
+
+msgid "Allow manual deposits"
+msgstr "允许手动存款"
+
+msgid "Lowest amount for deposit"
+msgstr "最低存款额"
+
+msgid "Highest amount for deposit"
+msgstr "最高存款额"
+
+msgid "General %s"
+msgstr "一般 %s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "一般设置可控制您网站上部分最基本配置：您的网站标题和位置；谁可在您的网站注册；及如何计算和显示日期与时间。"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "Contact Email"
+msgstr "联系电邮"
+
+msgid "Password reset"
+msgstr "重新设置密码"
+
+msgid "Default currency"
+msgstr "默认货币"
+
+msgid "Default timezone:"
+msgstr "默认时区："
+
+msgid "Default language"
+msgstr "默认语言"
+
+msgid "Charset"
+msgstr "字符集"
+
+msgid "Items per page"
+msgstr "每页项目"
+
+msgid "Referral system"
+msgstr "推荐系统"
+
+msgid "Left active"
+msgstr "左活跃"
+
+msgid "Left sidebar title"
+msgstr "左工具栏标题"
+
+msgid "Left sidebar content"
+msgstr "左工具栏内容"
+
+msgid "Right active"
+msgstr "右活跃"
+
+msgid "Right sidebar title"
+msgstr "右工具栏标题"
+
+msgid "Right sidebar content"
+msgstr "右工具栏内容"
+
+msgid "Bottom active"
+msgstr "底部活跃"
+
+msgid "Bottom sidebar title"
+msgstr "底部工具栏标题"
+
+msgid "Bottom sidebar content"
+msgstr "底部工具栏内容"
+
+msgid "Referral Settings"
+msgstr "推荐设置"
+
+msgid "First deposit percentage to referral"
+msgstr "首次存款百分比予推荐人"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "什么是 <br>SEO</br> / 搜索引擎优化？"
+
+msgid "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free"
+msgstr "\"\" \"\"organic"
+
+msgid "Title tag"
+msgstr "标题标签"
+
+msgid "Keywords"
+msgstr "关键词"
+
+msgid "Reply to email"
+msgstr "回复电邮"
+
+msgid "Copyright:"
+msgstr "版权："
+
+msgid "Bot content revisit time"
+msgstr "内容重访时间"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Tickets %s"
+msgstr "彩票 %s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "一般彩票可控制与彩票和打印功能相关的最基本配置。"
+
+msgid "Ticket printing"
+msgstr "彩票打印"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "允许(可以)或禁止(不可以)用户和职员打印彩票"
+
+msgid "Ticket preview"
+msgstr "彩票预览"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "允许(可以)或禁止(不可以)在购买彩票前进行预览。"
+
+msgid "Warnings %s"
+msgstr "警示 %s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "警示设置将帮助过滤不必要的警示。请仔细考虑有什么对您的博彩至关重要，以保护您的利润。"
+
+msgid "Deposit alert"
+msgstr "存款警报"
+
+msgid "Withdraw alert"
+msgstr "提款警报"
+
+msgid "Stake alert"
+msgstr "赌注警报"
+
+msgid "Odds alert"
+msgstr "赔率警报"
+
+msgid "Potential winning alert"
+msgstr "潜在赢利警报"
+
+msgid "Allow withdraws"
+msgstr "允许提款"
+
+msgid "Withdraw %s"
+msgstr "提款 %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "请在下面设置提款风险管理："
+
+msgid "Lowest amount for withdraw request"
+msgstr "提款请求最低金额"
+
+msgid "Highest amount for withdraw request"
+msgstr "提款请求最高金额"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "运动"
+
+msgid "Leagues"
+msgstr "联赛"
+
+msgid "View %s"
+msgstr "查看 %s"
+
+msgid "Ticket Number"
+msgstr "彩票号码"
+
+msgid "Return"
+msgstr "收益"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "彩票将会被删除。您确定要删除吗？"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "彩票将会被取消。您确定要取消吗？"
+
+msgid "Insert Result"
+msgstr "插入结果"
+
+msgid "Fund user"
+msgstr "向用户提供资金"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 %s"
+msgstr "要存入资金，只需在输入栏输入金额并按提交。例如：如果您只想向用户贷记100美元"
+
+msgid " just enter that amount into field and press submit"
+msgstr "只需在栏目输入金额并按提交"
+
+msgid "Charge user"
+msgstr "向用户收费"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200 %s"
+msgstr "如要收费，请输入金额，款项将会由用户帐号扣除。例如：如果您只想向用户扣除200美元"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "只需在栏目输入美元金额并按提交"
+
+msgid "Add %s"
+msgstr "新增 %s"
+
+msgid "Registration chart"
+msgstr "注册图表"
+
+msgid "KYC user"
+msgstr "\"了解您的客户\"用户"
+
+msgid "KYC Documents"
+msgstr "\"了解您的客户\"文档"
+
+msgid "Change KYC Status"
+msgstr "变更\"了解您的客户\"状态"
+
+msgid "Deposits Bonus History"
+msgstr "奖金存款记录"
+
+msgid "Sum"
+msgstr "总计"
+
+msgid "Affiliates"
+msgstr "联盟"
+
+msgid "Kick"
+msgstr "得分"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "电邮已被确认。您可以立即登录。"
+
+msgid "Register now!"
+msgstr "立即注册！"
+
+msgid "Forgotten your password?"
+msgstr "忘记您的密码？"
+
+msgid "Old password"
+msgstr "旧密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Bank info"
+msgstr "银行资料"
+
+msgid "Please provide your bank info"
+msgstr "请提供您的银行资料"
+
+msgid "Account number"
+msgstr "帐户号码"
+
+msgid "Transaction"
+msgstr "交易"
+
+msgid "User Balance"
+msgstr "用户余额"
+
+msgid "Please enter your surname"
+msgstr "请输入您的姓"
+
+msgid "Please enter your first name"
+msgstr "请输入您的名"
+
+msgid "Please enter your address"
+msgstr "请输入您的地址"
+
+msgid "Please enter your Region"
+msgstr "请输入您的地区"
+
+msgid "Please enter your City of residence"
+msgstr "请输入您所居住城市"
+
+msgid "Alphabets and numbers only"
+msgstr "只限字母和数字"
+
+msgid "Between 5 to 15 characters"
+msgstr "5至15个字符"
+
+msgid "This username has already been taken."
+msgstr "此用户名称已存在。"
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "密码必须为6至15个字符"
+
+msgid "Password must contain at least one number"
+msgstr "密码必须包含最少一个数字"
+
+msgid "Password must contain at least one letter"
+msgstr "密码必须包含最少一个字母"
+
+msgid "Please enter valid email address"
+msgstr "请输入有效电邮地址"
+
+msgid "This email has already been registered."
+msgstr "此电邮已被注册。"
+
+msgid "Please enter your name"
+msgstr "请输入您的姓名"
+
+msgid "Please enter your street address"
+msgstr "请输入您的街道地址"
+
+msgid "Please enter city"
+msgstr "请输入城市"
+
+msgid "Please enter country"
+msgstr "请输入国家"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "用户应年满21岁以完成注册"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "用户应年满18岁以完成注册"
+
+msgid "Please enter valid mobile number"
+msgstr "请输入有效手机号码"
+
+msgid "Please your personal question"
+msgstr "请输入您的个人问题"
+
+msgid "Please enter valid answer"
+msgstr "请输入有效答案"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "您需要接受使用条款方可注册。"
+
+msgid "This field cannot be left blank"
+msgstr "此栏不可留空"
+
+msgid "Mimimum 5 characters long"
+msgstr "长度最少为5个字符"
+
+msgid "The username should be different from email"
+msgstr "用户名称需与电邮不同"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "密码必须为8至15个字符"
+
+msgid "The Password has to be different from username."
+msgstr "密码必须与用户名称不同。"
+
+msgid "It seems that you are already registered."
+msgstr "看来您已经注册。"
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "请输入您的街道地址或街道地址不存在"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "调试设置不允许存取此网址。"
+
+msgid "Match odds"
+msgstr "比赛赔率"
+
+msgid "Remaining match"
+msgstr "剩余比赛"
+
+msgid "Next Goal"
+msgstr "下次进球"
+
+msgid "Next goal"
+msgstr "下次进球"
+
+msgid "Total Goals +/-"
+msgstr "总进球数 +/-"
+
+msgid "Match odds (1 2)"
+msgstr "比赛赔率(1 2)"
+
+msgid "Set 1 2"
+msgstr "设置 1 2"
+
+msgid "Set Score"
+msgstr "设置得分"
+
+msgid "Sets Overall"
+msgstr "设置整体"
+
+msgid "Total Points +/-"
+msgstr "总分 +/5"
+
+msgid "Goals from now +/-"
+msgstr "由现在计起的进球 +/-"
+
+msgid "Match odds (1x2)"
+msgstr "比赛赔率 (1x2)"
+
+msgid "1 hour"
+msgstr "1小时"
+
+msgid "2 hours"
+msgstr "2小时"
+
+msgid "3 hours"
+msgstr "3小时"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "LIVE"
+msgstr "现场"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Click on team name for extra bets"
+msgstr "点击队名以进行加注"
+
+msgid "Upcoming Live Matches"
+msgstr "即将举行的直播比赛"
+
+msgid "Login For"
+msgstr "登录到"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "Bet Slip"
+msgstr "投注单"
+
+msgid "open"
+msgstr "开启"
+
+msgid "Sport Bets"
+msgstr "运动投注"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "足球、网球、冰球和其他更多赛事的巨大赔率"
+
+msgid "Number of Bets Placed: "
+msgstr "投注数量："
+
+msgid "Max Wager for bets:"
+msgstr "最大下注："
+
+msgid "Wager:"
+msgstr "下注："
+
+msgid "Max Payout:"
+msgstr "最大彩金："
+
+msgid "All games / All events"
+msgstr "全部比赛 / 全部赛事"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "全部赛事一览无遗，而且全部正常运动和赔率也可组合。"
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "在我们这里，您可享用此创新服务。前所未有的直播赛事！"
+
+msgid "more groups"
+msgstr "更多群组"
+
+msgid "Draw no Bet Period"
+msgstr "平手无效期间"
+
+msgid "Total x Period"
+msgstr "总计 x 期间"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "设置您的帐户存款限制"
+
+msgid "Play Session Limit"
+msgstr "博彩时段限制"
+
+msgid "Wager Limit"
+msgstr "下注限制"
+
+msgid "Loss Limit"
+msgstr "亏损限制"
+
+msgid "Self Exclusion"
+msgstr "自我排除"
+
+msgid "DELETE ACCOUNT"
+msgstr "删除帐户"
+
+msgid "Per Transaction"
+msgstr "每次交易"
+
+msgid "Daily"
+msgstr "每天"
+
+msgid "Weekly"
+msgstr "每星期"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "No Limit"
+msgstr "无限制"
+
+msgid "After %s minutes"
+msgstr "%s 分钟后"
+
+msgid "After one Hour"
+msgstr "一小时后"
+
+msgid "After two Hours"
+msgstr "两小时后"
+
+msgid "Login For:"
+msgstr "登录到："
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "您已玩了 %s 分钟，并在此期间：<br>存款 € %s <br>下注 € %s <br>输 € %s <br>赢 € %s"
+
+msgid "Outdated Browser Detected"
+msgstr "侦察到过时浏览器"
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "我们的网站侦察到您正使用过时的浏览器。使用您当前的浏览器会阻止您访问我们网站的功能。即使不是必需升级，但我们强烈建议您进行升级，以改善您在我们网站的浏览体验。"
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "使用下面的链接下载新的浏览器或升级您现有的浏览器"
+
+msgid "Remind me later"
+msgstr "稍后提醒我"
+
+msgid "No available Bonuses."
+msgstr "无可用奖金。"
+
+msgid "Available Bonuses."
+msgstr "可用奖金。"
+
+msgid "Locked Amount"
+msgstr "锁定金额。"
+
+msgid "Opened on"
+msgstr "在[X]开启"
+
+msgid "Activation Date"
+msgstr "激活日期"
+
+msgid "Expiration Date"
+msgstr "终止日期"
+
+msgid "Account Information"
+msgstr "帐户信息"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "所有联赛和赛事的结果表、时间表和即时得分"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "在真人娱乐场玩轮盘、21点和百家乐"
+
+msgid "Identity Card (back view)"
+msgstr "身份证 (后视图)"
+
+msgid "Identity Card (front view)"
+msgstr "身份证 (前视图)"
+
+msgid "Bank Account"
+msgstr "银行帐户"
+
+msgid "Register now and get 7bonus7"
+msgstr "即时注册并获取 7bonus7"
+
+msgid "Top Winner"
+msgstr "冠军"
+
+msgid "close"
+msgstr "关闭"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "Instant Play"
+msgstr "即时博彩"
+
+msgid "Live Video Streaming"
+msgstr "现场视频流播"
+
+msgid "Betslip Wagering"
+msgstr "投注单下注"
+
+msgid "Ticket Win"
+msgstr "彩票收益"
+
+msgid "Bonus Cancellation by user."
+msgstr "由用户取消奖金"
+
+msgid "Bonus activation"
+msgstr "奖金激活"
+
+msgid "APCO Deposit"
+msgstr "APCO存款"
+
+msgid "Account Deposit"
+msgstr "帐户存款"
+
+msgid "Live Casino Transaction"
+msgstr "真人娱乐场交易"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "真人娱乐场回滚交易"
+
+msgid "in every game"
+msgstr "在每场比赛中"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Log in"
+msgstr "登录"
+
+msgid "Stake:"
+msgstr "赌注："
+
+msgid "View Tickets"
+msgstr "查看彩票"
+
+msgid "Number of Bets Placed:"
+msgstr "下注数量："
+
+msgid "bets"
+msgstr "投注"
+
+msgid "Admin add Funds"
+msgstr "管理新增资金"
+
+msgid "Bonus activation:"
+msgstr "奖金激活："
+
+msgid "APCO Deposit:"
+msgstr "APCO存款："
+
+msgid "Withdrawal"
+msgstr "提款"
+
+msgid "Betslip Cancellation:"
+msgstr "取消投注单："
+
+msgid "Cancelled WithDrawal"
+msgstr "取消提款"
+
+msgid "Ticket Cancelled"
+msgstr "彩票已取销"
+
+msgid "en_us"
+msgstr "en_us"
+
+msgid "bg_bg"
+msgstr "bg_bg"
+
+msgid "hr_hr"
+msgstr "hr_hr"
+
+msgid "cs_cz"
+msgstr "cs_cz"
+
+msgid "da_dk"
+msgstr "da_dk"
+
+msgid "et_ee"
+msgstr "et_ee"
+
+msgid "fi_fi"
+msgstr "fi_fi"
+
+msgid "fr_fr"
+msgstr "fr_fr"
+
+msgid "de_de"
+msgstr "de_de"
+
+msgid "el_gr"
+msgstr "el_gr"
+
+msgid "hu_hu"
+msgstr "hu_hu"
+
+msgid "it_it"
+msgstr "it_it"
+
+msgid "lv_lv"
+msgstr "lv_lv"
+
+msgid "lt_lt"
+msgstr "lt_lt"
+
+msgid "no_no"
+msgstr "no_no"
+
+msgid "pl_pl"
+msgstr "pl_pl"
+
+msgid "pt_pt"
+msgstr "pt_pt"
+
+msgid "ro_ro"
+msgstr "ro_ro"
+
+msgid "ru_ru"
+msgstr "ru_ru"
+
+msgid "sr_sp"
+msgstr "sr_sp"
+
+msgid "srl_sr"
+msgstr "srl_sr"
+
+msgid "sk_sk"
+msgstr "sk_sk"
+
+msgid "sl_sl"
+msgstr "sl_sl"
+
+msgid "es_es"
+msgstr "es_es"
+
+msgid "se_se"
+msgstr "se_se"
+
+msgid "tr_tr"
+msgstr "tr_tr"
+
+msgid "bs_bs"
+msgstr "bs_bs"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Bet Split"
+msgstr "投注单"
+
+msgid "The Company"
+msgstr "本公司"
+
+msgid "Help & Legal"
+msgstr "帮助与法律"
+
+msgid "Useful Links"
+msgstr "实用链接"
+
+msgid "Payment Options"
+msgstr "支付选项"
+
+msgid "Extra Bets"
+msgstr "额外投注"
+
+msgid "No, don't remind me again"
+msgstr "不，不要再提醒我"
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "从左边菜单选择您喜欢的运动联赛，让您于下次访问寻找"
+
+msgid "3 Way"
+msgstr "三路"
+
+msgid "2 Way"
+msgstr "二路"
+
+msgid "Totals"
+msgstr "总计"
+
+msgid "Championship Outrights"
+msgstr "锦标赛总冠军"
+
+msgid "Short Term Outrights"
+msgstr "短期总冠军"
+
+msgid "Podium Finish"
+msgstr "登上颁奖台"
+
+msgid "3-balls"
+msgstr "三球"
+
+msgid "Correct score"
+msgstr "波胆"
+
+msgid "First Team to score"
+msgstr "首队得分"
+
+msgid "1st Half - 1X2"
+msgstr "上半场 — 1X2"
+
+msgid "Both Teams to Score"
+msgstr "两队都有得分"
+
+msgid "Odd/Even goals"
+msgstr "单双进球"
+
+msgid "Draw no bet"
+msgstr "平手无效"
+
+msgid "Goals home team"
+msgstr "主队进球"
+
+msgid "Goals away team"
+msgstr "客队进球"
+
+msgid "Asian Handicap"
+msgstr "亚洲让分盘"
+
+msgid "Asian Total"
+msgstr "亚洲总计"
+
+msgid "1st Half - Asian Handicap"
+msgstr "上半场 — 亚洲让分盘"
+
+msgid "1st Half - Asian Total"
+msgstr "上半场 — 亚洲总计"
+
+msgid "European Handicap"
+msgstr "欧洲让分盘"
+
+msgid "First goalscorer"
+msgstr "首先进球手"
+
+msgid "Total Goals (aggregated)"
+msgstr "总进球数 (合计)"
+
+msgid "1st Half - Correct Score"
+msgstr "上半场 — 波胆"
+
+msgid "Highest scoring half"
+msgstr "最高得分半场"
+
+msgid "Matchbet + Totals"
+msgstr "独赢 + 总计"
+
+msgid "Matchflow"
+msgstr "比赛流"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "上半场 — 单双进球"
+
+msgid "Overtime yes/no"
+msgstr "加时 会 / 否"
+
+msgid "Winning margins"
+msgstr "输赢比数"
+
+msgid "Anytime goalscorer"
+msgstr "任何时候进球手"
+
+msgid "Total number of bookings"
+msgstr "黄红牌总计"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "上半场 — 黄红牌总计"
+
+msgid "Total number of booking points"
+msgstr "黄红牌总得分"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "上半场 — 黄红牌总得分"
+
+msgid "Player sent off?"
+msgstr "有否球员退场？"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "上半场 — 有否球员退场？"
+
+msgid "Number of bookings home"
+msgstr "主队黄红牌数量"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "上半场 — 主队黄红牌数量"
+
+msgid "Number of bookings away"
+msgstr "客队黄红牌数量"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "上半场 — 客队黄红牌数量"
+
+msgid "First Team Booked"
+msgstr "首队获发黄红牌"
+
+msgid "1st Half - First Team Booked"
+msgstr "上半场 — 首队获发黄红牌"
+
+msgid "Match bookings"
+msgstr "比赛黄红牌"
+
+msgid "1st Half - Match Bookings"
+msgstr "上半场 — 比赛黄红牌"
+
+msgid "Aggregated booking points"
+msgstr "合计黄红牌得分"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "上半场 — 合计黄红牌得分"
+
+msgid "Exact bookings"
+msgstr "确切黄红牌数量"
+
+msgid "1st Half - Exact Bookings"
+msgstr "上半场 — 确切黄红牌数量"
+
+msgid "Home Team Player Sent Off"
+msgstr "主队球员退场"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "上半场 — 主队球员退场"
+
+msgid "Away Team Player Sent Off"
+msgstr "客队球员退场"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "上半场 — 客队球员退场"
+
+msgid "Total Goals (exact)"
+msgstr "总进球数 (确切)"
+
+msgid "2nd Half - 1X2"
+msgstr "下半场 — 1X2"
+
+msgid "2nd Half - Asian Total"
+msgstr "下半场 — 亚洲总计"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "下半场 — 亚洲让分盘"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "半场 / 全场波胆"
+
+msgid "Overtime + goal Yes/No"
+msgstr "加时 + 进球 是 / 否"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "点球大战 是 / 否"
+
+msgid "How will the match be decided?"
+msgstr "比赛将如何裁决？"
+
+msgid "Clean sheet home team"
+msgstr "主队零丢球"
+
+msgid "Clean sheet away team"
+msgstr "客队零丢球"
+
+msgid "Which team to score"
+msgstr "哪队得分"
+
+msgid "1st Half - Total Goals"
+msgstr "上半场 — 总进球数"
+
+msgid "2nd Half - Total Goals"
+msgstr "下半场 — 总进球数"
+
+msgid "Total corners"
+msgstr "角球总计"
+
+msgid "1st Half - Total Corners"
+msgstr "上半场 — 角球总计"
+
+msgid "Corner handicap"
+msgstr "角球让球盘"
+
+msgid "1st Half - Corner Handicap"
+msgstr "上半场 — 角球让球盘"
+
+msgid "Corner matchbet"
+msgstr "角球独赢"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "上半场 — 角球独赢"
+
+msgid "Corner Odd/Even"
+msgstr "角球单双"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "上半场 — 角球单双"
+
+msgid "First corner"
+msgstr "第一个角球"
+
+msgid "1st Half - First Corner"
+msgstr "上半场 — 第一个角球"
+
+msgid "Home Team Number of Corners"
+msgstr "主队角球数量"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "上半场 — 主队角球数量"
+
+msgid "1st Half - Totals"
+msgstr "上半场 — 总计"
+
+msgid "2nd Half - Totals"
+msgstr "下半场 — 总计"
+
+msgid "Last corner"
+msgstr "最后角球"
+
+msgid "1st Half - Last Corner"
+msgstr "上半场 — 最后角球"
+
+msgid "Away Team Number of Corners"
+msgstr "客队角球数量"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "上半场 — 客队角球数量"
+
+msgid "Last team to score"
+msgstr "最后得分队"
+
+msgid "Corner Total (Aggregated)"
+msgstr "角球总计(合计)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "上半场 — 角球总计(合计)"
+
+msgid "Home to win both halves?"
+msgstr "主队有否赢上及下半场？"
+
+msgid "Home to win either half?"
+msgstr "主队有否赢上或下半场？"
+
+msgid "Home to score in both halves?"
+msgstr "主队有否在上及下半场得分？"
+
+msgid "Away to win both halves?"
+msgstr "客队有否赢上及下半场？"
+
+msgid "Away to win either half?"
+msgstr "客队有否赢上或下半场？"
+
+msgid "Away to score in both halves?"
+msgstr "客队有否在上及下半场得分？"
+
+msgid "Both halves over 1.5?"
+msgstr "上及下半场是否低于1.5？"
+
+msgid "Both halves under 1.5?"
+msgstr "上及下半场是否高于1.5？"
+
+msgid "1st Half Double Chance"
+msgstr "上半场双胜"
+
+msgid "1st Half Draw no Bet"
+msgstr "上半场平手无效"
+
+msgid "First goal interval 10 min"
+msgstr "第一个进球时间间隔10分钟"
+
+msgid "First goal interval 15 min"
+msgstr "第一个进球时间间隔15分钟"
+
+msgid "First 10 minutes -3 way"
+msgstr "首10分钟 — 三路"
+
+msgid "1st Half - Both Teams to score"
+msgstr "上半场 —  两队都有得分"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "下半场 —  两队都有得分"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "主队最高得分半场"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "客队最高得分半场"
+
+msgid "Correct score (incl. other)"
+msgstr "波胆 (包括其他)"
+
+msgid "Odd/Even Points"
+msgstr "单双得分"
+
+msgid "Points Spreads"
+msgstr "让分"
+
+msgid "Total Spreads"
+msgstr "总让分"
+
+msgid "1st Half - Points Spread"
+msgstr "上半场 — 让分"
+
+msgid "1st Half - Total Spread"
+msgstr "上半场 — 总让分"
+
+msgid "Matchbet and Totals"
+msgstr "独赢及总计"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "上半场 — 单双得分"
+
+msgid "1st Half - 2way"
+msgstr "上半场 — 二路"
+
+msgid "Highest Scoring Quarter"
+msgstr "最高得分季度"
+
+msgid "3way"
+msgstr "三路"
+
+msgid "2nd Half - Points Spread"
+msgstr "下半场 — 让分"
+
+msgid "2nd Half - Total Spread"
+msgstr "下半场 — 总让分"
+
+msgid "1st Half - Draw no bet"
+msgstr "上半场 — 平手无效"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "下半场 — 单双得分"
+
+msgid "2nd Half - Draw no bet"
+msgstr "下半场 — 平手无效"
+
+msgid "Total margins NBA-ranges"
+msgstr "总比数 NBA射程"
+
+msgid "Total margins Regular-ranges"
+msgstr "总比数 常规射程"
+
+msgid "Totals away team"
+msgstr "客队总计"
+
+msgid "Totals home team"
+msgstr "主队总计"
+
+msgid "1st Quarter - 1X2"
+msgstr "第一季 — 1X2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "第二季 — 1X3"
+
+msgid "3rd Quarter - 1X2"
+msgstr "第三季 — 1X4"
+
+msgid "4th Quarter - 1X2"
+msgstr "第四季 — 1X5"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "第一季 — 平手无效"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "第二季 — 平手无效"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "第三季 — 平手无效"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "第四季 — 平手无效"
+
+msgid "1st Quarter - Total Spread"
+msgstr "第一季 — 总让分"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "第二季 — 总让分"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "第三季 — 总让分"
+
+msgid "4th Quarter - Total Spread"
+msgstr "第四季 — 总让分"
+
+msgid "1st Quarter - Points Spread"
+msgstr "第一季 — 让分"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "第二季 — 让分"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "第三季 — 让分"
+
+msgid "4th Quarter - Points Spread"
+msgstr "第四季 — 让分"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "第一季 — 单双得分"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "第二季 — 单双得分"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "第三季 — 单双得分"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "第四季 — 单双得分"
+
+msgid "First to x points"
+msgstr "首先得x 分"
+
+msgid "Total AAMS"
+msgstr "AAMS总计"
+
+msgid "Total 3way"
+msgstr "三路总计"
+
+msgid "Points Spreads (Overtime)"
+msgstr "让分(加时)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "总让分(加时)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "单双跑分(加时)"
+
+msgid "Correct Score"
+msgstr "波胆"
+
+msgid "Both teams to score?"
+msgstr "是否两队都有得分？"
+
+msgid "Goal Spreads"
+msgstr "进球让分"
+
+msgid "1st Period - 3way"
+msgstr "第一时段— 三路"
+
+msgid "3rd Period - 3way"
+msgstr "第三时段— 三路"
+
+msgid "1st Period – Total"
+msgstr "第一时段— 总计"
+
+msgid "2nd Period – Total"
+msgstr "第二时段— 总计"
+
+msgid "3rd Period – Total"
+msgstr "第三时段— 总计"
+
+msgid "1st Period - Double Chance"
+msgstr "第一时段— 双胜"
+
+msgid "2nd Period - Double Chance"
+msgstr "第二时段— 双胜"
+
+msgid "3rd Period - Double Chance"
+msgstr "第三时段— 双胜"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "单双进球 (包括加时和点球大战)"
+
+msgid "Highest Scoring Period"
+msgstr "最高得分的时段"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "进球让分(包括加时)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "总让分(包括加时)"
+
+msgid "Last team to Score"
+msgstr "最后得分队"
+
+msgid "2nd Period - 3way"
+msgstr "第二时段— 三路"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "第一时段— 单双进球"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "第二时段— 单双进球"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "第三时段— 单双进球"
+
+msgid "1st Period - Draw no bet"
+msgstr "第一时段— 和局不投注"
+
+msgid "2nd Period - Draw no bet"
+msgstr "第二时段— 和局不投注"
+
+msgid "3rd Period - Draw no bet"
+msgstr "第三时段— 和局不投注"
+
+msgid "2nd Period - Both teams to score"
+msgstr "第二时段— 两队都有得分"
+
+msgid "3rd Period - Both teams to score"
+msgstr "第三时段— 两队都有得分"
+
+msgid "1st Period - Goal Spreads"
+msgstr "第一时段— 进球让分"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "第二时段— 进球让分"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "第三时段— 进球让分"
+
+msgid "2nd Period - First team to score"
+msgstr "第二时段— 首队得分"
+
+msgid "3rd Period - First team to score"
+msgstr "第三时段— 首队得分"
+
+msgid "1st Period - Last team to score"
+msgstr "第一时段— 最后得分队"
+
+msgid "2nd Period - Last team to score"
+msgstr "第二时段— 最后得分队"
+
+msgid "3rd Period - Last team to score"
+msgstr "第三时段— 最后得分队"
+
+msgid "1st Period - Both teams to score"
+msgstr "第一时段— 两队都有得分"
+
+msgid "Totals (incl. OT)"
+msgstr "总计(包括加时)"
+
+msgid "2way (incl. OT)"
+msgstr "二路(包括加时)"
+
+msgid "1st Set Winner"
+msgstr "首盘赢家"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "总盘数(三盘两胜制)"
+
+msgid "2nd Set Winner"
+msgstr "第二盘赢家"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "总盘数(五盘三胜制)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "盘数波胆(三盘两胜制)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "盘数波胆(五盘三胜制)"
+
+msgid "1st Half - 3way"
+msgstr "上半场 — 三路"
+
+msgid "Halftime / Fulltime"
+msgstr "半场 / 全场"
+
+msgid "Odd / Even Goals"
+msgstr "单双进球"
+
+msgid "1st Half - Goal Spread"
+msgstr "下半场 — 进球让分"
+
+msgid "2nd half - 3way"
+msgstr "下半场 — 三路"
+
+msgid "1st half - Double Chance"
+msgstr "上半场 — 双胜"
+
+msgid "1st half - Draw no bet"
+msgstr "上半场 — 和局不投注"
+
+msgid "1st Half - Odd / Even"
+msgstr "上半场 — 单双"
+
+msgid "2nd Half - Odd / Even"
+msgstr "下半场 — 单双"
+
+msgid "2nd half - Draw no bet"
+msgstr "下半场 — 和局不投注"
+
+msgid "2nd half - Double Chance"
+msgstr "下半场 — 双胜"
+
+msgid "Points Spread"
+msgstr "让分"
+
+msgid "Winning Margins Rugby Union"
+msgstr "输赢比数 橄榄球联盟"
+
+msgid "Winning Margins Rugby League"
+msgstr "输赢比数 橄榄球联赛"
+
+msgid "1st Half - Points Spreads"
+msgstr "上半场 — 让分"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "下半场 — 单双得分"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "单双得分(加时)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "下半场 — 让分(包括加时）"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "下半场 — 总让分(包括加时）"
+
+msgid "Who wins first set"
+msgstr "谁是首盘赢家"
+
+msgid "Who wins second set"
+msgstr "谁是第二盘赢家"
+
+msgid "Total number of sets (best of 5)"
+msgstr "总盘数(五盘三胜制)"
+
+msgid "Correct Set Score"
+msgstr "正确盘数比分"
+
+msgid "How many sets will exceed score limit?"
+msgstr "多少盘会超过得分限制？"
+
+msgid "1st Set Handicap"
+msgstr "首盘让分盘"
+
+msgid "1st Set Total"
+msgstr "首盘总计"
+
+msgid "1st Set Race to X"
+msgstr "首盘首先打到X"
+
+msgid "1st Set Odd/even"
+msgstr "首盘单双"
+
+msgid "Who wins third set"
+msgstr "谁是第三盘赢家"
+
+msgid "Who wins fourth set"
+msgstr "谁是第四盘赢家"
+
+msgid "Who wins fifth set"
+msgstr "谁是第五盘赢家"
+
+msgid "5th Set Played?"
+msgstr "有否打第五盘？"
+
+msgid "4th Set Played?"
+msgstr "有否打第四盘？"
+
+msgid "Total number of sets (best of 3)"
+msgstr "总盘数(五盘三胜制)"
+
+msgid "Line"
+msgstr "赔率"
+
+msgid "Over"
+msgstr "高于"
+
+msgid "Under"
+msgstr "低于"
+
+msgid "None"
+msgstr "无"
+
+msgid "goals"
+msgstr "进球"
+
+msgid "Goals"
+msgstr "进球"
+
+msgid "Under and home"
+msgstr "低于以及主队"
+
+msgid "Under and draw"
+msgstr "低于以及和局"
+
+msgid "Under and away"
+msgstr "低于以及客队"
+
+msgid "1st"
+msgstr "第一"
+
+msgid "2nd"
+msgstr "第二"
+
+msgid "Equal"
+msgstr "等于"
+
+msgid "Hometeam scores first and home"
+msgstr "主队首先得分以及主队"
+
+msgid "Hometeam scores first and draw"
+msgstr "主队首先得分以及平手"
+
+msgid "Hometeam scores first and away"
+msgstr "主队首先得分以及客队"
+
+msgid "Awayteam scores first and home"
+msgstr "客队首先得分以及主队"
+
+msgid "Awayteam scores first and draw"
+msgstr "客队首先得分以及和局"
+
+msgid "Awayteam scores first and away"
+msgstr "客队首先得分以及客队"
+
+msgid "Odd"
+msgstr "单"
+
+msgid "Even"
+msgstr "双"
+
+msgid "Others"
+msgstr "其他"
+
+msgid "Both teams"
+msgstr "两队"
+
+msgid "Over and away"
+msgstr "高于以及客队"
+
+msgid "Over and draw"
+msgstr "高于以及和局"
+
+msgid "Over and home"
+msgstr "高于以及主队"
+
+msgid "other"
+msgstr "其他"
+
+msgid "1st period"
+msgstr "第一时段"
+
+msgid "2nd period"
+msgstr "第二时段"
+
+msgid "3rd period"
+msgstr "第三时段"
+
+msgid "1 sets"
+msgstr "一盘"
+
+msgid "2 sets"
+msgstr "两盘"
+
+msgid "3 sets"
+msgstr "三盘"
+
+msgid "4 sets"
+msgstr "四盘"
+
+msgid "5 sets"
+msgstr "五盘"
+
+msgid "0 sets"
+msgstr "零盘"
+
+msgid "1st quarter"
+msgstr "第一季"
+
+msgid "2nd quarter"
+msgstr "第二季"
+
+msgid "3rd quarter"
+msgstr "第三季"
+
+msgid "4th quarter"
+msgstr "第四季"
+
+msgid "No goal"
+msgstr "没有进球"
+
+msgid "Chat with Real Dealers"
+msgstr "与真正经销商聊天"
+
+msgid "PLAY NOW"
+msgstr "现在开始游戏"
+
+msgid "Order for member card by user %s sent successfully."
+msgstr "来自用户 %s 的会员卡订购已成功发送。"
+
+msgid "Blackjack"
+msgstr "21点"
+
+msgid "Baccarat"
+msgstr "百家乐"
+
+msgid "Roulette"
+msgstr "轮盘"
+
+msgid "Tip"
+msgstr "小费"
+
+msgid "Win Period"
+msgstr "胜出时段"
+
+msgid "HT"
+msgstr "HT"
+
+msgid "Set"
+msgstr "盘"
+
+msgid "Third"
+msgstr "第三"
+
+msgid "First Goal"
+msgstr "首个进球"
+
+msgid "Halftime"
+msgstr "半场"
+
+msgid "This site is oparated by ABC Gaming with company number CXXXXX ."
+msgstr "此网站由ABC Gaming运营(公司编号 CXXXXX)。"
+
+msgid "Congratulations!<br>You are entitled to %s &euro; bonus.<br>If you want to take it, go to :<br>My account -> Bonus<br>You need to tick the box next to the bonus name.<br>After activating your bonus you have to wager at least 5 times the deposit amount and the bonus amount (together).<br><b>Requirements</b><br>You can bet:<br> 1. On any kind of matches you wish<br> 2. On Single or Combination bets (no system bets)<br> 3. On Live or Prematch events<br> 4. Minimal odd of each event in the ticket should be 1.70 and the odd of each event over 1,35.<br><br>We wish you good luck<br>"
+msgstr "恭喜！ <br>您有资格获得 %s 欧元奖金。</br> 如果您想取得奖金，请到： < br>我的帐户 - > 奖金。<br>您需要勾选奖金名称旁边的方格。<br>在您激活奖金后，您必须以存款和奖金下注最少五次(合计)。<br><b>要求</b><br>您可下注于<br> 1. 您想下注的任何比赛<br>2. 单一或组合投注(没有系统投注)<br>3. 直播或赛前赛事<br> 4. 彩票内每场赛事最少赔率应为1.7，以及每个赛事的赔率超过1.35。<br><br>祝您好运！<br>"
+
+msgid "Electricity, Water, Landline Bill of the last 3 months"
+msgstr "过去3个月的电、水和固定电话帐单"
+
+msgid "Please be aware that this is your %srd withdraw request in this week and it will cost you 8 EUR which will be deducted from the amount that you wish to withdraw. You can also read it on our Terms and Conditions. Do you still want to proceed with the transaction?"
+msgstr "请注意，就您本星期的 %srd 提款要求，我们将会向您收取8欧元费用并会由您希望提取的款项金额中扣除。您可查阅我们的条款和条件。您是否依然希望继续提款？"
+
+msgid "2nd Half – Totals Away Team"
+msgstr "下半场 — 客队总计"
+
+msgid "Totals Hometeam"
+msgstr "主队总计"
+
+msgid "1st Half - Totals Away Team"
+msgstr "上半场 — 主队总计"
+
+msgid "Home No Bet"
+msgstr "主队不投注"
+
+msgid "2nd Half - Totals Home Team"
+msgstr "下半场 — 主队总计"
+
+msgid "Correct Score (incl other) 2"
+msgstr "波胆(包括其他) 2"
+
+msgid "Both Teams To Score + Totals"
+msgstr "两队都有得分 + 总计"
+
+msgid "Matchbet + Both Teams to Score"
+msgstr "独赢 + 两队都有得分"
+
+msgid "1st Half - Correct Score 2"
+msgstr "上半场 — 波胆 2"
+
+msgid "1st Half - First team to score"
+msgstr "上半场 — 首队得分"
+
+msgid "1st Half - Totals Home Team"
+msgstr "上半场 — 主队总计"
+
+msgid "1st Half - European Handicap"
+msgstr "上半场 — 欧洲让分盘"
+
+msgid "First Half - Matchbet + Totals"
+msgstr "上半场 — 独赢 + 总计"
+
+msgid "First Half - Matchbet + Both Teams To Score"
+msgstr "上半场 — 独赢 + 两队都有得分"
+
+msgid "2nd Half - Correct Score"
+msgstr "下半场 — 波胆"
+
+msgid "2nd Half - European Handicap"
+msgstr "下半场 — 欧洲让分盘"
+
+msgid "2nd Half - Correct Score 2"
+msgstr "下半场 — 波胆 2"
+
+msgid "1st Half - Total Spreads"
+msgstr "上半场 — 总让分"
+
+msgid "Highest Scoring Half"
+msgstr "最高得分半场"
+
+msgid "Winning Margins"
+msgstr "输赢比数"
+
+msgid "Totals Awayteam"
+msgstr "客队总计"
+
+msgid "Overtime Yes/No"
+msgstr "加时 是 / 否"
+
+msgid "1st Period - First team to score"
+msgstr "第一时段— 首队得分"

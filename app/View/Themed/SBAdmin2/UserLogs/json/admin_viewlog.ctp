@@ -1,0 +1,1 @@
+<?php echo json_encode(array('status'=>'OK','data'=>$data));?>

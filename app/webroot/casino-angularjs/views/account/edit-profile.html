@@ -1,0 +1,347 @@
+<form name="userEditForm" id="updateform" class="needs-validation" novalidate>
+    <div class="card card-gradient">
+        <div class="card-body">
+            <h5 class="card-title">{{'Account Information' | translate }}</h5>
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Username' | translate }}</span><br>
+                        <h3>{{User.username}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4 mb-4">
+                                                        <label for="username">{{'Username' | translate }}<span class="required-input">*</span> </label>
+                                                        <input class="form-control" name="username" type="text" ng-class="{'is-invalid': userEditForm.username.$invalid && !userEditForm.username.$pristine}" ng-model="User.username" disabled/>
+                                                        <span ng-show="userEditForm.username.$invalid && !userEditForm.username.$pristine" class="invalid-feedback">{{'Username is required.' | translate }}</span>
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Email' | translate }}</span><br>
+                        <h3>{{User.email}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4 mb-4">
+                                                        <label for="email">{{'Email' | translate }}<span class="required-input">*</span> </label>
+                                                        <input name="email" class="form-control" type="text" id="email" ng-class="{'is-invalid' : userEditForm.email.$invalid && !userEditForm.email.$pristine}" ng-model="User.email" required disabled/>
+                                                        <span ng-show="userEditForm.email.$invalid && !userEditForm.email.$pristine" class="invalid-feedback">{{'Email is required.' | translate }}</span>
+                    
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Phone number' | translate }}</span><br>
+                        <h3>{{User.mobile_number}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4 mb-4">
+                                                        <label for="mobile_number">{{'Mobile number' | translate }}<span class="required-input">*</span> </label>
+                                                        <input class="form-control" name="mobile_number" type="text"  ng-class="{'is-invalid': userEditForm.mobile_number.$invalid && !userEditForm.mobile_number.$pristine}" ng-model="User.mobile_number" disabled/>
+                                                        <span ng-show="userEditForm.mobile_number.$invalid && !userEditForm.mobile_number.$pristine" class="invalid-feedback">{{'Mobile number is required' | translate }}</span>
+                    
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Currency' | translate }}</span><br>
+                        <h3>{{User.Currency.name}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4 mb-4">
+                                                        <label for="currency">{{'Currency' | translate }}<span class="required-input">*</span> </label>
+                                                        <input class="form-control" name="currency" type="text" id="currency" ng-class="{'is-invalid': userEditForm.currency.$invalid && !userEditForm.currency.$pristine}" ng-model="User.Currency.name" disabled/>
+                                                        <span ng-show="userEditForm.currency.$invalid && !userEditForm.currency.$pristine" class="invalid-feedback">{{'Currency is required' | translate }}</span>
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline py-3 mb-4">
+                        <div class="custom-control custom-switch">
+                            <input type="checkbox" class="custom-control-input" id="terms" ng-model="User.terms" ng-checked="User.terms == 1 ? true : false">
+                            <label class="custom-control-label small" for="terms">{{'Terms of use' | translate }}</label>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline py-3 mb-4">
+                        <!--<span class="small">{{'Terms of use' | translate }}</span><br>-->
+                        <div class="custom-control custom-switch">
+                            <input type="checkbox" class="custom-control-input" id="newsletter" ng-model="User.newsletter" ng-checked="User.newsletter == 1 ? true : false">
+                            <label class="custom-control-label small" for="newsletter">{{'Newsletter' | translate }}</label>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card card-gradient">
+        <div class="card-body">
+            <h5 class="card-title">{{'Personal Information' | translate }} </h5>
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'First name' | translate }}</span><br>
+                        <h3>{{User.first_name}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4">
+                                                        <label for="first_name">{{'First name' | translate }}<span class="required-input">*</span> </label>
+                                                        <input class="form-control" name="first_name" type="text" id="first_name" ng-class="{ 'is-invalid' : userEditForm.first_name.$invalid && !userEditForm.first_name.$pristine}" ng-model="User.first_name" required/>
+                                                        <span ng-show="userEditForm.first_name.$invalid && !userEditForm.first_name.$pristine" class="invalid-feedback">{{'First name is required.' | translate }}</span>
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Last name' | translate }}</span><br>
+                        <h3>{{User.last_name}}</h3>
+                    </div>
+                    <!--                                <div class="box-outline py-4">
+                                                        <label for="last_name">{{'Last name' | translate }}<span class="required-input">*</span> </label>
+                                                        <input name="last_name" class="form-control" type="text" id="last_name" ng-class="{'is-invalid' : userEditForm.last_name.$invalid && !userEditForm.last_name.$pristine}" ng-model="User.last_name" required/>
+                                                        <span ng-show="userEditForm.last_name.$invalid && !userEditForm.last_name.$pristine" class="invalid-feedback">{{'Last name is required.' | translate }}</span>
+                                                    </div>-->
+                </div>
+
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Date of birth' | translate }}</span><br>
+                        <h3>{{User.date_of_birth}}</h3>
+                    </div>
+                    <!--                                <div class="box-outline py-4">
+                                                        <label for="last_name">{{'Date of birth' | translate }}<span class="required-input">*</span> </label>
+                                                        <input ng-model="userEditForm.date_of_birth" uib-datepicker-popup datepicker-options="defaultDatePickerOptions" is-open="dateOfBirthPopup.opened" show-weeks="false" show-button-bar="false" class="form-control" ng-required="true" ng-click="openDateOFBirthPopup()"/>                                    
+                                                        <span ng-show="userEditForm.date_of_birth.$invalid && !userEditForm.date_of_birth.$pristine" class="invalid-feedback">{{'Date of birth is required.' | translate }}</span>
+                    
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-6">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Gender' | translate }}</span><br>
+                        <h3>{{User.gender}}</h3>
+                        <!--                                    <div class="btn-group btn-group-toggle btn-group-gender" data-toggle="buttons">
+                        
+                                                                <label class="btn btn-default btn-sm px-4" ng-class="{'active': User.gender == 'male'}">
+                                                                    <input type="radio" name="gender" id="inputMale" autocomplete="off" ng-model="User.gender" value="male" ng-click="setGender(male)"/> <i class="fas fa-male" aria-hidden="true"></i> Male
+                                                                </label>
+                                                                <label class="btn btn-default btn-sm px-4" ng-class="{'active': User.gender == 'female'}">
+                                                                    <input type="radio" name="gender" id="inputFemale" autocomplete="off" ng-model="User.gender" value="female" ng-click="setGender(female)"/> <i class="fas fa-female" aria-hidden="true"></i> Female
+                                                                </label>
+                        
+                                                            </div>-->
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="card card-gradient">
+        <div class="card-body">
+            <h5 class="card-title">{{'Address Information' | translate }}</h5>
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Address' | translate }}</span><br>
+                        <h3>{{User.address1}}</h3>
+                    </div>
+
+                    <!--                                <div class="box-outline py-4 mb-4">
+                                                        <label for="address1">{{'Address' | translate }}<span class="required-input">*</span> </label>
+                                                        <input class="form-control" name="address1" type="text" id="address1" ng-class="{'is-invalid': userEditForm.address1.$invalid && !userEditForm.address1.$pristine}" ng-model="User.address1" required disabled/>
+                                                        <span ng-show="userEditForm.address1.$invalid && !userEditForm.address1.$pristine" class="invalid-feedback">{{'Address is required.' | translate }}</span>
+                                                    </div>-->
+                </div>
+
+                <div class="col-sm-12 col-md-4">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Zip/Postal code' | translate }}</span><br>
+                        <h3>{{User.zip_code}}</h3>
+                    </div>
+
+                </div>
+
+                <div class="col-sm-12 col-md-8">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'City' | translate }}</span><br>
+                        <h3>{{User.city}}</h3>
+                    </div>
+
+                </div>
+                <div class="col-sm-12 col-md-12">
+                    <div class="box-outline mb-4">
+                        <span class="small">{{'Country' | translate }}</span><br>
+                        <h3>{{User.Country.name}}</h3>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <!--                <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left" for="first_name"><span class="required-input">*</span> {{'First name' | translate }}</label>
+                            <div class="col-9">
+                                <input class="modal-form-control account-input" name="first_name" type="text" id="first_name" ng-class="{ 'error' : userEditForm.first_name.$invalid && !userEditForm.first_name.$pristine}" ng-model="User.first_name" required/>
+                                <span ng-show="userEditForm.first_name.$invalid && !userEditForm.first_name.$pristine" class="modal-help-block">{{'First name is required.' | translate }}</span>
+    
+                            </div>
+                        </div>
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Username' | translate }}</label>
+                            <div class="col-9 mobileinput">
+                                <input class="modal-form-control account-input" name="username" type="text" ng-class="{'error': userEditForm.username.$invalid && !userEditForm.username.$pristine}" ng-model="User.username" disabled/>
+                                <span ng-show="userEditForm.username.$invalid && !userEditForm.username.$pristine" class="modal-help-block">{{'Username is required.' | translate }}</span>
+                            </div>
+                        </div>
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left" for="gender"><span class="required-input">*</span> {{'Gender' | translate }}</label>
+                            <div class="col-9">
+                                <select class="modal-form-control custom-select account-input" ng-model="User.gender">
+                                    <option value="male" ng-click="setGender('male')" ng-selected="{{User.gender === 'male'}}">{{'Male' | translate }}</option>
+                                    <option value="female" ng-click="setGender('female')" ng-selected="{{User.gender === 'female'}}">{{'Female' | translate }}</option>
+                                </select>
+                            </div>
+                        </div>
+    
+                    </div>
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 user-half">
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Last name' | translate }}</label>  
+                            <div class="col-9">                               
+                                <input name="last_name" class="modal-form-control account-input" type="text" id="last_name" ng-class="{'error' : userEditForm.last_name.$invalid && !userEditForm.last_name.$pristine}" ng-model="User.last_name" required/>
+                                <span ng-show="userEditForm.last_name.$invalid && !userEditForm.last_name.$pristine" class="modal-help-block">{{'Last name is required.' | translate }}</span>
+    
+                            </div>
+                        </div>
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Email' | translate }}</label>  
+                            <div class="col-9">                               
+                                <input name="email" class="modal-form-control account-input" type="text" id="email" ng-class="{'error' : userEditForm.email.$invalid && !userEditForm.email.$pristine}" ng-model="User.email" required disabled/>
+                                <span ng-show="userEditForm.email.$invalid && !userEditForm.email.$pristine" class="modal-help-block">{{'Email is required.' | translate }}</span>
+                            
+    </div>
+                        </div>
+    
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Mobile number' | translate }}</label>
+                            <div class="col-9 mobileinput">
+                                <input class="modal-form-control account-input" name="mobile_number" type="text" id="mobile_number" ng-class="{'error': userEditForm.mobile_number.$invalid && !userEditForm.mobile_number.$pristine}" ng-model="User.mobile_number" disabled/>
+                                <span ng-show="userEditForm.mobile_number.$invalid && !userEditForm.mobile_number.$pristine" class="modal-help-block">{{'Mobile number is required' | translate }}</span>
+                           
+    </div>
+                        </div>
+    
+                    </div>
+    
+                    <div class="col-lg-12 col-md-12 col-sm-12 user-half">
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Date of birth' | translate }}</label>
+                            <div class="col-9 dateoptions-wrapper">
+                                <div class="dateoptions">
+                                    <select class="modal-form-control custom-select account-input"
+                                            ng-change="checkDate()" 
+                                            ng-model="dateSelected.day" 
+                                            ng-options="item for item in $root.dateOptions.days"
+                                            id="days" 
+                                            placeholder="Day" disabled>
+                                        <option ng-selected="true" value="">{{'Day' | translate }}</option>
+                                    </select>
+                                </div>
+                                <div class="dateoptions">
+                                    <select class="modal-form-control custom-select account-input"
+                                            ng-change="checkDate()" 
+                                            ng-model="dateSelected.month" 
+                                            ng-options="$root.monthNames[item] for item in $root.dateOptions.months" 
+                                            id="months" placeholder="Month" disabled>
+                                        <option ng-selected="true" value="">{{'Month' | translate }}</option>
+                                    </select>
+                                </div>
+                                <div class="dateoptions">
+                                    <select class="modal-form-control custom-select account-input"
+                                            ng-change="checkDate()" 
+                                            ng-model="dateSelected.year" 
+                                            ng-options="item for item in $root.dateOptions.years" 
+                                            id="year" disabled>
+                                        <option ng-selected="true" value="">{{'Year' | translate }}</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="col-lg-12 col-md-12 col-sm-12 user-half">
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Address' | translate }}</label>
+                            <div class="col-9">
+                                <input class="modal-form-control account-input" name="address1" type="text" id="address1" ng-class="{'error': userEditForm.address1.$invalid && !userEditForm.address1.$pristine}" ng-model="User.address1" required disabled/>
+                                <span ng-show="userEditForm.address1.$invalid && !userEditForm.address1.$pristine" class="modal-help-block">{{'Address is required.' | translate }}</span>
+                            
+    </div>
+                        </div>
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left" for="city"><span class="required-input">*</span> {{'City' | translate }}</label>
+                            <div class="col-9">
+                                <input class="modal-form-control account-input" name="city" type="text" id="city" ng-class="{'error' : userEditForm.city.$invalid && !userEditForm.city.$pristine}" ng-model="User.city" required disabled/>
+                                <span ng-show="userEditForm.city.$invalid && !userEditForm.city.$pristine" class="modal-help-block">{{'City is required.' | translate }}</span>
+                            </div>
+                        </div>
+    
+                    </div>
+    
+                    <div class="col-lg-12 col-md-12 col-sm-12 user-half">
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Zip/Postal code' | translate }}</label>
+                            <div class="col-9">
+                                <input class="modal-form-control account-input" name="zip_code" type="text" id="zip_code" ng-class="{'error': userEditForm.zip_code.$invalid && !userEditForm.zip_code.$pristine}" ng-model="User.zip_code" required disabled/>
+                                <span ng-show="userEditForm.zip_code.$invalid && !userEditForm.zip_code.$pristine" class="modal-help-block">{{'Zip/Postal code is required.' | translate }}</span>
+                            </div>
+                        </div>
+    
+    
+                        <div class="form-group row">
+                            <label class="col-3 col-form-label text-left"><span class="required-input">*</span> {{'Country' | translate }}</label>
+                            <div class="col-9">
+                                <select class="modal-form-control custom-select account-input" ng-options="cntr.name for cntr in User.country track by cntr.id" ng-model="selectedcountry" disabled></select>
+                                <span ng-show="selectedcountry.inv" class="modal-help-block">{{'Country is required.' | translate }}</span>
+    
+                            </div>
+                        </div>
+    
+    
+                    </div>
+                    <hr>-->
+
+    <div class="col-sm-12 col-md-3 offset-md-9">
+        <button class="btn btn-default btn-block" ng-click="SaveAccount()">{{'Save' | translate }}</button>
+    </div>
+</form>
+
+<script type="text/javascript">
+    $("#mobile_number").intlTelInput();
+</script>
+

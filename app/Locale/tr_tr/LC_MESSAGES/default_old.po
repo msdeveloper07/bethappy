@@ -1,0 +1,3395 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-16 12:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid "Your passwords does not much"
+msgstr "Parolanız Uyuşmuyor"
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Hesabınız başarıyla oluşturuldu. Lütfen emalinizi onaylayarak giriş yapın"
+
+msgid "Password changed"
+msgstr "Şifre değiştirildi"
+
+msgid "Wrong old password. Please try again"
+msgstr "Yanlış eski parola. Lütfen tekrar deneyiniz"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Parola uyuşmuyor. Lütfen tekrar deneyiniz"
+
+msgid "Account information updated."
+msgstr "Hesap bilgileri güncellendi."
+
+msgid "Limits cancelled."
+msgstr "Limitler iptal edildi."
+
+msgid "Unable to cancel limit"
+msgstr "Limitler iptal edilemedi"
+
+msgid "Limits updated."
+msgstr "Limitler güncellendi."
+
+msgid "Limits not updated."
+msgstr "Limitler güncellenemedi."
+
+msgid "You account has been deleted."
+msgstr "Hesabınız silinmiştir."
+
+msgid "Account settings updated."
+msgstr "Hesap ayarları güncellendi."
+
+msgid "Password reset link sent to your email"
+msgstr "Yeni parola linki mailinize yollandı"
+
+msgid "E-mail not valid"
+msgstr "Email adresi geçersiz"
+
+msgid "Promotional code successfully used"
+msgstr "Promosyon kodu başarılı"
+
+msgid "Invalid promotional code"
+msgstr "Promosyon kodu geçersiz"
+
+msgid "Confirm your email."
+msgstr "Mailinizi onaylayın."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Hesap Kilitli. Lütfen parolanızı yenileyin"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Hesabınız kalıcı olarak silindi"
+
+msgid "You are Already Logged in."
+msgstr "Zaten giriş yapmışsınız"
+
+msgid "Wrong Password"
+msgstr "Yanlış Parola"
+
+msgid "Username or password is incorrect"
+msgstr "Kullanıcı adı ya da parola hatalı"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Görevli %s (no: %d) bakiye ekleme isteminde bulundu "
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Kullanıcı %s (no: %d) hesabına bakiye eklendi. "
+
+msgid "User %s is credited by %d %s"
+msgstr "Kullanıcı %s hesabına %d %s  bakiyesi eklendi. "
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Görevli %s (no: %d) bakiye çekme isteminde bulundu "
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Kullanıcı %s (no: %d) hesabından bakiyesi çekildi. "
+
+msgid "User %s is charged by %d %s"
+msgstr "Kullanıcı %s hesabından %d %s  bakiyesi çekildi. "
+
+msgid "KYC Data Accepted"
+msgstr "KYC bilgileri kabul edildi"
+
+msgid "Email successfully sent"
+msgstr "Email başarılı olarak gönderildi"
+
+msgid "Cannot send email. Please try again."
+msgstr "Email gönderilemedi. Lütfen tekrar deneyin."
+
+msgid "can't find"
+msgstr "bulunamadı"
+
+msgid "Changes saved"
+msgstr "Değişiklikler kaydedildi"
+
+msgid "This cannot be saved."
+msgstr "Bu kaydedilemez."
+
+msgid "Item added"
+msgstr "Öğe eklendi"
+
+msgid "This cannot be added."
+msgstr "Bu eklenemez."
+
+msgid "Item deleted"
+msgstr "Öğe silindi"
+
+msgid "This cannot be deleted."
+msgstr "Bu silinemez."
+
+msgid "Bet added"
+msgstr "Bahis eklendi"
+
+msgid "Error adding bet"
+msgstr "Bahis eklemede hata"
+
+msgid "Lowest deposit amount is"
+msgstr "Minimum depozito"
+
+msgid "Highest deposit amount is"
+msgstr "Maksimum depozito"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "İşlem başına düşen para yatırma limitine ulaştınız:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Günlük  para yatırma limitine ulaştınız:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Hafta başına düşen para yatırma limitine ulaştınız:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Ay başına düşen para yatırma limitine ulaştınız:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Bonus kodu yanlış veya eski"
+
+msgid "Bonus code expired"
+msgstr "Bonus kodu eski"
+
+msgid "Your amount is too low for bonus"
+msgstr "Bakiyeniz bonus için yetersiz"
+
+msgid "Your amount is too high for bonus "
+msgstr "Bakiyeniz bonus için çok fazla"
+
+msgid "User Terminated"
+msgstr "Kullanıcı Sonlandırıldı"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Pending"
+msgstr "Beklemede"
+
+msgid "Canceled"
+msgstr "İptal edildi"
+
+msgid "Statuses chart"
+msgstr "Grafik durumu"
+
+msgid "Amount chart"
+msgstr "Bakiye durumu"
+
+msgid "Deposit not found!"
+msgstr "Depozito bulunamadı!"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Depozito \"completed\"\" olarak işaretlendi!\""
+
+msgid "Deposit request set as completed"
+msgstr "Depozito talebi tamamlandı"
+
+msgid "Deposit request canceled"
+msgstr "Depozito talebi iptal edildi"
+
+msgid "Money transaction completed"
+msgstr "Para işlemi tamamlandı"
+
+msgid "Select Event"
+msgstr "Oyun Seç"
+
+msgid "No search results found"
+msgstr "Hiçbir arama sonucu bulunmadı"
+
+msgid "Permissions updated"
+msgstr "İzinler yenilendi"
+
+msgid "Your request is accepted."
+msgstr "Talebiniz kabul edildi."
+
+msgid "Language already exist"
+msgstr "Dil zaten mevcut"
+
+msgid "can't delete item"
+msgstr "Öğe silinemedi"
+
+msgid "Emails successfully sent"
+msgstr "Emailler başarılı olarak gönderildi"
+
+msgid "Please enter event result"
+msgstr "Lütfen oyun sonucu belirtin"
+
+msgid "Results updated"
+msgstr "Sonuçlar güncellendi"
+
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+msgid "can't save settings."
+msgstr "Ayarlar kaydedilemiyor."
+
+msgid "Types chart"
+msgstr "Çeşit grafiği"
+
+msgid "Cannot find ticket with id:"
+msgstr "Bu numaralı bilet bulunamadı:"
+
+msgid "Ticket is not found"
+msgstr "Bilet bulunamadı"
+
+msgid "Unknown ticket status"
+msgstr "Bilinmeyen bilet durumu"
+
+msgid "Unknown paid status"
+msgstr "Bilinmeyen ödeme durumu"
+
+msgid "Ok"
+msgstr "Tamam"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen Hata"
+
+msgid "Insufficient credits"
+msgstr "Yetersiz Kredi"
+
+msgid "Ticket is still pending or lost"
+msgstr "Bilet hala askıda ya da kaybetmiş"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Bilet zaten yazılmış. Bilet No: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Bilet bulunamadı. Bilet No: %d "
+
+msgid "Please select another pick from different event"
+msgstr "Lütfen başka bir oyundan başka bir seçenek seçin"
+
+msgid "Min betting amount is %d"
+msgstr "Minimum bahis miktarı %d "
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Bu bileti oluşturamazsınız, tekli bilete geri dönüş"
+
+msgid "Wrong Password or Username"
+msgstr "Yanlış parola ya da kullanıcı adı"
+
+msgid "Lowest amount for cashout is"
+msgstr "Para çekimi için en düşük miktar"
+
+msgid "Highest amount for cashout is"
+msgstr "Çekilebilen en yüksek para miktarı"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "İstenilen para çekme işlemi için bakiyeniz yetersiz"
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Para çekme işlemi geçersiz. Bonus kuralları nedeni ile %s  \"Tutar  Kilitli"
+"\". Sadece %s miktarını çekebilirsiniz."
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Önceki para çekme işlemi tamamlanmış değil"
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Bu işlemi tamamlamak için (herşey) doğrulanmış değildir.Aşağıdaki adresten "
+"formu doldurunuz:"
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Doğrulama için Belgeleri yeniden sunmak zorundasanız.Aşağıdaki adresten "
+"formu doldurunuz"
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Bu işlemi tamamlamak için (yaşınız) teyit edilememektedir.Aşağıdaki adresten "
+"formu doldurunuz:"
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"%s için para çekme talebiniz kabul edildi. Aşağıdaki bağlantıdan banka "
+"bilgilerinizi girin:  <a href='/users/account'>Account Information</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "%s için para çekme talebiniz kabul edildi."
+
+msgid "Bank information updated."
+msgstr "Banka bilgileri güncellendi."
+
+msgid "Withdraw request set as completed"
+msgstr "Para çekme işlemi iptal edildi"
+
+msgid "Withdraw request updated"
+msgstr "Para çekme işlemi güncellendi"
+
+msgid "Withdraw request canceled"
+msgstr "Para çekme işlemi iptal edildi"
+
+msgid "Win"
+msgstr "Kazan"
+
+msgid "Lost"
+msgstr "Kaybet"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "View"
+msgstr "Göster"
+
+msgid "Edit"
+msgstr "Değiştir"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "List"
+msgstr "Sırala"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Complete"
+msgstr "Tamamla"
+
+msgid "Cancel"
+msgstr "İptal Et"
+
+msgid "Amount from"
+msgstr "den miktar"
+
+msgid "Amount to"
+msgstr "e miktar"
+
+msgid "Transaction ID"
+msgstr "İşlem No'su"
+
+msgid "Event name"
+msgstr "Oyun adı"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "League name"
+msgstr "Lig adı"
+
+msgid "Sport"
+msgstr "Spor"
+
+msgid "View events"
+msgstr "Oyunları göster"
+
+msgid "Add Event"
+msgstr "Oyun ekle"
+
+msgid "Send Mail"
+msgstr "Mail gönder"
+
+msgid "Send to All"
+msgstr "Hepsine gönder"
+
+msgid "Header 2 menu"
+msgstr "Başlık 2 menü"
+
+msgid "Header 3 menu"
+msgstr "Başlık 3 menü"
+
+msgid "Bottom 4 menu"
+msgstr "Başlık 4 menü"
+
+msgid "Footer menu"
+msgstr "Altbilgi menüsü"
+
+msgid "Header menu"
+msgstr "Başlık menüsü"
+
+msgid "Top Header menu"
+msgstr "Üst Başlık menüsü"
+
+msgid "Top menu"
+msgstr "En üst menü"
+
+msgid "Tickets"
+msgstr "Biletler"
+
+msgid "Deposits"
+msgstr "Depozitolar"
+
+msgid "Withdraws"
+msgstr "Para Çekimleri"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Finished events in tickets"
+msgstr "Biten maç biletleri"
+
+msgid "Pending events in tickets"
+msgstr "Oynanan maç biletleri"
+
+msgid "All finished events"
+msgstr "Bitmiş tüm maçlar"
+
+msgid "Warnings"
+msgstr "Uyarılar"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Identity number"
+msgstr "Kimlik numarası"
+
+msgid "Words in title"
+msgstr "Başlıktaki kelimeler"
+
+msgid "Words in description"
+msgstr "İçerikteki kelimeler"
+
+msgid "Url link"
+msgstr "Link"
+
+msgid "Add League"
+msgstr "Lig Ekle"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Fund staff"
+msgstr "Personel Hesabına para ekle"
+
+msgid "Charge staff"
+msgstr "Personelden tahsil et"
+
+msgid "Login/Logout"
+msgstr "Giriş / Çıkış"
+
+msgid "Ticket Fraud Check"
+msgstr "Bilet Dolandırıcılık Kontrolü"
+
+msgid "Mark as paid"
+msgstr "Ödenmiş olarak işaretle"
+
+msgid "Group ID"
+msgstr "Grup No'su"
+
+msgid "Tickets created"
+msgstr "Oluşturulan biletler"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Total payout"
+msgstr "Toplam kazanç"
+
+msgid "Profit"
+msgstr "Kâr"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "Bu bahisteki %s en düşük miktar %d "
+
+msgid "Highest stake on %s is %d"
+msgstr "Bu bahisteki %s en yüksek miktar %d "
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2Bu bahisteki %s en düşük miktar %d "
+
+msgid "3Lowest stake amount is %d"
+msgstr "3Bu bahisteki %s en düşük miktar %d "
+
+msgid "Highest stake amount is %d"
+msgstr "Bahisteki en yüksek miktar %d "
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "İşlem miktarı başına düşen bahis sınırına ulaştınız: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Günlük bahis sınırına ulaştınız: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Haftalık bahis sınırına ulaştınız: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Aylık bahis sınırına ulaştınız: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "İşlem miktarı başına düşen zarar sınırına ulaştınız: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Günlük zarar sınırına ulaştınız: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Haftalık zarar sınırına ulaştınız: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Aylık zarar sınırına ulaştınız: %d %s"
+
+msgid "Please login"
+msgstr "Lütfen giriş yapınız"
+
+msgid "Please select at least %d picks"
+msgstr "Lütfen en az %d seçimi yapınız"
+
+msgid "Not enough money"
+msgstr "Yetersiz bakiye"
+
+msgid "One or more events already started, please remove them"
+msgstr "Bir ya da daha fazla maç artık başladı, lütfen bunları siliniz"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Bahis süresi geçmiş. Lütfen geçersiz bahsi silin"
+
+msgid "One or mode bets are inactive"
+msgstr "Bir veya birden fazla bahis geçersiz"
+
+msgid "Printed"
+msgstr "Yazıldı"
+
+msgid "User Id"
+msgstr "Kullanıcı No'su"
+
+msgid "Amount From"
+msgstr "Gelen miktar"
+
+msgid "Amount To"
+msgstr "Giden miktar"
+
+msgid "Potential Winning From"
+msgstr "den Potansiyel kazanç"
+
+msgid "Potential Winning To"
+msgstr "e Potansiyel kazanç"
+
+msgid "Odd From"
+msgstr "den Katsayı"
+
+msgid "Odd To"
+msgstr "e Katsayı"
+
+msgid "Fund"
+msgstr "Para Ekle"
+
+msgid "Charge"
+msgstr "Para Çek"
+
+msgid "User ID"
+msgstr "Kullanıcı No'su"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "All feeds updated"
+msgstr "Tüm yayınlar güncellendi"
+
+msgid "All feeds downloaded"
+msgstr "Tüm yayınlar indirildi"
+
+msgid "All feeds parsed"
+msgstr "Tüm yayınlar ayrıldı"
+
+msgid "Feed updated"
+msgstr "Yayın yenilendi"
+
+msgid "Cannot find feed"
+msgstr "Yayın bulunamadı"
+
+msgid "Cant find feed"
+msgstr "Yayın bulunamadı"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Update All"
+msgstr "Tümünü Güncelle"
+
+msgid "Deposit"
+msgstr "Para yatır"
+
+msgid "Thank You"
+msgstr "Teşekkürler"
+
+msgid "You successfully deposit %d"
+msgstr "Başarılı bir şekilde %d miktarında para yatırdınız"
+
+msgid "You cancel your deposit"
+msgstr "Para yatırma işlemini iptal ettiniz"
+
+msgid "You have successfully made deposit for"
+msgstr "Depozitonuz başarılı"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Üzgünüz, ancak ödeme detaylarınız bulunamadı"
+
+msgid "Make Deposit"
+msgstr "Para yatır"
+
+msgid "Amount"
+msgstr "Miktar"
+
+msgid "Make your Deposit"
+msgstr "Para yatırın"
+
+msgid "Bonus code or leave empty"
+msgstr "Bonus kodu ya da boş bırakın"
+
+msgid "Available ACO sync commands:"
+msgstr "Available ACO sync commands: "
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"Yardım için, 'help' komutunu çalıştırın. Belirli bir komut hakkında yardım "
+"için, 'help <command>' çalıştırın"
+
+msgid "Deleted %s and all children"
+msgstr "Deleted %s and all children "
+
+msgid "Aco Update Complete"
+msgstr "Aco Güncellemesi Tamamlandı"
+
+msgid "Created Aco node: %s"
+msgstr "Aco node: %s oluşturuldu"
+
+msgid "Deleted Aco node %s"
+msgstr "Aco node: %s silindi"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Usage: cake aco_sync <command> "
+
+msgid "Commands:"
+msgstr "Komutlar:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Yeni denetleyiciler ve eylemler için yeni ACOs ekle"
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Yeni denetleyiciler ve eylemler için yeni ACOs oluştur. ACO tablosunda "
+"herhangi bir node silmez."
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Yeni denetleyiciler ve eylemler için yeni ACOs oluştur. ACO tablosundan "
+"yetim olan nodeları siler."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Bu yardım mesajı, ya da belirli bir komutla bir mesaj."
+
+msgid "Command '%s' not found"
+msgstr "Komut '%s' bulunamadı"
+
+msgid "day"
+msgstr "gün"
+
+msgid "days"
+msgstr "günler"
+
+msgid "h"
+msgstr "saat"
+
+msgid "min"
+msgstr "dakika"
+
+msgid "Successful"
+msgstr "Başarılı"
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Decimal"
+msgstr "Ondalık"
+
+msgid "Fractional"
+msgstr "Kesirli"
+
+msgid "American"
+msgstr "Amerikan"
+
+msgid "ID:"
+msgstr "No:"
+
+msgid "more"
+msgstr "Daha fazla"
+
+msgid "Event"
+msgstr "Maç"
+
+msgid "Pick"
+msgstr "Seç"
+
+msgid "odd"
+msgstr "Katsayı"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "Outcome"
+msgstr "Maç sonucu"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+msgid "Forgot your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+msgid "Login"
+msgstr "Giriş"
+
+msgid "Affiliate Registration Form"
+msgstr "Ortaklık Kayıt formu"
+
+msgid "Personal information"
+msgstr "Kişisel bilgiler"
+
+msgid "First name"
+msgstr "Ad"
+
+msgid "Last name"
+msgstr "Soyad"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "Zip / Postal code"
+msgstr "Posta Kodu"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Date of birth:"
+msgstr "Doğum Tarihi:"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Mobile number"
+msgstr "Cep telefonu No'su"
+
+msgid "Website name"
+msgstr "Websitesi adı"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Choose Payment Gateway"
+msgstr "Ödeme şekli seçin"
+
+msgid "Bank Transfer Payment"
+msgstr "Banka havalesi"
+
+msgid "eTranzact"
+msgstr "eTranzact "
+
+msgid "Online Payment"
+msgstr "Online ödeme"
+
+msgid "Please see you latest deposits below:"
+msgstr "Aşağıda son depozito geçmişinizi görebilirsiniz"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Type"
+msgstr "Çeşit"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr ""
+"Hiçbir mevduat tarihi bulunamadı. Yeni depozito yapmak için \"Yeni Depozito "
+"\"\" takip edin.\""
+
+msgid "Deposit information:"
+msgstr "Depozito bilgileri:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Manuel depozito iste (Onaylandıktan sonra yatırılır)"
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Sayfa {:page} sayfadan {:pages}, gösterilen {:current} kayıt {:count} "
+"toplamdan, kaydı ile başlayan {:start}, ve biten {:end} "
+
+msgid "previous"
+msgstr "Bir önceki"
+
+msgid "next"
+msgstr "Bir sonraki"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "Deposit type"
+msgstr "Depozito çeşidi"
+
+msgid "Bonus type"
+msgstr "Bonus çeşidi"
+
+msgid "Bonus valid until"
+msgstr "Bonus geçerlilik tarihi"
+
+msgid "Bonus used"
+msgstr "Bonus kullanılmış"
+
+msgid "Bonus amount to your account"
+msgstr "Hesabınıza bonus ekleyin"
+
+msgid "League"
+msgstr "Lig"
+
+msgid "No available odds found for this event"
+msgstr "Bu maç için geçerli bahis bulunamadı"
+
+msgid "First team to Score"
+msgstr "İlk gol atacak takım"
+
+msgid "1st Half"
+msgstr "İlk Yarı"
+
+msgid "Both Team to Score"
+msgstr "Her iki takım skorlayacak"
+
+msgid "Halftime/Fulltime"
+msgstr "Yarı / Maç sonucu"
+
+msgid "Double Chance"
+msgstr "Çifte Şans"
+
+msgid "From:"
+msgstr "den:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Odds"
+msgstr "Katsayılar"
+
+msgid "Reset Password"
+msgstr "Şifre yenile"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+msgid "User Menu"
+msgstr "Kullanıcı menüsü"
+
+msgid "My Account"
+msgstr "Hesabım"
+
+msgid "Balance"
+msgstr "Bakiye"
+
+msgid "Log out"
+msgstr "Çıkış"
+
+msgid "Casino"
+msgstr "Casino"
+
+msgid "Live Casino"
+msgstr "Canlı Casino"
+
+msgid "Betting Tools"
+msgstr "Bahis araçları"
+
+msgid "Register now and get"
+msgstr "Şimdi hesap aç ve"
+
+msgid "email"
+msgstr "email "
+
+msgid "Register now"
+msgstr "Şimdi hesap aç"
+
+msgid "Registration"
+msgstr "Kayıt"
+
+msgid "Password reminder"
+msgstr "Şifre hatırlama"
+
+msgid "Search Ticket"
+msgstr "Bilet ara"
+
+msgid "ID: "
+msgstr "No:"
+
+msgid "Enter ticket ID"
+msgstr "Bilet No'su gir"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Ticket"
+msgstr "Bilet"
+
+msgid "Unknown ticked ID"
+msgstr "Bilinmeyen bilet No'su"
+
+msgid "Money"
+msgstr "Para"
+
+msgid "Pay"
+msgstr "Öde"
+
+msgid "Find event"
+msgstr "Maç bul"
+
+msgid "Search by event name"
+msgstr "Maç adıyla arat"
+
+msgid "Search by event ID"
+msgstr "Maç No'su ile arat"
+
+msgid "Search results for:"
+msgstr "Sonuçlarda ara:"
+
+msgid "No available events are found for this league"
+msgstr "Bu ligde mevcut maç bulunamadı"
+
+msgid "Search Events"
+msgstr "Maçları arat"
+
+msgid "Search another event ID"
+msgstr "Başka bir maç No'su arat"
+
+msgid "Search another event name"
+msgstr "Başka bir maç adı arat"
+
+msgid "Please complete the following form"
+msgstr "Lütfen aşağıdaki formu doldurunuz"
+
+msgid "Confirm changes"
+msgstr "Değişiklikleri onayla"
+
+msgid "Activity Column"
+msgstr "Etkinlik Sütunu"
+
+msgid "Current balance"
+msgstr "Bakiye"
+
+msgid "Today placed tickets"
+msgstr "Bugün oynanan biletler"
+
+msgid "Contact us"
+msgstr "Bize ulaşın"
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Herhangi bir sorunla karşılaştığınızda,müşteri hizmetlerine aşağıdaki formla "
+"başvurmaktan çekinmeyin:"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Email"
+msgstr "Email "
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "News"
+msgstr "Haberler"
+
+msgid "Read more"
+msgstr "Devamı"
+
+msgid "Soccer"
+msgstr "Futbol"
+
+msgid "Basketball"
+msgstr "Basketbol"
+
+msgid "Ice Hockey"
+msgstr "Buz Hokeyi"
+
+msgid "Tennis"
+msgstr "Tenis"
+
+msgid "Rugby"
+msgstr "Ragbi"
+
+msgid "Half Time 3 way"
+msgstr "İlk yarı 3 yönlü"
+
+msgid "Top Games"
+msgstr "En popüler maçlar"
+
+msgid "IceHockey"
+msgstr "Buz Hokeyi"
+
+msgid "Handball"
+msgstr "Hentbol"
+
+msgid "Last Minute Bets"
+msgstr "Son dakika bahisleri"
+
+msgid "Shortly"
+msgstr "Kısaca"
+
+msgid "%d events available"
+msgstr "%d maçları mevcut "
+
+msgid "Bet now"
+msgstr "Şimdi oynayın"
+
+msgid "Football"
+msgstr "Futbol"
+
+msgid "Draw"
+msgstr "Berabere"
+
+msgid "League not found"
+msgstr "Lig bulunamadı"
+
+msgid "No available events found for this league"
+msgstr "Bu ligde mevcut maç bulunamadı"
+
+msgid "Last Minute"
+msgstr "Son dakika"
+
+msgid "No leagues selected"
+msgstr "Lig seçilmemiş"
+
+msgid "Single"
+msgstr "Tekli "
+
+msgid "Combi"
+msgstr "Kombine"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Delete all bets"
+msgstr "Tüm bahisleri sil"
+
+msgid "Total odds"
+msgstr "Toplam katsayı"
+
+msgid "Stake"
+msgstr "Katsayı"
+
+msgid "Winning"
+msgstr "Winning "
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Place Bet"
+msgstr "Bahsi yatır"
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Hiçbir bahis henüz seçilmedi. <br> bahisleri seçmek için oranların üzerine "
+"tıklayın."
+
+msgid "Ticket History"
+msgstr "Bilet geçmişi"
+
+msgid "Ticket ID:"
+msgstr "Bilet No'su:"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "No tickets activity available"
+msgstr "Bilet aktivitesi bulunamadı"
+
+msgid "Date and time"
+msgstr "Tarih ve zaman"
+
+msgid "Ticket id"
+msgstr "Bilet No'su"
+
+msgid "ID / Date"
+msgstr "No / Tarih"
+
+msgid "Total:"
+msgstr "Toplam:"
+
+msgid "Amount:"
+msgstr "Miktar:"
+
+msgid "Return:"
+msgstr "Kazanç:"
+
+msgid "Please see your betting history below:"
+msgstr "Lütfen bahis geçmişini aşağıda görünüz:"
+
+msgid "Ticket ID"
+msgstr "Bilet No'su:"
+
+msgid "Note"
+msgstr "Not"
+
+msgid "To place ticket please use betslip."
+msgstr "Bilet yatırmak için lütfen kupon kullanınız."
+
+msgid "Pending tickets"
+msgstr "Beklemedeki biletler"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Lütfen aşağıda son yatırdığınız bahisleri görünüz:"
+
+msgid "Paid"
+msgstr "Ödenmiş"
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Hiçbir bekleyen bilet bulunamadı. Önceki biletler için bilet tarihine bakın."
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Ticket Preview"
+msgstr "Bilet önizleme"
+
+msgid "Event ID / Date"
+msgstr "Maç No'su/ Tarihi"
+
+msgid "Sport / League"
+msgstr "Spor dalı / Lig"
+
+msgid "Submit Ticket"
+msgstr "Bileti onayla"
+
+msgid "Clear Ticket"
+msgstr "Bilet temizle"
+
+msgid "No bets selected"
+msgstr "Hiçbir bahis seçilmedi"
+
+msgid "Ticket placed"
+msgstr "Biletler oynandı"
+
+msgid "Your ticket is created successfully"
+msgstr "Biletiniz başarıyla oluşturuldu"
+
+msgid "Your ticket number is"
+msgstr "Bilet No'su"
+
+msgid "Ticket information"
+msgstr "Bilet bilgileri"
+
+msgid "Login/Logout History"
+msgstr "Giriş / Çıkış Tarihi"
+
+msgid "User Login/Logout History:"
+msgstr "Üye Girişi / Çıkışı Tarihi:"
+
+msgid "Action"
+msgstr "Eylem"
+
+msgid "IP"
+msgstr "IP "
+
+msgid "Please set up options for more comfortable view."
+msgstr "Daha rahat bir görünüm için lütfen ayarlarınızı yapınız."
+
+msgid "Odds type"
+msgstr "Bahis çeşidi"
+
+msgid "Time zone"
+msgstr "Zaman dilimi"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Account information"
+msgstr "Hesap bilgileri"
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Kimliğinizi doğrulamak için tam kişisel bilgi veriniz.  Yasal düzenlemeler "
+"nedeniyle, kimliğiniz doğrulanana kadar , bazı ürünler, oyunlar ve "
+"komisyonlu indirimlere erişiminiz kısıtlanmış olabilir. Bizim güvenli "
+"sitemizi kullanarak kişisel belgelerinizi bize gönderebilirsiniz."
+
+msgid "Date of birth"
+msgstr "Doğum Tarihi"
+
+msgid "Bank name"
+msgstr "Banka Adı"
+
+msgid "Bank code"
+msgstr "Banka kodu"
+
+msgid "Bank account number"
+msgstr "Banka hesap numarası"
+
+msgid "Ref. Code"
+msgstr "Ref. Kodu"
+
+msgid "Balance Information Analysis"
+msgstr "Bakiye Bilgi Analizi"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Burada hesap durumunuzla ilgili tüm bilgiler görebilirsiniz."
+
+msgid "Promotional Code"
+msgstr "Promosyon kodu"
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr ""
+"Çeşitli fırsatlardan yararlanmak için, lütfen aşağıya promosyon kodunuzu "
+"giriniz."
+
+msgid "Code"
+msgstr ""
+
+msgid "Submit bonus code"
+msgstr "Bonus kodunu onayla"
+
+msgid "Confirmation"
+msgstr "Onaylama"
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"E-posta teyit edilmiştir. 5 saniye içinde ana sayfasına "
+"yönlendirileceksiniz. </ Br> Eğer belirtilen süre içinde yönlendirilmiş "
+"değilseniz <a href=\"/\"\"> bağlantısını takip ediniz </ a>\""
+
+msgid "Incorect confirmation code"
+msgstr "Onay kodu geçersiz"
+
+msgid "Responsible Gaming Settings"
+msgstr "Sorumlu Oyun Ayarları"
+
+msgid "Responsible gaming text"
+msgstr "Responsible gaming text "
+
+msgid "Add Limit"
+msgstr "Limit Ekle"
+
+msgid "Set the limit you can play for each session"
+msgstr "Her oturum için oynama sınırını ayarlayın"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "7 gün boyunca bahis hesabıma erişmeme izin verme"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "6 ay boyunca bahis hesabıma erişmeme izin verme"
+
+msgid "Block Account"
+msgstr "Hesabı bloke et"
+
+msgid "Permanently delete your account."
+msgstr "Hesabınızı kalıcı olarak silin."
+
+msgid "Delete My Account"
+msgstr "Hesabımı Sil"
+
+msgid "Open account with us!"
+msgstr "Bizimle hesap açın!"
+
+msgid "Account data"
+msgstr "Hesap bilgileri"
+
+msgid "Confirm password"
+msgstr "Parolanızı onaylayın"
+
+msgid "Personal question"
+msgstr "Kişisel soru"
+
+msgid "Personal answer"
+msgstr "Kişisel cevap"
+
+msgid "Referral ID"
+msgstr "Arkadaş kullanıcı adı"
+
+msgid "Affiliate ID"
+msgstr "Ortak No'su"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Banka Bilgileri(Bu bölüm daha sonra tamamlanabilir)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Ben 18 yaşın üzerindeyim ve buradaki kullanım "
+
+msgid "Terms And Conditions"
+msgstr "şartlarını okumuş ve kabul etmiş sayılıyorum"
+
+msgid "Confirm registration"
+msgstr "Kayıt Onayla"
+
+msgid "Password Reset"
+msgstr "Parola yenileme"
+
+msgid "Enter your new password"
+msgstr "Yeni parolanızı giriniz"
+
+msgid "Change password"
+msgstr "Parola değiştirme"
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Mail deyatlarınızı aşağıya giriniz. Bu emaile yeni parolanız gönderilecek. "
+"Yeni parola oluşturarak hesabınıza giriş yapabileceksiniz."
+
+msgid "Withdraw"
+msgstr "Para Çek"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "Para çekmek için lütfen aşağıya miktar girin ve işlemi tamamlayın:"
+
+msgid "Withdraw ID"
+msgstr "Para çekme işlem No'su"
+
+msgid "Request Manual Withdraw"
+msgstr "Manuel para çekme talebi"
+
+msgid "Transaction Log"
+msgstr "İşlem geçmişi"
+
+msgid "List of transactions:"
+msgstr "İşlem listesi:"
+
+msgid "Transaction Type"
+msgstr "İşlem çeşidi"
+
+msgid "Add/Edit %s"
+msgstr "%s Ekle/Düzenle"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Parent"
+msgstr "Ana"
+
+msgid "Created"
+msgstr "Oluşturuldu"
+
+msgid "Modified"
+msgstr "Değiştirilmiş"
+
+msgid "Percentage"
+msgstr "Yüzde"
+
+msgid "Custom Affiliate ID"
+msgstr "Özel Affiliate ID"
+
+msgid "Submit"
+msgstr "Teslim et"
+
+msgid "List %s"
+msgstr "Listele %s "
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "URL"
+msgstr "URL "
+
+msgid "Image"
+msgstr "Resim"
+
+msgid "Alert ID"
+msgstr "Uyarı No'su"
+
+msgid "User id"
+msgstr "Kullanıcı No'su"
+
+msgid "Alert Title"
+msgstr "Uyarı Başlığı"
+
+msgid "Alert"
+msgstr "Uyarı"
+
+msgid "Add bet"
+msgstr "Bahis ekle"
+
+msgid "Alerts"
+msgstr "Uyarılar"
+
+msgid "Admin Audit Trail"
+msgstr "Admin denetimi"
+
+msgid "Application File Backups"
+msgstr "Başvuru Dosyası Yedekleme"
+
+msgid "Database Backups"
+msgstr "Veritabanı Yedekleme"
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar Oturum Yayınları"
+
+msgid "Liability Dumps"
+msgstr "Sorumluluk Yığını"
+
+msgid "Data list"
+msgstr "Bilgi sıralaması"
+
+msgid "Actions"
+msgstr "Seçenekler"
+
+msgid "Translations"
+msgstr "Tercümeler"
+
+msgid "Translate"
+msgstr "Tercüme et"
+
+msgid "No records found"
+msgstr "Bilgi bulunamadı"
+
+msgid "Sports and Leagues"
+msgstr "Spor dalları ve Ligler"
+
+msgid "Events management"
+msgstr "Maç düzenlemesi"
+
+msgid "Events Printing"
+msgstr "Maç Yazdırma"
+
+msgid "Users report"
+msgstr "Kullanıcı Raporları"
+
+msgid "Tickets report"
+msgstr "Bilet raporları"
+
+msgid "Deposits report"
+msgstr "Para yatırma raporları"
+
+msgid "Witdraw report"
+msgstr "Para çekme raporları"
+
+msgid "Liability report"
+msgstr "Sorumluluk Raporu"
+
+msgid "Active Users"
+msgstr "Aktif kullanıcı sayısı"
+
+msgid "locale"
+msgstr "Yerel"
+
+msgid "Create %s"
+msgstr "Oluştur %s "
+
+msgid "Event ID"
+msgstr "Maç No'su"
+
+msgid "User:"
+msgstr "User: "
+
+msgid "Level:"
+msgstr "Seviye:"
+
+msgid "Current Time:"
+msgstr "Güncel zaman:"
+
+msgid "Current Language:"
+msgstr "Güncel Dil:"
+
+msgid "Front Page"
+msgstr "Ana sayfa"
+
+msgid "Under / Over"
+msgstr "Altı/Üstü"
+
+msgid "Handicap"
+msgstr "Handikap"
+
+msgid "%s Printing"
+msgstr "%s Yazdırma"
+
+msgid "Available Events List For:"
+msgstr "Mevcut Etkinlikler için liste:"
+
+msgid "Unknown Sport"
+msgstr "Bilinmeyen Spor"
+
+msgid "Please select sport below:"
+msgstr "Lütfen aşağıdan spor seçiniz:"
+
+msgid "View Events"
+msgstr "Maçları göster"
+
+msgid "No available events found for this sport"
+msgstr "Bu spor dalında maç bulunamadı"
+
+msgid "Can not find event"
+msgstr "Maç Bulunamadı"
+
+msgid "Edit %s"
+msgstr "Değiştir %s "
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Users %s"
+msgstr "Kullanıcılar %s"
+
+msgid "Edit User"
+msgstr "Kullanıcı Düzenle"
+
+msgid "Administration Panel"
+msgstr "Yönetici Paneli"
+
+msgid "Logout"
+msgstr "Çıkış"
+
+msgid "Staff Login"
+msgstr "Personel girişi"
+
+msgid "Events"
+msgstr "Maçlar"
+
+msgid "Available cultures"
+msgstr "Mevcut kültürler"
+
+msgid "Add a culture"
+msgstr "Kültür ekle"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Cultures this site supports"
+msgstr "Bu sitenin desteklediği kültürler"
+
+msgid "X"
+msgstr "X "
+
+msgid "Are you sure you want to delete"
+msgstr "Silmek istediğinizden emin misiniz"
+
+msgid "ID"
+msgstr "No"
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Tüm kullanıcılara tanıtım mektubu gönder. Mesajlar kullanıcıların e-mail "
+"adreslerine gelecek."
+
+msgid "Subject:"
+msgstr "Konu:"
+
+msgid "Content:"
+msgstr "İçerik:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Tüm e-mailleri indirin (CSV dosyası) "
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Belirli bir kullanıcıya promosyon mektubu gönder. Mesaj kullanıcının e-mail "
+"adresinize gelecek."
+
+msgid "To:"
+msgstr "e:"
+
+msgid "Contact support team"
+msgstr "Müşteri hizmetlerine başvur"
+
+msgid "<br>No data in this period"
+msgstr "<br>Bu periyotta içerik yok "
+
+msgid "No data in this period"
+msgstr "Bu periyotta içerik yok "
+
+msgid "User name"
+msgstr "Kullanıcı Adı"
+
+msgid "Date of registration"
+msgstr "Hesap açma tarihi"
+
+msgid "Won"
+msgstr "Kazanılan"
+
+msgid "Liability"
+msgstr "Liability "
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability Cancelled the Bonus "
+
+msgid "Download (Excel file)"
+msgstr "İndir (excel dosyası)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Bu maçı iptal etmek istediğinizden emin misiniz?"
+
+msgid "No events found"
+msgstr "Maç bulunamadı"
+
+msgid "No events in this league"
+msgstr "Bu ligde maç yok"
+
+msgid "Risk Management Settings"
+msgstr "Risk Yönetimi"
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"Spor bahislerinde risk yönetimi çok önemlidir. Lütfen tüm ayarlarnızı "
+"yaparken dikkatli olunuz."
+
+msgid "Lowest stake"
+msgstr "En düşük katsayı"
+
+msgid "Highest stake"
+msgstr "En yüksek katsayı"
+
+msgid "Highest winning amount"
+msgstr "En yüksek kazanç"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Bir biletteki en düşük maç sayısı"
+
+msgid "Highest number of events in one ticket"
+msgstr "Bir biletteki en yüksek maç sayısı"
+
+msgid "List Leagues"
+msgstr "Ligleri Listele"
+
+msgid "League ID"
+msgstr "Lig No'su"
+
+msgid "No limits"
+msgstr "Limitsiz"
+
+msgid "List Sports"
+msgstr "Sporları listele"
+
+msgid "Sport ID"
+msgstr "Spor No'su"
+
+msgid "Warning Withdraws"
+msgstr "Dikkat para çekimi"
+
+msgid "Id"
+msgstr "No'su"
+
+msgid "Warning Stakes"
+msgstr "Katsayı Uyarısı"
+
+msgid "Warning Winnings"
+msgstr "Kazanç Uyarısı"
+
+msgid "Warning Deposits"
+msgstr "Deposito Uyarısı"
+
+msgid "amount"
+msgstr "miktar"
+
+msgid "Deposit fee percentage"
+msgstr "Depozito ücreti yüzdesi"
+
+msgid "Payment gateways"
+msgstr "Ödeme Şekilleri"
+
+msgid "Please set payment gateways below:"
+msgstr "Lütfen aşağıdaki ödeme şekillerini belirleyin:"
+
+msgid "Payments"
+msgstr "Ödemeler"
+
+msgid "Deposits %s"
+msgstr "Para yatırma %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Lütfen aşağıdaki para yatırma risk yönetimi ayarlarını belirleyin:"
+
+msgid "Allow automated deposits"
+msgstr "Otomatik depozitoya izin ver"
+
+msgid "Allow manual deposits"
+msgstr "Manuel depozitoya izin ver"
+
+msgid "Lowest amount for deposit"
+msgstr "Depozito için en az miktar"
+
+msgid "Highest amount for deposit"
+msgstr "Depozito için en yüksek miktar"
+
+msgid "General %s"
+msgstr "Genel %s"
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Genel ayarlar siteniz için en temel bazı yapılandırma ayarlarını kontrol "
+"eder. Örneğin Sitenizinin başlık ve konumu, sitenizde kimin hesap "
+"açabileceği ve tarih ​​ve saatlerin nasıl hesaplanıp ve görüntüleneceği."
+
+msgid "Copyright"
+msgstr "Telif Hakkı"
+
+msgid "Contact Email"
+msgstr "Başvuru Emaili"
+
+msgid "Password reset"
+msgstr "Parola yenileme"
+
+msgid "Default currency"
+msgstr "Varsayılan para birimi"
+
+msgid "Default timezone:"
+msgstr "Varsayılan zaman dilimi"
+
+msgid "Default language"
+msgstr "Varsayılan dil"
+
+msgid "Charset"
+msgstr "Charset "
+
+msgid "Items per page"
+msgstr "Sayfa başına düşen sayısı"
+
+msgid "Referral system"
+msgstr "Arkadaşlık sistemi"
+
+msgid "Left active"
+msgstr "Sol aktif"
+
+msgid "Left sidebar title"
+msgstr "Sol sidebar başlığı"
+
+msgid "Left sidebar content"
+msgstr "Sol sidebar içieriği"
+
+msgid "Right active"
+msgstr "Sağ aktif"
+
+msgid "Right sidebar title"
+msgstr "Sağ sidebar başlığı"
+
+msgid "Right sidebar content"
+msgstr "Sağ sidebar içeriği"
+
+msgid "Bottom active"
+msgstr "Alt aktif"
+
+msgid "Bottom sidebar title"
+msgstr "Alt sidebar başlığı"
+
+msgid "Bottom sidebar content"
+msgstr "Alt sidebar içeriği"
+
+msgid "Referral Settings"
+msgstr "Arkadaşlık Ayarları"
+
+msgid "First deposit percentage to referral"
+msgstr "Arkadaşa ilk depozito yüzdesi"
+
+msgid "SEO %s"
+msgstr "SEO %s "
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "<b>SEO</b> / Arama Motoru Optimizasyonu Nedir?"
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"SEO  açılımı \"arama motoru optimizasyonu anlamına gelir. \" Bu  "
+"\"\"ücretsiz \"\",  \"\"organik \"\",  \"\"editoryal \"\" veya   \"\"doğal "
+"\"\" içerik listelerini arama motorlarından trafik alma işlemidir. Google, "
+"Yahoo ve Bing gibi bütün büyük arama motorları, web sayfaları  videoları "
+"veya diğer içerikleri tarayarak kullanıcılara en alakalı ve kişiye özel "
+"sonuçları gösterir. Arama reklamları ile olduğu gibi ödeme, dahil değildir.\""
+
+msgid "Title tag"
+msgstr "Başlık Etiketi"
+
+msgid "Keywords"
+msgstr "Anahtar kelimeler"
+
+msgid "Reply to email"
+msgstr "Emaile cevap ver"
+
+msgid "Copyright:"
+msgstr "Telif hakkı:"
+
+msgid "Bot content revisit time"
+msgstr "Bot içeriği ziyaret zamanı"
+
+msgid "Author"
+msgstr "Yazar"
+
+msgid "Tickets %s"
+msgstr "Biletler %s"
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Genel bilet kontolleri, biletlerler ile ilgili en temel ayarlar ve yazdırma "
+"fonksiyonları."
+
+msgid "Ticket printing"
+msgstr "Bilet yazdırma"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Kullanıcılar ve personel için bilet yazdırmayı etkinleştir(Evet) ya da "
+"(Hayır) devre dışı bırak."
+
+msgid "Ticket preview"
+msgstr "Bilet öngösterimi"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Bilet oynanmadan önce önizlemeyi Etkinleştir(Evet) ya da (Hayır)Devre Dışı "
+"bırak."
+
+msgid "Warnings %s"
+msgstr "Uyarılar %s"
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Uyarı ayarları gereksiz uyarılardan ekranı filtrelemek için size yardımcı "
+"olacaktır. Lütfen sizin siteniz için en önemli olan şeyi göz önünde "
+"bulundurup kazançlarınızı güvenlik altına alın."
+
+msgid "Deposit alert"
+msgstr "Para yatırma uyarısı"
+
+msgid "Withdraw alert"
+msgstr "Para çekme uyarısı"
+
+msgid "Stake alert"
+msgstr "Bahis miktarı uyarısı"
+
+msgid "Odds alert"
+msgstr "Bahis oranı uyarısı"
+
+msgid "Potential winning alert"
+msgstr "Potansiyel kazanç uyarısı"
+
+msgid "Allow withdraws"
+msgstr "Para çekimine izin ver"
+
+msgid "Withdraw %s"
+msgstr "Para çek %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Aşağıda lütfen risk yönetimi ayarlarını yapınız:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Para çekme talebi için en düşük tutar"
+
+msgid "Highest amount for withdraw request"
+msgstr "Para çekme talebi için en yüksek tutar"
+
+msgid "%s"
+msgstr "%s "
+
+msgid "Sports"
+msgstr "Sporlar"
+
+msgid "Leagues"
+msgstr "Ligler"
+
+msgid "View %s"
+msgstr "Göster %s "
+
+msgid "Ticket Number"
+msgstr "Bilet No'su"
+
+msgid "Return"
+msgstr "Getiri"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Bilet silinecektir. Silmek istediğinizden emin misiniz?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Bilet iptal edilecektir. İptal etmek istediğinizden emin misiniz?"
+
+msgid "Insert Result"
+msgstr "Sonuçları Giriniz"
+
+msgid "Fund user"
+msgstr "Kullanıcıya para aktar"
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Para aktarmak için sadece istenilen miktarı girip kabule tıklayın. Örneğin "
+"kullanıcıya para yatırmak için 100 ekleyin"
+
+msgid " just enter that amount into field and press submit"
+msgstr "Sadece alana tutarı girin ve kabul tuşuna tıklayın"
+
+msgid "Charge user"
+msgstr "Kullanıcıdan para çek"
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Para çekmek için sadece istenilen miktarı girip kabule tıklayın. Örneğin "
+"kullanıcıdan para çekmek için 200 ekleyin"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "Sadece alana Amerikan Dolar tutarını girin ve kabul tuşuna tıklayın"
+
+msgid "Add %s"
+msgstr "Ekle %s "
+
+msgid "Registration chart"
+msgstr "Kayıt grafiği"
+
+msgid "KYC user"
+msgstr "KYC kullanıcı"
+
+msgid "KYC Documents"
+msgstr "KYC Belgeleri"
+
+msgid "Change KYC Status"
+msgstr "KYC Statüsünü Değiştir"
+
+msgid "Deposits Bonus History"
+msgstr "Depozito bonus geçmişi"
+
+msgid "Sum"
+msgstr "Toplam"
+
+msgid "Affiliates"
+msgstr "Ortaklar"
+
+msgid "Kick"
+msgstr "Atılma"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "Email onaylandı. Artık giriş yapabilirsiniz."
+
+msgid "Register now!"
+msgstr "Şimdi kayıt ol!"
+
+msgid "Forgotten your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+msgid "Old password"
+msgstr "Eski parola"
+
+msgid "New password"
+msgstr "Yeni parola"
+
+msgid "Bank info"
+msgstr "Banka bilgileri"
+
+msgid "Please provide your bank info"
+msgstr "Lütfen banka bilgilerinizi belirtiniz"
+
+msgid "Account number"
+msgstr "Hesap numarası"
+
+msgid "Transaction"
+msgstr "İşlem"
+
+msgid "User Balance"
+msgstr "Kullanıcı bakiyesi"
+
+msgid "Please enter your surname"
+msgstr "Lütfen soyadınızı giriniz"
+
+msgid "Please enter your first name"
+msgstr "Lütfen adınızı giriniz"
+
+msgid "Please enter your address"
+msgstr "Lütfen adresinizi giriniz"
+
+msgid "Please enter your Region"
+msgstr "Lütfen bölgenizi giriniz"
+
+msgid "Please enter your City of residence"
+msgstr "Lütfen oturduğunuz şehri giriniz"
+
+msgid "Alphabets and numbers only"
+msgstr "Sadece harf ve sayı"
+
+msgid "Between 5 to 15 characters"
+msgstr "5 ile 15 karakter arası"
+
+msgid "This username has already been taken."
+msgstr "Bu kullanıcı adı başkası tarafından alınmış."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Şifre 6 ile 15 karakter arasında olmalıdır"
+
+msgid "Password must contain at least one number"
+msgstr "Şifre en az bir sayı içermelidir"
+
+msgid "Password must contain at least one letter"
+msgstr "Şifre en az bir harf içermelidir"
+
+msgid "Please enter valid email address"
+msgstr "Geçerli bir e-mail adresi girin"
+
+msgid "This email has already been registered."
+msgstr "Bu email adresi başkası tarafından kullanılmakta."
+
+msgid "Please enter your name"
+msgstr "Lütfen adınızı giriniz"
+
+msgid "Please enter your street address"
+msgstr "Lütfen sokak adını giriniz"
+
+msgid "Please enter city"
+msgstr "Lütfen şehir giriniz"
+
+msgid "Please enter country"
+msgstr "Lütfen ülke giriniz"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Kullanıcı kaydı tamamlamak için 21 yaşında olmalı"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Kullanıcı kaydı tamamlamak için 18 yaşında olmalı"
+
+msgid "Please enter valid mobile number"
+msgstr "Lütfen geçerli cep telefonu no'su giriniz"
+
+msgid "Please your personal question"
+msgstr "Lütfen kişisel sorunuzu seçiniz"
+
+msgid "Please enter valid answer"
+msgstr "Lütfen geçerli cevap giriniz"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Kayıt olabilmek için Kullanım Şartlarını kabul etmeniz gerekmektedir."
+
+msgid "This field cannot be left blank"
+msgstr "Bu alan boş bırakılamaz"
+
+msgid "Mimimum 5 characters long"
+msgstr "En az 5 karakter uzunluğunda"
+
+msgid "The username should be different from email"
+msgstr "Kullanıcı adı emailden farklı olmalıdır"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Şifre 8 ila 15 karakter arasında olmalıdır"
+
+msgid "The Password has to be different from username."
+msgstr "Şifre kullanıcı adınızdan farklı olmak zorundadır."
+
+msgid "It seems that you are already registered."
+msgstr "Daha önce kayıt olmuşsunuz gibi görünüyor."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Sokak adresinizi girin veya sokak adresi yok"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug ayarı bu url erişime izin vermiyor."
+
+msgid "Match odds"
+msgstr "Maç oranları"
+
+msgid "Remaining match"
+msgstr "Kalan maçlar"
+
+msgid "Next Goal"
+msgstr "Sıradaki gol"
+
+msgid "Total Goals +/-"
+msgstr "Toplam Gol +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Maç oranları (1 2)"
+
+msgid "Set 1 2"
+msgstr "Set 1 2"
+
+msgid "Set Score"
+msgstr "Set Skoru"
+
+msgid "Sets Overall"
+msgstr "Toplam set sayısı"
+
+msgid "Total Points +/-"
+msgstr "Toplam puan +/-"
+
+msgid "Goals from now +/-"
+msgstr "Şu andan itibaren atılan gol +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Maç oranları (1x2)"
+
+msgid "1 hour"
+msgstr "1 saat"
+
+msgid "2 hours"
+msgstr "2 saat"
+
+msgid "3 hours"
+msgstr "3 saat"
+
+msgid "Time"
+msgstr "Zaman"
+
+msgid "LIVE"
+msgstr "CANLI"
+
+msgid "Statistics"
+msgstr "İstatikler"
+
+msgid "Click on team name for extra bets"
+msgstr "Ekstra bahisler için takım adına tıklayın"
+
+msgid "Upcoming Live Matches"
+msgstr "Gelecek Canlı Maçlar"
+
+msgid "Login For"
+msgstr "İçin Giriş"
+
+msgid "minutes"
+msgstr "dakikalar"
+
+msgid "Bet Slip"
+msgstr "Bahis Kuponu"
+
+msgid "open"
+msgstr "açık"
+
+msgid "Sport Bets"
+msgstr "Spor Bahisleri"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Futbol, tenis, buz hokeyi ve daha birçok spor dalında en iyi oranlar"
+
+msgid "Number of Bets Placed:"
+msgstr "Yatırılan bahis sayısı:"
+
+msgid "Max Wager for bets:"
+msgstr "Maks. Bahis toplamı"
+
+msgid "Wager:"
+msgstr "Bahis toplamı:"
+
+msgid "Max Payout:"
+msgstr "En fazla ödeme:"
+
+msgid "All games / All events"
+msgstr "Tüm oyunlar / Tüm etkinlikler"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "Tek bir bakışla, tüm sporlar ve oranlar kombine edilebilir."
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Bu yenilikçi hizmeti Şimdi alın. Canlı oyunlar asla eskisi gibi olmayacak! "
+"Bol Şanslar!"
+
+msgid "more groups"
+msgstr "Daha fazla grup"
+
+msgid "Draw no Bet Period"
+msgstr "berabere bahissiz periyot"
+
+msgid "Total x Period"
+msgstr "Toplam x Periyot"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Hesabınıza para yatırma limiti koyun"
+
+msgid "Play Session Limit"
+msgstr "Oynama oturum limiti"
+
+msgid "Wager Limit"
+msgstr "Toplam bahis limiti"
+
+msgid "Loss Limit"
+msgstr "Kaybetme limiti"
+
+msgid "Self Exclusion"
+msgstr "Kendini dışlama"
+
+msgid "DELETE ACCOUNT"
+msgstr "Hesabı sil"
+
+msgid "Per Transaction"
+msgstr "İşlem başına"
+
+msgid "Daily"
+msgstr "Günlük"
+
+msgid "Weekly"
+msgstr "Haftalık"
+
+msgid "Monthly"
+msgstr "Aylık"
+
+msgid "No Limit"
+msgstr "Limitsiz"
+
+msgid "After %s minutes"
+msgstr "%s dakika sonra"
+
+msgid "After one Hour"
+msgstr "Bir saat sonra"
+
+msgid "After two Hours"
+msgstr "İki saat sonra"
+
+msgid "Login For:"
+msgstr "İçin Giriş:"
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Son %s dakikadır oynamaktasınız. Bu sürede: <br>Toplam € %s para yatırdınız "
+"<br>Toplam € %s bahis oynadınız <br>toplam € %s kaybettiniz <br>Toplam € %s "
+"kazandınız "
+
+msgid "Outdated Browser Detected"
+msgstr "Güncellenmemiş tarayıcı belirlenmiştir"
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Web sitemiz eski bir tarayıcı kullandığınızı algıladı. Şu andaki "
+"tarayıcınızı kullanarak sitemizdeki tüm özelliklere erişimezsiniz. Bir "
+"yükseltme gerekli değildir, ama sitemizdeki gezinme deneyiminizi geliştirmek "
+"için tavsiye edilir."
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Aşağıdaki linkleri kullanarak yeni bir tarayıcı yükleyin ya da şu andaki "
+"yarayıcınızı yenileyin."
+
+msgid "Remind me later"
+msgstr "Daha sonra hatırlat"
+
+msgid "No available Bonuses."
+msgstr "Bonus mevcut değildir."
+
+msgid "Available Bonuses."
+msgstr "Mevcut Bonuslar."
+
+msgid "Locked Amount"
+msgstr "Kilitli hesap"
+
+msgid "Opened on"
+msgstr "Tarihinde açılmış"
+
+msgid "Activation Date"
+msgstr "Aktivasyon tarihi"
+
+msgid "Expiration Date"
+msgstr "Son kullanma tarihi"
+
+msgid "Account Information"
+msgstr "Hesap bilgileri"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "Tüm ligler ve maçlar için Sonuç tabloları ve Canlı bahisler"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Canlı Casino'da Rulet, BlackJack ve Bakara oynayın"
+
+msgid "Identity Card (back view)"
+msgstr "Kimlik (Arka görünüm)"
+
+msgid "Identity Card (front view)"
+msgstr "Kimlik (Ön görünüm)"
+
+msgid "Bank Account"
+msgstr "Banka hesabı"
+
+msgid "Register now and get 7bonus7"
+msgstr "Şimdi kayıt olun ve 7bonus7 bonusu sizin olsun"
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms> 7Epta7 Limited Malta yasaları çerçevesinde kayıtlı bir şirket "
+"olup  Tower İş Merkezi, Suite 5, Seviye 1, Kule Caddesi, Swatar, Birkirkara "
+"kayıtlı ofisi bulunmaktadır. Şirket, üzerinde edindiği Sınıf 2 belgesine "
+"sahip olup, Malta Piyango ve Oyun Otoritesi ve lisans numarası LGA/"
+"CL2/921/2013 2013 tarihinde kayıt edilmiştir. Şirket, Malta Loto ve Şans "
+"Oyunları Kurumu (LGA) tarafından düzenlenmektedir. </ P>"
+
+msgid "Top Winner"
+msgstr "Birinci"
+
+msgid "close"
+msgstr "kapat"
+
+msgid "hours"
+msgstr "saatler"
+
+msgid "Instant Play"
+msgstr "Anında Oyun"
+
+msgid "Live Video Streaming"
+msgstr "Canlı Video Yayını"
+
+msgid "Betslip Wagering"
+msgstr "Bahis kuponu toplamı"
+
+msgid "Ticket Win"
+msgstr "Bilet kazacı"
+
+msgid "Bonus Cancellation by user."
+msgstr "Kullanıcı tarafından bonus iptali"
+
+msgid "Bonus activation"
+msgstr "Bonus aktive etme"
+
+msgid "APCO Deposit"
+msgstr "APCO depozitosu"
+
+msgid "Account Deposit"
+msgstr "Hesap depozitosu"
+
+msgid "Live Casino Transaction"
+msgstr "Canlı Casino işlemi"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Canlı Casino işlem geri alma"
+
+msgid "in every game"
+msgstr "Her maçta"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "Log in"
+msgstr "Giriş yap"
+
+msgid "Stake:"
+msgstr "Miktar:"
+
+msgid "View Tickets"
+msgstr "Biletleri göster"
+
+msgid "Number of Bets Placed: "
+msgstr "Toplam Bahis sayısı:"
+
+msgid "Max Wager for bets: "
+msgstr "Toplam bahis oynama miktarı:"
+
+msgid "bets"
+msgstr "bahisler"
+
+msgid "Admin add Funds"
+msgstr "Admin Bakiye ekle"
+
+msgid "Bonus activation:"
+msgstr "Bonus aktive etme:"
+
+msgid "APCO Deposit:"
+msgstr "APCO depozitosu"
+
+msgid "Withdrawal"
+msgstr "Para çekme"
+
+msgid "Betslip Cancellation:"
+msgstr "Bahis kuponu iptali"
+
+msgid "Cancelled WithDrawal"
+msgstr "Para çekme iptal edildi"
+
+msgid "Ticket Cancelled"
+msgstr "Bilet iptal edildi"
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz"
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Price "
+
+msgid "Bet Split"
+msgstr "Bahis kuponu"
+
+msgid "The Company"
+msgstr "Şirket"
+
+msgid "Help & Legal"
+msgstr "Yardın & Yasal"
+
+msgid "Useful Links"
+msgstr "Kullanışlı Linkler"
+
+msgid "Payment Options"
+msgstr "Ödeme Şekilleri"
+
+msgid "Extra Bets"
+msgstr "Ekstra bahisler"
+
+msgid "No, don't remind me again"
+msgstr "Hayır, tekrar hatırlatma"
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Bir sonraki ziyaretinizde daha kolay bulabilmeniz için soldaki menüden "
+"favori spor ligi seçin. "
+
+msgid "3 Way"
+msgstr "3 Yönlü"
+
+msgid "2 Way"
+msgstr "2 Yönlü"
+
+msgid "Totals"
+msgstr "Toplam"
+
+msgid "Championship Outrights"
+msgstr "Şampiyona kazanan"
+
+msgid "Short Term Outrights"
+msgstr "Kısa vade kazanan"
+
+msgid "Podium Finish"
+msgstr "Podyum sonucu"
+
+msgid "3-balls"
+msgstr "3-top"
+
+msgid "Correct score"
+msgstr "Doğru skor"
+
+msgid "First Team to score"
+msgstr "İlk gol atacak takım"
+
+msgid "1st Half - 1X2"
+msgstr "İlk yarı - 1X2"
+
+msgid "Both Teams to Score"
+msgstr "Her iki takım da skorlayacak"
+
+msgid "Odd/Even goals"
+msgstr "Tek/Çift gol"
+
+msgid "Draw no bet"
+msgstr "Hiçbir bahis beraberlik"
+
+msgid "Goals home team"
+msgstr "Ev sahibi takım gol"
+
+msgid "Goals away team"
+msgstr "Konuk takım gol"
+
+msgid "Asian Handicap"
+msgstr "Asya handikapı"
+
+msgid "Asian Total"
+msgstr "Asya toplam"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1. Yarı - Asya handikapı"
+
+msgid "1st Half - Asian Total"
+msgstr "1. Yarı - Asya toplam"
+
+msgid "European Handicap"
+msgstr "Avrupa handikapı"
+
+msgid "First goalscorer"
+msgstr "İlk gol atan"
+
+msgid "Total Goals (aggregated)"
+msgstr "Toplam Gol sayısı"
+
+msgid "1st Half - Correct Score"
+msgstr "1. Yarı - Doğru skor"
+
+msgid "Highest scoring half"
+msgstr "Daha fazla gol atılan yarı"
+
+msgid "Matchbet + Totals"
+msgstr "Maç bahisi + Toplam "
+
+msgid "Matchflow"
+msgstr "Matchflow "
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1. yarı - Tek/Çift gol "
+
+msgid "Overtime yes/no"
+msgstr "Uzatmalar Evet/hayır"
+
+msgid "Winning margins"
+msgstr "Kazanma marjı"
+
+msgid "Anytime goalscorer"
+msgstr "Herhangi bir anda gol atan"
+
+msgid "Total number of bookings"
+msgstr "Toplam kart sayısı"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1. Yarı - Toplam kart sayısı"
+
+msgid "Total number of booking points"
+msgstr "Toplam kart puan sayısı"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1. Yarı - Toplam kart puan sayısı"
+
+msgid "Player sent off?"
+msgstr "Oyuncu atılması"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1. Yarı - Oyuncu atılması"
+
+msgid "Number of bookings home"
+msgstr "Kart sayısı Ev Sahibi "
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1. Yarı -  kart sayısı Ev Sahibi "
+
+msgid "Number of bookings away"
+msgstr "Kart sayısı Konuk "
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1. Yarı -  Kart sayısı Konuk "
+
+msgid "First Team Booked"
+msgstr "İlk Kart gösterilen Takım "
+
+msgid "1st Half - First Team Booked"
+msgstr "1. Yarı - İlk Kart gösterilen Takım "
+
+msgid "Match bookings"
+msgstr "Maç kart sayısı "
+
+msgid "1st Half - Match Bookings"
+msgstr "1. Yarı - Maç kart sayısı "
+
+msgid "Aggregated booking points"
+msgstr "Toplam kart Puanı "
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1. Yarı - Toplam kart Puanı"
+
+msgid "Exact bookings"
+msgstr "Tam kart"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1. Yarı - Tam kart"
+
+msgid "Home Team Player Sent Off"
+msgstr "Ev sahibi takım oyuncusu atılması "
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1. Yarı - Ev sahibi takım oyuncusu atılması "
+
+msgid "Away Team Player Sent Off"
+msgstr "Konuk Takım oyuncusu atılması "
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1. Yarı - Konuk takım oyuncusu atılması "
+
+msgid "Total Goals (exact)"
+msgstr "Toplam Gol (tam) "
+
+msgid "2nd Half - 1X2"
+msgstr "2. Yarı  - 1X2 "
+
+msgid "2nd Half - Asian Total"
+msgstr "2. Yarı  - Asya Toplam "
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2. Yarı  - Asya Handikap "
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Yarı/Tam süre Doğru Skor "
+
+msgid "Overtime + goal Yes/No"
+msgstr "Uzatma + Gol Evet/Hayır "
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Penaltılara kalsın Evet/Hayır "
+
+msgid "How will the match be decided?"
+msgstr "Maç sonucu nasıl belirlenir"
+
+msgid "Clean sheet home team"
+msgstr "Ev sahibi takım gol yemeden kazanır "
+
+msgid "Clean sheet away team"
+msgstr "Konuk takım gol yemeden kazanır "
+
+msgid "Which team to score"
+msgstr "Hangi Takım gol atsın "
+
+msgid "1st Half - Total Goals"
+msgstr "1. Yarı - Toplam Gol "
+
+msgid "2nd Half - Total Goals"
+msgstr "2. Yarı  - Toplam Gol "
+
+msgid "Total corners"
+msgstr "Toplam Korner "
+
+msgid "1st Half - Total Corners"
+msgstr "1. Yarı - Toplam Korner "
+
+msgid "Corner handicap"
+msgstr "Korner handikap"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1. Yarı - Korner Handikap"
+
+msgid "Corner matchbet"
+msgstr "Korner maç bahisi "
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1. Yarı - Korner maç bahisi "
+
+msgid "Corner Odd/Even"
+msgstr "Korner Tek/Çift "
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1. Yarı - Korner Tek/Çift "
+
+msgid "First corner"
+msgstr "İlk Korner "
+
+msgid "1st Half - First Corner"
+msgstr "1. Yarı - İlk Korner "
+
+msgid "Home Team Number of Corners"
+msgstr "Ev sahibi takım Korner sayısı"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1. Yarı - Ev sahibi takım Korner sayısı "
+
+msgid "1st Half - Totals"
+msgstr "1. Yarı - Toplam "
+
+msgid "2nd Half - Totals"
+msgstr "2. Yarı  - Toplam "
+
+msgid "Last corner"
+msgstr "Son Korner "
+
+msgid "1st Half - Last Corner"
+msgstr "1. Yarı - Son Korner "
+
+msgid "Away Team Number of Corners"
+msgstr "Konuk Takım Korner sayısı "
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1. Yarı - Konuk Takım Korner sayısı "
+
+msgid "Last team to score"
+msgstr "Son Takım gol atsın "
+
+msgid "Corner Total (Aggregated)"
+msgstr "Korner Toplam (tüm) "
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1. Yarı - Korner Toplam (tüm) "
+
+msgid "Home to win both halves?"
+msgstr "Ev Sahibi kazansın Her iki yarıda"
+
+msgid "Home to win either half?"
+msgstr "Ev Sahibi kazansın herhangi Yarıda"
+
+msgid "Home to score in both halves?"
+msgstr "Ev Sahibi gol atsın Her iki yarıda"
+
+msgid "Away to win both halves?"
+msgstr "Konuk kazansın Her iki yarıda"
+
+msgid "Away to win either half?"
+msgstr "Konuk kazansın herhangi Yarıda"
+
+msgid "Away to score in both halves?"
+msgstr "Konuk gol atsın Her iki yarıda"
+
+msgid "Both halves over 1.5?"
+msgstr "Her iki yarı 1.5 Üstü"
+
+msgid "Both halves under 1.5?"
+msgstr "Her iki yarı 1.5 altı"
+
+msgid "1st Half Double Chance"
+msgstr "1. Yarı Çifte Şans "
+
+msgid "1st Half Draw no Bet"
+msgstr "1. Yarı Berabere bahis yok "
+
+msgid "First goal interval 10 min"
+msgstr "İlk Gol interval 10 dak"
+
+msgid "First goal interval 15 min"
+msgstr "İlk Gol interval 15 dak "
+
+msgid "First 10 minutes -3 way"
+msgstr "İlk 10 dakida -3 yönlü "
+
+msgid "1st Half - Both Teams to score"
+msgstr "1. Yarı - Her iki Takım gol atsın "
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2. Yarı  - Her iki Takım gol atsın "
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "En Yüksek skorlu Yarı Ev Sahibi Takım "
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "En Yüksek skorlu Yarı Konuk Takım "
+
+msgid "Correct score (incl. other)"
+msgstr "Doğru skor (uztm dahil) "
+
+msgid "Odd/Even Points"
+msgstr "Tek/Çift Puan "
+
+msgid "Points Spreads"
+msgstr "Points Spreads "
+
+msgid "Total Spreads"
+msgstr "Total Spreads "
+
+msgid "1st Half - Points Spread"
+msgstr "1. Yarı - Points Spread"
+
+msgid "1st Half - Total Spread"
+msgstr "1. Yarı - Total Spread "
+
+msgid "Matchbet and Totals"
+msgstr "Maç bahisi and Toplam "
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1. Yarı - Tek/Çift Puan "
+
+msgid "1st Half - 2way"
+msgstr "1. Yarı - 2 yönlü "
+
+msgid "Highest Scoring Quarter"
+msgstr "En Yüksek skorlu Çeyrek "
+
+msgid "3way"
+msgstr "3 yönlü "
+
+msgid "2nd Half - Points Spread"
+msgstr "2. Yarı  - Points Spread "
+
+msgid "2nd Half - Total Spread"
+msgstr "2. Yarı  - Total Spread "
+
+msgid "1st Half - Draw no bet"
+msgstr "1. Yarı - Berabere bahis yok "
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2. Yarı  - Tek/Çift Puan "
+
+msgid "2nd Half - Draw no bet"
+msgstr "2. Yarı  - Berabere bahis yok "
+
+msgid "Total margins NBA-ranges"
+msgstr "Toplam marjı NBA-kapsamı"
+
+msgid "Total margins Regular-ranges"
+msgstr "Toplam marjı Normal-kapsamı"
+
+msgid "Totals away team"
+msgstr "Toplam Konuk Takım "
+
+msgid "Totals home team"
+msgstr "Toplam Ev sahibi takım "
+
+msgid "1st Quarter - 1X2"
+msgstr "1. Çeyrek - 1X2 "
+
+msgid "2nd Quarter - 1X2"
+msgstr "2. Çeyrek - 1X2 "
+
+msgid "3rd Quarter - 1X2"
+msgstr "3. Çeyrek - 1X2 "
+
+msgid "4th Quarter - 1X2"
+msgstr "4. Çeyrek - 1X2 "
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1. Çeyrek - Berabere bahis yok "
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2. Çeyrek - Berabere bahis yok "
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3. Çeyrek - Berabere bahis yok "
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4. Çeyrek - Berabere bahis yok "
+
+msgid "1st Quarter - Total Spread"
+msgstr "1. Çeyrek - Total Spread "
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2. Çeyrek - Total Spread "
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3. Çeyrek - Total Spread "
+
+msgid "4th Quarter - Total Spread"
+msgstr "4. Çeyrek - Total Spread "
+
+msgid "1st Quarter - Points Spread"
+msgstr "1. Çeyrek - Points Spread "
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2. Çeyrek - Points Spread "
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3. Çeyrek - Points Spread "
+
+msgid "4th Quarter - Points Spread"
+msgstr "4. Çeyrek - Points Spread "
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1. Çeyrek - Tek/Çift Puan "
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2. Çeyrek - Tek/Çift Puan "
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3. Çeyrek - Tek/Çift Puan "
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4. Çeyrek - Tek/Çift Puan "
+
+msgid "First to x points"
+msgstr "İlk x puana varan "
+
+msgid "Total AAMS"
+msgstr "Toplam AAMS "
+
+msgid "Total 3way"
+msgstr "Toplam 3 yönlü "
+
+msgid "Points Spreads (Overtime)"
+msgstr "Points Spreads (Uzatma) "
+
+msgid "Total Spreads (Overtime)"
+msgstr "Total Spreads (Uzatma) "
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Tek/Çift Runs (Uzatma) "
+
+msgid "Correct Score"
+msgstr "Doğru Skor"
+
+msgid "Both teams to score?"
+msgstr "Her iki Takım gol atsın"
+
+msgid "Goal Spreads"
+msgstr "Goal Spreads "
+
+msgid "1st Period - 3way"
+msgstr "1. Periyot - 3 yönlü "
+
+msgid "3rd Period - 3way"
+msgstr "3. Periyot - 3 yönlü "
+
+msgid "1st Period – Total"
+msgstr "1. Periyot – Toplam "
+
+msgid "2nd Period – Total"
+msgstr "2. Periyot – Toplam "
+
+msgid "3rd Period – Total"
+msgstr "3. Periyot – Toplam "
+
+msgid "1st Period - Double Chance"
+msgstr "1. Periyot - Çifte Şans "
+
+msgid "2nd Period - Double Chance"
+msgstr "2. Periyot - Çifte Şans "
+
+msgid "3rd Period - Double Chance"
+msgstr "3. Periyot - Çifte Şans "
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Tek/Çift Gol (Uztm ve Penaltı dahil) "
+
+msgid "Highest Scoring Period"
+msgstr "En Yüksek skorlu Periyot "
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Goal Spreads (uztm dahil) "
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Total Spreads (uztm dahil) "
+
+msgid "Last team to Score"
+msgstr "Son Takım gol atsın "
+
+msgid "2nd Period - 3way"
+msgstr "2. Periyot - 3 yönlü "
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1. Periyot - Tek/Çift Gol "
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2. Periyot - Tek/Çift Gol "
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3. Periyot - Tek/Çift Gol "
+
+msgid "1st Period - Draw no bet"
+msgstr "1. Periyot - Berabere bahis yok "
+
+msgid "2nd Period - Draw no bet"
+msgstr "2. Periyot - Berabere bahis yok "
+
+msgid "3rd Period - Draw no bet"
+msgstr "3. Periyot - Berabere bahis yok "
+
+msgid "2nd Period - Both teams to score"
+msgstr "2. Periyot - Her iki Takım gol atsın "
+
+msgid "3rd Period - Both teams to score"
+msgstr "3. Periyot - Her iki Takım gol atsın "
+
+msgid "1st Period - Goal Spreads"
+msgstr "1. Periyot - Goal Spreads  "
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2. Periyot - Goal Spreads "
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3. Periyot - Goal Spreads "
+
+msgid "2nd Period - First team to score"
+msgstr "2. Periyot - İlk Takım gol atsın "
+
+msgid "3rd Period - First team to score"
+msgstr "3. Periyot - İlk Takım gol atsın "
+
+msgid "1st Period - Last team to score"
+msgstr "1. Periyot - Son Takım gol atsın "
+
+msgid "2nd Period - Last team to score"
+msgstr "2. Periyot - Son Takım gol atsın "
+
+msgid "3rd Period - Last team to score"
+msgstr "3. Periyot - Son Takım gol atsın "
+
+msgid "1st Period - Both teams to score"
+msgstr "1. Periyot - Her iki Takım gol atsın "
+
+msgid "Totals (incl. OT)"
+msgstr "Toplam (uztm dahil) "
+
+msgid "2way (incl. OT)"
+msgstr "2 yönlü (uztm dahil) "
+
+msgid "1st Set Winner"
+msgstr "1. Set Kazanan "
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Toplam set sayısı (en iyi 3) "
+
+msgid "2nd Set Winner"
+msgstr "2. Set Kazanan "
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Toplam set sayısı (en iyi 5) "
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Doğru Set Skoru (en iyi 3 set) "
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Doğru Set Skoru ( en iyi 5 set) "
+
+msgid "1st Half - 3way"
+msgstr "1. Yarı - 3 yönlü "
+
+msgid "Halftime / Fulltime"
+msgstr "Yarı / Tam zaman "
+
+msgid "Odd / Even Goals"
+msgstr "Tek / Çift Gol "
+
+msgid "1st Half - Goal Spread"
+msgstr "1. Yarı - Goal Spread"
+
+msgid "2nd half - 3way"
+msgstr "2. Yarı  - 3 yönlü "
+
+msgid "1st half - Double Chance"
+msgstr "1. Yarı - Çifte Şans "
+
+msgid "1st half - Draw no bet"
+msgstr "1. Yarı - Berabere bahis yok "
+
+msgid "1st Half - Odd / Even"
+msgstr "1. Yarı - Tek / Çift"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2. Yarı  - Tek / Çift"
+
+msgid "2nd half - Draw no bet"
+msgstr "2. Yarı  - Berabere bahis yok "
+
+msgid "2nd half - Double Chance"
+msgstr "2. Yarı  - Çifte Şans "
+
+msgid "Points Spread"
+msgstr "Points Spread "
+
+msgid "Winning Margins Rugby Union"
+msgstr "Kazanma marjı Ragbi Birliği "
+
+msgid "Winning Margins Rugby League"
+msgstr "Kazanma marjı Ragbi Ligi"
+
+msgid "1st Half - Points Spreads"
+msgstr "1. Yarı - Points Spreads"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1. Yarı – Tek/Çift Puan "
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Tek/Çift Puan (Uzatma) "
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2. Yarı  - Points Spread (dahil Uzatma) "
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2. Yarı  - Total Spreads (dahil Uzatma) "
+
+msgid "Who wins first set"
+msgstr "İlk set kim kazanır"
+
+msgid "Who wins second set"
+msgstr "İkinci set kim kazanır"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Toplam set sayısı (en iyi 5) "
+
+msgid "Correct Set Score"
+msgstr "Doğru Set Skoru "
+
+msgid "How many sets will exceed score limit?"
+msgstr "Kaç set skor limitini geçer"
+
+msgid "1st Set Handicap"
+msgstr "1. Set Handikap "
+
+msgid "1st Set Total"
+msgstr "1. Set Toplam "
+
+msgid "1st Set Race to X"
+msgstr "1. Set Race to X "
+
+msgid "1st Set Odd/even"
+msgstr "1. Set Tek/Çift "
+
+msgid "Who wins third set"
+msgstr "Üçüncü seti kim kazanır"
+
+msgid "Who wins fourth set"
+msgstr "Dördüncü seti kim kazanır"
+
+msgid "Who wins fifth set"
+msgstr "Beşinci seti kim kazanır"
+
+msgid "5th Set Played?"
+msgstr "5. set oynanır mı"
+
+msgid "4th Set Played?"
+msgstr "4. set oynanır mı"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Toplam set sayısı (en iyi 3) "
+
+msgid "Line"
+msgstr "Line "
+
+msgid "Over"
+msgstr "Üstü "
+
+msgid "Under"
+msgstr "Altı"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "goals"
+msgstr "Gol "
+
+msgid "Goals"
+msgstr "Gol "
+
+msgid "Under and home"
+msgstr "Altı ve Ev Sahibi "
+
+msgid "Under and draw"
+msgstr "Altı ve berabere "
+
+msgid "Under and away"
+msgstr "Altı ve Konuk "
+
+msgid "1st"
+msgstr "1inci"
+
+msgid "2nd"
+msgstr "2inci"
+
+msgid "Equal"
+msgstr "Equal "
+
+msgid "Hometeam scores first and home"
+msgstr "Hometeam scores first and home "
+
+msgid "Hometeam scores first and draw"
+msgstr "Hometeam scores first and draw "
+
+msgid "Hometeam scores first and away"
+msgstr "Hometeam scores first and away "
+
+msgid "Awayteam scores first and home"
+msgstr "Awayteam scores first and home "
+
+msgid "Awayteam scores first and draw"
+msgstr "Awayteam scores first and draw "
+
+msgid "Awayteam scores first and away"
+msgstr "Awayteam scores first and away "
+
+msgid "Odd"
+msgstr "Tek"
+
+msgid "Even"
+msgstr "Çift"
+
+msgid "Others"
+msgstr "Diğer"
+
+msgid "Both teams"
+msgstr "Her iki Takım "
+
+msgid "Over and away"
+msgstr "Üstü and Konuk "
+
+msgid "Over and draw"
+msgstr "Üstü and berabere "
+
+msgid "Over and home"
+msgstr "Üstü and Ev Sahibi "
+
+msgid "other"
+msgstr "diğer"
+
+msgid "1st period"
+msgstr "1. Periyot "
+
+msgid "2nd period"
+msgstr "2. Periyot "
+
+msgid "3rd period"
+msgstr "3. Periyot "
+
+msgid "1 sets"
+msgstr "1 set "
+
+msgid "2 sets"
+msgstr "2 set "
+
+msgid "3 sets"
+msgstr "3 set "
+
+msgid "4 sets"
+msgstr "4 set "
+
+msgid "5 sets"
+msgstr "5 set "
+
+msgid "0 sets"
+msgstr "0 set "
+
+msgid "1st quarter"
+msgstr "1. Çeyrek "
+
+msgid "2nd quarter"
+msgstr "2. Çeyrek "
+
+msgid "3rd quarter"
+msgstr "3. Çeyrek "
+
+msgid "4th quarter"
+msgstr "4. Çeyrek "
+
+msgid "No goal"
+msgstr "Gol yok"
+
+msgid "Chat with Real Dealers"
+msgstr "Gerçek krupiyelerle chat yap"
+
+msgid "PLAY NOW"
+msgstr "ŞİMDİ OYNA"

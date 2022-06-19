@@ -1,0 +1,325 @@
+th { font-size: 10px; }
+td { font-size: 12px; }
+
+td.showgame:hover { color: #000000; }
+
+td.showgame, td.showgame:hover {
+    cursor: pointer;
+}
+
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-dialog-buttons.ui-draggable.ui-resizable {
+    width: 800px!important;
+}
+
+.statnums {
+    margin-top: 20px;
+}
+
+td.info { color: #49afcd; }
+td.primary { color: #0055cc; }
+td.success { color: #5bb75b; }
+td.warning { color: #f89406; }
+td.danger { color: #bd362f; }
+td.inverse { color: #222222; }
+
+select {
+    border-radius: 3px;
+    /*width: 25%;*/
+}
+
+#showdata_bulk label > select {
+    border: none;
+    padding: 13px;
+    background: #777777;
+    color: #ffffff;
+}
+
+#showdata_bulk #setbulk {
+    background: #565555;
+    border-radius: 2px;
+    padding: 13px;
+    border: none;
+}
+
+.dataTables_length,
+.dataTables_filter {
+    width: 50%;
+    float: left;
+}
+
+div#showdata_bulk label,
+.dataTables_length label,
+.dataTables_filter label {
+    font-size: 1.2em;
+    font-family: monospace;
+}
+
+.dataTables_length > label > select,
+.dataTables_filter > label > input {
+    border: 1px solid #777777;
+    /*padding: 8px;*/
+}
+
+div#showdata_bulk,
+div.dataTables_wrapper {
+    padding: 10px 10px;
+    overflow-x: auto; 
+}
+
+div.dataTables_length select, 
+div.dataBulk_length select{
+    width: inherit;
+}
+
+.namecap {
+    text-transform: capitalize;
+}
+
+label[for=set_bulk],
+label[for=set_category],
+label[for=set_brand] {
+    float: left;
+    margin-right: 10px;
+}
+
+.collapse {
+    background: #eeeeee;
+}
+
+table.showdata {
+    table-layout: fixed;
+}
+
+table.showdata td {
+    /*white-space: nowrap;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100px;
+}
+
+.hoveredimage, .hoveredorder {
+    background-color: #dddddd;
+    opacity: 0.5;
+    cursor: pointer;
+}
+.order-col:hover{
+    background-color: #dddddd;
+    opacity: 0.5;
+    cursor: pointer;    
+}
+
+
+.ui-dialog-titlebar-close {
+    display: none;
+}
+.ui-widget-header{
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(0,0,0,0.1) 100%)!important;
+    color:#000!important;
+    border:none!important;
+}
+
+.updateorder input{
+    margin-bottom: 0;
+}
+.uploadimage input{
+    display: flex;
+    outline:  none!important;
+}
+/*******************************************************************************/
+/*************************** GET GAMES TABLE ***********************************/
+.switch-button-background {
+    width: 40px;
+    height: 20px;
+}
+
+.switch-button-background .switch-button-button {
+    width: 20px;
+    height: 20px;
+}
+
+.switch-button-background.checked {
+    background: #51a351;
+}
+
+.switch-button-background.checked .switch-button-button {
+    left: 19px;
+}
+
+/*******************************************************************************/
+
+
+div#groupcats {
+    background: rgba(238, 238, 238, 0.66);
+    /*width: 15%;*/
+    border-right: 2px solid rgba(153, 153, 153, 0.17);
+}
+
+div#groupcats ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div#groupcats ul > li {
+    /*float: left;*/
+    padding: 15px 9px;
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+/*div#groupcats ul > li:not(:last-child) {
+    border-right: 1px solid #0088cc;
+}*/
+
+div#groupcats ul > li:hover {
+    background: #dddddd;
+}
+
+div#groupcats ul > li.namecap:active,
+div#groupcats ul > li.namecap.active {
+    background-color: #0088cc;
+    filter: brightness(126%);
+    color: #ffffff;
+}
+
+div#groupnogames {
+    font-size: 15px;
+}
+
+div#groupnogames,
+div#grouptable {
+    background: #f8f8fb;
+    margin: 0;
+    width: 85%;
+    text-align: center;
+    line-height: 2;
+}
+
+div#grouptable {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    div#groupcats ul > li {
+        font-size: 1em;
+    }
+
+    div#groupnogames,
+    div#grouptable,
+    groupcats {
+        width: 100%;
+    }
+}
+
+@media screen and (max-device-width: 768px) {
+    div#groupcats ul > li {
+        font-size: 1em;
+    }
+
+    div#groupnogames,
+    div#grouptable,
+    groupcats,
+    .dataTables_wrapper {
+        width: 100%;
+    }
+}
+
+.blueocean_col { color: #0eb9ef }
+.playson_col { color: #ef0e0e}
+.tomhorn_col { color: #24ef0e }
+.mrslotty_col { color: #efac0e }
+.ezugi_col { color: #ef0ec7 }
+
+#force_gamelists {
+    cursor: pointer;
+    float: right;
+    text-align: center;
+    height: auto;
+    position: inherit;
+    padding: 13px;
+}
+
+#force_gamelists:hover {
+    box-shadow: 0px 2px 7px #888888;
+}
+
+#loadertab {
+    display: none;
+}
+
+#loadertab .ui-loading .ui-loader {
+    display: block;
+}
+
+#loadertab .ui-loader-verbose {
+    width: 12.5em;
+    filter: Alpha(Opacity=88);
+    opacity: .88;
+    box-shadow: 0 1px 1px -1px #fff;
+    height: auto;
+    padding: .625em;
+}
+
+#loadertab .ui-loader {
+    z-index: 9999999;
+    position: fixed;
+    left: 58%;
+}
+
+#loadertab .ui-body-b {
+    background-color: #2a2a2a;
+    border-color: #1d1d1d;
+    color: #fff;
+    text-shadow: 0 1px 0 #111;
+    border-style: solid;
+    text-align: center;
+}
+
+#loadertab i{
+    font-size: xx-large;
+}
+
+#loadertab .ui-loader-verbose .ui-icon-loading {
+    margin: 0 auto 0.625em;
+    filter: Alpha(Opacity=75);
+    opacity: 0.75;
+}
+
+#loadertab .ui-loader .ui-icon-loading {
+    background-color: #000;
+    display: block;
+    width: 2.75em;
+    height: 2.75em;
+    padding: .0625em;
+    -webkit-border-radius: 2.25em;
+    border-radius: 2.25em;
+}
+
+#loadertab .ui-icon-loading {
+    background: url(../img/ajax-loader.gif);
+    background-size: 2.875em 2.875em;
+}
+
+.paginate_disabled_previous, .paginate_disabled_next,
+.paginate_enabled_previous, .paginate_enabled_next {
+    padding: 9px;
+    border: 1px solid #dddddd;
+    color: #dddddd;
+}
+
+.paginate_disabled_previous:hover, .paginate_disabled_next:hover {
+    text-decoration: none;
+    cursor: default;
+    color: #dddddd;
+}
+
+.paginate_enabled_previous, .paginate_enabled_next {
+    color: #333333;
+    cursor: pointer;
+}
+
+.paginate_enabled_previous:hover, .paginate_enabled_next:hover {
+    text-decoration: none;
+    color: #ffffff;
+    background: #496ca2;
+}

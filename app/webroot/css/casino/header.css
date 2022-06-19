@@ -1,0 +1,67 @@
+.main-navbar a, .main-navbar li a{
+    color: #fff; 
+}
+.main-brand{
+    /*display: none;*/
+    color: #C3C3C3;
+    font-weight: 900;
+}
+.main-navbar.scrolled .main-brand{
+    display: block;
+}
+.btn-navbar{
+    margin: 0.5rem;
+    width:100px;
+}
+.main-navbar .navbar-nav{
+    justify-content: flex-end;
+}
+/*.main-navbar .navbar-collapse a{
+    color: #C3C3C3;
+}*/
+.main-navbar .dropdown-menu{
+    background-color: #04011C; 
+}
+/*.main-navbar .dropdown-menu a,
+.main-navbar .dropdown-menu i{
+    color:#C3C3C3;
+}*/
+/*.main-navbar .dropdown-menu
+{
+    width:100%;
+}*/
+#game-options-nav .nav-item, #game-options-nav .nav-link{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image {
+    width: 35px;
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(108,24,144);
+    color: #fff;
+    border-radius: 100%;
+}
+
+.main-navbar .dropdown-menu .dropdown-item:hover{
+    background: rgba(255,255,255,0.2);
+    color:#fff;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .main-navbar .container{
+        justify-content:center!important;
+    }   
+}
+@media only screen and (max-width: 991px) {
+    .main-navbar{
+        background: #050126;
+        flex-direction:row;
+    }   
+}

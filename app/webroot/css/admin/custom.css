@@ -1,0 +1,55 @@
+body, html{
+    font-family: 'Open Sans', sans-serif!important;
+}
+
+.carousel-dash-default .carousel-control-prev, 
+.carousel-dash-default .carousel-control-next{
+    width:5%;
+    display: inline-block;
+    top: 15px;
+}
+.carousel-dash-default .carousel-control-prev{
+    left:unset;
+    right: 35px;
+}
+
+.carousel-dash-default .carousel-control-next{
+    right: 15px;
+}
+table th{
+    background: #0f0b35;
+    color: #fff;
+}
+table th a{
+    color:#fff!important;
+}
+
+/*CAKEPHP PAGINATION*/
+.paging {
+    margin: 10px auto 20px auto;
+}
+.paging span{
+    padding:0.2rem 0.5rem;
+    background:#eaecf4;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.paging span:hover{
+    background: #0f0b35;
+}
+.paging span:hover a{
+    color:#fff;
+}
+.paging a{
+    text-decoration: none;
+    color: #858796;
+}
+
+.paging .current{
+    background-color: #050126;
+    color: #fff;
+}
+
+.btn-table{
+    min-width: 100px;
+}

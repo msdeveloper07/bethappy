@@ -1,0 +1,115 @@
+html, body{
+    background:transparent;
+    color: #fff;
+}
+.text-muted {
+    color: #adb5bd!important;
+}
+
+.text-link-default{
+    color: #ec1442;
+    cursor:pointer;
+
+}
+.text-link-default:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+.custom-switch .custom-control-label::after{
+    background: #ec1442;
+}
+.custom-switch .custom-control-input:disabled:checked~.custom-control-label::before{
+    /*    background-color: rgba(0,0,0,0.2);
+        border: 1px solid #adb5bd;*/
+    border-color: #ec1442;
+    background-color: #ec1442;
+}
+.custom-file-label::after{
+    background-color: rgba(59,23,86,1);
+    color: #fff;
+}
+
+.custom-control-label::before{
+    border: 1px solid #aaaaaa20!important;
+
+}
+
+.custom-control-input:checked~.custom-control-label::before{
+    border-color:  #ec1442;;
+    background-color:  #ec1442;;
+}
+.custom-control-input:focus~.custom-control-label::before{
+    box-shadow: 0 0 0 0.2rem  rgba(108,24,144, .25);
+}
+
+
+.payment-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.payment-card img{
+    width:140px;
+}
+
+.payment-card{
+    background-color: #dee2e6!important;
+    border: 1px solid #aaaaaa20;
+    padding: 1rem;
+    height: 5rem;
+    width: 10rem;
+    cursor:pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+}
+.payment-card span{
+    font-size: 1.25rem;
+    color: #0f0b35;
+}
+
+
+.default-payment-card{
+    border: 1px solid #aaaaaa20;
+    margin-bottom: 2rem;
+    background: transparent;
+
+}
+.default-payment-card .card-header{
+    border-bottom: 1px solid #aaaaaa20;
+    background: #0f0b35;
+    display: flex;
+}
+
+.default-payment-card .card-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #aaaaaa20;
+    background: #0f0b35;
+}
+
+.default-payment-card .card-body{
+
+}
+/*overides*/
+.btn-link{
+    color:#ec1442;
+}
+.btn-link:hover{
+    colo: #ec1442b3;
+}
+
+/*parsley overide*/
+
+.parsley-errors-list.filled{
+    list-style-type: none;
+    color: #dc3545!important;
+    padding-left:0;
+}

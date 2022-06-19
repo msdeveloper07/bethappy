@@ -1,0 +1,4079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 11:00+0200\n"
+"PO-Revision-Date: 2019-06-28 10:06+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: se_SE\n"
+
+msgid "Your passwords does not much"
+msgstr "Dina lösenord matchar inte"
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "Ditt konto har skapats. Bekräfta din e-post för att logga in"
+
+msgid "Password changed"
+msgstr "Lösenord ändrat"
+
+msgid "Wrong old password. Please try again"
+msgstr "Fel gammalt lösenord. Försök igen"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Lösenorden matchar inte. Försök igen"
+
+msgid "Account information updated."
+msgstr "Kontoinformation uppdaterad."
+
+msgid "Limits cancelled."
+msgstr "Gränser avbrutna."
+
+msgid "Unable to cancel limit"
+msgstr "Det går inte att avbryta gräns"
+
+msgid "Limits updated."
+msgstr "Gränser uppdaterade."
+
+msgid "Limits not updated."
+msgstr "Gränser uppdaterades inte."
+
+msgid "You account has been deleted."
+msgstr "Ditt konto har tagits bort."
+
+msgid "Account settings updated."
+msgstr "Kontoinställningar uppdaterade."
+
+msgid "Password reset link sent to your email"
+msgstr "Lösenord återställningslänk skickad till din e-postadress"
+
+msgid "E-mail not valid"
+msgstr "E-postadress är inte giltig"
+
+msgid "Promotional code successfully used"
+msgstr "Kampanjkod framgångsrikt använt"
+
+msgid "Invalid promotional code"
+msgstr "Ogiltig kampanjkod"
+
+msgid "Confirm your email."
+msgstr "Bekräfta din e-postadress."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Ditt konto är låst. Återställ ditt lösenord"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Ditt konto är permanent borttaget"
+
+msgid "You are Already Logged in."
+msgstr "Du redan är inloggad."
+
+msgid "Wrong Password"
+msgstr "Fel lösenord"
+
+msgid "Username or password is incorrect"
+msgstr "Användarnamn eller lösenord är felaktigt"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Personal %s (ID: %d) begärde att ladda upp ditt konto"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Användare %s (ID: %d) konto krediterades med %s"
+
+msgid "User %s is credited by %d %s"
+msgstr "Användare %s krediteras med %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Personal %s (ID: %d) begärde att debitera ditt konto"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Användare %s (ID: %d) konto belastades med %s."
+
+msgid "User %s is charged by %d %s"
+msgstr "Användare %s debiteras med %d %s"
+
+msgid "KYC Data Accepted"
+msgstr "KYC data godkänt"
+
+msgid "Email successfully sent"
+msgstr "E-postmeddelande skickat"
+
+msgid "Cannot send email. Please try again."
+msgstr "Kan inte skicka e-post. Försök igen."
+
+msgid "can't find"
+msgstr "kan inte hittas"
+
+msgid "Changes saved"
+msgstr "Ändringar sparade"
+
+msgid "This cannot be saved."
+msgstr "Detta kan inte sparas."
+
+msgid "Item added"
+msgstr "Objekt lagt till"
+
+msgid "This cannot be added."
+msgstr "Detta kan inte läggas till."
+
+msgid "Item deleted"
+msgstr "Objekt borttaget"
+
+msgid "This cannot be deleted."
+msgstr "Detta kan inte tas bort."
+
+msgid "Bet added"
+msgstr "Spel lagt till"
+
+msgid "Error adding bet"
+msgstr "Fel vid tilläggning av spel"
+
+msgid "Lowest deposit amount is"
+msgstr "Lägsta insättningsbelopp är"
+
+msgid "Highest deposit amount is"
+msgstr "Högsta insättningsbelopp är"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Du har uppnått din insättningsgräns per transaktionssumma:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Du har uppnått din dagliga insättningsgräns:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Du har uppnått din veckoliga insättningsgräns:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Du har uppnått din månatliga insättningsgräns:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Bonuskod har gått ut eller är fel"
+
+msgid "Bonus code expired"
+msgstr "Bonuskod har gått ut"
+
+msgid "Your amount is too low for bonus"
+msgstr "Ditt belopp är för lågt för bonus"
+
+msgid "Your amount is too high for bonus "
+msgstr "Ditt belopp är för högt för bonus "
+
+msgid "User Terminated"
+msgstr "Användare avbruten"
+
+msgid "Completed"
+msgstr "Fullbordade"
+
+msgid "Canceled"
+msgstr "Annullerade"
+
+msgid "Statuses chart"
+msgstr "Status diagram"
+
+msgid "Amount chart"
+msgstr "Belopp diagram"
+
+msgid "Deposit not found!"
+msgstr "Insättning kan inte hittas!"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Insättning redan markerad \"klar\"\"! \""
+
+msgid "Deposit request set as completed"
+msgstr "Insättningsbegäran inställd som klar"
+
+msgid "Deposit request canceled"
+msgstr "Insättningsbegäran avbruten"
+
+msgid "Money transaction completed"
+msgstr "Pengartransaktion klar"
+
+msgid "Select Event"
+msgstr "Välj evenemang"
+
+msgid "No search results found"
+msgstr "Inga sökresultat hittades"
+
+msgid "Permissions updated"
+msgstr "Behörigheter uppdaterade"
+
+msgid "Your request is accepted."
+msgstr "Din förfrågan accepterades."
+
+msgid "Language already exist"
+msgstr "Språk finns redan"
+
+msgid "can't delete item"
+msgstr "kan inte ta bort objekt"
+
+msgid "Emails successfully sent"
+msgstr "E-postmeddelanden skickades"
+
+msgid "Please enter event result"
+msgstr "Ange evenemangresultat"
+
+msgid "Results updated"
+msgstr "Resultaten uppdaterade"
+
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+msgid "can't save settings."
+msgstr "kan inte spara inställningar."
+
+msgid "Types chart"
+msgstr "Typer diagram"
+
+msgid "Cannot find ticket with id:"
+msgstr "Kan inte hitta kupong med ID:"
+
+msgid "Ticket is not found"
+msgstr "Kupong kan inte hittas"
+
+msgid "Unknown ticket status"
+msgstr "Okänd kupong status"
+
+msgid "Unknown paid status"
+msgstr "Okänd betalad status"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+msgid "Insufficient credits"
+msgstr "Otillräckliga krediter"
+
+msgid "Ticket is still pending or lost"
+msgstr "Kupong avvaktas fortfarande eller är förluren"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Kupong redan utskiven. Kupong ID: %d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Kan inte hitta kupong. Kupong ID: %d"
+
+msgid "Please select another pick from different event"
+msgstr "Välj ett annat val från olika evenemang"
+
+msgid "Min betting amount is %d"
+msgstr "Minsta spelbelopp är %d"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Du kan inte formatera denna typ av kupong, växlar tillbaka till singel"
+
+msgid "Wrong Password or Username"
+msgstr "Fel lösenord eller användarnamn"
+
+msgid "Lowest amount for cashout is"
+msgstr "Lägsta belopp för uttag är"
+
+msgid "Highest amount for cashout is"
+msgstr "Högsta summa för utbetalning är"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Inte tillräckligt med pengar för denna utbetalning"
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "Du kan inte utbetala transaktion. Det finns ett \"Låst belopp\"\" på %s på grund av bonuspolicy. Du kan betala ut %s. \""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Förra utbetalningstransaktionen genomfördes inte"
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "Du är inte verifierad (alls) för att genomföra transaktionen. Var vänlig fullfölj formuläret på följande adress:"
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "Du måste skicka in dokument igen för verifiering. Var vänlig fullfölj formuläret på följande adress"
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "Du är inte verifierad (ålder) för att genomföra transaktionen. Var vänlig fullfölj formuläret på följande adress:"
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+msgstr "Din utbetalningsbegäran på %s accepterades. Var vänlig ange din bankinformation på följande länk: <a href='/users/account'>Account Information</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Din utbetalningsbegäran på %s accepterades."
+
+msgid "Bank information updated."
+msgstr "Bankinformation uppdaterad."
+
+msgid "Withdraw request set as completed"
+msgstr "Uttagsbegäran inställd som klar"
+
+msgid "Withdraw request updated"
+msgstr "Uttagsbegäran uppdaterad"
+
+msgid "Withdraw request canceled"
+msgstr "Uttagsbegäran avbruten"
+
+msgid "Win"
+msgstr "Vinst"
+
+msgid "Lost"
+msgstr "Förslust"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "View"
+msgstr "Granska"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Delete"
+msgstr "Ta bort"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Users"
+msgstr "Användare"
+
+msgid "Complete"
+msgstr "Klar"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Amount from"
+msgstr "Belopp från"
+
+msgid "Amount to"
+msgstr "Belopp till"
+
+msgid "Transaction ID"
+msgstr "Transaktions ID"
+
+msgid "Event name"
+msgstr "Evenemang namn"
+
+msgid "Download"
+msgstr "Ladda ner"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "League name"
+msgstr "Liga namn"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "View events"
+msgstr "Visa evenemang"
+
+msgid "Add Event"
+msgstr "Lägg till evenemang"
+
+msgid "Send Mail"
+msgstr "Skicka post"
+
+msgid "Send to All"
+msgstr "Skicka till alla"
+
+msgid "Header 2 menu"
+msgstr "Sidhuvud 2 meny"
+
+msgid "Header 3 menu"
+msgstr "Sidhuvud 3 meny"
+
+msgid "Bottom 4 menu"
+msgstr "Botten 4 meny"
+
+msgid "Footer menu"
+msgstr "Sidfot meny"
+
+msgid "Header menu"
+msgstr "Sidhuvud meny"
+
+msgid "Top Header menu"
+msgstr "Topp sidhuvud meny"
+
+msgid "Top menu"
+msgstr "Topp meny"
+
+msgid "Tickets"
+msgstr "Kuponger"
+
+msgid "Deposits"
+msgstr "Insättningar"
+
+msgid "Withdraws"
+msgstr "Lista av uttag"
+
+msgid "Withdraws List"
+msgstr "Lista av uttag"
+
+msgid "Results"
+msgstr "Resultat"
+
+msgid "Finished events in tickets"
+msgstr "Avslutade evenemang på kuponger"
+
+msgid "Pending events in tickets"
+msgstr "Pågående evenemang på kuponger"
+
+msgid "All finished events"
+msgstr "Alla avslutade evenemang"
+
+msgid "Warnings"
+msgstr "Varningar"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Identity number"
+msgstr "Identitetsnummer"
+
+msgid "Words in title"
+msgstr "Ord i titel"
+
+msgid "Words in description"
+msgstr "Ord i beskrivning"
+
+msgid "Url link"
+msgstr "URL länk"
+
+msgid "Add League"
+msgstr "Lägg till liga"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Fund staff"
+msgstr "Fondera personal"
+
+msgid "Charge staff"
+msgstr "Debitera personal"
+
+msgid "Login/Logout"
+msgstr "Logga in/logga ut"
+
+msgid "Ticket Fraud Check"
+msgstr "Kupong bedrägerikontroll"
+
+msgid "Mark as paid"
+msgstr "Markera som betald"
+
+msgid "Group ID"
+msgstr "Grupp ID"
+
+msgid "Tickets created"
+msgstr "Kuponger skapade"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total payout"
+msgstr "Total utbetalning"
+
+msgid "Profit"
+msgstr "Vinst"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "Lägsta insats på %s är %d"
+
+msgid "Highest stake on %s is %d"
+msgstr "Högsta insats på %s är %d"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "Lägsta insats på %s är %d"
+
+msgid "3Lowest stake amount is %d"
+msgstr "Lägsta insatssumma är %d"
+
+msgid "Highest stake amount is %d"
+msgstr "Högsta insatssumma är %d"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Du har uppnått din satsningsgräns per transaktionssumma: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Du har uppnått din dagliga satsningsgräns: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Du har uppnått din veckoliga satsningsgräns: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Du har uppnått din månatliga satsningsgräns: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Du har uppnått din förslustgräns per transaktionssumma: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Du har uppnått din dagliga förslustgräns: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Du har uppnått din veckoliga förslustgräns: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Du har uppnått din månatliga förslustgräns: %d %s"
+
+msgid "Please login"
+msgstr "Var vänlig logga in"
+
+msgid "Please login first!"
+msgstr "Logga in först!"
+
+msgid "Please select at least %d picks"
+msgstr "Var vänlig välj åtminstone %d val"
+
+msgid "Not enough money"
+msgstr "Inte tillräckligt med pengar"
+
+msgid "One or more events already started, please remove them"
+msgstr "En eller flera evenemang har redan börjat, ta bort"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Gammalt odds. Var vänlig ta bort ogiltigt odds"
+
+msgid "One or mode bets are inactive"
+msgstr "En eller fler spel är inaktiva"
+
+msgid "Printed"
+msgstr "Utskriven"
+
+msgid "User Id"
+msgstr "Användar-ID"
+
+msgid "Amount From"
+msgstr "Belopp från"
+
+msgid "Amount To"
+msgstr "Belopp till"
+
+msgid "Potential Winning From"
+msgstr "Beräknad vinst från"
+
+msgid "Potential Winning To"
+msgstr "Beräknad vinst till"
+
+msgid "Odd From"
+msgstr "Odd från"
+
+msgid "Odd To"
+msgstr "Odd till"
+
+msgid "Fund"
+msgstr "Kapital"
+
+msgid "Charge"
+msgstr "Avgift"
+
+msgid "User ID"
+msgstr "Användar-ID"
+
+msgid "Back"
+msgstr "Tillbaka"
+
+msgid "All feeds updated"
+msgstr "Alla feeds uppdaterade"
+
+msgid "All feeds downloaded"
+msgstr "Alla feeds nedladdade"
+
+msgid "All feeds parsed"
+msgstr "Alla feeds tolkade"
+
+msgid "Feed updated"
+msgstr "Feed uppdaterad"
+
+msgid "Cannot find feed"
+msgstr "Kan inte hitta feed"
+
+msgid "Cant find feed"
+msgstr "Kan inte hitta feed"
+
+msgid "Update"
+msgstr "Uppdaternig"
+
+msgid "Update All"
+msgstr "Uppdatera alla"
+
+msgid "Thank You"
+msgstr "Tack"
+
+msgid "You successfully deposit %d"
+msgstr "Din insättning på %d lyckades"
+
+msgid "You cancel your deposit"
+msgstr "Du avbryter din insättning"
+
+msgid "You have successfully made deposit for"
+msgstr "Du har gjort insättning för"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Vi ber om ursäkt, vi kan inte hitta din betalning"
+
+msgid "Make Deposit"
+msgstr "Gör insättning"
+
+msgid "Amount"
+msgstr "Belopp"
+
+msgid "Make your Deposit"
+msgstr "Gör din insättning"
+
+msgid "Bonus code or leave empty"
+msgstr "Bonuskod eller lämna tomt"
+
+msgid "Available ACO sync commands:"
+msgstr "Tillgängliga ACO synkroniseringskommandon:"
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help<command>'"
+msgstr "För hjälp, kör \"hjälp\"-kommando. För att få hjälp med ett visst kommando,kör 'help <command>'"
+
+msgid "Deleted %s and all children"
+msgstr "Bortagen %s och alla barn"
+
+msgid "Aco Update Complete"
+msgstr "Aco uppdatering klar"
+
+msgid "Created Aco node: %s"
+msgstr "Skapad Aco förbindelse: %s"
+
+msgid "Deleted Aco node %s"
+msgstr "Bortagen Aco förbindelse %s"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Användning: cake aco_sync <command>"
+
+msgid "Commands:"
+msgstr "Kommandon:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Lägg till nya ACOs för nya kontroller och åtgärder"
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "Skapa nya ACOs för kontroller och deras åtgärder. Tar inte bort förbindelser från ACO tabell"
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "Skapar nya ACOs för saknade kontroller och åtgärder. Tar bort föräldralösa poster i ACO tabell."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Visar detta hjälpmeddelande eller meddelande på specifik begäran."
+
+msgid "Command '%s' not found"
+msgstr "Kommando '%s' inte hittad"
+
+msgid "day"
+msgstr "dag"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "month"
+msgstr "månad"
+
+msgid "Month"
+msgstr "Månad"
+
+msgid "year"
+msgstr "år"
+
+msgid "Year"
+msgstr "År"
+
+msgid "days"
+msgstr "dagar"
+
+msgid "h"
+msgstr "t"
+
+msgid "min"
+msgstr "min"
+
+msgid "Successful"
+msgstr "Framgångsrikt"
+
+msgid "Failed"
+msgstr "Misslyckade"
+
+msgid "Unknown"
+msgstr "Okänd"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Fractional"
+msgstr "Bråk"
+
+msgid "American"
+msgstr "Amerikanskt"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "more"
+msgstr "mer"
+
+msgid "Event"
+msgstr "Evenemang"
+
+msgid "Pick"
+msgstr "Val"
+
+msgid "odd"
+msgstr "odd"
+
+msgid "Result"
+msgstr "Resultat"
+
+msgid "Outcome"
+msgstr "Resultat"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Forgot your password?"
+msgstr "Glömt ditt lösenord?"
+
+msgid "Affiliate Registration Form"
+msgstr "Affiliate registreringsformulär"
+
+msgid "Personal information"
+msgstr "Personuppgifter"
+
+msgid "First name"
+msgstr "Förnamn"
+
+msgid "Last name"
+msgstr "Efternamn"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "City"
+msgstr "Ort"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Date of birth:"
+msgstr "Födelsedatum:"
+
+msgid "Mobile number"
+msgstr "Mobilnummer"
+
+msgid "Website name"
+msgstr "Hemsida namn"
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "Choose Payment Gateway"
+msgstr "Välj betalningsport"
+
+msgid "Bank Transfer Payment"
+msgstr "Banköverföringsbetalning"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Online betalning"
+
+msgid "Please see you latest deposits below:"
+msgstr "Se dina senaste insättningar nedan:"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr "Ingen insättningshistorik hittad. För att skapa ny var vänlig följ \"Skapa ny\"\". \""
+
+msgid "Deposit information:"
+msgstr "Insättningsinformation:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Begär manuell insättning (Kreditering efter bekräftelse)"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Sida {:page} av {:pages}, visar {:current} uppgifter utav {:count} totalt, med start på uppgift {:start} och slutande på {:end}"
+
+msgid "previous"
+msgstr "föregående"
+
+msgid "next"
+msgstr "nästa"
+
+msgid "Show"
+msgstr "Visa"
+
+msgid "User"
+msgstr "Användare"
+
+msgid "Deposit type"
+msgstr "Insättningstyp"
+
+msgid "Bonus type"
+msgstr "Bonustyp"
+
+msgid "Bonus valid until"
+msgstr "Bonus giltigt till"
+
+msgid "Bonus used"
+msgstr "Bonus använt"
+
+msgid "Bonus amount to your account"
+msgstr "Bonusbelopp på ditt konto"
+
+msgid "League"
+msgstr "Liga"
+
+msgid "No available odds found for this event"
+msgstr "Inga tillgängliga odds hittades för detta evenemang"
+
+msgid "First team to Score"
+msgstr "Första lag att göra mål"
+
+msgid "1st Half"
+msgstr "1:a halv"
+
+msgid "Both Team to Score"
+msgstr "Båda lagen gör mål"
+
+msgid "Halftime/Fulltime"
+msgstr "Halvtid/fulltid"
+
+msgid "Double Chance"
+msgstr "Dubbelchans"
+
+msgid "Odds"
+msgstr "Odds"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "User Menu"
+msgstr "Användarmeny"
+
+msgid "My Account"
+msgstr "Mitt konto"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Log out"
+msgstr "Logga ut"
+
+msgid "Casino"
+msgstr "Casino"
+
+msgid "Live Casino"
+msgstr "Live Casino"
+
+msgid "Betting Tools"
+msgstr "Spelverktyg"
+
+msgid "Register now and get"
+msgstr "Registrera nu och få"
+
+msgid "Register now"
+msgstr "Registrera nu"
+
+msgid "Registration"
+msgstr "Registrering"
+
+msgid "Password Reminder"
+msgstr "Lösenordspåminnelse"
+
+msgid "Search Ticket"
+msgstr "Sök kupong"
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "Enter ticket ID"
+msgstr "Skriv in kupong ID"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Ticket"
+msgstr "Kupong"
+
+msgid "Unknown ticked ID"
+msgstr "Okänd kupong ID"
+
+msgid "Money"
+msgstr "Pengar"
+
+msgid "Pay"
+msgstr "Betala"
+
+msgid "Find event"
+msgstr "Hitta evenemang"
+
+msgid "Search by event name"
+msgstr "Sök på evenemang namn"
+
+msgid "Search by event ID"
+msgstr "Sök på evenemang-ID"
+
+msgid "Search results for:"
+msgstr "Sök resultat för:"
+
+msgid "No available events are found for this league"
+msgstr "Inga tillgängliga evenemang hittade för denna liga"
+
+msgid "Search Events"
+msgstr "Sök evenemang"
+
+msgid "Search another event ID"
+msgstr "Sök ett annat evenemang-ID"
+
+msgid "Search another event name"
+msgstr "Sök ett annat evenemang namn"
+
+msgid "Please complete the following form"
+msgstr "Var vänlig fyll i formuläret"
+
+msgid "Confirm changes"
+msgstr "Bekräfta ändringarna"
+
+msgid "Activity Column"
+msgstr "Aktivitetskolumn"
+
+msgid "Current balance"
+msgstr "Aktuellt saldo"
+
+msgid "Today placed tickets"
+msgstr "Placerade kupong idag"
+
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "Om du har något problem, tveka inte att kontakta kundtjänst via formuläret nedan:"
+
+msgid "Subject"
+msgstr "Ämne"
+
+msgid "Message"
+msgstr "Meddelande"
+
+msgid "News"
+msgstr "Nyheter"
+
+msgid "Read more"
+msgstr "Läs mer"
+
+msgid "Soccer"
+msgstr "Fotboll"
+
+msgid "Basketball"
+msgstr "Basketboll"
+
+msgid "Ice Hockey"
+msgstr "Ishockey"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Rugby"
+msgstr "Rugby"
+
+msgid "Half Time 3 way"
+msgstr "Halvtid 3-vägs"
+
+msgid "Top Games"
+msgstr "Toppspel"
+
+msgid "IceHockey"
+msgstr "Ishockey"
+
+msgid "Handball"
+msgstr "Handboll"
+
+msgid "Last Minute Bets"
+msgstr "Last Minute spel"
+
+msgid "Shortly"
+msgstr "Strax"
+
+msgid "%d events available"
+msgstr "%d evenemang tillgängliga"
+
+msgid "Bet now"
+msgstr "Lägg spel nu"
+
+msgid "Football"
+msgstr "Fotboll"
+
+msgid "Draw"
+msgstr "Oavgjort"
+
+msgid "League not found"
+msgstr "Liga inte hittad"
+
+msgid "No available events found for this league"
+msgstr "Inga tillgängliga evenemang hittade för denna liga"
+
+msgid "Last Minute"
+msgstr "Last Minute"
+
+msgid "No leagues selected"
+msgstr "Ingen liga vald"
+
+msgid "Single"
+msgstr "Singel"
+
+msgid "Combi"
+msgstr "Kombi"
+
+msgid "System"
+msgstr "System"
+
+msgid "Delete all bets"
+msgstr "Ta bort alla spel"
+
+msgid "Total odds"
+msgstr "Total odds"
+
+msgid "Stake"
+msgstr "Insats"
+
+msgid "Winning"
+msgstr "Vinster"
+
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+msgid "Place Bet"
+msgstr "Placera spel"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "Inget spel valt. <br>Klicka på respektive odds för att välja spel."
+
+msgid "Ticket History"
+msgstr "Kupong historik"
+
+msgid "Ticket ID:"
+msgstr "Kupong ID:"
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "No tickets activity available"
+msgstr "Det finns inga kupongsaktivitet"
+
+msgid "Date and time"
+msgstr "Datum och tid"
+
+msgid "Ticket id"
+msgstr "Kupong ID"
+
+msgid "ID / Date"
+msgstr "ID / Datum"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Amount:"
+msgstr "Belopp:"
+
+msgid "Return:"
+msgstr "Avkastning:"
+
+msgid "Please see your betting history below:"
+msgstr "Se din spelhistorik nedan:"
+
+msgid "Ticket ID"
+msgstr "Kupong ID"
+
+msgid "Note"
+msgstr "Notera"
+
+msgid "To place ticket please use betslip."
+msgstr "För att placera kupong använd spelkupongen."
+
+msgid "Pending tickets"
+msgstr "Pågående kuponger"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Se dina nyligen placerade kuponger nedan:"
+
+msgid "Paid"
+msgstr "Betald"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "Ingen avvaktande kupong hittad. För tidigare kupong var vänlig se historik."
+
+msgid "History"
+msgstr "Historik"
+
+msgid "Ticket Preview"
+msgstr "Kupongförhandsvisning"
+
+msgid "Event ID / Date"
+msgstr "Evenemang-ID / Datum"
+
+msgid "Sport / League"
+msgstr "Sport / Liga"
+
+msgid "Submit Ticket"
+msgstr "Skicka kupong"
+
+msgid "Clear Ticket"
+msgstr "Radera kupong"
+
+msgid "No bets selected"
+msgstr "Inga spel valda"
+
+msgid "Ticket placed"
+msgstr "Kupong placerad"
+
+msgid "Your ticket is created successfully"
+msgstr "Din kupong skapades framgångsrikt"
+
+msgid "Your ticket number is"
+msgstr "Din kupongnummer är"
+
+msgid "Ticket information"
+msgstr "Kuponginformation"
+
+msgid "Login/Logout History"
+msgstr "In-/utloggningshistorik"
+
+msgid "User Login/Logout History:"
+msgstr "Användare in-/utloggningshistorik:"
+
+msgid "Action"
+msgstr "Åtgärd"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "Ställ in alternativ för bekvämare sikt."
+
+msgid "Odds type"
+msgstr "Odds typ"
+
+msgid "Time zone"
+msgstr "Tidszon"
+
+msgid "Change Password"
+msgstr "Ändra lösenord"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr "Lämna fullständiga personuppgifter för att bekräfta din identitet. Enligt föreskrifter kan din tillgång till vissa produkter, marknader och provisionsrabatter begränsas tills du bekräftar din identitet. Du kan förse oss med personliga dokument med hjälp av vår säkra webbplats."
+
+msgid "Date of birth"
+msgstr "Födelsedatum"
+
+msgid "Bank name"
+msgstr "Banknamn"
+
+msgid "Bank code"
+msgstr "Bank kod"
+
+msgid "Bank account number"
+msgstr "Bankkontonummer"
+
+msgid "Ref. Code"
+msgstr "Ref. kod"
+
+msgid "Balance Information Analysis"
+msgstr "Balansinformation analys"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Här kan du se all information som hänvisar till aktuell balans."
+
+msgid "Promotional Code"
+msgstr "Kampanjkod"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "Ange kampanjkoden nedan för att få extra pengar eller annan förmån."
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Submit bonus code"
+msgstr "Skicka bonuskod"
+
+msgid "Confirmation"
+msgstr "Bekräftelse"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "E-post har verifierats. Du kommer att omdirigeras till hemsidan inom 5 sekunder.</ br> Om du inte omdirigeras inom den angivna tiden tryck på följande <a href=\"/\"\">länk</a>. \""
+
+msgid "Incorect confirmation code"
+msgstr "Felaktig bekräftelsekod"
+
+msgid "Responsible Gaming Settings"
+msgstr "Ansvarsfullt spel inställningar"
+
+msgid "Responsible gaming text"
+msgstr "Ansvarsfullt spel text"
+
+msgid "Add Limit"
+msgstr "Lägg till gräns"
+
+msgid "Set the limit you can play for each session"
+msgstr "Sätt gränsen du kan spela för varje session"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Tillåt inte tillgång till mitt sportskonto de kommande 7 dagarna"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "Tillåt inte tillgång till mitt sportskonto de kommande 6 månaderna"
+
+msgid "Block Account"
+msgstr "Blockera konto"
+
+msgid "Permanently delete your account."
+msgstr "Ta bort ditt konto permanent."
+
+msgid "Delete My Account"
+msgstr "Ta bort mitt konto"
+
+msgid "Open account with us!"
+msgstr "Öppna konto hos oss!"
+
+msgid "Account data"
+msgstr "Kontouppgifter"
+
+msgid "Confirm password"
+msgstr "Bekräfta lösenord"
+
+msgid "Personal question"
+msgstr "Personlig fråga"
+
+msgid "Personal answer"
+msgstr "Personlig svar"
+
+msgid "Referral ID"
+msgstr "Värvnings ID"
+
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Bankuppgifter (Detta avsnitt kan fyllas i senare)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Jag är över 18 år och har läst och accepterat"
+
+msgid "Terms And Conditions"
+msgstr "Regler och villkor"
+
+msgid "Confirm registration"
+msgstr "Bekräfta registrering"
+
+msgid "Password Reset"
+msgstr "Återställning av lösenord"
+
+msgid "Enter your new password"
+msgstr "Ange ditt nya lösenord"
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "Ange e-post detaljer nedan. Lösenordåterställningslänk skickas till din registrerade e-post. Du kommer att kunna skapa ett nytt lösenord som du kan använda för att logga in."
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "För att ta ut pengar var vänlig skriv in summa och fortsätt transaktionen nedan:"
+
+msgid "Withdraw ID"
+msgstr "Uttags ID"
+
+msgid "Request Manual Withdraw"
+msgstr "Begär manuell uttag"
+
+msgid "Transaction Log"
+msgstr "Transaktionslogg"
+
+msgid "List of transactions:"
+msgstr "Transaktionslista:"
+
+msgid "Transaction Type"
+msgstr "Transaktionstyp"
+
+msgid "Add/Edit %s"
+msgstr "Lägg till/ändra %s"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Value"
+msgstr "Värde"
+
+msgid "Parent"
+msgstr "Målsman"
+
+msgid "Created"
+msgstr "Skapad"
+
+msgid "Modified"
+msgstr "Modifierad"
+
+msgid "Percentage"
+msgstr "Procent"
+
+msgid "Custom Affiliate ID"
+msgstr "Anpassad Affiliate ID"
+
+msgid "Submit"
+msgstr "Lämna"
+
+msgid "List %s"
+msgstr "Lista %s"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Alert ID"
+msgstr "Aviserings ID"
+
+msgid "User id"
+msgstr "Användar-ID"
+
+msgid "Alert Title"
+msgstr "Avisering titel"
+
+msgid "Alert"
+msgstr "Avisering"
+
+msgid "Add bet"
+msgstr "Lägg till spel"
+
+msgid "Alerts"
+msgstr "Aviseringar"
+
+msgid "Admin Audit Trail"
+msgstr "Admin spårbarhet revision"
+
+msgid "Application File Backups"
+msgstr "Applikation fil backup"
+
+msgid "Database Backups"
+msgstr "Databas backup"
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar feeds logg"
+
+msgid "Liability Dumps"
+msgstr "Ansvars dumper"
+
+msgid "Data list"
+msgstr "Datalist"
+
+msgid "Actions"
+msgstr "Åtgärder"
+
+msgid "Translations"
+msgstr "Översättningar"
+
+msgid "Translate"
+msgstr "Översätt"
+
+msgid "No records found"
+msgstr "Inga uppgifter funna"
+
+msgid "Sports and Leagues"
+msgstr "Sport och ligor"
+
+msgid "Events management"
+msgstr "Evenemanghantering"
+
+msgid "Events Printing"
+msgstr "Evenemangutskrivning"
+
+msgid "Users report"
+msgstr "Användarrapport"
+
+msgid "Tickets report"
+msgstr "Kupongsrapport"
+
+msgid "Deposits report"
+msgstr "Insättningsrapport"
+
+msgid "Witdraw report"
+msgstr "Uttagsrapport"
+
+msgid "Liability report"
+msgstr "Ansvarsrapport"
+
+msgid "Active Users"
+msgstr "Aktiva användare"
+
+msgid "locale"
+msgstr "lokal"
+
+msgid "Create %s"
+msgstr "Skapa %s"
+
+msgid "Event ID"
+msgstr "Evenemang ID"
+
+msgid "User:"
+msgstr "Användare:"
+
+msgid "Level:"
+msgstr "Nivå:"
+
+msgid "Current Time:"
+msgstr "Aktuell tid:"
+
+msgid "Current Language:"
+msgstr "Aktuellt språk:"
+
+msgid "Front Page"
+msgstr "Förstasida"
+
+msgid "Under / Over"
+msgstr "Under / Över"
+
+msgid "Handicap"
+msgstr "Handikapp"
+
+msgid "%s Printing"
+msgstr "%s utskrivning"
+
+msgid "Available Events List For:"
+msgstr "Tillgänglig evenemanglista för:"
+
+msgid "Unknown Sport"
+msgstr "Okänd sport"
+
+msgid "Please select sport below:"
+msgstr "Var vänlig välj sport nedan:"
+
+msgid "View Events"
+msgstr "Visa evenemang"
+
+msgid "No available events found for this sport"
+msgstr "Inga tillgängliga evenemang hittades för denna sport"
+
+msgid "Can not find event"
+msgstr "Kan inte hitta evenemang"
+
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Users %s"
+msgstr "Användare %s"
+
+msgid "Edit User"
+msgstr "Redigera användare"
+
+msgid "Administration Panel"
+msgstr "Administrationspanel"
+
+msgid "Logout"
+msgstr "Logga ut"
+
+msgid "Staff Login"
+msgstr "Personal inloggning"
+
+msgid "Events"
+msgstr "Evenemang"
+
+msgid "Available cultures"
+msgstr "Tillgängliga regionsformater"
+
+msgid "Add a culture"
+msgstr "Lägg till regionsformat"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Cultures this site supports"
+msgstr "Supportade regionsformat av sidan"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "Är du säker på att du vill ta bort"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "Skriv marknadsföringsbrev till alla användare. Meddelanden kommer att skickas till användarnas e-post adresser."
+
+msgid "Subject:"
+msgstr "Ämne:"
+
+msgid "Content:"
+msgstr "Innehåll:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Ladda ner alla e-post (csv fil)"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "Skriv marknadsföringsbrev till väljbara användare. Meddelanden kommer att skickas till de utvalda användarnas e-post adresser."
+
+msgid "To:"
+msgstr "Till:"
+
+msgid "Contact support team"
+msgstr "Kontakta support"
+
+msgid "<br>No data in this period"
+msgstr "<br>Inga uppgifter under denna period"
+
+msgid "No data in this period"
+msgstr "Inga uppgifter under denna period"
+
+msgid "User name"
+msgstr "Användarnamn"
+
+msgid "Date of registration"
+msgstr "Registreringsdatum"
+
+msgid "Won"
+msgstr "Vunnen"
+
+msgid "Liability"
+msgstr "Ansvar"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Ansvar avbröt bonusen"
+
+msgid "Download (Excel file)"
+msgstr "Ladda ner (Excel fil)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Är du säker på att du vill avbryta detta evenemang?"
+
+msgid "No events found"
+msgstr "Inga evenemang har hittats"
+
+msgid "No events in this league"
+msgstr "Inga evenemang i denna liga"
+
+msgid "Risk Management Settings"
+msgstr "Riskhanteringsinställningar"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "Riskhantering är avgörande för sportspel. Var försiktig med inställningen av alternativ."
+
+msgid "Lowest stake"
+msgstr "Lägsta insats"
+
+msgid "Highest stake"
+msgstr "Högsta insats"
+
+msgid "Highest winning amount"
+msgstr "Högsta vinstsumma"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Lägst antal evenemang på en kupong"
+
+msgid "Highest number of events in one ticket"
+msgstr "Högst antal evenemang på en kupong"
+
+msgid "List Leagues"
+msgstr "Lista ligor"
+
+msgid "League ID"
+msgstr "Liga ID"
+
+msgid "No limits"
+msgstr "Ingen gräns"
+
+msgid "List Sports"
+msgstr "Lista sporter"
+
+msgid "Sport ID"
+msgstr "Sport ID"
+
+msgid "Warning Withdraws"
+msgstr "Varning uttag"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Warning Stakes"
+msgstr "Varning insatser"
+
+msgid "Warning Winnings"
+msgstr "Varning vinster"
+
+msgid "Warning Deposits"
+msgstr "Varning insättningar"
+
+msgid "amount"
+msgstr "belopp"
+
+msgid "Deposit fee percentage"
+msgstr "Insättningsavgiftprocent"
+
+msgid "Payment gateways"
+msgstr "Betalningsport"
+
+msgid "Please set payment gateways below:"
+msgstr "Var vänlig välj betalningsport nedan:"
+
+msgid "Payments"
+msgstr "Betalningar"
+
+msgid "Deposits %s"
+msgstr "Insättningar %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Var vänlig ställ in riskhanteringsinställningar angående insättningar nedan:"
+
+msgid "Allow automated deposits"
+msgstr "Tillåt automatiska insättningar"
+
+msgid "Allow manual deposits"
+msgstr "Tillåt manuella insättningar"
+
+msgid "Lowest amount for deposit"
+msgstr "Lägsta belopp för insättning"
+
+msgid "Highest amount for deposit"
+msgstr "Högsta belopp för insättning"
+
+msgid "General %s"
+msgstr "Allmän %s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "Allmänna inställningar kontrollerar några utav de mest grundläggande konfigurationsinställningar för denna sida: din sidas titel och lokalisering, vem som kan registrera ett konto på din sida och hur datum samt tider är kalkylerade och visade."
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Contact Email"
+msgstr "Kontakt e-post"
+
+msgid "Password reset"
+msgstr "Återställning av lösenord"
+
+msgid "Default currency"
+msgstr "Standardvaluta"
+
+msgid "Default timezone:"
+msgstr "Standard tidszon:"
+
+msgid "Default language"
+msgstr "Standardspråk"
+
+msgid "Charset"
+msgstr "Teckenuppsättning"
+
+msgid "Items per page"
+msgstr "Objekt per sida"
+
+msgid "Referral system"
+msgstr "Värvningssystem"
+
+msgid "Left active"
+msgstr "Vänster aktiv"
+
+msgid "Left sidebar title"
+msgstr "Vänster sidofältstitel"
+
+msgid "Left sidebar content"
+msgstr "Vänster sidofältsinnehåll"
+
+msgid "Right active"
+msgstr "Höger aktiv"
+
+msgid "Right sidebar title"
+msgstr "Höger sidofältstitel"
+
+msgid "Right sidebar content"
+msgstr "Höger sidofältsinnehåll"
+
+msgid "Bottom active"
+msgstr "Botten aktiv"
+
+msgid "Bottom sidebar title"
+msgstr "Botten sidofältstitel"
+
+msgid "Bottom sidebar content"
+msgstr "Botten sidofältsinnehåll"
+
+msgid "Referral Settings"
+msgstr "Värvningsinställningar"
+
+msgid "First deposit percentage to referral"
+msgstr "Första insättningsprocent till värvning"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Vad är <b>SEO</b> / Search Engine Optimization?"
+
+msgid "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or \"\"natural\"\" listings on search engines. All major search engines such as Google, Yahoo and Bing have such results, where web pages and other content such as videos or local listings are shown and ranked based on what the search engine considers most relevant to users. Payment is not involved, as it is with paid search ads.\""
+msgstr "SEO står för \"search engine optimization.\"\" Det är processen av att erhålla trafik \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" eller \"\"natural\"\" listor på sökmotorer. Alla större sökmotorer som Google, Yahoo och Bing har sådana resultat, där hemsidor och andra innehåll som videon eller lokala listningar visas och rankas baserade på vad sökmotorn finner mest relevant för användaren. Betalning involveras ej, så som vid betalda sökannonser. \""
+
+msgid "Title tag"
+msgstr "Titel taggar"
+
+msgid "Keywords"
+msgstr "Nyckelord"
+
+msgid "Reply to email"
+msgstr "Svara på e-post"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Bot content revisit time"
+msgstr "Bot innehåll återbesökstid"
+
+msgid "Author"
+msgstr "Författare"
+
+msgid "Tickets %s"
+msgstr "Kuponger %s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "Allmänna kuponger kontrollerar några av de mest grundläggande konfigurationsinställningar relaterat till kupongs- och utskrivningsfunktioner."
+
+msgid "Ticket printing"
+msgstr "Kupongutskrift"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "Aktivera (Ja) eller inaktivera (Nej) kupongutskrivning för alla användare och personal."
+
+msgid "Ticket preview"
+msgstr "Kupongförhandsvisning"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "Aktivera (Ja) eller inaktivera (Nej) kupongförhandsvisning innan den placeras."
+
+msgid "Warnings %s"
+msgstr "Varningar %s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "Varningsinställningar hjälper dig att filtrera varningsskärm med onödiga varningar. Var vänlig överväg spel som är viktigt för din sportspel och använd denna funktion för att säkra din vinst."
+
+msgid "Deposit alert"
+msgstr "Insättningsavisering"
+
+msgid "Withdraw alert"
+msgstr "Uttagsavisering"
+
+msgid "Stake alert"
+msgstr "Insatsavisering"
+
+msgid "Odds alert"
+msgstr "Oddsavisering"
+
+msgid "Potential winning alert"
+msgstr "Potential vinst avisering"
+
+msgid "Allow withdraws"
+msgstr "Tillåt uttag"
+
+msgid "Withdraw %s"
+msgstr "Uttag %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Var vänlig bestäm riskhanteringsinställningar nedan:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Lägsta belopp för uttagsbegäran"
+
+msgid "Highest amount for withdraw request"
+msgstr "Hösta belopp för uttagsbegäran"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "Sporter"
+
+msgid "Leagues"
+msgstr "Ligor"
+
+msgid "View %s"
+msgstr "Visa %s"
+
+msgid "Ticket Number"
+msgstr "Kupongnummer"
+
+msgid "Return"
+msgstr "Avkastning"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Kupong kommer att tas bort. Är du säker på att du vill ta bort den?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Kupong kommer att avbrytas. Är du säker på att du vill avbryta den?"
+
+msgid "Insert Result"
+msgstr "Ange resultat"
+
+msgid "Fund user"
+msgstr "Fondera användare"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 USD"
+msgstr "För att fondera ange bara beloppet i inmatningsfältet och tryck på Skicka. Till exempel: om du vill fondera användare med 100"
+
+msgid " just enter that amount into field and press submit"
+msgstr "ange bara beloppet i fältet och tryck på Skicka"
+
+msgid "Charge user"
+msgstr "Debitera användare"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200"
+msgstr "För att debitera ange bara beloppet och pengarna kommer att dras av användarkontot. Till exempel: om du vill debitera användare med 200"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "USD ange bara beloppet i fältet och tryck på Skicka"
+
+msgid "Add %s"
+msgstr "Lägg till %s"
+
+msgid "Registration chart"
+msgstr "Registreringsdiagram"
+
+msgid "KYC user"
+msgstr "KYC användare"
+
+msgid "KYC Documents"
+msgstr "KYC dokument"
+
+msgid "Change KYC Status"
+msgstr "Ändra KYC status"
+
+msgid "Deposits Bonus History"
+msgstr "Insättningsbonus historik"
+
+msgid "Sum"
+msgstr "Summa"
+
+msgid "Affiliates"
+msgstr "Affiliates"
+
+msgid "Kick"
+msgstr "Sparka"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "E-post har verifierats. Du kan logga in nu."
+
+msgid "Register now!"
+msgstr "Registrera nu!"
+
+msgid "Forgotten your password?"
+msgstr "Glömt ditt lösenord?"
+
+msgid "Old Password"
+msgstr "Gammalt Lösenord"
+
+msgid "New Password"
+msgstr "Nytt Lösenord"
+
+msgid "Reset Password"
+msgstr "Återställ Lösenord"
+
+msgid "Bank info"
+msgstr "Bankinfo"
+
+msgid "Please provide your bank info"
+msgstr "Ange din bankinfo"
+
+msgid "Account number"
+msgstr "Kontonummer"
+
+msgid "Transaction"
+msgstr "Transaktion"
+
+msgid "User Balance"
+msgstr "Användarbalans"
+
+msgid "Please enter your surname"
+msgstr "Ange ditt efternamn"
+
+msgid "Please enter your first name"
+msgstr "Ange ditt förnamn"
+
+msgid "Please enter your address"
+msgstr "Ange din adress"
+
+msgid "Please enter your Region"
+msgstr "Ange din region"
+
+msgid "Please enter your City of residence"
+msgstr "Ange din stad eller hemvist"
+
+msgid "Alphabets and numbers only"
+msgstr "Endast bokstäver och siffror"
+
+msgid "Between 5 to 15 characters"
+msgstr "Mellan 5 till 15 tecken"
+
+msgid "This username has already been taken."
+msgstr "Användarnamnet är upptaget."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Lösenord måste vara mellan 6 och 15 tecken"
+
+msgid "Password must contain at least one number"
+msgstr "Lösenord måste innehålla minst en siffra"
+
+msgid "Password must contain at least one letter"
+msgstr "Lösenord måste innehålla åtminstone en siffra"
+
+msgid "Please enter valid email address"
+msgstr "Ange giltig e-postadress"
+
+msgid "This email has already been registered."
+msgstr "Denna e-post har redan registrerats."
+
+msgid "Please enter your name"
+msgstr "Ange ditt namn"
+
+msgid "Please enter your street address"
+msgstr "Ange din gatuadress"
+
+msgid "Please enter city"
+msgstr "Ange ort"
+
+msgid "Please enter country"
+msgstr "Ange land"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Användare bör vara över 21 år för att registrera"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Användare bör vara över 18 år för att registrera"
+
+msgid "Please enter valid mobile number"
+msgstr "Ange giltigt mobilnummer"
+
+msgid "Please your personal question"
+msgstr "Ange din personliga fråga"
+
+msgid "Please enter valid answer"
+msgstr "Ange giltigt svar"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Du måste acceptera Användarvillkoren för att kunna registrera."
+
+msgid "This field cannot be left blank"
+msgstr "Detta fält kan inte lämnas tomt"
+
+msgid "Mimimum 5 characters long"
+msgstr "Minimum 5 tecken lång"
+
+msgid "The username should be different from email"
+msgstr "Användarnamnet måste skilja från e-postadress"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Lösenord måste vara mellan 8 och 15 tecken"
+
+msgid "The Password has to be different from username."
+msgstr "Lösenordet måste skilja från användarnamnet."
+
+msgid "It seems that you are already registered."
+msgstr "Det verkar som att du redan har registrerat."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Var vänlig skriv in din gatuadress eller så existerar inte gatuadressen"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug inställning tillåter inte åtkomst till denna URL."
+
+msgid "Match odds"
+msgstr "Matchodds"
+
+msgid "Remaining match"
+msgstr "Återstående matcher"
+
+msgid "Next Goal"
+msgstr "Nästa mål"
+
+msgid "Total Goals +/-"
+msgstr "Totalt antal mål +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Matchodds (1 2)"
+
+msgid "Set 1 2"
+msgstr "Set 1 2"
+
+msgid "Set Score"
+msgstr "Setspel"
+
+msgid "Sets Overall"
+msgstr "Antal set"
+
+msgid "Total Points +/-"
+msgstr "Totalt antal poäng +/-"
+
+msgid "Goals from now +/-"
+msgstr "Mål from nu +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Matchodds (1x2)"
+
+msgid "1 hour"
+msgstr "1 timme"
+
+msgid "2 hours"
+msgstr "2 timmar"
+
+msgid "3 hours"
+msgstr "3 timmar"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "LIVE"
+msgstr "LIVE"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Click on team name for extra bets"
+msgstr "Klicka på lagnamn för extra spel"
+
+msgid "Upcoming Live Matches"
+msgstr "Kommande live matcher"
+
+msgid "Login For"
+msgstr "Logga in för"
+
+msgid "minutes"
+msgstr "minuter"
+
+msgid "Bet Slip"
+msgstr "Spelkupong"
+
+msgid "open"
+msgstr "öppet"
+
+msgid "Sport Bets"
+msgstr "Sport spel"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Bra odds på fotboll  tennis  ishockey och många fler"
+
+msgid "Number of Bets Placed:"
+msgstr "Antal placerade spel:"
+
+msgid "Max Wager for bets:"
+msgstr "Max insats för spel:"
+
+msgid "Wager:"
+msgstr "Insats:"
+
+msgid "Max Payout:"
+msgstr "Max utbetalning:"
+
+msgid "All games / All events"
+msgstr "Alla spel / Alla evenemang"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "Alla spel på en blick, alla normala sport och alla odds kan kombineras."
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "Hämta denna innovativa tjänst från oss nu. Livespel som du aldrig har sett innan! Lycka till!"
+
+msgid "more groups"
+msgstr "flera grupper"
+
+msgid "Draw no Bet Period"
+msgstr "Insatsen tillbaka vid oavgjord period"
+
+msgid "Total x Period"
+msgstr "Totalt x Period"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Ställ in insättningsgränser på ditt konto"
+
+msgid "Play Session Limit"
+msgstr "Spelsession gräns"
+
+msgid "Wager Limit"
+msgstr "Insatsgräns"
+
+msgid "Loss Limit"
+msgstr "Förlustgräns"
+
+msgid "Self Exclusion"
+msgstr "Självuteslutning"
+
+msgid "DELETE ACCOUNT"
+msgstr "TA BORT KONTO"
+
+msgid "Per Transaction"
+msgstr "Per transaktion"
+
+msgid "Daily"
+msgstr "Daglig"
+
+msgid "Weekly"
+msgstr "Veckolig"
+
+msgid "Monthly"
+msgstr "Månatlig"
+
+msgid "No Limit"
+msgstr "Ingen gräns"
+
+msgid "After %s minutes"
+msgstr "Efter %s minuter"
+
+msgid "After one Hour"
+msgstr "Efter en timme"
+
+msgid "After two Hours"
+msgstr "Efter två timmar"
+
+msgid "Login For:"
+msgstr "Logga in för:"
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "Du har spelat de senaste %s minuter och du har: <br>satt in %s € <br>satsat %s € <br>förlorat %s € <br>vunnit %s €"
+
+msgid "Outdated Browser Detected"
+msgstr "Föråldrade webbläsare upptäckt"
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "Vår hemsida har upptäckt att du använder en gammal webbläsare. Med din nuvarande webbläsare kan du inte använda vissa funktioner på vår hemsida. Uppgradering krävs inte, men är starkt rekommenderat att förbättra din webbupplevelse på vår hemsida."
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "Använd länkarna nedan för att ladda ner en ny webbläsare eller uppgradera den befintliga."
+
+msgid "Remind me later"
+msgstr "Påminn mig senare"
+
+msgid "No available Bonuses."
+msgstr "Inga tillgängliga bonusar."
+
+msgid "Available Bonuses."
+msgstr "Tillgängliga bonusar."
+
+msgid "Locked Amount"
+msgstr "Låst belopp"
+
+msgid "Opened on"
+msgstr "Öppnades"
+
+msgid "Activation Date"
+msgstr "Aktiveringsdatum"
+
+msgid "Expiration Date"
+msgstr "Utgångsdatum"
+
+msgid "Account Information"
+msgstr "Kontoinformation"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "Resultat, tabeller, matchschema och Livescore för alla ligor och evenemang"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Spela roulett, blackjack och baccarat i Live Casinot"
+
+msgid "Identity Card (back view)"
+msgstr "Identitetskort (baksida)"
+
+msgid "Identity Card (front view)"
+msgstr "Identitetskort (framsida)"
+
+msgid "Bank Account"
+msgstr "Bankkonto"
+
+msgid "Register now and get bonus"
+msgstr "Registrera nu och få bonus"
+
+msgid "Top Winner"
+msgstr "Toppvinnare"
+
+msgid "close"
+msgstr "stäng"
+
+msgid "hours"
+msgstr "timmar"
+
+msgid "Instant Play"
+msgstr "Omedelbart spel"
+
+msgid "Live Video Streaming"
+msgstr "Live video streaming"
+
+msgid "Betslip Wagering"
+msgstr "Spelkupong satsning"
+
+msgid "Ticket Win"
+msgstr "Kupong vinst"
+
+msgid "Bonus Cancellation by user."
+msgstr "Bonus avbrytning av användaren."
+
+msgid "Bonus activation"
+msgstr "Bonus aktivering"
+
+msgid "APCO Deposit"
+msgstr "APCO insättning"
+
+msgid "Account Deposit"
+msgstr "Konto insättning"
+
+msgid "Live Casino Transaction"
+msgstr "Live Casino transaktion"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Live Casino RollBack transaktion"
+
+msgid "in every game"
+msgstr "i varje spel"
+
+msgid "Today"
+msgstr "Idag"
+
+msgid "Log in"
+msgstr "Logga in"
+
+msgid "Stake:"
+msgstr "Insats:"
+
+msgid "View Tickets"
+msgstr "Se kuponger"
+
+msgid "Number of Bets Placed: "
+msgstr "Antal placerade spel:"
+
+msgid "Max Wager for bets: "
+msgstr "Max insats för spel: "
+
+msgid "bets"
+msgstr "spel"
+
+msgid "Admin add Funds"
+msgstr "Admin lägger till pengar"
+
+msgid "Bonus activation:"
+msgstr "Bonus aktivering:"
+
+msgid "APCO Deposit:"
+msgstr "APCO insättning:"
+
+msgid "Withdrawal"
+msgstr "Uttag"
+
+msgid "Betslip Cancellation:"
+msgstr "Spelkupong avbrytning:"
+
+msgid "Cancelled WithDrawal"
+msgstr "Avbrutet uttag"
+
+msgid "Ticket Cancelled"
+msgstr "Kupong avbruten"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Bet Split"
+msgstr "Spel split"
+
+msgid "The Company"
+msgstr "Företaget"
+
+msgid "Help & Legal"
+msgstr "Hjälp och lag"
+
+msgid "Useful Links"
+msgstr "Nyttiga länkar"
+
+msgid "Payment Options"
+msgstr "Betalningsalternativ"
+
+msgid "Extra Bets"
+msgstr "Extra spel"
+
+msgid "No, don't remind me again"
+msgstr "Nej, påminn mig inte igen"
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "Välj din favorit sportliga i menyn till vänster. Så du kan hitta den nästa gång du besöker oss"
+
+msgid "3 Way"
+msgstr "3-väg"
+
+msgid "2 Way"
+msgstr "2-väg"
+
+msgid "Totals"
+msgstr "Totaler"
+
+msgid "Championship Outrights"
+msgstr "Mästerskap vinnare"
+
+msgid "Short Term Outrights"
+msgstr "Kortsiktiga vinnare"
+
+msgid "Podium Finish"
+msgstr "Slutar på podium"
+
+msgid "3-balls"
+msgstr "3 -bollar"
+
+msgid "Correct score"
+msgstr "Rätt resultat"
+
+msgid "First Team to score"
+msgstr "Första lag att göra mål"
+
+msgid "1st Half - 1X2"
+msgstr "1:a halvlek - 1X2"
+
+msgid "Both Teams to Score"
+msgstr "Båda lagen gör mål"
+
+msgid "Odd/Even goals"
+msgstr "Udda/jämnt antal mål"
+
+msgid "Draw no bet"
+msgstr "Insatsen tillbaka vid oavgjort"
+
+msgid "Goals home team"
+msgstr "Mål för hemmalaget"
+
+msgid "Goals away team"
+msgstr "Mål för bortalaget"
+
+msgid "Asian Handicap"
+msgstr "Asiatiskt handikapp"
+
+msgid "Asian Total"
+msgstr "Asiatisk total"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1:a halvlek - Asiatiskt handikapp"
+
+msgid "1st Half - Asian Total"
+msgstr "1:a halvlek - Asiatisk total"
+
+msgid "European Handicap"
+msgstr "Europeiskt handikapp"
+
+msgid "First goalscorer"
+msgstr "Första målgörare"
+
+msgid "Total Goals (aggregated)"
+msgstr "Totalt antal mål (aggregerade)"
+
+msgid "1st Half - Correct Score"
+msgstr "1:a halvlek - Rätt resultat"
+
+msgid "Highest scoring half"
+msgstr "Halvlek med flest mål"
+
+msgid "Matchbet + Totals"
+msgstr "Matchspel + totaler"
+
+msgid "Matchflow"
+msgstr "Matchflow"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1:a halvlek - Udda/jämnt antal mål"
+
+msgid "Overtime yes/no"
+msgstr "Övertid ja/nej"
+
+msgid "Winning margins"
+msgstr "Vinstmarginaler"
+
+msgid "Anytime goalscorer"
+msgstr "Gör mål i matchen"
+
+msgid "Total number of bookings"
+msgstr "Totalt antal bokningar"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1:a halvlek - Totalt antal bokningar"
+
+msgid "Total number of booking points"
+msgstr "Totalt antal bokningspoäng"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1:a halvlek - Totalt antal bokningspoäng"
+
+msgid "Player sent off?"
+msgstr "Spelare utvisad"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1:a halvlek - spelare utvisad"
+
+msgid "Number of bookings home"
+msgstr "Antal bokningar hemmalaget"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1:a halvlek - Totalt antal bokningar hemmalaget"
+
+msgid "Number of bookings away"
+msgstr "Antal bokningar bortalaget"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1:a halvlek - Totalt antal bokningar bortalaget"
+
+msgid "First Team Booked"
+msgstr "Första lag att få kort"
+
+msgid "1st Half - First Team Booked"
+msgstr "1:a halvlek - Första lag att få kort"
+
+msgid "Match bookings"
+msgstr "Matchbokningar"
+
+msgid "1st Half - Match Bookings"
+msgstr "1:a halvlek - Matchbokningar"
+
+msgid "Aggregated booking points"
+msgstr "Aggregerade bokningspoäng"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1:a halvlek - Aggregerade bokningspoäng"
+
+msgid "Exact bookings"
+msgstr "Exakta bokningar"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1:a halvlek - Exakta bokningar"
+
+msgid "Home Team Player Sent Off"
+msgstr "Hemmalag spelare utvisad"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1:a halvlek - Hemmalag spelare utvisad"
+
+msgid "Away Team Player Sent Off"
+msgstr "Bortalag spelare utvisad"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1:a halvlek - Bortalag spelare utvisad"
+
+msgid "Total Goals (exact)"
+msgstr "Totalt antal mål (exakt)"
+
+msgid "2nd Half - 1X2"
+msgstr "2:a halvlek - 1X2"
+
+msgid "2nd Half - Asian Total"
+msgstr "2:a halvlek - Asiatisk total"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2:a halvlek - Asiatiskt handikapp"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Halvtid/Fulltid rätt resultat"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Övertid + mål Ja/Nej"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Straffläggning Ja/Nej"
+
+msgid "How will the match be decided?"
+msgstr "Hur kommer matchen att avgöras?"
+
+msgid "Clean sheet home team"
+msgstr "Hålla nollan hemmalaget"
+
+msgid "Clean sheet away team"
+msgstr "Hålla nollan bortalaget"
+
+msgid "Which team to score"
+msgstr "Vilket lag gör mål"
+
+msgid "1st Half - Total Goals"
+msgstr "1:a halvlek - Totalt antal mål"
+
+msgid "2nd Half - Total Goals"
+msgstr "2:a halvlek - Totalt antal mål"
+
+msgid "Total corners"
+msgstr "Totalt antal hörnor"
+
+msgid "1st Half - Total Corners"
+msgstr "1:a halvlek - Totalt antal hörnor"
+
+msgid "Corner handicap"
+msgstr "Hörnor handikapp"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1:a halvlek - Hörnor handikapp"
+
+msgid "Corner matchbet"
+msgstr "Hörnor matchspel"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1:a halvlek - Hörnor matchspel"
+
+msgid "Corner Odd/Even"
+msgstr "Hörnor Udda/jämna"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1:a halvlek - Hörnor Udda/jämna"
+
+msgid "First corner"
+msgstr "Första hörna"
+
+msgid "1st Half - First Corner"
+msgstr "1:a halvlek - Första hörna"
+
+msgid "Home Team Number of Corners"
+msgstr "Antal hörnor för hemmalaget"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1:a halvlek - Antal hörnor för hemmalaget"
+
+msgid "1st Half - Totals"
+msgstr "1:a halvlek - Totaler"
+
+msgid "2nd Half - Totals"
+msgstr "2:a halvlek - Totaler"
+
+msgid "Last corner"
+msgstr "Sista hörna"
+
+msgid "1st Half - Last Corner"
+msgstr "1:a halvlek - Sista hörna"
+
+msgid "Away Team Number of Corners"
+msgstr "Antal hörnor för bortalaget"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1:a halvlek - Antal hörnor för bortalaget"
+
+msgid "Last team to score"
+msgstr "Sista lag att göra mål"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Totalt antal hörnor (aggregerade)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1:a halvlek - Totalt antal hörnor (aggregerade)"
+
+msgid "Home to win both halves?"
+msgstr "Vinner hemmalaget båda halvlekarna"
+
+msgid "Home to win either half?"
+msgstr "Vinner hemmalaget någon av halvlekarna"
+
+msgid "Home to score in both halves?"
+msgstr "Gör hemmalaget mål i båda halvlekarna"
+
+msgid "Away to win both halves?"
+msgstr "Vinner bortalaget båda halvlekarna"
+
+msgid "Away to win either half?"
+msgstr "Vinner bortalaget någon av halvlekarna"
+
+msgid "Away to score in both halves?"
+msgstr "Gör bortalaget mål i båda halvlekarna?"
+
+msgid "Both halves over 1.5?"
+msgstr "Båda halvlekar över 1.5"
+
+msgid "Both halves under 1.5?"
+msgstr "Båda halvlekar under 1.5"
+
+msgid "1st Half Double Chance"
+msgstr "1:a halvlek dubbelchans"
+
+msgid "1st Half Draw no Bet"
+msgstr "1:a halvlek insatsen tillbaka vid oavgjort"
+
+msgid "First goal interval 10 min"
+msgstr "Första mål 10 min intervall"
+
+msgid "First goal interval 15 min"
+msgstr "Första mål 15 min intervall"
+
+msgid "First 10 minutes -3 way"
+msgstr "Första 10 minuter - 3-väg"
+
+msgid "1st Half - Both Teams to score"
+msgstr "1:a halvlek - Båda lagen gör mål"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2:a halvlek - Båda lagen gör mål"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Halvlek med flest mål hemmalaget"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Halvlek med flest mål bortalaget"
+
+msgid "Correct score (incl. other)"
+msgstr "Rätt resultat (inkl. andra)"
+
+msgid "Odd/Even Points"
+msgstr "Udda/jämnt antal poäng"
+
+msgid "Points Spreads"
+msgstr "Poäng spreads"
+
+msgid "Total Spreads"
+msgstr "Totala spreads"
+
+msgid "1st Half - Points Spread"
+msgstr "1:a halvlek - Poäng spreads"
+
+msgid "1st Half - Total Spread"
+msgstr "1:a halvlek - Totala spreads"
+
+msgid "Matchbet and Totals"
+msgstr "Matchspel och totaler"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1:a halvlek - Udda/jämnt antal poäng"
+
+msgid "1st Half - 2way"
+msgstr "1:a halvlek - 2-väg"
+
+msgid "Highest Scoring Quarter"
+msgstr "Period med flest mål"
+
+msgid "3way"
+msgstr "3-väg"
+
+msgid "2nd Half - Points Spread"
+msgstr "2:a halvlek - Poäng spreads"
+
+msgid "2nd Half - Total Spread"
+msgstr "2:a halvlek - Totala spreads"
+
+msgid "1st Half - Draw no bet"
+msgstr "1:a halvlek - Insatsen tillbaka vid oavgjort"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2:a halvlek - Udda/jämnt antal poäng"
+
+msgid "2nd Half - Draw no bet"
+msgstr "2:a halvlek - Insatsen tillbaka vid oavgjort"
+
+msgid "Total margins NBA-ranges"
+msgstr "Totala marginer NBA intervall"
+
+msgid "Total margins Regular-ranges"
+msgstr "Totala marginer regelbundna intervall"
+
+msgid "Totals away team"
+msgstr "Totaler bortalaget"
+
+msgid "Totals home team"
+msgstr "Totaler hemmalaget"
+
+msgid "1st Quarter - 1X2"
+msgstr "1:a period - 1X2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2:a period - 1X2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3:e period - 1X2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4:e period - 1X2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1:a period - Insatsen tillbaka vid oavgjort"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2:a period - Insatsen tillbaka vid oavgjort"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3:e period - Insatsen tillbaka vid oavgjort"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4:e period - Insatsen tillbaka vid oavgjort"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1:a period - Totala spreads"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2:a period - Totala spreads"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3:e period - Totala spreads"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4:e period - Totala spreads"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1:a period - Poäng spreads"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2:a period - Poäng spreads"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3:e period - Poäng spreads"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4:e period - Poäng spreads"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1:a period - Udda/jämnt antal poäng"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2:a period - Udda/jämnt antal poäng"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3:e period - Udda/jämnt antal poäng"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4:e period - Udda/jämnt antal poäng"
+
+msgid "First to x points"
+msgstr "Först att nå x poäng"
+
+msgid "Total AAMS"
+msgstr "Totala AAMS"
+
+msgid "Total 3way"
+msgstr "Totala 3-vägs"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Poäng spreads (övertid)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Totala spreads (övertid)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Udda/jämnt antal runs (övertid)"
+
+msgid "Correct Score"
+msgstr "Rätt resultat"
+
+msgid "Both teams to score?"
+msgstr "Båda lagen gör mål"
+
+msgid "Goal Spreads"
+msgstr "Mål spreads"
+
+msgid "1st Period - 3way"
+msgstr "1:a period - 3-vägs"
+
+msgid "3rd Period - 3way"
+msgstr "3:e period - 3-vägs"
+
+msgid "1st Period – Total"
+msgstr "1:a period - Totalt"
+
+msgid "2nd Period – Total"
+msgstr "2:a period - Totalt"
+
+msgid "3rd Period – Total"
+msgstr "3:e period - Totalt"
+
+msgid "1st Period - Double Chance"
+msgstr "1:a period - Dubbelchans"
+
+msgid "2nd Period - Double Chance"
+msgstr "2:a period - Dubbelchans"
+
+msgid "3rd Period - Double Chance"
+msgstr "3:e period - Dubbelchans"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Udda/jämnt antal mål (inkl. övertid och straff)"
+
+msgid "Highest Scoring Period"
+msgstr "Period med flest mål"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Mål spreads (inkl. övertid)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Totala spreads (inkl. övertid)"
+
+msgid "Last team to Score"
+msgstr "Sista lag att göra mål"
+
+msgid "2nd Period - 3way"
+msgstr "2:a period - 3-vägs"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1:a period - Udda/jämnt antal mål"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2:a period - Udda/jämnt antal mål"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3:e period - Udda/jämnt antal mål"
+
+msgid "1st Period - Draw no bet"
+msgstr "1:a period - Insatsen tillbaka vid oavgjort"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2:a period - Insatsen tillbaka vid oavgjort"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3:e period - Insatsen tillbaka vid oavgjort"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2:a period - Båda lagen gör mål"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3:e period - Båda lagen gör mål"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1:a period - Mål spreads"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2:a period - Mål spreads"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3:e period - Mål spreads"
+
+msgid "2nd Period - First team to score"
+msgstr "2:a period - Första lag att göra mål"
+
+msgid "3rd Period - First team to score"
+msgstr "3:e period - Första lag att göra mål"
+
+msgid "1st Period - Last team to score"
+msgstr "1:a period - Sista lag att göra mål"
+
+msgid "2nd Period - Last team to score"
+msgstr "2:a period - Sista lag att göra mål"
+
+msgid "3rd Period - Last team to score"
+msgstr "3:e period - Sista lag att göra mål"
+
+msgid "1st Period - Both teams to score"
+msgstr "1:a period - Båda lagen gör mål"
+
+msgid "Totals (incl. OT)"
+msgstr "Totaler (inkl. övertid)"
+
+msgid "2way (incl. OT)"
+msgstr "2-vägs (inkl. övertid)"
+
+msgid "1st Set Winner"
+msgstr "1:a set vinnare"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Totalt antal set (bäst av 3)"
+
+msgid "2nd Set Winner"
+msgstr "2:a set vinnare"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Totalt antal set (bäst av 5)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Rätt set resultat (bäst av 3 sets)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Rätt set resultat (bäst av 5 sets)"
+
+msgid "1st Half - 3way"
+msgstr "1:a halvlek - 3-väg"
+
+msgid "Halftime / Fulltime"
+msgstr "Halvtid/fulltid"
+
+msgid "Odd / Even Goals"
+msgstr "Udda/jämnt antal mål"
+
+msgid "1st Half - Goal Spread"
+msgstr "1:a halvlek - Mål spreads"
+
+msgid "2nd half - 3way"
+msgstr "2:a halvlek - 3-vägs"
+
+msgid "1st half - Double Chance"
+msgstr "1:a halvlek - Dubbelchans"
+
+msgid "1st half - Draw no bet"
+msgstr "1:a halvlek - Insatsen tillbaka vid oavgjort"
+
+msgid "1st Half - Odd / Even"
+msgstr "1:a halvlek - Udda/jämnt"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2:a halvlek - Udda/jämnt"
+
+msgid "2nd half - Draw no bet"
+msgstr "2:a halvlek - Insatsen tillbaka vid oavgjort"
+
+msgid "2nd half - Double Chance"
+msgstr "2:a halvlek - Dubbelchans"
+
+msgid "Points Spread"
+msgstr "Poäng spreads"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Vinstmarginaler Rugby Union"
+
+msgid "Winning Margins Rugby League"
+msgstr "Vinstmarginaler Rugby League"
+
+msgid "1st Half - Points Spreads"
+msgstr "1:a halvlek - Poäng spreads"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1:a halvlek - Udda/jämnt antal poäng"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Udda/jämnt antal poäng (övertid)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2:a halvlek - Poäng spreads (inkl. övertid)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2:a halvlek - Totala spreads (inkl. övertid)"
+
+msgid "Who wins first set"
+msgstr "Vem vinner första set"
+
+msgid "Who wins second set"
+msgstr "Vem vinner andra set"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Totalt antal set (bäst av 5)"
+
+msgid "Correct Set Score"
+msgstr "Rätt set resultat"
+
+msgid "How many sets will exceed score limit?"
+msgstr "Hur många set kommer att överstiga poängsgräns?"
+
+msgid "1st Set Handicap"
+msgstr "1:a set handikapp"
+
+msgid "1st Set Total"
+msgstr "1:a set totalt"
+
+msgid "1st Set Race to X"
+msgstr "1:a set race till X"
+
+msgid "1st Set Odd/even"
+msgstr "1:a set udda/jämnt"
+
+msgid "Who wins third set"
+msgstr "Vem vinner tredje set"
+
+msgid "Who wins fourth set"
+msgstr "Vem vinner fjärde set"
+
+msgid "Who wins fifth set"
+msgstr "Vem vinner femte set"
+
+msgid "5th Set Played?"
+msgstr "Kommer 5:e set att spelas"
+
+msgid "4th Set Played?"
+msgstr "Kommer 4:e set att spelas"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Totalt antal set (bäst av 3)"
+
+msgid "Line"
+msgstr "Linje"
+
+msgid "Over"
+msgstr "Över"
+
+msgid "Under"
+msgstr "Under"
+
+msgid "None"
+msgstr "Inget"
+
+msgid "goals"
+msgstr "mål"
+
+msgid "Goals"
+msgstr "Mål"
+
+msgid "Under and home"
+msgstr "Under och hemmalaget"
+
+msgid "Under and draw"
+msgstr "Under och oavgjort"
+
+msgid "Under and away"
+msgstr "Under och bortalaget"
+
+msgid "1st"
+msgstr "1:e"
+
+msgid "2nd"
+msgstr "2:a"
+
+msgid "Equal"
+msgstr "Lika"
+
+msgid "Hometeam scores first and home"
+msgstr "Hemmalaget gör första målet och hemmalaget"
+
+msgid "Hometeam scores first and draw"
+msgstr "Hemmalaget gör första målet och oavgjort"
+
+msgid "Hometeam scores first and away"
+msgstr "Hemmalaget gör första målet och bortalaget"
+
+msgid "Awayteam scores first and home"
+msgstr "Bortalaget gör första målet och hemmalaget"
+
+msgid "Awayteam scores first and draw"
+msgstr "Bortalaget gör första målet och oavgjort"
+
+msgid "Awayteam scores first and away"
+msgstr "Bortalaget gör första målet och bortalaget"
+
+msgid "Odd"
+msgstr "Udda"
+
+msgid "Even"
+msgstr "Jämnt"
+
+msgid "Others"
+msgstr "Andra"
+
+msgid "Both teams"
+msgstr "Båda lagen"
+
+msgid "Over and away"
+msgstr "Över och bortalaget"
+
+msgid "Over and draw"
+msgstr "Över och oavgjort"
+
+msgid "Over and home"
+msgstr "Över och hemmalaget"
+
+msgid "other"
+msgstr "andra"
+
+msgid "1st period"
+msgstr "1:a period"
+
+msgid "2nd period"
+msgstr "2:a period"
+
+msgid "3rd period"
+msgstr "3:e period"
+
+msgid "1 sets"
+msgstr "1 set"
+
+msgid "2 sets"
+msgstr "2 sets"
+
+msgid "3 sets"
+msgstr "3 sets"
+
+msgid "4 sets"
+msgstr "4 sets"
+
+msgid "5 sets"
+msgstr "5 sets"
+
+msgid "0 sets"
+msgstr "0 set"
+
+msgid "1st quarter"
+msgstr "1:a period"
+
+msgid "2nd quarter"
+msgstr "2:a period"
+
+msgid "3rd quarter"
+msgstr "3:e period"
+
+msgid "4th quarter"
+msgstr "4:e period"
+
+msgid "No goal"
+msgstr "Inget mål"
+
+msgid "Chat with Real Dealers"
+msgstr "Chatta med riktiga dealers"
+
+msgid "Main Page"
+msgstr "Huvudsida"
+
+msgid "Games"
+msgstr "Spel"
+
+msgid "New 3D Slots"
+msgstr "Nya 3D slots"
+
+msgid "Promotions"
+msgstr "Kampanjer"
+
+msgid "Banking"
+msgstr "Bankinformation"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "About Us"
+msgstr "Om oss"
+
+msgid "Join Now"
+msgstr "Gå med nu"
+
+msgid "Login"
+msgstr "Logga in"
+
+msgid "Slots"
+msgstr "Slots"
+
+msgid "Table Games"
+msgstr "Bordsspel"
+
+msgid "Video Poker"
+msgstr "Videopoker"
+
+msgid "Keno & Games"
+msgstr "Keno & spel"
+
+msgid "Free Play"
+msgstr "Spela gratis"
+
+msgid "Play Now"
+msgstr "Spela nu"
+
+msgid "Security"
+msgstr "Säkerhet"
+
+msgid "Privacy Policy"
+msgstr "Sekretesspolicy"
+
+msgid "General Terms"
+msgstr "Allmänna villkor"
+
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+msgid "Affiliate"
+msgstr "Affiliate"
+
+msgid "COPYRIGHT %s ALL RIGHTS RESERVED"
+msgstr "COPYWRIGHT %s ALLA RÄTTIGHETER RESERVED"
+
+msgid "Responsible Gaming"
+msgstr "Ansvarsfullt spelande"
+
+msgid "Live Chat"
+msgstr "Live chatt"
+
+msgid "READ MORE"
+msgstr "LÄS MER"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Last Name"
+msgstr "Efternamn"
+
+msgid "Birth Date"
+msgstr "Födelsedatum"
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "Select"
+msgstr "Välj"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Augusti"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Join Now: Step 1 of 2"
+msgstr "Gå nu: Steg 1 av 2"
+
+msgid "Already a member"
+msgstr "Redan medlem"
+
+msgid "Street Number / Street Name"
+msgstr "Gatunummer / Gatuadress"
+
+msgid "Zip/Postal Code"
+msgstr "Postkod"
+
+msgid "Town / City"
+msgstr "Stad"
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Mobile Phone Number"
+msgstr "Mobiltelefonnummer"
+
+msgid "Subscribe to email and SMS updates"
+msgstr "Prenumerera på e-post och SMS-uppdateringar"
+
+msgid "I agree to the General Terms"
+msgstr "Jag godkänner de allmänna"
+
+msgid "Play for Fun"
+msgstr "Spela för skojs skull"
+
+msgid "Deposit Now !"
+msgstr "Deposit nu!"
+
+msgctxt ""
+msgid "Username / Alias"
+msgstr "Användarnamn / Alias"
+
+msgctxt ""
+msgid "Forgot Password"
+msgstr "Glömt ditt lösenord"
+
+msgid "New Player"
+msgstr "Ny spelare"
+
+msgid "Lobby / Reporting"
+msgstr "Lobbyn / rapportering"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Help"
+msgstr "Hjälpa"
+
+msgid "Request a Withdrawal"
+msgstr "Begär ett uttag"
+
+msgid "Game Activity"
+msgstr "Spelaktivitet"
+
+msgid "Transaction Report"
+msgstr "Transaktionsrapport"
+
+msgctxt ""
+msgid "Bonus Report"
+msgstr "Bonusrapport"
+
+msgid "Deposit History"
+msgstr "Historia av insättningar"
+
+msgid "Withdrawal History"
+msgstr "Historiska uttag"
+
+msgid "From"
+msgstr "Från"
+
+msgid "To"
+msgstr "Till"
+
+msgid "Fix Search"
+msgstr "Fix Sök"
+
+msgid "Last 30 days"
+msgstr "Senaste 30 dagarna"
+
+msgid "Search Options"
+msgstr "Sökalternativ"
+
+msgid "All Game  Types"
+msgstr "Alla sorters spel"
+
+msgid "Bingo"
+msgstr "Bingo"
+
+msgid "Pull Tabs"
+msgstr "Pull Tabs"
+
+msgid "Roulette"
+msgstr "Roulette"
+
+msgid "Blackjack"
+msgstr "Blackjack"
+
+msgid "Craps"
+msgstr "Craps"
+
+msgid "Poker"
+msgstr "Poker"
+
+msgid "My Profile"
+msgstr "Min profil"
+
+msgid "Close Account"
+msgstr "Avsluta konto"
+
+msgid "Exclusion Status"
+msgstr "Avslutningsalternativ"
+
+msgid "Temporary Exclusion"
+msgstr "Tillfälligt undantag"
+
+msgid "Permanent Exclusion"
+msgstr "Permanent avslutning"
+
+msgid "Number of Days"
+msgstr "Antal dagar"
+
+msgid "1 day"
+msgstr "1"
+
+msgid "2 days"
+msgstr "2"
+
+msgid "1 week"
+msgstr "7"
+
+msgid "2 weeks"
+msgstr "14"
+
+msgid "3 months"
+msgstr "3 månader"
+
+msgid "All Transaction Types"
+msgstr "Alla sorters transaktioner"
+
+msgid "Debit"
+msgstr "Debet"
+
+msgid "Declined"
+msgstr "Avvisad"
+
+msgid "Payouts"
+msgstr "Utbetalningar"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "referrals"
+msgstr "referenser"
+
+msgid "Transfers"
+msgstr "Överföringar"
+
+msgid "Refunds"
+msgstr "Återbetalningar"
+
+msgid "Cash"
+msgstr "Kontanter"
+
+msgid "Contact Details"
+msgstr "Kontaktinformation"
+
+msgid "UserID"
+msgstr "Användar ID"
+
+msgid "Last Login"
+msgstr "Senaste inloggning"
+
+msgid "Responsible Gaming Limits"
+msgstr "Ansvarsfullt spelande"
+
+msgid "Per Hour"
+msgstr "Per timme"
+
+msgid "Per Day"
+msgstr "Per dag"
+
+msgid "Per Week"
+msgstr "Per vecka"
+
+msgid "Per Month"
+msgstr "Per månad"
+
+msgid "Deposit Limits"
+msgstr "Gränsvärden för insättning"
+
+msgid "Wager Limits"
+msgstr "Wager Gränser"
+
+msgid "Our Conditions"
+msgstr "Våra villkor"
+
+msgid "Open a Ticket"
+msgstr "Skriv ett meddelande"
+
+msgid "Issue"
+msgstr "Nummer"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "Lost Credit"
+msgstr "Förlorade Credit"
+
+msgid "Lost Connection"
+msgstr "Avbruten anslutning"
+
+msgid "Locked Up"
+msgstr "Inlåst"
+
+msgid "Other"
+msgstr "Andra"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Win Not Credited"
+msgstr "Vinst inte krediterad"
+
+msgid "Credit Card"
+msgstr "Kreditkort"
+
+msgid "Comments"
+msgstr "Kommentar"
+
+msgid "Update My Profile"
+msgstr "Uppdatera min profil"
+
+msgid "Welcome"
+msgstr "Välkommen"
+
+msgctxt ""
+msgid "Live Casino"
+msgstr "Live Casino"
+
+msgid "More"
+msgstr "Mer"
+
+msgid "Getting Started"
+msgstr "Komma igång"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Video Slots"
+msgstr "Video Spelautomater"
+
+msgid "Table Game"
+msgstr "Tabell Game"
+
+msgid "Keno"
+msgstr "Keno"
+
+msgid "Reel Slot"
+msgstr "Reel Slot"
+
+msgid "Unique Game"
+msgstr "Unikt spel"
+
+msgid "Scratch Cards"
+msgstr "Skraplott"
+
+msgid "Virtual Games"
+msgstr "Virtuella Spel"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Enter Name"
+msgstr "Ange namn"
+
+msgid "Enter subject"
+msgstr "Ange ämne"
+
+msgid "Enter your message"
+msgstr "Skriv ditt meddelande"
+
+msgid "Enter email"
+msgstr "Skriv in e-mail"
+
+msgid "Filter by company"
+msgstr "Filtrera efter företag"
+
+msgid "Find a game"
+msgstr "Hitta ett spel"
+
+msgid "There are %s more games awaiting you"
+msgstr "Det finns fler %s spel väntar dig"
+
+msgid "Showing %s games of %s"
+msgstr "Visar %s spel av %s"
+
+msgid "There are no games to show. Please try a different search and/or filter."
+msgstr "Det finns inga spel att visa. Försök med en annan sökning och / eller filter."
+
+msgid "Play"
+msgstr "Spela"
+
+msgid "About"
+msgstr "Om oss"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "General T&C"
+msgstr "Regler och Villkor"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Create Account"
+msgstr "Skapa konto"
+
+msgid "Step"
+msgstr "Steg"
+
+msgid "Personal Information"
+msgstr "Personlig information"
+
+msgid "E-mail"
+msgstr "E-postadress"
+
+msgid "email"
+msgstr "e-postadress"
+
+msgid "Email"
+msgstr "E-postadress"
+
+msgid "Confirm E-mail"
+msgstr "Bekräfta e-postadress"
+
+msgid "Please Select"
+msgstr "Vänligen välj"
+
+msgid "Male"
+msgstr "Man"
+
+msgid "Female"
+msgstr "Kvinna"
+
+msgid "is required"
+msgstr "krävs"
+
+msgid "Emails do not match"
+msgstr "E-postmeddelanden matchar inte"
+
+msgid "Continue to step 2"
+msgstr "Fortsätt till steg 2"
+
+msgid "Accept Terms And Conditions"
+msgstr "Acceptera Regler och villkor"
+
+msgid "You need to accept the Terms Of Use to be able to register"
+msgstr "Du måste acceptera användningsvillkoren för att kunna registrera"
+
+msgid "Your password does not match"
+msgstr "Lösenordet stämmer inte"
+
+msgid "Welcome to %s"
+msgstr "Välkommen till %s"
+
+msgid "Your account has been created."
+msgstr "Ditt konto har skapats."
+
+msgid "You must activate your account in order to login and start playing."
+msgstr "Du måste aktivera ditt konto för att kunna logga in och börja spela."
+
+msgid "Please look for your activation mail and click on the activation link."
+msgstr "Var vänlig leta efter ditt aktiverings-e-postmeddelande och klicka på aktiveringslänken."
+
+msgid "If you wish to change your e-mail address, please press the \"I have another e-mail address\"."
+msgstr "Om du vill ändra din e-postadress, tryck på \"Jag har en annan e-postadress\"."
+
+msgid "If you cannot find your activation mail, you should check your junk, spam folder."
+msgstr "Om du inte kan hitta din aktiverings post bör du kontrollera din skräppost, spam mapp."
+
+msgid "I have another email address."
+msgstr "Jag har en annan e-postadress."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Resend verification mail"
+msgstr "Skicka om verifierings post"
+
+msgid "Need Help?"
+msgstr "Behövs hjälp?"
+
+msgid "20% Cashback"
+msgstr "20% Cashback"
+
+msgid "Special Promotions Every Week"
+msgstr "Specialerbjudande varje vecka"
+
+msgid "FastCashout System"
+msgstr "Snabb Cashout System"
+
+msgid "Forgot Password?"
+msgstr "Glömt ditt lösenord?"
+
+msgid "Change your password"
+msgstr "Ändra ditt lösenord"
+
+msgid "Request password reset"
+msgstr "Begär återställning av lösenord"
+
+msgid "Deposit"
+msgstr "Deposition"
+
+msgid "Personal Details"
+msgstr "Personliga detaljer"
+
+msgid "Account Statement"
+msgstr "Kontoutdrag"
+
+msgid "Game History"
+msgstr "Historien om spelet"
+
+msgid "KYC"
+msgstr "KYC"
+
+msgid "Withdraw"
+msgstr "Dra tillbaka"
+
+msgid "Deposit List"
+msgstr "Deposit Lista"
+
+msgid "Total Deposits"
+msgstr "Totalt insättningar"
+
+msgid "Pending"
+msgstr "Väntande"
+
+msgid "Cancelled"
+msgstr "Annullerade"
+
+msgid "Method"
+msgstr "Metod"
+
+msgid "Insert Date"
+msgstr "Ange datum"
+
+msgid "Update Date"
+msgstr "Uppdatera Datum"
+
+msgid "Update Details"
+msgstr "Uppdatera uppgifter"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Not available yet."
+msgstr "Inte tillgänglig ännu."
+
+msgid "Know your customer (KYC)"
+msgstr "Känn din kund (KYC)"
+
+msgid "Upload Documents"
+msgstr "Ladda upp dokument"
+
+msgid "Documents you need to upload"
+msgstr "Dokument du behöver ladda upp"
+
+msgid "Electricity, Water, Landline Bill of the last 3 months"
+msgstr "Räkning för el, vatten och fast telefonlinje de senaste 3 månaderna"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "No Limits assigned yet"
+msgstr "No Limits tilldelade ännu"
+
+msgid "Do not allow me to access my account for the next 7 days"
+msgstr "Låt inte mig att komma åt mitt konto under de närmaste 7 dagar"
+
+msgid "Do not allow me to access my account for the next 6 months"
+msgstr "Låt inte mig att komma åt mitt konto under de kommande 6 månaderna"
+
+msgid "Withdraw List"
+msgstr "Uttag Lista"
+
+msgid "Make Withdraw"
+msgstr "Gör Uttag"
+
+msgid "Total Withdraws"
+msgstr "Totalt drar tillbaka"
+
+msgid "Request Withdraw"
+msgstr "Begär Uttag"
+
+msgid "Show more"
+msgstr "Visa mer"
+
+msgid "Try it"
+msgstr "Gratisspel"
+
+msgid "Responsibility"
+msgstr "Ansvar"
+
+msgid "%s is an online casino that continuously strives to provide you with the best range of online slots from different suppliers, all in one place that is easy and fun to use."
+msgstr "%s är ett onlinecasino som kontinuerligt strävar efter att förse dig med den allra bästa uppsättningen enarmade banditer och spel från olika leverantörer, alla på ett och samma ställe som är lätt och roligt att använda."
+
+msgid "All rights reserved"
+msgstr "Alla rättigheter förbehållna"
+
+msgid "Gambling is fun and can be addictive"
+msgstr "Att spela är roligt och det kan vara beroendeframkallande"
+
+msgid "Please play responsibly"
+msgstr "Spela ansvarsfullt"
+
+msgid "Game Payout Validation Security"
+msgstr "Säkerhetsvalidering vid utbetalningar från spel"
+
+msgid "Play on any device"
+msgstr "Spela på vilken enhet du vill"
+
+msgid "Manual Payment"
+msgstr "Manuell betalning"
+
+msgid "Real money player"
+msgstr "Riktiga spelare (verkliga pengar)"
+
+msgid "Login Failed"
+msgstr "Inloggningen misslyckades"
+
+msgid "Due to legal gaming restriction in your region we are unable to log you in."
+msgstr "På grund av laglig spelbegränsning i din region kan vi inte logga in dig."
+
+msgid "%s apologies for any inconvenience caused."
+msgstr "På Winnermillion Casino ber vi om ursäkt för eventuella olägenheter."
+
+msgid "For more information please contact our %ssupport 24/7%s."
+msgstr "För mer information kontakta vår %ssupport 24/7%s."
+
+msgid "Enter your user name and e-mail address, a password reset mail will be sent to your e-mail address."
+msgstr "Ange ditt användarnamn och e-postadress, ett lösenordsåterställt mail skickas till din e-postadress."
+
+msgid "Please enter your new password"
+msgstr "Ange ditt nya lösenord"
+
+msgid "Retype password"
+msgstr "Skriv in lösenord"
+
+msgid "Thank you %s your password has been successfully changed."
+msgstr "Tack %s ditt lösenord har ändrats."
+
+msgid "Your %s details are"
+msgstr "Dina uppgifter är"
+
+msgid "Please save your user name"
+msgstr "Spara ditt användarnamn"
+
+msgid "Done"
+msgstr "Gjort"
+
+msgid "Create your account today"
+msgstr "Skapa Ditt Konto"
+
+msgid "Signup now and get %s 150%s up to %s 1500 %s"
+msgstr "Registrera dig nu och få %s 150%s upp till %s 15.000 KR"
+
+msgid "Enjoy all %s our games %s on your %s mobile"
+msgstr "Njut av alla %s våra spel %s på din %s mobil"
+
+msgid "DEPOSIT BONUS %s 150%s up to %s 1500 %s"
+msgstr "Insättning Bonus %s 150%s upp till %s 15.000 KR"
+
+msgid "Have an account already"
+msgstr "Har du redan ett konto"
+
+msgid "The following descriptions will appear on your credit card or on your account statement: %s."
+msgstr "Följande beskrivningar kommer att visas på ditt kreditkort eller på ditt kontoutdrag: %s."
+
+msgid "Successful Registration"
+msgstr "Framgångsrik registrering"
+
+msgid "Success"
+msgstr "Framgång"
+
+msgid "Please update your e-mail address"
+msgstr "Vänligen uppdatera din e-postadress"
+
+msgid "Email sent"
+msgstr "Email Skickat"
+
+msgid "This e-mail address already exists"
+msgstr "Den här e-postadressen finns redan"
+
+msgid "Current E-mail"
+msgstr "Nuvarande E-post"
+
+msgid "New E-mail"
+msgstr "Ny E-post"
+
+msgid "Confirm New E-mail"
+msgstr "Bekräfta Nytt E-postmeddelande"
+
+msgid "Confirm New Password"
+msgstr "Bekräfta Nytt Lösenord"
+
+msgid "Enter your username and password to confirm the update"
+msgstr "Ange ditt användarnamn och lösenord för att bekräfta uppdateringen"
+
+msgid "Thank you %s your email has been successfully changed. Please confirm the update from your email account."
+msgstr "Tack %s din e-post har ändrats framgångsrikt. Vänligen bekräfta uppdateringen från ditt e-postkonto."
+
+msgid "Resend password reset email"
+msgstr "Skicka återställ e-postadressen för återställning av lösenord"
+
+msgid "Hello"
+msgstr "Hallå"
+
+msgid "Current Password"
+msgstr "Nuvarande Lösenord"
+
+msgid "Set new password for user %s"
+msgstr "Ange nytt lösenord för användare %s"
+
+msgid "Refund Policy"
+msgstr "Återbetalningspolicy"
+
+msgid "Licensing"
+msgstr "Licensing"
+
+msgid "%s is the seller and distributor."
+msgstr "%s är säljare och distributör."
+
+msgid "%s is owned and operated by Lsmedia Adv N.V Curacao and its wholly owned, Sprocess Limited 71-75 Shelton Street, Covent Garden, London, UK. WC2H 9JQ."
+msgstr "%s ägs och drivs av Lsmedia Adv N.V Curacao och dess helägda, Sprocess Limited 71-75 Shelton Street, Covent Garden, London, Storbritannien. WC2H 9JQ."
+
+msgid "%s operates under Master License No. 8048/JAZ, granted by the Government of Curaçao."
+msgstr "%s verkar under Master License No. 8048 / JAZ, beviljad av regeringen på Curaçao."
+
+msgid "%s operates under laws of Curacao No. curucao licence 8049/JAZ granted by the Government of Curaçao."
+msgstr "%s verkar enligt Curacao-lagar nr Curucao licens 8049 / JAZ som beviljats av regeringen på Curaçao. "
+
+msgid "Account cannot be created"
+msgstr "Konto kan inte skapas"
+
+msgid "Email is already taken!"
+msgstr "Email är redan taget!"
+
+msgid "Username is already taken!"
+msgstr "Användarnamnet är redan upptaget!"
+
+msgid "Choose your country"
+msgstr "Välj ditt land"
+
+msgid "Select your preferred payment method"
+msgstr "Välj din föredragna betalningsmetod"
+
+msgid "Enter your deposit amount"
+msgstr "Ange ditt insättningsbelopp"
+
+msgid "Amount is required."
+msgstr "Ett belopp krävs."
+
+msgid "Amount is not a valid number."
+msgstr "Beloppet är ogiltigt."
+
+msgid "Minimum deposit is %s."
+msgstr "Minsta insättning är %s."
+
+msgid "Bonus Code"
+msgstr "Bonuskod"
+
+msgid "Continue"
+msgstr "Fortsätta"
+
+msgid "Deposit the amount of your choice to one of the banks below"
+msgstr "Ange beloppet för ditt val till en av bankerna nedan"
+
+msgid "Please, select a country first!"
+msgstr "Vänligen välj ett land först!"
+
+msgid "Please, select a payment method first!"
+msgstr "Var god, välj en betalningsmetod först!"
+
+msgid "Save this card info from next time"
+msgstr "Spara denna kortinformation från nästa gång"
+
+msgid "Enter CCV"
+msgstr "Ange CCV"
+
+msgid "Expiration"
+msgstr "Utgångsdatum"
+
+msgid "Enter card number"
+msgstr "Ange kortnummer"
+
+msgid "Card Number"
+msgstr "Kortnummer"
+
+msgid "Select a Card"
+msgstr "Välj ett kort"
+
+msgid "A password reset mail was sent to your e-mail address."
+msgstr "Ett mail för återställning av lösenord skickades till din e-postadress."
+
+msgid "You have just deposited money, %s thanks you and wish you good luck."
+msgstr "Du har just deponerat pengar, Winner Million tackar dig och önskar dig lycka till."
+
+msgid "You can start playing."
+msgstr "Du kan börja spela."
+
+msgid "Back to the games"
+msgstr "Tillbaka till spel"
+
+msgid "Your deposit failed."
+msgstr "Din insättning misslyckades."
+
+msgid "Please try another credit card, or contact support."
+msgstr "Vänligen försök med ett annat kreditkort eller kontakta support."
+
+msgid "Contact Support"
+msgstr "Kontakta supporten"
+
+msgid "%s, you have no money in your balance"
+msgstr "%s, du har inga pengar i din balans"
+
+msgid "Go to the CASHIER to make a deposit"
+msgstr "Gå till CASHIER för att göra en insättning"
+
+msgid "Enjoy Your Luck"
+msgstr "Njut av din lycka"
+
+msgid "Change Email"
+msgstr "Byta e-mail"
+
+msgid "Contact by phone"
+msgstr "Kontakta telefon"
+
+msgid "In the event you need to reach a customer %s support person via phone, please dial %s"
+msgstr "I händelse av att du behöver nå en kund %s support person via telefon, vänligen ring %s"
+
+msgid "In order to make additional deposits, you have to verify your account by sending us your piece of identical recto verso, credit card recto verso (hiding the figures of the middle) as well as a note of telephone, gas, Electricity."
+msgstr "För att göra ytterligare insättningar måste du verifiera ditt konto genom att skicka oss din identitet till rum duplex, kreditkort sidiga kort (dölja siffror mitten) samt en telefon notering, gas, elektricitet eller kontoutdrag."
+
+msgid "You can send them to %s or upload your documents in the KYC section."
+msgstr "Du kan få dem skickade %s eller tack för att hämta dina dokument i avsnittet KYC."
+
+msgid "Thanking you in advance."
+msgstr "Tack på förhand."
+
+msgid "The %s Team"
+msgstr "Team %s"
+
+msgid "Filter by provider"
+msgstr "Filtrera efter leverantör"
+
+msgid "Select your preferred deposit method"
+msgstr "Välj din föredragna insättningsmetod"
+
+msgid "Select your preferred withdraw method"
+msgstr "Välj din föredragna uttagningsmetod"
+
+msgid "No data to show."
+msgstr "Ingen data att visa."
+
+msgid "I accept the Terms and Conditions"
+msgstr "Jag accepterar villkoren"
+
+msgid "By clicking the Continue button you will be redirected to %s payment page."
+msgstr "Genom att klicka på Fortsätt-knappen vidarebefordras du till %s betalningssida."
+
+msgid "Form is invalid. Please check your inputs."
+msgstr "Blanketten är ogiltig. Kontrollera dina ingångar."
+
+msgid "Make sure you enter correct amount and accept the Terms and Conditions."
+msgstr "Se till att du anger rätt mängd och accepterar villkoren."
+
+msgid "Your withdraw request failed."
+msgstr "Din återkallningsförfrågan misslyckades."
+
+msgid "Please try again or contact support."
+msgstr "Var vänlig försök igen eller kontakta support."
+
+msgid "Security Code"
+msgstr "Säkerhetskod"
+
+msgid "%s Account"
+msgstr "%s Konto"
+
+msgid "Sign Up"
+msgstr "Registrera"
+
+msgid "Sign In"
+msgstr "Logga In"
+
+msgid "Sign Out"
+msgstr "Logga Ut"
+
+msgid "Payoff Amount"
+msgstr "Utbetalningsbelopp"
+
+msgid "Turnover Amount"
+msgstr "Omsättningsbelopp"
+
+msgid "Bonus Name"
+msgstr "Bonusnamn"
+
+msgid "Activated"
+msgstr "Aktiverad"
+
+msgid "Released"
+msgstr "Avsluta"
+
+msgid "main_banner_1.jpg"
+msgstr "main_banner_1_sv_se.jpg"
+
+msgid "main_banner_2.jpg"
+msgstr "main_banner_2_sv_se.jpg"
+
+msgid "main_banner_3.jpg"
+msgstr "main_banner_3_sv_se.jpg"

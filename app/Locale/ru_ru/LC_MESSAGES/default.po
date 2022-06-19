@@ -1,0 +1,3420 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2015-10-13 15:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Your passwords does not much"
+msgstr "Пароли не совпадают"
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Ваша учетная запись создана. Подтвердите свой электронный адрес, чтобы войти "
+"на сайт"
+
+msgid "Password changed"
+msgstr "Пароль изменен"
+
+msgid "Wrong old password. Please try again"
+msgstr "Неверно указан старый пароль. Повторите попытку"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Пароли не совпадают. Повторите попытку"
+
+msgid "Account information updated."
+msgstr "Данные учетной записи обновлены"
+
+msgid "Limits cancelled."
+msgstr "Лимиты отменены"
+
+msgid "Unable to cancel limit"
+msgstr "Невозможно отменить лимит"
+
+msgid "Limits updated."
+msgstr "Лимиты обновлены"
+
+msgid "Limits not updated."
+msgstr "Лимиты не обновлены"
+
+msgid "You account has been deleted."
+msgstr "Ваша учетная запись удалена"
+
+msgid "Account settings updated."
+msgstr "Настройки учетной записи обновлены"
+
+msgid "Password reset link sent to your email"
+msgstr "Ссылка для восстановления пароля отправлена на ваш электронный адрес"
+
+msgid "E-mail not valid"
+msgstr "Неверный электронный адрес"
+
+msgid "Promotional code successfully used"
+msgstr "Промо-код активирован"
+
+msgid "Invalid promotional code"
+msgstr "Неверный промо-код"
+
+msgid "Confirm your email."
+msgstr "Подтвердите свой электронный адрес"
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Ваша учетная запись заблокирована. Требуется восстановление пароля"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Ваша учетная запись заблокирована навсегда"
+
+msgid "You are Already Logged in."
+msgstr "Авторизация уже произведена"
+
+msgid "Wrong Password"
+msgstr "Неверный пароль"
+
+msgid "Username or password is incorrect"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Получен запрос пополнение счета от сотрудника: %s (номер:%d) "
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "Счет пользователя %s (номер:%d) пополнен"
+
+msgid "User %s is credited by %d %s"
+msgstr "Пользователь %s пополнил счет на %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Получен запрос вывода средств от сотрудника: %s (%d) "
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "Пользователь %s (%d) вывел %s"
+
+msgid "User %s is charged by %d %s"
+msgstr "Пользователь %s вывел %d %s "
+
+msgid "KYC Data Accepted"
+msgstr "Данные пользователя приняты"
+
+msgid "Email successfully sent"
+msgstr "Письмо отправлено"
+
+msgid "Cannot send email. Please try again."
+msgstr "Не удалось отправить письмо. Повторите попытку"
+
+msgid "can't find"
+msgstr "не удалось найти"
+
+msgid "Changes saved"
+msgstr "Изменения сохранены"
+
+msgid "This cannot be saved."
+msgstr "Невозможно сохранить"
+
+msgid "Item added"
+msgstr "Добавлено"
+
+msgid "This cannot be added."
+msgstr "Невозможно добавить"
+
+msgid "Item deleted"
+msgstr "Удалено"
+
+msgid "This cannot be deleted."
+msgstr "Невозможно удалить"
+
+msgid "Bet added"
+msgstr "Ставка размещена"
+
+msgid "Error adding bet"
+msgstr "Не удалось разместить ставку"
+
+msgid "Lowest deposit amount is"
+msgstr "Минимальный депозит:"
+
+msgid "Highest deposit amount is"
+msgstr "Максимальный депозит:"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Вы достигли максимального лимита на депозит:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Вы достигли максимального лимита на депозит в день:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Вы достигли максимального лимита на депозит в неделю:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Вы достигли максимального лимита на депозит в месяц:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Неправильный или недействительный код бонуса"
+
+msgid "Bonus code expired"
+msgstr "Недействительный код бонуса"
+
+msgid "Your amount is too low for bonus"
+msgstr "Указанная сумма слишком мала для получения бонуса"
+
+msgid "Your amount is too high for bonus "
+msgstr "Указанная сумма слишком высока для получения бонуса"
+
+msgid "User Terminated"
+msgstr "Пользователь заблокирован"
+
+msgid "Completed"
+msgstr "Выполнено"
+
+msgid "Pending"
+msgstr "В процессе"
+
+msgid "Canceled"
+msgstr "Отменено"
+
+msgid "Statuses chart"
+msgstr "Статусная таблица"
+
+msgid "Amount chart"
+msgstr "Количественная таблица"
+
+msgid "Deposit not found!"
+msgstr "Депозит не найден"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Депозит уже отмечен как выполненный"
+
+msgid "Deposit request set as completed"
+msgstr "Запрос депозита выполнен"
+
+msgid "Deposit request canceled"
+msgstr "Запрос депозита отменен"
+
+msgid "Money transaction completed"
+msgstr "Транзакция выполнена"
+
+msgid "Select Event"
+msgstr "Выбрать событие"
+
+msgid "No search results found"
+msgstr "Ничего не найдено"
+
+msgid "Permissions updated"
+msgstr "Разрешения обновлены"
+
+msgid "Your request is accepted."
+msgstr "Запрос принят"
+
+msgid "Language already exist"
+msgstr "Такой язык уже существует"
+
+msgid "can't delete item"
+msgstr "невозможно удалить"
+
+msgid "Emails successfully sent"
+msgstr "Письмо отправлено"
+
+msgid "Please enter event result"
+msgstr "Введите результаты события"
+
+msgid "Results updated"
+msgstr "Результаты обновлены"
+
+msgid "Settings saved."
+msgstr "Настройки сохранены"
+
+msgid "can't save settings."
+msgstr "не удалось сохранить настройки"
+
+msgid "Types chart"
+msgstr "Таблица разновидностей"
+
+msgid "Cannot find ticket with id:"
+msgstr "Не удалось найти билет:"
+
+msgid "Ticket is not found"
+msgstr "Билет не найден"
+
+msgid "Unknown ticket status"
+msgstr "Статус билета неизвестен"
+
+msgid "Unknown paid status"
+msgstr "Статус платежа неизвестен"
+
+msgid "Ok"
+msgstr "ОК"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Insufficient credits"
+msgstr "Недостаточно средств"
+
+msgid "Ticket is still pending or lost"
+msgstr "Билет рассматривается или потерян"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Билет уже напечатан. Номер билета: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Не удалось найти билет. Номер билета: %d "
+
+msgid "Please select another pick from different event"
+msgstr "Выберите ставку для другого события"
+
+msgid "Min betting amount is %d"
+msgstr "Минимальный размер ставки: %d "
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Невозможно создать данный тип билета. Возврат к одиночным ставкам"
+
+msgid "Wrong Password or Username"
+msgstr "Неверный пароль или имя пользователя"
+
+msgid "Lowest amount for cashout is"
+msgstr "Минимальная сумма для вывода:"
+
+msgid "Highest amount for cashout is"
+msgstr "Максимальная сумма для вывода:"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Недостаточно средств для вывода"
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Невозможно вывести средства. Получение бонуса предусматривает "
+"заблокированную сумму в размере %s. Вы можете вывести: %s"
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Предыдущий вывод средств не выполнен"
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Вы не подтвердили все необходимые данные для выполнения этой транзакции. "
+"Заполните следующую форму:"
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Необходима повторная отправка документов для проверки. Заполните следующую "
+"форму:"
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Вы не подтвердили свой возраст для выполнения данной транзакции. Заполните "
+"следующую форму:"
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"Запрос вывода средств на сумму %s принят. Введите свои банковские данные по "
+"следующей ссылке: <a href='/users/account'>Данные учетной записи</a>"
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Запрос на вывод %s принят"
+
+msgid "Bank information updated."
+msgstr "Банковские данные обновлены"
+
+msgid "Withdraw request set as completed"
+msgstr "Запрос вывода средств отмечен как выполненный"
+
+msgid "Withdraw request updated"
+msgstr "Запрос вывода обновлен"
+
+msgid "Withdraw request canceled"
+msgstr "Запрос вывода средств отменен"
+
+msgid "Win"
+msgstr "Выигрыш"
+
+msgid "Lost"
+msgstr "Проигрыш"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "View"
+msgstr "Просмотреть"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Complete"
+msgstr "Выполнить"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Amount from"
+msgstr "Сумма от"
+
+msgid "Amount to"
+msgstr "Сумма до"
+
+msgid "Transaction ID"
+msgstr "Номер транзакции"
+
+msgid "Event name"
+msgstr "Название события"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "League name"
+msgstr "Название лиги"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "View events"
+msgstr "Просмотреть события"
+
+msgid "Add Event"
+msgstr "Добавить событие"
+
+msgid "Send Mail"
+msgstr "Отправить письмо"
+
+msgid "Send to All"
+msgstr "Отправить всем"
+
+msgid "Header 2 menu"
+msgstr "Меню шапки сайта 2"
+
+msgid "Header 3 menu"
+msgstr "Меню шапки сайта 3"
+
+msgid "Bottom 4 menu"
+msgstr "Меню подвала сайта 4"
+
+msgid "Footer menu"
+msgstr "Меню подвала сайта"
+
+msgid "Header menu"
+msgstr "Меню шапки сайта"
+
+msgid "Top Header menu"
+msgstr "Меню основной шапки сайта"
+
+msgid "Top menu"
+msgstr "Основное меню"
+
+msgid "Tickets"
+msgstr "Билеты"
+
+msgid "Deposits"
+msgstr "Депозиты"
+
+msgid "Withdraws"
+msgstr "Выводы"
+
+msgid "Results"
+msgstr "Результаты"
+
+msgid "Finished events in tickets"
+msgstr "Билеты прошедших событий"
+
+msgid "Pending events in tickets"
+msgstr "Билеты текущих событий"
+
+msgid "All finished events"
+msgstr "Все прошедшие события"
+
+msgid "Warnings"
+msgstr "Предупреждения"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Identity number"
+msgstr "Идентификационный номер"
+
+msgid "Words in title"
+msgstr "Текст названия"
+
+msgid "Words in description"
+msgstr "Текст описания"
+
+msgid "Url link"
+msgstr "Ссылка"
+
+msgid "Add League"
+msgstr "Добавить лигу"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Fund staff"
+msgstr "Пополнить счет"
+
+msgid "Charge staff"
+msgstr "Вывести средства"
+
+msgid "Login/Logout"
+msgstr "Вход/выход"
+
+msgid "Ticket Fraud Check"
+msgstr "Проверка билета на подлинность"
+
+msgid "Mark as paid"
+msgstr "Отметить как оплаченный"
+
+msgid "Group ID"
+msgstr "Номер группы"
+
+msgid "Tickets created"
+msgstr "Созданные билеты"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Total payout"
+msgstr "Общая сумма выигрышей"
+
+msgid "Profit"
+msgstr "Доход"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "%s: минимальная ставка составляет %d"
+
+msgid "Highest stake on %s is %d"
+msgstr "%s: максимальная ставка составляет %d"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "%s: минимальная ставка составляет %d"
+
+msgid "3Lowest stake amount is %d"
+msgstr "%s: минимальная ставка составляет %d"
+
+msgid "Highest stake amount is %d"
+msgstr "%s: максимальная ставка составляет %d"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Вы достигли максимального лимита на ставки: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Вы достигли максимального лимита на ставки в день: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Вы достигли максимального лимита на ставки в неделю: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Вы достигли максимального лимита на ставки в месяц: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Вы достигли максимального лимита на проигрыш: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Вы достигли максимального лимита на проигрыш в день: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Вы достигли максимального лимита на проигрыш в неделю: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Вы достигли максимального лимита на проигрыш в месяц: %d %s"
+
+msgid "Please login"
+msgstr "Необходимо авторизоваться"
+
+msgid "Please select at least %d picks"
+msgstr "Минимальное количество ставок: %d"
+
+msgid "Not enough money"
+msgstr "Недостаточно средств"
+
+msgid "One or more events already started, please remove them"
+msgstr "Одно или несколько событий уже начались - удалите их"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Недействительный коэффициент. Удалите неверный коэффициент"
+
+msgid "One or mode bets are inactive"
+msgstr "Одна или несколько ставок неактивны"
+
+msgid "Printed"
+msgstr "Напечатано"
+
+msgid "User Id"
+msgstr "Номер пользователя"
+
+msgid "Amount From"
+msgstr "Сумма от"
+
+msgid "Amount To"
+msgstr "Сумма до"
+
+msgid "Potential Winning From"
+msgstr "Потенциальный выигрыш от"
+
+msgid "Potential Winning To"
+msgstr "Потенциальный выигрыш до"
+
+msgid "Odd From"
+msgstr "Коэффициент от"
+
+msgid "Odd To"
+msgstr "Коэффициент до"
+
+msgid "Fund"
+msgstr "Пополнить"
+
+msgid "Charge"
+msgstr "Списать"
+
+msgid "User ID"
+msgstr "Номер пользователя"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "All feeds updated"
+msgstr "Все RSS-каналы обновлены"
+
+msgid "All feeds downloaded"
+msgstr "Все RSS-каналы загружены"
+
+msgid "All feeds parsed"
+msgstr "Все RSS-каналы обработаны"
+
+msgid "Feed updated"
+msgstr "RSS-канал обновлен"
+
+msgid "Cannot find feed"
+msgstr "RSS-канал не найден"
+
+msgid "Cant find feed"
+msgstr "RSS-канал не найден"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Update All"
+msgstr "Обновить все"
+
+msgid "Deposit"
+msgstr "Сделать депозит"
+
+msgid "Thank You"
+msgstr "Спасибо!"
+
+msgid "You successfully deposit %d"
+msgstr "Счет пополнен на %d"
+
+msgid "You cancel your deposit"
+msgstr "Депозит отменен"
+
+msgid "You have successfully made deposit for"
+msgstr "Вы сделали депозит в размере"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Платеж не найден"
+
+msgid "Make Deposit"
+msgstr "Сделать депозит"
+
+msgid "Amount"
+msgstr "Сумма"
+
+msgid "Make your Deposit"
+msgstr "Сделать депозит"
+
+msgid "Bonus code or leave empty"
+msgstr "Бонусный код (если есть)"
+
+msgid "Available ACO sync commands:"
+msgstr "Доступные команды синхронизации ACO:"
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"Чтобы вызвать справку, выполните команду help. Чтобы вызвать справку по "
+"определенной команде, выполните команду help <название команды>"
+
+msgid "Deleted %s and all children"
+msgstr "%s и все дочерние элементы удалены"
+
+msgid "Aco Update Complete"
+msgstr "Обновление ACO завершено"
+
+msgid "Created Aco node: %s"
+msgstr "Создан узел ACO: %s "
+
+msgid "Deleted Aco node %s"
+msgstr "Удален узел ACO: %s "
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Применение: cake aco_sync <название команды> "
+
+msgid "Commands:"
+msgstr "Команды:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Добавить новые объекты ACO для новых контроллеров и действий"
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Создать новые объекты ACO для контроллеров и их действий. Узлы из таблицы "
+"ACO не удаляются"
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Создание новых объектов ACO для отсутствующих контроллеров и действий. "
+"Удаление из таблицы ACO записей, чьи родительские элементы отсутствуют "
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr ""
+"Отображение справочного сообщения или сообщения об определенной команде"
+
+msgid "Command '%s' not found"
+msgstr "Команда '%s' не найдена"
+
+msgid "day"
+msgstr "день"
+
+msgid "days"
+msgstr "дн."
+
+msgid "h"
+msgstr "ч."
+
+msgid "min"
+msgstr "мин."
+
+msgid "Successful"
+msgstr "Готово"
+
+msgid "Failed"
+msgstr "Не вышло"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Decimal"
+msgstr "Десятичные"
+
+msgid "Fractional"
+msgstr "Дробные"
+
+msgid "American"
+msgstr "Американские"
+
+msgid "ID:"
+msgstr "Номер:"
+
+msgid "more"
+msgstr "другое"
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Pick"
+msgstr "Выбор"
+
+msgid "odd"
+msgstr "коэффициент"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Outcome"
+msgstr "Результат"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Affiliate Registration Form"
+msgstr "Регистрационная форма для аффилиейтов"
+
+msgid "Personal information"
+msgstr "Личные данные"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Zip / Postal code"
+msgstr "Индекс"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Date of birth:"
+msgstr "Дата рождения"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Mobile number"
+msgstr "Мобильный телефон"
+
+msgid "Website name"
+msgstr "Название сайта"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Choose Payment Gateway"
+msgstr "Выберите способ платежа"
+
+msgid "Bank Transfer Payment"
+msgstr "Банковский перевод"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Интернет-платеж"
+
+msgid "Please see you latest deposits below:"
+msgstr "Ваши недавние депозиты:"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Bonus"
+msgstr "Бонус"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr ""
+"История депозитов не найдена. Чтобы пополнить счет нажмите на \"Сделать новый"
+"\""
+
+msgid "Deposit information:"
+msgstr "Информация о депозите:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Запрос собственноручного депозита (зачисляется после проверки)"
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"На странице {:page} из {:pages} показаны записи в количестве {:current} из {:"
+"count}, начиная с {:start} и заканчивая {:end} "
+
+msgid "previous"
+msgstr "пред."
+
+msgid "next"
+msgstr "след."
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Deposit type"
+msgstr "Тип депозита"
+
+msgid "Bonus type"
+msgstr "Тип бонуса"
+
+msgid "Bonus valid until"
+msgstr "Бонус действителен до"
+
+msgid "Bonus used"
+msgstr "Бонус активирован"
+
+msgid "Bonus amount to your account"
+msgstr "Бонусная сумма для вашего счета"
+
+msgid "League"
+msgstr "Лига"
+
+msgid "No available odds found for this event"
+msgstr "Нет доступных коэффициентов для данного события"
+
+msgid "First team to Score"
+msgstr "Открывшая счет команда"
+
+msgid "1st Half"
+msgstr "1 тайм"
+
+msgid "Both Team to Score"
+msgstr "Забьют обе команды"
+
+msgid "Halftime/Fulltime"
+msgstr "Перерыв/все время"
+
+msgid "Double Chance"
+msgstr "Двойной шанс"
+
+msgid "From:"
+msgstr "От:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Odds"
+msgstr "Коэффициенты"
+
+msgid "Reset Password"
+msgstr "Восстановить пароль"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+msgid "User Menu"
+msgstr "Меню пользователя"
+
+msgid "My Account"
+msgstr "Моя учетная запись"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Log out"
+msgstr "Выйти"
+
+msgid "Casino"
+msgstr "Казино"
+
+msgid "Live Casino"
+msgstr "Видеоказино"
+
+msgid "Betting Tools"
+msgstr "Инструменты для ставок"
+
+msgid "Register now and get"
+msgstr "Зарегистрируйтесь уже сегодня и получите"
+
+msgid "email"
+msgstr "email "
+
+msgid "Register now"
+msgstr "Зарегистрироваться"
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "Password reminder"
+msgstr "Напомнить пароль"
+
+msgid "Search Ticket"
+msgstr "Поиск билета"
+
+msgid "ID: "
+msgstr "Номер:"
+
+msgid "Enter ticket ID"
+msgstr "Введите номер билета"
+
+msgid "Search"
+msgstr "Искать"
+
+msgid "Ticket"
+msgstr "Билет"
+
+msgid "Unknown ticked ID"
+msgstr "Неизвестный номер билета"
+
+msgid "Money"
+msgstr "Деньги"
+
+msgid "Pay"
+msgstr "Оплатить"
+
+msgid "Find event"
+msgstr "Найти событие"
+
+msgid "Search by event name"
+msgstr "Искать событие по названию"
+
+msgid "Search by event ID"
+msgstr "Искать событие по номеру"
+
+msgid "Search results for:"
+msgstr "Результаты поиска:"
+
+msgid "No available events are found for this league"
+msgstr "Не найдено событий в этой лиге"
+
+msgid "Search Events"
+msgstr "Искать события"
+
+msgid "Search another event ID"
+msgstr "Искать событие с другим номером"
+
+msgid "Search another event name"
+msgstr "Искать событие с другим названием"
+
+msgid "Please complete the following form"
+msgstr "Заполните следующую форму"
+
+msgid "Confirm changes"
+msgstr "Подтверждение изменений"
+
+msgid "Activity Column"
+msgstr "Столбец с видами спорта"
+
+msgid "Current balance"
+msgstr "Текущий баланс"
+
+msgid "Today placed tickets"
+msgstr "Размещенные сегодня билеты"
+
+msgid "Contact us"
+msgstr "Связь с нами"
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Если у вас возникнут проблемы, вы всегда сможете связаться с нашей службой "
+"поддержки, используя нижеприведенную форму:"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Read more"
+msgstr "Подробнее"
+
+msgid "Soccer"
+msgstr "Футбол"
+
+msgid "Basketball"
+msgstr "Баскетбол"
+
+msgid "Ice Hockey"
+msgstr "Хоккей"
+
+msgid "Tennis"
+msgstr "Теннис"
+
+msgid "Rugby"
+msgstr "Регби"
+
+msgid "American Football"
+msgstr "американский футбол"
+
+msgid "Half Time 3 way"
+msgstr "Тройной исход после первого тайма"
+
+msgid "Top Games"
+msgstr "Наиболее популярные игры"
+
+msgid "IceHockey"
+msgstr "Хоккей"
+
+msgid "Handball"
+msgstr "Гандбол"
+
+msgid "Last Minute Bets"
+msgstr "Ставки в последнюю минуту"
+
+msgid "Shortly"
+msgstr "Быстро"
+
+msgid "%d events available"
+msgstr "Доступно событий: %d"
+
+msgid "Bet now"
+msgstr "Сделать ставку"
+
+msgid "Football"
+msgstr "Американский футбол"
+
+msgid "Draw"
+msgstr "Ставки на ничью"
+
+msgid "League not found"
+msgstr "Лига не найдена"
+
+msgid "No available events found for this league"
+msgstr "Не найдено событий в этой лиге"
+
+msgid "Last Minute"
+msgstr "В последнюю минуту"
+
+msgid "No leagues selected"
+msgstr "Лига не выбрана"
+
+msgid "Single"
+msgstr "Одиночная"
+
+msgid "Combi"
+msgstr "Комбинация"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Delete all bets"
+msgstr "Удалить все ставки"
+
+msgid "Total odds"
+msgstr "Общий коэффициент"
+
+msgid "Stake"
+msgstr "Ставка"
+
+msgid "Winning"
+msgstr "Выигрыш"
+
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+msgid "Place Bet"
+msgstr "Размещение ставки"
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Ставка не выбрана. <br>Нажмите на соответствующие коэффициенты и выберите "
+"ставку."
+
+msgid "Ticket History"
+msgstr "История билетов"
+
+msgid "Ticket ID:"
+msgstr "Номер билета:"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "No tickets activity available"
+msgstr "Нет доступных билетов"
+
+msgid "Date and time"
+msgstr "Дата и время"
+
+msgid "Ticket id"
+msgstr "Номер билета"
+
+msgid "ID / Date"
+msgstr "Номер/дата"
+
+msgid "Total:"
+msgstr "Всего:"
+
+msgid "Amount:"
+msgstr "Сумма:"
+
+msgid "Return:"
+msgstr "Возврат:"
+
+msgid "Please see your betting history below:"
+msgstr "История ваших ставок:"
+
+msgid "Ticket ID"
+msgstr "Номер билета"
+
+msgid "Note"
+msgstr "Примечание"
+
+msgid "To place ticket please use betslip."
+msgstr "Используйте лотерейный купон, чтобы разместить билет"
+
+msgid "Pending tickets"
+msgstr "Текущие билеты"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Ваши недавно размещенные билеты:"
+
+msgid "Paid"
+msgstr "Оплачено"
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Текущих билетов не найдено. Информацию о старых билетах можно просмотреть в "
+"истории."
+
+msgid "History"
+msgstr "История"
+
+msgid "Ticket Preview"
+msgstr "Предварительный просмотр билета"
+
+msgid "Event ID / Date"
+msgstr "Номер и дата проведения события"
+
+msgid "Sport / League"
+msgstr "Вид спорта/лига"
+
+msgid "Submit Ticket"
+msgstr "Отправить билет"
+
+msgid "Clear Ticket"
+msgstr "Очистить билет"
+
+msgid "No bets selected"
+msgstr "Ставка не выбрана"
+
+msgid "Ticket placed"
+msgstr "Билет размещен"
+
+msgid "Your ticket is created successfully"
+msgstr "Билет создан"
+
+msgid "Your ticket number is"
+msgstr "Номер вашего билета:"
+
+msgid "Ticket information"
+msgstr "Информация о билете"
+
+msgid "Login/Logout History"
+msgstr "История входов и выходов"
+
+msgid "User Login/Logout History:"
+msgstr "История входов и выходов пользователя"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "Настройте вид отображения сайта"
+
+msgid "Odds type"
+msgstr "Вид коэффициентов"
+
+msgid "Time zone"
+msgstr "Часовой пояс"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Account information"
+msgstr "Данные учетной записи"
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Убедительно просим вас предоставить все свои личные данные для подтверждения "
+"вашей личности. В соответствии с нашими правилами, для возможности "
+"использования всех продуктов, игры на спортивных биржах и получения бонусных "
+"скидок необходимо подтвердить свою личность. Свои личные документы вы можете "
+"предоставить через наш защищенный почтовый сервис."
+
+msgid "Date of birth"
+msgstr "Дата рождения"
+
+msgid "Bank name"
+msgstr "Название банка"
+
+msgid "Bank code"
+msgstr "БИК"
+
+msgid "Bank account number"
+msgstr "Номер банковского счета"
+
+msgid "Ref. Code"
+msgstr "Реф. Код"
+
+msgid "Balance Information Analysis"
+msgstr "Анализ информации о балансе"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Здесь можно просмотреть информацию о вашем балансе."
+
+msgid "Promotional Code"
+msgstr "Промо-код"
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr "Для получения бонусов укажите свой промо-код ниже."
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Submit bonus code"
+msgstr "Отправить бонусный код"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"Электронный адрес подтвержден. Вы перейдете на главную страницу сайта в "
+"течение 5 секунд.</ br>Если этого не произошло, нажмите <a href=\"/"
+"\"\">здесь</a>.\""
+
+msgid "Incorect confirmation code"
+msgstr "Неверный код подтверждения"
+
+msgid "Responsible Gaming Settings"
+msgstr "Настройки ответственной игры"
+
+msgid "Responsible gaming text"
+msgstr "Текст об ответственной игре"
+
+msgid "Add Limit"
+msgstr "Добавить лимит"
+
+msgid "Set the limit you can play for each session"
+msgstr "Задать лимит для каждой игровой сессии"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Закрыть мне доступ к моей учетной записи в следующие 7 дней"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "Закрыть мне доступ к моей учетной записи в следующие 6 месяцев"
+
+msgid "Block Account"
+msgstr "Заблокировать учетную запись"
+
+msgid "Permanently delete your account."
+msgstr "Удалить учетную запись навсегда"
+
+msgid "Delete My Account"
+msgstr "Удалить мою учетную запись"
+
+msgid "Open account with us!"
+msgstr "Зарегистрируйтесь на нашем сайте!"
+
+msgid "Account data"
+msgstr "Данные учетной записи"
+
+msgid "Confirm password"
+msgstr "Подтвердить пароль"
+
+msgid "Personal question"
+msgstr "Секретный вопрос"
+
+msgid "Personal answer"
+msgstr "Ответ на вопрос"
+
+msgid "Referral ID"
+msgstr "Номер реферала"
+
+msgid "Affiliate ID"
+msgstr "Номер аффилиейта"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Банковские данные (можно указать позже)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Мне уже исполнилось 18 лет, и я принимаю прочитанные мною"
+
+msgid "Terms And Conditions"
+msgstr "Условия и положения"
+
+msgid "Confirm registration"
+msgstr "Подтвердить регистрацию"
+
+msgid "Password Reset"
+msgstr "Восстановление пароля"
+
+msgid "Enter your new password"
+msgstr "Введите новый пароль"
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Введите свой электронный адрес ниже. Ссылка на смену пароля отправлена на "
+"указанный электронный адрес. Теперь вы сможете изменить пароль и "
+"авторизоваться на сайте."
+
+msgid "Withdraw"
+msgstr "Вывести средства"
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr ""
+"Укажите необходимую сумму и следуйте приведенным ниже инструкциям, чтобы "
+"вывести средства:"
+
+msgid "Withdraw ID"
+msgstr "Номер транзакции вывода"
+
+msgid "Request Manual Withdraw"
+msgstr "Запрос собственноручного вывода средств"
+
+msgid "Transaction Log"
+msgstr "Отчет о выводе"
+
+msgid "List of transactions:"
+msgstr "Список транзакций:"
+
+msgid "Transaction Type"
+msgstr "Тип транзакции"
+
+msgid "Add/Edit %s"
+msgstr "Добавить/изменить %s"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Value"
+msgstr "Ценность"
+
+msgid "Parent"
+msgstr "Родитель"
+
+msgid "Created"
+msgstr "Создано"
+
+msgid "Modified"
+msgstr "Изменено"
+
+msgid "Percentage"
+msgstr "Процент"
+
+msgid "Custom Affiliate ID"
+msgstr "Номер основного аффилиейта"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "List %s"
+msgstr "Список %s"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "URL"
+msgstr "Ссылка"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Alert ID"
+msgstr "Номер предупреждения"
+
+msgid "User id"
+msgstr "Номер пользователя"
+
+msgid "Alert Title"
+msgstr "Название предупреждения"
+
+msgid "Alert"
+msgstr "Предупреждение"
+
+msgid "Add bet"
+msgstr "Разместить ставку"
+
+msgid "Alerts"
+msgstr "Предупреждения"
+
+msgid "Admin Audit Trail"
+msgstr "Контрольный журнал администратора"
+
+msgid "Application File Backups"
+msgstr "Резервные файлы приложения"
+
+msgid "Database Backups"
+msgstr "Резервные копии базы данных"
+
+msgid "Betradar Feeds Log"
+msgstr "RSS-канал Betradar"
+
+msgid "Liability Dumps"
+msgstr "Дамп обязательств"
+
+msgid "Data list"
+msgstr "Список данных"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Translations"
+msgstr "Переводы"
+
+msgid "Translate"
+msgstr "Перевести"
+
+msgid "No records found"
+msgstr "Ничего не найдено"
+
+msgid "Sports and Leagues"
+msgstr "Виды спорта и лиги"
+
+msgid "Events management"
+msgstr "Управление событиями"
+
+msgid "Events Printing"
+msgstr "Печать билетов на события"
+
+msgid "Users report"
+msgstr "Отчет пользователей"
+
+msgid "Tickets report"
+msgstr "Отчет о билетах"
+
+msgid "Deposits report"
+msgstr "Отчет о депозитах"
+
+msgid "Witdraw report"
+msgstr "Отчет о выводах"
+
+msgid "Liability report"
+msgstr "Отчет обязательств"
+
+msgid "Active Users"
+msgstr "Активные пользователи"
+
+msgid "locale"
+msgstr "место"
+
+msgid "Create %s"
+msgstr "Создать %s"
+
+msgid "Event ID"
+msgstr "Номер события"
+
+msgid "User:"
+msgstr "Пользователь:"
+
+msgid "Level:"
+msgstr "Уровень:"
+
+msgid "Current Time:"
+msgstr "Время:"
+
+msgid "Current Language:"
+msgstr "Язык:"
+
+msgid "Front Page"
+msgstr "Главная страница"
+
+msgid "Under / Over"
+msgstr "Под/на"
+
+msgid "Handicap"
+msgstr "Гандикап"
+
+msgid "%s Printing"
+msgstr "В печати: %s"
+
+msgid "Available Events List For:"
+msgstr "Список доступных событий:"
+
+msgid "Unknown Sport"
+msgstr "Неизвестный вид спорта"
+
+msgid "Please select sport below:"
+msgstr "Выберите вид спорта ниже:"
+
+msgid "View Events"
+msgstr "Просмотреть события"
+
+msgid "No available events found for this sport"
+msgstr "Нет доступных событий для данного вида спорта"
+
+msgid "Can not find event"
+msgstr "Не удалось найти событие"
+
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Users %s"
+msgstr "Пользователи %s"
+
+msgid "Edit User"
+msgstr "Редактировать данные пользователя"
+
+msgid "Administration Panel"
+msgstr "Панель администратора"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Staff Login"
+msgstr "Вход для сотрудников"
+
+msgid "Events"
+msgstr "События"
+
+msgid "Available cultures"
+msgstr "Доступные страны"
+
+msgid "Add a culture"
+msgstr "Добавить страну"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Cultures this site supports"
+msgstr "Поддерживаемые сайтом страны"
+
+msgid "X"
+msgstr "Х"
+
+msgid "Are you sure you want to delete"
+msgstr "Удалить"
+
+msgid "ID"
+msgstr "Номер"
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Отправить письмо об акции всем пользователям. Сообщения будут доставлены на "
+"их электронные адреса."
+
+msgid "Subject:"
+msgstr "Тема:"
+
+msgid "Content:"
+msgstr "Содержание:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Загрузить все электронные сообщение (в формате .csv)"
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Отправить письмо об акции конкретному пользователю. Сообщение будет "
+"доставлено на его электронный адрес."
+
+msgid "To:"
+msgstr "Кому:"
+
+msgid "Contact support team"
+msgstr "Связь со службой поддержки"
+
+msgid "<br>No data in this period"
+msgstr "<br>Нет данных за этот период"
+
+msgid "No data in this period"
+msgstr "Нет данных за этот период"
+
+msgid "User name"
+msgstr "Имя пользователя"
+
+msgid "Date of registration"
+msgstr "Дата регистрации"
+
+msgid "Won"
+msgstr "Выиграно"
+
+msgid "Liability"
+msgstr "Обязательство"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability Cancelled the Bonus "
+
+msgid "Download (Excel file)"
+msgstr "Загрузить (файл Excel)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Вы уверены, что хотите отменить это событие?"
+
+msgid "No events found"
+msgstr "Событий не найдено"
+
+msgid "No events in this league"
+msgstr "В этой лиге нет событий"
+
+msgid "Risk Management Settings"
+msgstr "Управление рисками"
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"В спортивном букмейкерстве очень важно уметь управлять рисками. Будьте "
+"предельно внимательны при выборе настроек."
+
+msgid "Lowest stake"
+msgstr "Самая низкая ставка"
+
+msgid "Highest stake"
+msgstr "Самая высокая ставка"
+
+msgid "Highest winning amount"
+msgstr "Самый крупный выигрыш"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Наименьшее количество событий в билете"
+
+msgid "Highest number of events in one ticket"
+msgstr "Наибольшее количество событий в билете"
+
+msgid "List Leagues"
+msgstr "Список лиг"
+
+msgid "League ID"
+msgstr "Номер лиги"
+
+msgid "No limits"
+msgstr "Лимит отсутствует"
+
+msgid "List Sports"
+msgstr "Список видов спорта"
+
+msgid "Sport ID"
+msgstr "Номер вида спорта"
+
+msgid "Warning Withdraws"
+msgstr "Предупреждение о выводе"
+
+msgid "Id"
+msgstr "Номер"
+
+msgid "Warning Stakes"
+msgstr "Предупреждение о ставке"
+
+msgid "Warning Winnings"
+msgstr "Предупреждение о выигрыше"
+
+msgid "Warning Deposits"
+msgstr "Предупреждение о депозите"
+
+msgid "amount"
+msgstr "сумма"
+
+msgid "Deposit fee percentage"
+msgstr "Комиссия за депозит"
+
+msgid "Payment gateways"
+msgstr "Способ платежа"
+
+msgid "Please set payment gateways below:"
+msgstr "Выберите способ платежа ниже:"
+
+msgid "Payments"
+msgstr "Платежи"
+
+msgid "Deposits %s"
+msgstr "Депозиты %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Задайте настройки управления рисками ниже:"
+
+msgid "Allow automated deposits"
+msgstr "Разрешить автоматические депозиты"
+
+msgid "Allow manual deposits"
+msgstr "Разрешить собственноручные депозиты"
+
+msgid "Lowest amount for deposit"
+msgstr "Минимальный размер депозита"
+
+msgid "Highest amount for deposit"
+msgstr "Максимальный размер депозита"
+
+msgid "General %s"
+msgstr "Общие %s"
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Управление основными настройками - это стандартные настройки вашего сайта: "
+"его имя и расположение, информация о том, кто на нем может регистрироваться "
+"и как вычисляются и отображаются дата и время."
+
+msgid "Copyright"
+msgstr "Авторские права"
+
+msgid "Contact Email"
+msgstr "Контактный электронный адрес"
+
+msgid "Password reset"
+msgstr "Восстановление пароля"
+
+msgid "Default currency"
+msgstr "Валюта по умолчанию:"
+
+msgid "Default timezone:"
+msgstr "Часовой пояс по умолчанию:"
+
+msgid "Default language"
+msgstr "Язык по умолчанию:"
+
+msgid "Charset"
+msgstr "Кодировка"
+
+msgid "Items per page"
+msgstr "Элементов на странице"
+
+msgid "Referral system"
+msgstr "Система рефералов"
+
+msgid "Left active"
+msgstr "Активный элемент слева"
+
+msgid "Left sidebar title"
+msgstr "Заголовок левой панели"
+
+msgid "Left sidebar content"
+msgstr "Содержание левой панели"
+
+msgid "Right active"
+msgstr "Активный элемент справа"
+
+msgid "Right sidebar title"
+msgstr "Заголовок правой панели"
+
+msgid "Right sidebar content"
+msgstr "Содержание правой панели"
+
+msgid "Bottom active"
+msgstr "Активный элемент снизу"
+
+msgid "Bottom sidebar title"
+msgstr "Заголовок нижней панели"
+
+msgid "Bottom sidebar content"
+msgstr "Содержание нижней панели"
+
+msgid "Referral Settings"
+msgstr "Настройки рефералов"
+
+msgid "First deposit percentage to referral"
+msgstr "Процент реефралу от первого депозита"
+
+msgid "SEO %s"
+msgstr "Поисковая оптимизация %s "
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Что такое <b>поисковая оптимизация</b>?"
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"Поисковая оптимизация - это траффик в поисковых системах, полученный "
+"бесплатным и естественным путем. Основные поисковые системы вроде Google, "
+"Yahoo и Bing собирают эту информацию на основе наиболее релевантных ресурсов "
+"для пользователей. Данный способ продвижения сайтов в Интернете бесплатный, "
+"в отличие от заранее оплаченных рекламных сообщений."
+
+msgid "Title tag"
+msgstr "Тег заголовка"
+
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+msgid "Reply to email"
+msgstr "Ответить на письмо"
+
+msgid "Copyright:"
+msgstr "Авторские права:"
+
+msgid "Bot content revisit time"
+msgstr "Время проверки содержания ботом"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Tickets %s"
+msgstr "Билеты %s"
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Основные настройки билетов - это стандартные настройки функций и печати "
+"билетов."
+
+msgid "Ticket printing"
+msgstr "Печать билета"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Включить (да) или отключить (нет) возможность печати билетов для игроков и "
+"сотрудников."
+
+msgid "Ticket preview"
+msgstr "Предварительный просмотр билета"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Включить (да) или отключить (нет) возможность предварительного просмотра "
+"билетов перед размещением."
+
+msgid "Warnings %s"
+msgstr "Предупреждения %s"
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"Настройки предупреждений позволяют отключить ненужные вам предупреждения. "
+"Настройте предупреждения так, чтобы вы видели только то, что нужно, и имели "
+"больший контроль над своими средствами."
+
+msgid "Deposit alert"
+msgstr "Предупреждение о депозите"
+
+msgid "Withdraw alert"
+msgstr "Предупреждение о выводе средств"
+
+msgid "Stake alert"
+msgstr "Предупреждение о размещении ставки"
+
+msgid "Odds alert"
+msgstr "Предупреждение о коэффициентах"
+
+msgid "Potential winning alert"
+msgstr "Предупреждение о потенциальном выигрыше"
+
+msgid "Allow withdraws"
+msgstr "Разрешить выводы"
+
+msgid "Withdraw %s"
+msgstr "Выводы  %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Укажите настройки управления рисками относительно выводов ниже:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Минимальная сумма для вывода"
+
+msgid "Highest amount for withdraw request"
+msgstr "Максимальная сумма для вывода"
+
+msgid "%s"
+msgstr "%s "
+
+msgid "Sports"
+msgstr "Виды спорта"
+
+msgid "Leagues"
+msgstr "Лиги"
+
+msgid "View %s"
+msgstr "Просмотреть %s"
+
+msgid "Ticket Number"
+msgstr "Номер билета"
+
+msgid "Return"
+msgstr "Назад"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Билет будет удален. Вы уверены, что хотите продолжить?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Билет будет отменен. Вы уверены, что хотите продолжить?"
+
+msgid "Insert Result"
+msgstr "Вставить результат"
+
+msgid "Fund user"
+msgstr "Пополнение счета"
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Для пополнения счета необходимо ввести нужную сумму в соответствующее поле и "
+"нажать кнопку \"Отправить\". Например, если вы хотите пополнить счет на 100,"
+
+msgid " just enter that amount into field and press submit"
+msgstr ""
+"введите это число в соответствующее поле и нажмите на кнопку \"Отправить\"."
+
+msgid "Charge user"
+msgstr "Вывод средств"
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Для вывода средств необходимо указать нужную сумму в соответствующем поле, "
+"после чего деньги будут сняты. Например, если вы хотите вывести 200,"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr ""
+"введите это число в соответствующее поле и нажмите на кнопку \"Отправить\"."
+
+msgid "Add %s"
+msgstr "Добавить %s"
+
+msgid "Registration chart"
+msgstr "Форма регистрации"
+
+msgid "KYC user"
+msgstr "Данные пользователя"
+
+msgid "KYC Documents"
+msgstr "Данные документов"
+
+msgid "Change KYC Status"
+msgstr "Изменить статус данных"
+
+msgid "Deposits Bonus History"
+msgstr "История депозитов пользователя"
+
+msgid "Sum"
+msgstr "Сумма"
+
+msgid "Affiliates"
+msgstr "Аффилиейты"
+
+msgid "Kick"
+msgstr "Принудительное отключение"
+
+msgid "Email has been confirmed. You can now login."
+msgstr ""
+"Электронный адрес подтвержден. Теперь вы можете авторизоваться на сайте"
+
+msgid "Register now!"
+msgstr "Зарегистрироваться!"
+
+msgid "Forgotten your password?"
+msgstr "Забыли пароль?"
+
+msgid "Old password"
+msgstr "Старый пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Bank info"
+msgstr "Банковские данные"
+
+msgid "Please provide your bank info"
+msgstr "Укажите ваши банковские данные"
+
+msgid "Account number"
+msgstr "Номер счета"
+
+msgid "Transaction"
+msgstr "Транзакция"
+
+msgid "User Balance"
+msgstr "Баланс пользователя"
+
+msgid "Please enter your surname"
+msgstr "Укажите свою фамилию"
+
+msgid "Please enter your first name"
+msgstr "Укажите свое имя"
+
+msgid "Please enter your address"
+msgstr "Укажите свой адрес"
+
+msgid "Please enter your Region"
+msgstr "Укажите свой регион"
+
+msgid "Please enter your City of residence"
+msgstr "Укажите свой город"
+
+msgid "Alphabets and numbers only"
+msgstr "Только буквы и цифры"
+
+msgid "Between 5 to 15 characters"
+msgstr "От 5 до 15 символов"
+
+msgid "This username has already been taken."
+msgstr "Такое имя пользователя уже существует"
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Пароль должен содержать от 6 до 15 символов"
+
+msgid "Password must contain at least one number"
+msgstr "Пароль должен содержать хотя бы одну цифру"
+
+msgid "Password must contain at least one letter"
+msgstr "Пароль должен содержать хотя бы одну букву"
+
+msgid "Please enter valid email address"
+msgstr "Укажите правильный электронный адрес"
+
+msgid "This email has already been registered."
+msgstr "Этот электронный адрес уже зарегистрирован"
+
+msgid "Please enter your name"
+msgstr "Укажите свое имя"
+
+msgid "Please enter your street address"
+msgstr "Укажите свою улицу"
+
+msgid "Please enter city"
+msgstr "Укажите свой город"
+
+msgid "Please enter country"
+msgstr "Укажите свою страну"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Для регистрации на сайте пользователь должен быть не младше 21 года"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Для регистрации на сайте пользователь должен быть не младше 18 лет"
+
+msgid "Please enter valid mobile number"
+msgstr "Укажите свой номер телефона"
+
+msgid "Please your personal question"
+msgstr "Укажите секретный вопрос"
+
+msgid "Please enter valid answer"
+msgstr "Укажите правильный ответ"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr ""
+"Для завершения регистрации необходимо согласиться с условиями пользования"
+
+msgid "This field cannot be left blank"
+msgstr "Это поле необходимо заполнить"
+
+msgid "Mimimum 5 characters long"
+msgstr "Минимум 5 символов"
+
+msgid "The username should be different from email"
+msgstr "Имя пользователя должно отличаться от адреса электронной почты"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Пароль должен содержать от 8 до 15 символов"
+
+msgid "The Password has to be different from username."
+msgstr "Пароль должен отличаться от имени пользователя"
+
+msgid "It seems that you are already registered."
+msgstr "Скорее всего, вы уже зарегистрированы"
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Укажите свою улицу"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Настройки отладки препятствуют переходу по этому адресу"
+
+msgid "Match odds"
+msgstr "Коэффициенты матча"
+
+msgid "Remaining match"
+msgstr "Оставшееся время матча"
+
+msgid "Next Goal"
+msgstr "Следующий гол"
+
+msgid "Total Goals +/-"
+msgstr "Общее количество голов +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Коэффициенты матча (1 2)"
+
+msgid "Set 1 2"
+msgstr "Указать 1 2"
+
+msgid "Set Score"
+msgstr "Указать счет"
+
+msgid "Sets Overall"
+msgstr "Указать общую информацию"
+
+msgid "Total Points +/-"
+msgstr "Общее количество очков +/-"
+
+msgid "Goals from now +/-"
+msgstr "Голы с текущего момента +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Коэффициенты матча (1х2)"
+
+msgid "1 hour"
+msgstr "1 час"
+
+msgid "2 hours"
+msgstr "2 часа"
+
+msgid "3 hours"
+msgstr "3 часа"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "LIVE"
+msgstr "Трансляция"
+
+msgid "Live"
+msgstr "Трансляция"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Click on team name for extra bets"
+msgstr "Нажмите на название команды, чтобы сделать дополнительные ставки"
+
+msgid "Upcoming Live Matches"
+msgstr "Грядущие матчи"
+
+msgid "Login For"
+msgstr "Авторизуйтесь, чтобы"
+
+msgid "minutes"
+msgstr "мин."
+
+msgid "Bet Slip"
+msgstr "Лотерейный купон"
+
+msgid "open"
+msgstr "открыть"
+
+msgid "Sport Bets"
+msgstr "Спортивные ставки"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Отличные коэффициенты на футбол, теннис, хоккей и многое другое!"
+
+msgid "Number of Bets Placed:"
+msgstr "Количество размещенных ставок:"
+
+msgid "Max Wager for bets:"
+msgstr "Максимальная ставка:"
+
+msgid "Wager:"
+msgstr "Ставка:"
+
+msgid "Max Payout:"
+msgstr "Максимальный выигрыш:"
+
+msgid "All games / All events"
+msgstr "Все игры/все события"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "Все игры, спортивные мероприятия и лучшие коэффициенты сразу."
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Воспользуйтесь нашим инновационным сервисом! Это совершенно новый взгляд на "
+"игры в реальном времени! Удачи!"
+
+msgid "more groups"
+msgstr "другие группы"
+
+msgid "Draw no Bet Period"
+msgstr "Период возврата ставки в случае ничьей"
+
+msgid "Total x Period"
+msgstr "Общее количество х период"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Установить лимиты на депозит для учетной записи"
+
+msgid "Play Session Limit"
+msgstr "Лимит игрового сеанса"
+
+msgid "Wager Limit"
+msgstr "Лимит на ставки"
+
+msgid "Loss Limit"
+msgstr "Лимит на проигрыши"
+
+msgid "Self Exclusion"
+msgstr "Самоограничение"
+
+msgid "DELETE ACCOUNT"
+msgstr "УДАЛИТЬ УЧЕТНУЮ ЗАПИСЬ"
+
+msgid "Per Transaction"
+msgstr "За транзакцию"
+
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+msgid "No Limit"
+msgstr "Лимит отсутствует"
+
+msgid "After %s minutes"
+msgstr "Через %s мин. "
+
+msgid "After one Hour"
+msgstr "Через один час"
+
+msgid "After two Hours"
+msgstr "Через два часа"
+
+msgid "Login For:"
+msgstr "Авторизоваться, чтобы:"
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Вы играли в течение %s мин. Итоги: <br>внесено € %s <br>поставлено € %s "
+"<br>проиграно € %s <br>выиграно € %s "
+
+msgid "Outdated Browser Detected"
+msgstr "Обнаружен устаревший браузер"
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Мы выявили, что вы используете устаревшую версию браузера. Использование "
+"данной версии приведет к ограничению функций и возможностей нашего сайта. "
+"Обновление версии браузера не требуется, но рекомендуется, поскольку так вы "
+"сможете воспользоваться всеми услугами сайта."
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Установите новый браузер или загрузите свежую версию текущего по ссылкам, "
+"приведенным ниже."
+
+msgid "Remind me later"
+msgstr "Напомнить позже"
+
+msgid "No available Bonuses."
+msgstr "Нет доступных бонусов"
+
+msgid "Available Bonuses."
+msgstr "Доступные бонусы"
+
+msgid "Locked Amount"
+msgstr "Заблокированная учетная запись"
+
+msgid "Opened on"
+msgstr "Открыто"
+
+msgid "Activation Date"
+msgstr "Дата активации"
+
+msgid "Expiration Date"
+msgstr "Дата истечения срока"
+
+msgid "Account Information"
+msgstr "Данные учетной записи"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr ""
+"Таблицы результатов, расписание и показ счета в реальном времени всех лиг и "
+"событий"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Играйте в рулетку, блэкджек и баккару в видеоказино"
+
+msgid "Identity Card (back view)"
+msgstr "Удостоверение личности (задняя сторона)"
+
+msgid "Identity Card (front view)"
+msgstr "Удостоверение личности (передняя сторона)"
+
+msgid "Bank Account"
+msgstr "Банковский счет"
+
+msgid "Register now and get 7bonus7"
+msgstr "Зарегистрируйтесь уже сегодня и получите 7bonus7"
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms>Компания 7Epta7 Limited&nbsp; зарегистрирована в соответствии с "
+"законодательством Мальты и подчиняется данному законодательству. Офис "
+"компании зарегистрирован по адресу Tower Business Centre, Suite 5, Level 1, "
+"Tower Street, Swatar, Birkirkara. Компания обладает лицензией класса 2, "
+"выданной&nbsp;&nbsp; 2013 года Игорным ведомством Мальты. Номер лицензии: "
+"LGA/CL2/921/2013. Деятельность компании регулируется Игорным ведомством "
+"Мальты.</p> "
+
+msgid "Top Winner"
+msgstr "Главный победитель"
+
+msgid "close"
+msgstr "закрыть"
+
+msgid "hours"
+msgstr "ч."
+
+msgid "Instant Play"
+msgstr "Мгновенная игра"
+
+msgid "Live Video Streaming"
+msgstr "Трансляция видео"
+
+msgid "Betslip Wagering"
+msgstr "Ставка по купону"
+
+msgid "Ticket Win"
+msgstr "Выигрыш по билету"
+
+msgid "Bonus Cancellation by user."
+msgstr "Отмена бонуса пользователем"
+
+msgid "Bonus activation"
+msgstr "Активация бонуса"
+
+msgid "APCO Deposit"
+msgstr "Депозит APCO"
+
+msgid "Account Deposit"
+msgstr "Депозит на учетную запись"
+
+msgid "Live Casino Transaction"
+msgstr "Транзакция видеоказино"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Обратная транзакция видеоказино"
+
+msgid "in every game"
+msgstr "в каждой игре"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Log in"
+msgstr "Вход"
+
+msgid "Stake:"
+msgstr "Ставка:"
+
+msgid "View Tickets"
+msgstr "Просмотреть билеты"
+
+msgid "Number of Bets Placed: "
+msgstr "Количество размещенных ставок:"
+
+msgid "Max Wager for bets: "
+msgstr "Максимальный размер ставок"
+
+msgid "bets"
+msgstr "ставки"
+
+msgid "Admin add Funds"
+msgstr "Пополнение счета администатором"
+
+msgid "Bonus activation:"
+msgstr "Активация бонуса:"
+
+msgid "APCO Deposit:"
+msgstr "Депозит APCO:"
+
+msgid "Withdrawal"
+msgstr "Вывод средств"
+
+msgid "Betslip Cancellation:"
+msgstr "Отмена лотерейного купона:"
+
+msgid "Cancelled WithDrawal"
+msgstr "Отмена вывода средств:"
+
+msgid "Ticket Cancelled"
+msgstr "Отмена билета"
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz"
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Price "
+
+msgid "Bet Split"
+msgstr "Лотерейный купон"
+
+msgid "The Company"
+msgstr "Компания"
+
+msgid "Help & Legal"
+msgstr "Помощь и юр. Информация"
+
+msgid "Useful Links"
+msgstr "Полезные ссылки"
+
+msgid "Payment Options"
+msgstr "Способы платежа"
+
+msgid "Extra Bets"
+msgstr "Дополнительные ставки"
+
+msgid "No, don't remind me again"
+msgstr "Не напоминать"
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Выберите свою любимую лигу в меню слева. Так вы всегда сможете легко найти "
+"ее на сайте в будущем"
+
+msgid "3 Way"
+msgstr "Тройной исход"
+
+msgid "2 Way"
+msgstr "Двойной исход"
+
+msgid "Totals"
+msgstr "Итоги"
+
+msgid "Championship Outrights"
+msgstr "Турнирные ставки на чемпионат"
+
+msgid "Short Term Outrights"
+msgstr "Краткосрочные турнирные ставки"
+
+msgid "Podium Finish"
+msgstr "Завоевание призового места"
+
+msgid "3-balls"
+msgstr "3 мяча"
+
+msgid "Correct score"
+msgstr "Правильный счет"
+
+msgid "First Team to score"
+msgstr "Открывшая счет команда"
+
+msgid "1st Half - 1X2"
+msgstr "1 тайм - 1х2"
+
+msgid "Both Teams to Score"
+msgstr "Забили обе команды"
+
+msgid "Odd/Even goals"
+msgstr "Нечетное/четное количество голов"
+
+msgid "Draw no bet"
+msgstr "Возврат ставки в случае ничьей"
+
+msgid "Goals home team"
+msgstr "Голы команды хозяев"
+
+msgid "Goals away team"
+msgstr "Голы команды гостей"
+
+msgid "Asian Handicap"
+msgstr "Азиатский гандикап"
+
+msgid "Asian Total"
+msgstr "Азиатский тотал"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1 тайм - азиатский гандикап"
+
+msgid "1st Half - Asian Total"
+msgstr "1 тайм - азиатский тотал"
+
+msgid "European Handicap"
+msgstr "Европейский гандикап"
+
+msgid "First goalscorer"
+msgstr "Первый забивший гол игрок"
+
+msgid "Total Goals (aggregated)"
+msgstr "Всего голов (в совокупности)"
+
+msgid "1st Half - Correct Score"
+msgstr "1 тайм - правильный счет"
+
+msgid "Highest scoring half"
+msgstr "Тайм с наибольшим количеством голов"
+
+msgid "Matchbet + Totals"
+msgstr "Ставка на матч + итоги"
+
+msgid "Matchflow"
+msgstr "Ставка на ход матча"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1 тайм - нечетное/четное количество голов"
+
+msgid "Overtime yes/no"
+msgstr "Дополнительное время - да/нет"
+
+msgid "Winning margins"
+msgstr "Победа с преимуществом"
+
+msgid "Anytime goalscorer"
+msgstr "Чаще всего забивающий игрок"
+
+msgid "Total number of bookings"
+msgstr "Общее количество показанных карточек"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1 тайм - общее количество показанных карточек"
+
+msgid "Total number of booking points"
+msgstr "Общее количество очков за карточки"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1 тайм - общее количество очков за карточки"
+
+msgid "Player sent off?"
+msgstr "Игрок удален с поля"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1 тайм - игрок удален с поля"
+
+msgid "Number of bookings home"
+msgstr "Количество карточек команды хозяев"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1 тайм - количество карточек команды хозяев"
+
+msgid "Number of bookings away"
+msgstr "Количество карточек команды гостей"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1 тайм - количество карточек команды гостей"
+
+msgid "First Team Booked"
+msgstr "Первая получившая карточку команда"
+
+msgid "1st Half - First Team Booked"
+msgstr "1 тайм - первая получившая карточку команда"
+
+msgid "Match bookings"
+msgstr "Карточки за матч"
+
+msgid "1st Half - Match Bookings"
+msgstr "1 тайм - карточки за матч"
+
+msgid "Aggregated booking points"
+msgstr "Совокупное количество очков за карточки"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1 тайм - совокупное количество очков за карточки"
+
+msgid "Exact bookings"
+msgstr "Точное количество карточек"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1 тайм - точное количество карточек"
+
+msgid "Home Team Player Sent Off"
+msgstr "Игрок команды хозяев удален с поля"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1 тайм - игрок команды хозяев удален с поля"
+
+msgid "Away Team Player Sent Off"
+msgstr "Игрок команды гостей удален с поля"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1 тайм - игрок команды хозяев удален с поля"
+
+msgid "Total Goals (exact)"
+msgstr "Точное количество голов"
+
+msgid "2nd Half - 1X2"
+msgstr "2 тайм - 1х2"
+
+msgid "2nd Half - Asian Total"
+msgstr "2 тайм - азиатский тотал"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2 тайм - азиатский гандикап"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Точное количество голов в первом тайме/обоих таймах"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Дополнительное время + гол - да/нет"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Пенальти - да/нет"
+
+msgid "How will the match be decided?"
+msgstr "Кто победит в матче"
+
+msgid "Clean sheet home team"
+msgstr "Команда хозяев сыграет в ноль"
+
+msgid "Clean sheet away team"
+msgstr "Команда гостей сыграет в ноль"
+
+msgid "Which team to score"
+msgstr "Какая команда забьет"
+
+msgid "1st Half - Total Goals"
+msgstr "1 тайм - общее количество голов"
+
+msgid "2nd Half - Total Goals"
+msgstr "2 тайм - общее количество голов"
+
+msgid "Total corners"
+msgstr "Общее количество угловых"
+
+msgid "1st Half - Total Corners"
+msgstr "1 тайм - общее количество угловых"
+
+msgid "Corner handicap"
+msgstr "Гандикап на угловые"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1 тайм - гандикап на угловые"
+
+msgid "Corner matchbet"
+msgstr "Ставка на угловые в матче"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1 тайм - ставка на угловые в матче"
+
+msgid "Corner Odd/Even"
+msgstr "Нечетное/четное количество угловых"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1 тайм - нечетное/четное количество угловых"
+
+msgid "First corner"
+msgstr "Первый угловой"
+
+msgid "1st Half - First Corner"
+msgstr "1 тайм - первый угловой"
+
+msgid "Home Team Number of Corners"
+msgstr "Количество угловых команды хозяев"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1 тайм - количество угловых команды хозяев"
+
+msgid "1st Half - Totals"
+msgstr "1 тайм - итоги"
+
+msgid "2nd Half - Totals"
+msgstr "2 тайм - итоги"
+
+msgid "Last corner"
+msgstr "Последний угловой"
+
+msgid "1st Half - Last Corner"
+msgstr "1 тайм - последний угловой"
+
+msgid "Away Team Number of Corners"
+msgstr "Количество угловых команды гостей"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1 тайм - количество угловых команды гостей"
+
+msgid "Last team to score"
+msgstr "Последняя забившая команда"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Общее количество угловых (совокупное)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1 тайм - общее количество угловых (совокупное)"
+
+msgid "Home to win both halves?"
+msgstr "Команда хозяев лидирует в обоих таймах"
+
+msgid "Home to win either half?"
+msgstr "Команда хозяев лидирует в одном из таймов"
+
+msgid "Home to score in both halves?"
+msgstr "Команда хозяев забьет в обоих таймах"
+
+msgid "Away to win both halves?"
+msgstr "Команда гостей лидирует в обоих таймах"
+
+msgid "Away to win either half?"
+msgstr "Команда гостей лидирует в одном из таймов"
+
+msgid "Away to score in both halves?"
+msgstr "Команда гостей забьет в обоих таймах"
+
+msgid "Both halves over 1.5?"
+msgstr "Коэффициент в обоих таймах выше 1,5"
+
+msgid "Both halves under 1.5?"
+msgstr "Коэффициент в обоих таймах ниже 1,5"
+
+msgid "1st Half Double Chance"
+msgstr "Двойной шанс в 1 тайме"
+
+msgid "1st Half Draw no Bet"
+msgstr "Возврат ставки в случае ничьей в 1 тайме"
+
+msgid "First goal interval 10 min"
+msgstr "Первый гол в течение 10 минут"
+
+msgid "First goal interval 15 min"
+msgstr "Первый гол в течение 15 минут"
+
+msgid "First 10 minutes -3 way"
+msgstr "Первые 10 минут - тройной исход"
+
+msgid "1st Half - Both Teams to score"
+msgstr "1 тайм - забьют обе команды"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2 тайм - забьют обе команды"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Тайм с наибольшим количеством голов команды хозяев"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Тайм с наибольшим количеством голов команды гостей"
+
+msgid "Correct score (incl. other)"
+msgstr "Правильный счет (включая другие)"
+
+msgid "Odd/Even Points"
+msgstr "Нечетные/четные очки"
+
+msgid "Points Spreads"
+msgstr "Распределение очков"
+
+msgid "Total Spreads"
+msgstr "Общее распределение"
+
+msgid "1st Half - Points Spread"
+msgstr "1 тайм - распределение очков"
+
+msgid "1st Half - Total Spread"
+msgstr "1 тайм - общее распределение"
+
+msgid "Matchbet and Totals"
+msgstr "Ставки на матч и итоги"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1 тайм - нечетные/четные очки"
+
+msgid "1st Half - 2way"
+msgstr "1 тайм - двойной исход"
+
+msgid "Highest Scoring Quarter"
+msgstr "Четверть с наибольшим количеством голов"
+
+msgid "3way"
+msgstr "Тройной исход"
+
+msgid "2nd Half - Points Spread"
+msgstr "2 тайм - распределение очков"
+
+msgid "2nd Half - Total Spread"
+msgstr "2 тайм - общее распределение"
+
+msgid "1st Half - Draw no bet"
+msgstr "1 тайм - возврат ставки в случае ничьей"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2 тайм - нечетные/четные очки"
+
+msgid "2nd Half - Draw no bet"
+msgstr "2 тайм - возврат ставки в случае ничьей"
+
+msgid "Total margins NBA-ranges"
+msgstr "Общее преимущество в серии NBA"
+
+msgid "Total margins Regular-ranges"
+msgstr "Общее преимущество в стандартной серии"
+
+msgid "Totals away team"
+msgstr "Итоги команды гостей"
+
+msgid "Totals home team"
+msgstr "Итоги команды хозяев"
+
+msgid "1st Quarter - 1X2"
+msgstr "1 четверть - 1х2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2 четверть - 1х2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3 четверть - 1х2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4 четверть - 1х2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1 четверть - возврат ставки в случае ничьей"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2 четверть - возврат ставки в случае ничьей"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3 четверть - возврат ставки в случае ничьей"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4 четверть - возврат ставки в случае ничьей"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1 четверть - общее распределение"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2 четверть - общее распределение"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3 четверть - общее распределение"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4 четверть - общее распределение"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1 четверть - распределение очков"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2 четверть - распределение очков"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3 четверть - распределение очков"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4 четверть - распределение очков"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1 четверть - нечетные/четные очки"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2 четверть - нечетные/четные очки"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3 четверть - нечетные/четные очки"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4 четверть - нечетные/четные очки"
+
+msgid "First to x points"
+msgstr "Первый набравший Х очков"
+
+msgid "Total AAMS"
+msgstr "Итоги AAMS"
+
+msgid "Total 3way"
+msgstr "Итоги тройного исхода"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Распределение очков (дополнительное время)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Общее распределение (дополнительное время)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Нечетные/четные пробежки (дополнительное время)"
+
+msgid "Correct Score"
+msgstr "Правильный счет"
+
+msgid "Both teams to score?"
+msgstr "Забьют обе команды"
+
+msgid "Goal Spreads"
+msgstr "Распределение голов"
+
+msgid "1st Period - 3way"
+msgstr "1 период - тройной исход"
+
+msgid "3rd Period - 3way"
+msgstr "3 период - тройной исход"
+
+msgid "1st Period – Total"
+msgstr "1 период - итоги"
+
+msgid "2nd Period – Total"
+msgstr "2 период - итоги"
+
+msgid "3rd Period – Total"
+msgstr "3 период - итоги"
+
+msgid "1st Period - Double Chance"
+msgstr "1 период - двойной шанс"
+
+msgid "2nd Period - Double Chance"
+msgstr "2 период - двойной шанс"
+
+msgid "3rd Period - Double Chance"
+msgstr "3 период - двойной шанс"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Нечетные/четные голы (включая дополнительное время и пенальти)"
+
+msgid "Highest Scoring Period"
+msgstr "Период с наибольшим количеством голов"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Распределение голов (включая дополнительное время)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Общее распределение (включая дополнительное время)"
+
+msgid "Last team to Score"
+msgstr "Последняя забившая команда"
+
+msgid "2nd Period - 3way"
+msgstr "2 период - тройной исход"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1 период - нечетные/четные голы"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2 период - нечетные/четные голы"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3 период - нечетные/четные голы"
+
+msgid "1st Period - Draw no bet"
+msgstr "1 период - возврат ставки в случае ничьей"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2 период - возврат ставки в случае ничьей"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3 период - возврат ставки в случае ничьей"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2 период - забьют обе команды"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3 период - забьют обе команды"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1 период - распределение голов"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2 период - распределение голов"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3 период - распределение голов"
+
+msgid "2nd Period - First team to score"
+msgstr "2 период - первая забившая команда"
+
+msgid "3rd Period - First team to score"
+msgstr "3 период - первая забившая команда"
+
+msgid "1st Period - Last team to score"
+msgstr "1 период - последняя забившая команда"
+
+msgid "2nd Period - Last team to score"
+msgstr "2 период - последняя забившая команда"
+
+msgid "3rd Period - Last team to score"
+msgstr "3 период - последняя забившая команда"
+
+msgid "1st Period - Both teams to score"
+msgstr "1 период - забьют обе команды"
+
+msgid "Totals (incl. OT)"
+msgstr "Итоги (включая дополнительное время)"
+
+msgid "2way (incl. OT)"
+msgstr "Двойной исход (включая дополнительное время)"
+
+msgid "1st Set Winner"
+msgstr "Победитель в 1 сете"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Общее количество сетов (лучший из 3)"
+
+msgid "2nd Set Winner"
+msgstr "Победитель во 2 сете"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Общее количество сетов (лучший из 5)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Правильный счет в сете (лучший из 3)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Правильный счет в сете (лучший из 5)"
+
+msgid "1st Half - 3way"
+msgstr "1 тайм - тройной исход"
+
+msgid "Halftime / Fulltime"
+msgstr "Первый тайм/оба тайма"
+
+msgid "Odd / Even Goals"
+msgstr "Нечетное/четное количество голов"
+
+msgid "1st Half - Goal Spread"
+msgstr "1 тайм - распределение голов"
+
+msgid "2nd half - 3way"
+msgstr "2 тайм - тройной исход"
+
+msgid "1st half - Double Chance"
+msgstr "1 тайм - двойной шанс"
+
+msgid "1st half - Draw no bet"
+msgstr "1 тайм - возврат ставки в случае ничьей"
+
+msgid "1st Half - Odd / Even"
+msgstr "1 тайм - чет/нечет"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2 тайм - чет/нечет"
+
+msgid "2nd half - Draw no bet"
+msgstr "2 тайм - возврат ставки в случае ничьей"
+
+msgid "2nd half - Double Chance"
+msgstr "2 тайм - двойной шанс"
+
+msgid "Points Spread"
+msgstr "Распределение очков"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Победное преимущество в Союзе регби"
+
+msgid "Winning Margins Rugby League"
+msgstr "Победное преимущество в Лиге регби"
+
+msgid "1st Half - Points Spreads"
+msgstr "1 тайм - распределение очков"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1 тайм - нечетные/четные очки"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Нечетные/четные очки (дополнительное время)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2 тайм - распределение очков (включая дополнительное время)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2 тайм - общее распределение (включая дополнительное время)"
+
+msgid "Who wins first set"
+msgstr "Кто победит в первом сете"
+
+msgid "Who wins second set"
+msgstr "Кто победит во втором сете"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Общее количество сетов (лучший из 5)"
+
+msgid "Correct Set Score"
+msgstr "Правильный счет сета"
+
+msgid "How many sets will exceed score limit?"
+msgstr "За сколько сетов будет превышен лимит счета"
+
+msgid "1st Set Handicap"
+msgstr "1 сет - гандикап"
+
+msgid "1st Set Total"
+msgstr "1 сет - итоги"
+
+msgid "1st Set Race to X"
+msgstr "1 сет - достижение Х"
+
+msgid "1st Set Odd/even"
+msgstr "1 сет - чет/нечет"
+
+msgid "Who wins third set"
+msgstr "Кто победит в третьем сете"
+
+msgid "Who wins fourth set"
+msgstr "Кто победит в четвертом сете"
+
+msgid "Who wins fifth set"
+msgstr "Кто победит в пятом сете"
+
+msgid "5th Set Played?"
+msgstr "Сыгран 5 сет"
+
+msgid "4th Set Played?"
+msgstr "Сыгран 4 сет"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Общее количество сетов (лучший из 3)"
+
+msgid "Line"
+msgstr "Линия"
+
+msgid "Over"
+msgstr "Больше"
+
+msgid "Under"
+msgstr "Меньше"
+
+msgid "None"
+msgstr "Ничего"
+
+msgid "goals"
+msgstr "голы"
+
+msgid "Goals"
+msgstr "Голы"
+
+msgid "Under and home"
+msgstr "Меньше и команда хозяев"
+
+msgid "Under and draw"
+msgstr "Меньше и ничья"
+
+msgid "Under and away"
+msgstr "Меньше и команда гостей"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "Equal"
+msgstr "Одинаково"
+
+msgid "Hometeam scores first and home"
+msgstr "Команда хозяев забивает первой и выигрывает"
+
+msgid "Hometeam scores first and draw"
+msgstr "Команда хозяев забивает первой и ничья"
+
+msgid "Hometeam scores first and away"
+msgstr "Команда хозяев забивает первой и проигрывает"
+
+msgid "Awayteam scores first and home"
+msgstr "Команда гостей забивает первой и проигрывает"
+
+msgid "Awayteam scores first and draw"
+msgstr "Команда гостей забивает первой и ничья"
+
+msgid "Awayteam scores first and away"
+msgstr "Команда гостей забивает первой и выигрывает"
+
+msgid "Odd"
+msgstr "Нечет"
+
+msgid "Even"
+msgstr "Чет"
+
+msgid "Others"
+msgstr "Другие"
+
+msgid "Both teams"
+msgstr "Обе команды"
+
+msgid "Over and away"
+msgstr "Больше и команда гостей"
+
+msgid "Over and draw"
+msgstr "Больше и ничья"
+
+msgid "Over and home"
+msgstr "Больше и команда хозяев"
+
+msgid "other"
+msgstr "другое"
+
+msgid "1st period"
+msgstr "1 период"
+
+msgid "2nd period"
+msgstr "2 период"
+
+msgid "3rd period"
+msgstr "3 период"
+
+msgid "1 sets"
+msgstr "1 сет"
+
+msgid "2 sets"
+msgstr "2 сета"
+
+msgid "3 sets"
+msgstr "3 сета"
+
+msgid "4 sets"
+msgstr "4 сета"
+
+msgid "5 sets"
+msgstr "5 сетов"
+
+msgid "0 sets"
+msgstr "0 сетов"
+
+msgid "1st quarter"
+msgstr "1 четверть"
+
+msgid "2nd quarter"
+msgstr "2 четверть"
+
+msgid "3rd quarter"
+msgstr "3 четверть"
+
+msgid "4th quarter"
+msgstr "4 четверть"
+
+msgid "No goal"
+msgstr "Без голов"
+
+msgid "Chat with real Dealers"
+msgstr "Общайтесь с дилерами в реальном времени"
+
+msgid "PLAY NOW"
+msgstr "ИГРАТЬ!"
+
+msgid "Sportsbook"
+msgstr "Спортивная книга"
+
+msgid "Demo Casino"
+msgstr "Демо казино"
+
+msgid "Slot Games"
+msgstr "Слот игры"

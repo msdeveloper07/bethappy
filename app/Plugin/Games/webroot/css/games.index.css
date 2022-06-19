@@ -1,0 +1,59 @@
+@charset "utf-8";
+/**
+ * Generic CSS for CakePHP
+ *
+ * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ * @link          https://cakephp.org CakePHP(tm) Project
+ * @package       app.webroot.css
+ * @license       https://opensource.org/licenses/mit-license.php MIT License
+ */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  /* .games-index-header div{
+    float: right;
+    margin:5px;
+  } */
+
+  #loggedIn {
+    background-color: #ff8400;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    margin: 0px;
+    margin-bottom: 9px;
+    
+}
+.actionButtons {
+  margin-left: 222px;
+  
+}
+#loginButton {
+  margin-left: 779px;
+  
+}
+#spaceBetween{
+  margin-right: auto;
+}

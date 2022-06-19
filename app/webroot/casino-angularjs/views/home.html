@@ -1,0 +1,432 @@
+<div id="main-carousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#main-carousel" data-slide-to="1" class=""></li>
+        <li data-target="#main-carousel" data-slide-to="2" class=""></li>
+        <li data-target="#main-carousel" data-slide-to="3" class=""></li>
+        <li data-target="#main-carousel" data-slide-to="4" class=""></li>
+    </ol>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active" data-interval="3000">
+            <img class="first-slide" src="img/casino/banners/generic-blue-bg.jpg" alt="Grande Atlantic Jackpot">
+            <div class="container">
+                <div class="carousel-caption text-left">
+                    <!--<img class="text-center" src="img/casino/atlantic_slot_logo.png" height="100"/>-->
+                    <div class="text-center">
+                        <h3 class="font-weight-bold">Grande Atlantic</h3>
+                        <img src="../../img/casino/jackpot.png" alt="Grande Atlantic Jackpot" height="100"/>
+                        <br/><br/>
+                        <button class="btn btn-lg btn-default text-white font-weight-bold rounded-pill px-4" role="button">Win $8888</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="carousel-item" data-interval="3000">
+            <img class="first-slide" src="img/casino/banners/generic-blue-bg.jpg" alt="Atlantic Megapot">
+            <div class="container">
+                <div class="carousel-caption text-left">
+                    <!--<img class="text-center" src="img/casino/atlantic_slot_logo.png" height="100"/>-->
+                    <div class="text-center">
+                        <h3 class="font-weight-bold">Atlantic Megapot</h3>
+                        <img src="../../img/casino/jackpot.png" alt="Grande Atlantic Jackpot" height="100"/>
+                        <br/><br/>
+                        <button class="btn btn-lg btn-default text-white font-weight-bold rounded-pill px-4" role="button">Win $4444</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="carousel-item" data-interval="3000"> 
+            <img class="first-slide" src="img/casino/banners/generic-blue-bg.jpg" alt="Mistery Atlantic Midi">
+            <div class="container">
+                <div class="carousel-caption text-left">
+                    <!--<img class="text-center" src="img/casino/atlantic_slot_logo.png" height="100"/>-->
+                    <div class="text-center">
+                        <h3 class="font-weight-bold">Mistery Atlantic Midi</h3>
+                        <img src="../../img/casino/jackpot.png" alt="Grande Atlantic Jackpot" height="100"/>
+                        <br/><br/>
+                        <button class="btn btn-lg btn-default text-white font-weight-bold rounded-pill px-4" role="button">Win $888</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="carousel-item" data-interval="3000">
+            <img class="first-slide" src="img/casino/banners/generic-blue-bg.jpg" alt="Mistery Atlantic Mini">
+            <div class="container">
+                <div class="carousel-caption text-left">
+                    <!--<img class="text-center" src="img/casino/atlantic_slot_logo.png" height="100"/>-->
+                    <div class="text-center">
+                        <h3 class="font-weight-bold">Mistery Atlantic Mini</h3>
+                        <img src="../../img/casino/jackpot.png" alt="Grande Atlantic Jackpot" height="100"/>
+                        <br/><br/>
+                        <button class="btn btn-lg btn-default text-white font-weight-bold rounded-pill px-4" role="button">Win $88</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item" data-interval="3000">
+            <img class="first-slide" src="img/casino/banners/generic-blue-bg.jpg" alt="Atlantic Promo">
+            <div class="container">
+                <div class="carousel-caption text-left">
+                    <!--<img class="text-center" src="img/casino/atlantic_slot_logo.png" height="100"/>-->
+                    <div class="text-center">
+                        <h3 class="font-weight-bold">Atlantic Promo</h3>
+                        <img src="../../img/casino/jackpot.png" alt="Grande Atlantic Jackpot" height="100"/>
+                        <br/><br/>
+                        <button class="btn btn-lg btn-default text-white font-weight-bold rounded-pill px-4" role="button">Win $50</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!--    <a class="carousel-control-prev" href="#main-carousel" role="button" data-slide="prev">
+            <i class="icon ion-ios-arrow-back"></i>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#main-carousel" role="button" data-slide="next">
+            <i class="icon ion-ios-arrow-forward"></i>
+            <span class="sr-only">Next</span>
+        </a>-->
+</div>
+
+
+<div class="container-fluid home-container">
+
+    <section class="mb-4" ng-show="Categories.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-puzzle-piece fa-spin"></i> Categories</h3>
+                    <p><small class="text-muted"></small></p>
+                </div>
+
+            </div>
+            <div class="card-body">
+
+                <slick class="slider" settings="slickMetaConfig" ng-cloak>
+                    <div ng-repeat="category in Categories">
+                        <a href="/#!/games/categories/{{category.slug}}" class="card category-card m-1">
+                            <small class="d-flex justify-content-center align-items-center">{{category.name}}</small>
+                            <!--                            <img ng-src="img/casino/games/categories/{{category.slug}}.png"  alt="{{category.name}}" height="80"/>-->
+                        </a>
+
+                    </div>
+                </slick>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="mb-4" ng-show="New.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-rocket fa-spin"></i> New</h3>
+                    <p><small class="text-muted">Fresh new slots that will blow you away</small></p>
+                </div>
+            </div>
+            <div class="card-body">
+
+                <slick class="slider" settings="slickGamesConfig">
+                    <div ng-repeat="game in New">
+                        <div class="card card-game text-white m-1" >
+
+                            <div class="game-hover-effect card-gradient-default">
+
+                                <img ng-src="{{game.image}}" alt="{{game.name}}" err-src="{{fallbackImageSrc}}"/>
+                                <div class="card-img-overlay">
+
+                                    <div class="overlay-buttons">
+                                        <button class="btn btn-default btn-play btn-md rounded-pill px-4 mb-2" ng-click="loadGame(game.id, false)">
+                                            <i class="fas fa-play"></i>
+                                        </button>
+                                        <button class="btn btn-light btn-md rounded-pill px-4" ng-show="game.fun_play === 1"  ng-click="loadGame(game.id, true)">Demo</button>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div>
+                                    <h4 class="card-title mb-1">{{game.name}}</h4>
+                                    <h6 class="card-text small" ng-if="game.brand_id">{{game.brand_name}}</h6>
+                                </div>
+                                <div class="game-ribbon" ng-if="game.new === true">
+                                    <span class="badge badge-rounded badge-danger px-2 py-1">NEW</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </slick>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="mb-4" ng-show="Jackpot.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-candy-cane fa-spin"></i> Jackpot</h3>
+                    <p><small class="text-muted">Play and conquer jackpots</small></p>
+                </div>
+            </div>
+            <div class="card-body">
+
+                <slick class="slider" settings="slickGamesConfig">
+                    <div ng-repeat="game in Jackpot">
+                        <div class="card card-game text-white m-1" >
+
+                            <div class="game-hover-effect card-gradient-default">
+
+                                <img ng-src="{{game.image}}" alt="{{game.name}}" err-src="{{fallbackImageSrc}}"/>
+                                <div class="card-img-overlay">
+
+                                    <div class="overlay-buttons">
+                                        <button class="btn btn-default btn-play btn-md rounded-pill px-4 mb-2" ng-click="loadGame(game.id, false)">
+                                            <i class="fas fa-play"></i>
+                                        </button>
+                                        <button class="btn btn-light btn-md rounded-pill px-4" ng-show="game.fun_play === 1"  ng-click="loadGame(game.id, true)">Demo</button>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div>
+                                    <h4 class="card-title mb-1">{{game.name}}</h4>
+                                    <h6 class="card-text small" ng-if="game.brand_id">{{game.brand_name}}</h6>
+                                </div>
+                                <div class="game-ribbon" ng-if="game.new === true">
+                                    <span class="badge badge-rounded badge-danger px-2 py-1">NEW</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </slick>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="mb-4">
+
+        <div class="card card-jackpot mb-3">
+            <div class="row no-gutters">
+                <div class="col-md-4 col-sm-12 d-flex justify-content-center align-items-center flex-column">
+                    <h2 class="jackpot-title font-weight-bold text-center">True winnings are closer than you think</h2>
+
+                    <p>Spin, win and grab your jackpot today.</p>
+                    <a href="/#!/jackpots" class="btn btn-light text-dark text-decoration-none rounded-pill px-4 mt-5">See all jackpots</a>
+
+                </div>
+                <div class="col-md-8 col-sm-12 text-sm-center text-md-left">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-12 col-lg-6 col-xl-6">
+                                <div class="card card-jackpot grande d-flex flex-column justify-content-center align-items-center p-3 mb-3">
+                                    <h4 class="jackpot-title">Grande</h4>
+                                    <h4>Atlantic</h4>
+                                    <img alt="Grande Atlantic Jackpot" src="https://www.atlanticslot.com/img/casino/marketing/jackpot.png" title="Grande Atlantic Jackpot" height="100">
+                                    <h5 class="card-title jackpot-title">Win &dollar;8888</h5>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-lg-6 col-xl-6">
+                                <div class="card card-jackpot mega d-flex flex-column justify-content-center align-items-center p-3 mb-3">
+                                    <h5>Atlantic</h5>
+                                    <h5 class="jackpot-title">Megapot</h5>
+                                    <img alt="Atlantic Megapot" src="https://www.atlanticslot.com/img/casino/marketing/jackpot.png" title="Atlantic Megapot" height="100">
+                                    <h5 class="card-title jackpot-title">Win &dollar;4444  </h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="mb-4" ng-show="Featured.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-thumbs-up fa-spin"></i> Recommended</h3>
+                    <p><small class="text-muted">Fun games to keep you wining</small></p>
+                </div>
+
+            </div>
+            <div class="card-body">
+                <slick class="slider" settings="slickGamesConfig">
+                    <div ng-repeat="game in Featured">
+                        <div class="card card-game text-white m-1" >
+
+                            <div class="game-hover-effect card-gradient-default">
+                                <img ng-src="{{game.image}}" alt="{{game.name}}"  err-src="{{fallbackImageSrc}}"/>
+                                <div class="card-img-overlay">
+
+                                    <div class="overlay-buttons">
+                                        <button class="btn btn-default btn-play btn-md rounded-pill px-4 mb-2"  ng-click="loadGame(game.id, false)">
+                                            <i class="fas fa-play"></i>
+                                        </button>
+                                        <button class="btn btn-light btn-md rounded-pill px-4" ng-show="game.fun_play === 1"  ng-click="loadGame(game.id, true)">Demo</button>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div>
+                                    <h4 class="card-title mb-1">{{game.name}}</h4>
+                                    <h6 class="card-text small" ng-if="game.brand_id">{{game.brand_name}}</h6>
+                                </div>
+                                <div class="game-ribbon" ng-if="game.new === '1'">
+                                    <span class="badge badge-rounded badge-danger px-2 py-1">NEW</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </slick>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="mb-4" ng-show="Trending.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-bolt fa-spin"></i> Trending</h3>
+                    <p><small class="text-muted">Games most loved by our players</small></p>
+                </div>
+
+            </div>
+            <div class="card-body">
+                <slick class="slider" settings="slickGamesConfig">
+                    <div ng-repeat="game in Trending">
+                        <div class="card card-game text-white m-1" >
+
+                            <div class="game-hover-effect card-gradient-default">
+                                <img ng-src="{{game.image}}" alt="{{game.name}}" err-src="{{fallbackImageSrc}}" />
+                                <div class="card-img-overlay">
+
+                                    <div class="overlay-buttons">
+                                        <button class="btn btn-default btn-play btn-md rounded-pill px-4 mb-2"  ng-click="loadGame(game.id, false)">
+                                            <i class="fas fa-play"></i>
+                                        </button>
+                                        <button class="btn btn-light btn-md rounded-pill px-4" ng-show="game.fun_play === 1"  ng-click="loadGame(game.id, true)">Demo</button>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div>
+                                    <h4 class="card-title mb-1">{{game.name}}</h4>
+                                    <h6 class="card-text small" ng-if="game.brand_id">{{game.brand_name}}</h6>
+                                </div>
+                                <div class="game-ribbon" ng-if="game.new === '1'">
+                                    <span class="badge badge-rounded badge-danger px-2 py-1">NEW</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </slick>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb-4">
+        <div class="card card-base mb-3">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-8 offset-lg-2 text-center">
+                    <img src="/img/casino/footer/white/devices.png" alt="Play on any device" height="100">
+                    <h4 class="text-center font-weight-bold mt-2">Max fun on any device</h4>
+                    <p class="text-center">Enjoy the full experience of your favorite games, on your laptop, tablet or smartphone.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="mb-4" ng-show="Livecasino.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-dice fa-spin"></i> Live Casino</h3>
+                    <p><small class="text-muted">Play in real time with other players from all over the world</small></p>
+                </div>
+
+            </div>
+            <div class="card-body">
+                <slick class="slider" settings="slickGamesConfig">
+                    <div ng-repeat="game in Livecasino">
+                        <div class="card card-game text-white m-1" >
+
+                            <div class="game-hover-effect card-gradient-default">
+
+                                <img ng-src="{{game.image}}" alt="{{game.name}}" err-src="{{fallbackImageSrc}}" />
+                                <div class="card-img-overlay">
+
+                                    <div class="overlay-buttons">
+                                        <button class="btn btn-default btn-play btn-md rounded-pill px-4 mb-2"  ng-click="loadGame(game.id, false)">
+                                            <i class="fas fa-play"></i>
+                                        </button>
+                                        <button class="btn btn-light btn-md rounded-pill px-4" ng-show="game.fun_play === 1"  ng-click="loadGame(game.id, true)">Demo</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <div>
+                                    <h4 class="card-title mb-1">{{game.name}}</h4>
+                                    <h6 class="card-text small" ng-if="game.brand_id">{{game.brand_name}}</h6>
+                                </div>
+                                <div class="game-ribbon" ng-if="game.new === '1'">
+                                    <span class="badge badge-rounded badge-danger px-2 py-1">NEW</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </slick>
+            </div>
+        </div>
+    </section>
+
+    <section class="mb-4" ng-show="Providers.length > 0">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center text-white font-weight-light">
+                <div class="d-flex flex-column justify-content-start">
+                    <h3><i class="fas fa-gamepad fa-spin"></i> Game Providers</h3>
+                    <p><small class="text-muted">We offer the most awesome games</small></p>
+                </div>
+
+            </div>
+            <div class="card-body">
+
+                <slick class="slider" settings="slickMetaConfig">
+                    <div ng-repeat="provider in Providers">
+                        <a href="/#!/games/providers/{{provider.slug}}" class="card provider-card m-1">
+                            <img ng-src="img/casino/providers/{{provider.slug}}.png"  alt="{{provider.name}}"/>
+                        </a>
+                    </div>
+                </slick>
+
+            </div>
+        </div>
+    </section>
+</div>
+
+
+<script>
+    $('#main-carousel').carousel({
+        interval: 3000
+    })
+</script>

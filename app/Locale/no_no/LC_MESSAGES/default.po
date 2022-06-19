@@ -1,0 +1,4110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 11:31+0200\n"
+"PO-Revision-Date: 2019-07-01 14:44+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: no_NO\n"
+
+msgid "Your passwords does not much"
+msgstr "Your passwords does not much"
+
+msgid "Your Account has been created. Please confirm you email in order to be able to login"
+msgstr "Your Account has been created. Please confirm you email in order to be able to login"
+
+msgid "Password changed"
+msgstr "Password changed"
+
+msgid "Wrong old password. Please try again"
+msgstr "Wrong old password. Please try again"
+
+msgid "Passwords do not match. Please try again"
+msgstr "Passwords do not match. Please try again"
+
+msgid "Account information updated."
+msgstr "Account information updated."
+
+msgid "Limits cancelled."
+msgstr "Limits cancelled."
+
+msgid "Unable to cancel limit"
+msgstr "Unable to cancel limit"
+
+msgid "Limits updated."
+msgstr "Limits updated."
+
+msgid "Limits not updated."
+msgstr "Limits not updated."
+
+msgid "You account has been deleted."
+msgstr "You account has been deleted."
+
+msgid "Account settings updated."
+msgstr "Account settings updated."
+
+msgid "Password reset link sent to your email"
+msgstr "Password reset link sent to your email"
+
+msgid "E-mail not valid"
+msgstr "E-post er ikke gyldig"
+
+msgid "Promotional code successfully used"
+msgstr "Promotional code successfully used"
+
+msgid "Invalid promotional code"
+msgstr "Invalid promotional code"
+
+msgid "Confirm your email."
+msgstr "Confirm your email."
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Your Account is Locked. Please Reset your password"
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Your Account is Deleted Permanently"
+
+msgid "You are Already Logged in."
+msgstr "You are Already Logged in."
+
+msgid "Wrong Password"
+msgstr "Wrong Password"
+
+msgid "Username or password is incorrect"
+msgstr "Username or password is incorrect"
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "Staff %s (ID: %d) requested to fund your account"
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "User %s (ID: %d) account was credited by %s"
+
+msgid "User %s is credited by %d %s"
+msgstr "User %s is credited by %d %s"
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "Staff %s (ID: %d) requested to charge your account"
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "User %s (ID: %d) account was charged by %s"
+
+msgid "User %s is charged by %d %s"
+msgstr "User %s is charged by %d %s"
+
+msgid "KYC Data Accepted"
+msgstr "KYC Data Accepted"
+
+msgid "Email successfully sent"
+msgstr "Email successfully sent"
+
+msgid "Cannot send email. Please try again."
+msgstr "Cannot send email. Please try again."
+
+msgid "can't find"
+msgstr "can't find"
+
+msgid "Changes saved"
+msgstr "Changes saved"
+
+msgid "This cannot be saved."
+msgstr "This cannot be saved."
+
+msgid "Item added"
+msgstr "Item added"
+
+msgid "This cannot be added."
+msgstr "This cannot be added."
+
+msgid "Item deleted"
+msgstr "Item deleted"
+
+msgid "This cannot be deleted."
+msgstr "This cannot be deleted."
+
+msgid "Bet added"
+msgstr "Bet added"
+
+msgid "Error adding bet"
+msgstr "Error adding bet"
+
+msgid "Lowest deposit amount is"
+msgstr "Lowest deposit amount is"
+
+msgid "Highest deposit amount is"
+msgstr "Highest deposit amount is"
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "You have reached you deposit limit per transaction amount:"
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "You have reached you deposit limit daily amount:"
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "You have reached you deposit limit weekly amount:"
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "You have reached you deposit limit monthly amount:"
+
+msgid "Bonus code expired or wrong"
+msgstr "Bonus code expired or wrong"
+
+msgid "Bonus code expired"
+msgstr "Bonus code expired"
+
+msgid "Your amount is too low for bonus"
+msgstr "Your amount is too low for bonus"
+
+msgid "Your amount is too high for bonus "
+msgstr "Your amount is too high for bonus "
+
+msgid "User Terminated"
+msgstr "User Terminated"
+
+msgid "Canceled"
+msgstr "Canceled"
+
+msgid "Statuses chart"
+msgstr "Statuses chart"
+
+msgid "Amount chart"
+msgstr "Amount chart"
+
+msgid "Deposit not found!"
+msgstr "Deposit not found!"
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Deposit already marked as \"completed\"\"!\""
+
+msgid "Deposit request set as completed"
+msgstr "Deposit request set as completed"
+
+msgid "Deposit request canceled"
+msgstr "Deposit request canceled"
+
+msgid "Money transaction completed"
+msgstr "Money transaction completed"
+
+msgid "Select Event"
+msgstr "Select Event"
+
+msgid "No search results found"
+msgstr "No search results found"
+
+msgid "Permissions updated"
+msgstr "Permissions updated"
+
+msgid "Your request is accepted."
+msgstr "Your request is accepted."
+
+msgid "Language already exist"
+msgstr "Language already exist"
+
+msgid "can't delete item"
+msgstr "can't delete item"
+
+msgid "Emails successfully sent"
+msgstr "Emails successfully sent"
+
+msgid "Please enter event result"
+msgstr "Please enter event result"
+
+msgid "Results updated"
+msgstr "Results updated"
+
+msgid "Settings saved."
+msgstr "Settings saved."
+
+msgid "can't save settings."
+msgstr "can't save settings."
+
+msgid "Types chart"
+msgstr "Types chart"
+
+msgid "Cannot find ticket with id:"
+msgstr "Cannot find ticket with id:"
+
+msgid "Ticket is not found"
+msgstr "Ticket is not found"
+
+msgid "Unknown ticket status"
+msgstr "Unknown ticket status"
+
+msgid "Unknown paid status"
+msgstr "Unknown paid status"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Unknown error"
+msgstr "Unknown error"
+
+msgid "Insufficient credits"
+msgstr "Insufficient credits"
+
+msgid "Ticket is still pending or lost"
+msgstr "Ticket is still pending or lost"
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Ticket already printed. Ticket ID: %d"
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Can not find ticket. Ticket ID: %d"
+
+msgid "Please select another pick from different event"
+msgstr "Please select another pick from different event"
+
+msgid "Min betting amount is %d"
+msgstr "Min betting amount is %d"
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "You can not form this type of ticket, switching back to single"
+
+msgid "Wrong Password or Username"
+msgstr "Wrong Password or Username"
+
+msgid "Lowest amount for cashout is"
+msgstr "Lowest amount for cashout is"
+
+msgid "Highest amount for cashout is"
+msgstr "Highest amount for cashout is"
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Not enough money for this cashout transaction"
+
+msgid "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+msgstr "You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to bonus policy. You can withdraw %s\""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Previous withdrawal transaction is not completed"
+
+msgid "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "You are not verified (all) to complete this transaction. Please fulfill the form on the following address:"
+
+msgid "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+msgstr "You have to resubmit Documents for verification. Please fulfill the form on the following address"
+
+msgid "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+msgstr "You are not verified (age) to complete this transaction. Please fulfill the form on the following address:"
+
+msgid "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+msgstr "Your withdrawal request for %s is accepted. Please enter your bank information in the following link: <a href='/users/account'>Account Information</a> "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "Your withdrawal request for %s is accepted."
+
+msgid "Bank information updated."
+msgstr "Bank information updated."
+
+msgid "Withdraw request set as completed"
+msgstr "Withdraw request set as completed"
+
+msgid "Withdraw request updated"
+msgstr "Withdraw request updated"
+
+msgid "Withdraw request canceled"
+msgstr "Withdraw request canceled"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Lost"
+msgstr "Lost"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "View"
+msgstr "View"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "List"
+msgstr "List"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Amount from"
+msgstr "Amount from"
+
+msgid "Amount to"
+msgstr "Amount to"
+
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+msgid "Event name"
+msgstr "Event name"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "League name"
+msgstr "League name"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "View events"
+msgstr "View events"
+
+msgid "Add Event"
+msgstr "Add Event"
+
+msgid "Send Mail"
+msgstr "Send Mail"
+
+msgid "Send to All"
+msgstr "Send to All"
+
+msgid "Header 2 menu"
+msgstr "Header 2 menu"
+
+msgid "Header 3 menu"
+msgstr "Header 3 menu"
+
+msgid "Bottom 4 menu"
+msgstr "Bottom 4 menu"
+
+msgid "Footer menu"
+msgstr "Footer menu"
+
+msgid "Header menu"
+msgstr "Header menu"
+
+msgid "Top Header menu"
+msgstr "Top Header menu"
+
+msgid "Top menu"
+msgstr "Top menu"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Deposits"
+msgstr "Innskudd"
+
+msgid "Withdraws"
+msgstr "Uttaksliste"
+
+msgid "Withdraws List"
+msgstr "Uttaksliste"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "Finished events in tickets"
+msgstr "Finished events in tickets"
+
+msgid "Pending events in tickets"
+msgstr "Pending events in tickets"
+
+msgid "All finished events"
+msgstr "All finished events"
+
+msgid "Warnings"
+msgstr "Warnings"
+
+msgid "Identity number"
+msgstr "Identity number"
+
+msgid "Words in title"
+msgstr "Words in title"
+
+msgid "Words in description"
+msgstr "Words in description"
+
+msgid "Url link"
+msgstr "Url link"
+
+msgid "Add League"
+msgstr "Add League"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Fund staff"
+msgstr "Fond Ansatte"
+
+msgid "Charge staff"
+msgstr "Charge Ansatte"
+
+msgid "Login/Logout"
+msgstr "Logg på/Logg"
+
+msgid "Ticket Fraud Check"
+msgstr "Ticket Fraud Check"
+
+msgid "Mark as paid"
+msgstr "Mark as paid"
+
+msgid "Group ID"
+msgstr "Group ID"
+
+msgid "Tickets created"
+msgstr "Tickets created"
+
+msgid "Total"
+msgstr "Totalt"
+
+msgid "Total payout"
+msgstr "Total payout"
+
+msgid "Profit"
+msgstr "Profit"
+
+msgid "1Lowest stake on %s is %d"
+msgstr "1Lowest stake on %s is %d"
+
+msgid "Highest stake on %s is %d"
+msgstr "Highest stake on %s is %d"
+
+msgid "2Lowest stake on %s is %d"
+msgstr "2Lowest stake on %s is %d"
+
+msgid "3Lowest stake amount is %d"
+msgstr "3Lowest stake amount is %d"
+
+msgid "Highest stake amount is %d"
+msgstr "Highest stake amount is %d"
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "You have reached you wager limit per transaction amount: %d %s"
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "You have reached you wager limit daily amount: %d %s"
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "You have reached you wager limit weekly amount: %d %s"
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "You have reached you wager limit monthly amount: %d %s"
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "You have reached you loss limit per transaction amount: %d %s"
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "You have reached you loss limit daily amount: %d %s"
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "You have reached you loss limit weekly amount: %d %s"
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "You have reached you loss limit monthly amount: %d %s"
+
+msgid "Choose deposit limits for your account"
+msgstr "Velg innskuddsgrenser for kontoen din"
+
+msgid "Please login"
+msgstr "Vennligst logg inn"
+
+msgid "Please login first!"
+msgstr "Vennligst logg inn først!"
+
+msgid "Please select at least %d picks"
+msgstr "Please select at least %d picks"
+
+msgid "Not enough money"
+msgstr "Not enough money"
+
+msgid "One or more events already started, please remove them"
+msgstr "One or more events already started, please remove them"
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr "Odd outdated. Please remove invalid odd"
+
+msgid "One or mode bets are inactive"
+msgstr "One or mode bets are inactive"
+
+msgid "Printed"
+msgstr "Printed"
+
+msgid "User Id"
+msgstr "User Id"
+
+msgid "Amount From"
+msgstr "Amount From"
+
+msgid "Amount To"
+msgstr "Amount To"
+
+msgid "Potential Winning From"
+msgstr "Potential Winning From"
+
+msgid "Potential Winning To"
+msgstr "Potential Winning To"
+
+msgid "Odd From"
+msgstr "Odd From"
+
+msgid "Odd To"
+msgstr "Odd To"
+
+msgid "Fund"
+msgstr "Fund"
+
+msgid "Charge"
+msgstr "Charge"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "All feeds updated"
+msgstr "All feeds updated"
+
+msgid "All feeds downloaded"
+msgstr "All feeds downloaded"
+
+msgid "All feeds parsed"
+msgstr "All feeds parsed"
+
+msgid "Feed updated"
+msgstr "Feed updated"
+
+msgid "Cannot find feed"
+msgstr "Cannot find feed"
+
+msgid "Cant find feed"
+msgstr "Cant find feed"
+
+msgid "Update"
+msgstr "Oppdater"
+
+msgid "Update All"
+msgstr "Update All"
+
+msgid "Thank You"
+msgstr "Thank You"
+
+msgid "You successfully deposit %d"
+msgstr "You successfully deposit %d"
+
+msgid "You cancel your deposit"
+msgstr "You cancel your deposit"
+
+msgid "You have successfully made deposit for"
+msgstr "You have successfully made deposit for"
+
+msgid "Sorry, we can not find your payment"
+msgstr "Sorry, we can not find your payment"
+
+msgid "Make Deposit"
+msgstr "Gjør et innskudd"
+
+msgid "Amount"
+msgstr "Beløp"
+
+msgid "Make your Deposit"
+msgstr "Make your Deposit"
+
+msgid "Bonus code or leave empty"
+msgstr "Bonus code or leave empty"
+
+msgid "Available ACO sync commands:"
+msgstr "Available ACO sync commands:"
+
+msgid "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+msgstr "For help, run the 'help' command. For help on a specific command, run 'help <command>'"
+
+msgid "Deleted %s and all children"
+msgstr "Deleted %s and all children"
+
+msgid "Aco Update Complete"
+msgstr "Aco Update Complete"
+
+msgid "Created Aco node: %s"
+msgstr "Created Aco node: %s"
+
+msgid "Deleted Aco node %s"
+msgstr "Deleted Aco node %s"
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Usage: cake aco_sync <command>"
+
+msgid "Commands:"
+msgstr "Commands:"
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Add new ACOs for new controllers and actions"
+
+msgid "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+msgstr "Create new ACO's for controllers and their actions. Does not remove any nodes from ACO table"
+
+msgid "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+msgstr "Creates new ACO's for missing controllers and actions. Removes orphaned entries in the ACO table."
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Displays this help message, or a message on a specific command."
+
+msgid "Command '%s' not found"
+msgstr "Command '%s' not found"
+
+msgid "day"
+msgstr "dag"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "month"
+msgstr "måned"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "year"
+msgstr "år"
+
+msgid "Year"
+msgstr "År"
+
+msgid "days"
+msgstr "days"
+
+msgid "h"
+msgstr "h"
+
+msgid "min"
+msgstr "min"
+
+msgid "Successful"
+msgstr "Successful"
+
+msgid "Failed"
+msgstr "Unnlatelse"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Decimal"
+msgstr "Decimal"
+
+msgid "Fractional"
+msgstr "Fractional"
+
+msgid "American"
+msgstr "American"
+
+msgid "ID: "
+msgstr "ID: "
+
+msgid "more"
+msgstr "more"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Pick"
+msgstr "Pick"
+
+msgid "odd"
+msgstr "odd"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Outcome"
+msgstr "Outcome"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+msgid "Affiliate Registration Form"
+msgstr "Affiliate Registration Form"
+
+msgid "Personal information"
+msgstr "Personal information"
+
+msgid "First name"
+msgstr "Fornavn"
+
+msgid "Last name"
+msgstr "Etternavn"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "City"
+msgstr "Sted"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Date of birth:"
+msgstr "Fødselsdato:"
+
+msgid "Mobile number"
+msgstr "Mobilnummer"
+
+msgid "Website name"
+msgstr "Website name"
+
+msgid "Send"
+msgstr "Sende"
+
+msgid "Choose Payment Gateway"
+msgstr "Choose Payment Gateway"
+
+msgid "Bank Transfer Payment"
+msgstr "Bank Transfer Payment"
+
+msgid "eTranzact"
+msgstr "eTranzact"
+
+msgid "Online Payment"
+msgstr "Online Payment"
+
+msgid "Please see you latest deposits below:"
+msgstr "Please see you latest deposits below:"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr "No deposits history found. To make new please follow \"Make New\"\".\""
+
+msgid "Deposit information:"
+msgstr "Deposit information:"
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr "Request Manual Deposit (Credited Upon Verification)"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+
+msgid "previous"
+msgstr "previous"
+
+msgid "next"
+msgstr "next"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "User"
+msgstr "User"
+
+msgid "Deposit type"
+msgstr "Deposit type"
+
+msgid "Bonus type"
+msgstr "Bonus type"
+
+msgid "Bonus valid until"
+msgstr "Bonus valid until"
+
+msgid "Bonus used"
+msgstr "Bonus used"
+
+msgid "Bonus amount to your account"
+msgstr "Bonus amount to your account"
+
+msgid "League"
+msgstr "League"
+
+msgid "No available odds found for this event"
+msgstr "No available odds found for this event"
+
+msgid "First team to Score"
+msgstr "First team to Score"
+
+msgid "1st Half"
+msgstr "1st Half"
+
+msgid "Both Team to Score"
+msgstr "Both Team to Score"
+
+msgid "Halftime/Fulltime"
+msgstr "Halftime/Fulltime"
+
+msgid "Double Chance"
+msgstr "Double Chance"
+
+msgid "Odds"
+msgstr "Odds"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "User Menu"
+msgstr "User Menu"
+
+msgid "My Account"
+msgstr "Min konto"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Log out"
+msgstr "Logg ut"
+
+msgid "Live Casino"
+msgstr "Live Casino"
+
+msgid "Betting Tools"
+msgstr "Betting Tools"
+
+msgid "Register now and get"
+msgstr "Register now and get"
+
+msgid "Register now"
+msgstr "Register now"
+
+msgid "Registration"
+msgstr "Registrering"
+
+msgid "Password Reminder"
+msgstr "Passord Påminnelse"
+
+msgid "Search Ticket"
+msgstr "Search Ticket"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Enter ticket ID"
+msgstr "Enter ticket ID"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Unknown ticked ID"
+msgstr "Unknown ticked ID"
+
+msgid "Money"
+msgstr "Money"
+
+msgid "Pay"
+msgstr "Pay"
+
+msgid "Find event"
+msgstr "Find event"
+
+msgid "Search by event name"
+msgstr "Search by event name"
+
+msgid "Search by event ID"
+msgstr "Search by event ID"
+
+msgid "Search results for:"
+msgstr "Search results for:"
+
+msgid "No available events are found for this league"
+msgstr "No available events are found for this league"
+
+msgid "Search Events"
+msgstr "Search Events"
+
+msgid "Search another event ID"
+msgstr "Search another event ID"
+
+msgid "Search another event name"
+msgstr "Search another event name"
+
+msgid "Please complete the following form"
+msgstr "Vennligst fullfør følgende skjema"
+
+msgid "Confirm changes"
+msgstr "Bekrefte endringer"
+
+msgid "Activity Column"
+msgstr "Activity Column"
+
+msgid "Current balance"
+msgstr "Current balance"
+
+msgid "Today placed tickets"
+msgstr "Today placed tickets"
+
+msgid "Contact us"
+msgstr "Kontakt oss"
+
+msgid "If you have any problem, do not hesitate to contact the customer service using form below:"
+msgstr "If you have any problem, do not hesitate to contact the customer service using form below:"
+
+msgid "Subject"
+msgstr "Emne"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Message"
+msgstr "Melding"
+
+msgid "News"
+msgstr "News"
+
+msgid "Read more"
+msgstr "Read more"
+
+msgid "Soccer"
+msgstr "Soccer"
+
+msgid "Basketball"
+msgstr "Basketball"
+
+msgid "Ice Hockey"
+msgstr "Ice Hockey"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Rugby"
+msgstr "Rugby"
+
+msgid "Half Time 3 way"
+msgstr "Half Time 3 way"
+
+msgid "Top Games"
+msgstr "Top Games"
+
+msgid "IceHockey"
+msgstr "IceHockey"
+
+msgid "Handball"
+msgstr "Handball"
+
+msgid "Last Minute Bets"
+msgstr "Last Minute Bets"
+
+msgid "Shortly"
+msgstr "Shortly"
+
+msgid "%d events available"
+msgstr "%d events available"
+
+msgid "Bet now"
+msgstr "Bet now"
+
+msgid "Football"
+msgstr "Football"
+
+msgid "Draw"
+msgstr "Draw"
+
+msgid "League not found"
+msgstr "League not found"
+
+msgid "No available events found for this league"
+msgstr "No available events found for this league"
+
+msgid "Last Minute"
+msgstr "Last Minute"
+
+msgid "No leagues selected"
+msgstr "No leagues selected"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Combi"
+msgstr "Combi"
+
+msgid "System"
+msgstr "System"
+
+msgid "Delete all bets"
+msgstr "Delete all bets"
+
+msgid "Total odds"
+msgstr "Total odds"
+
+msgid "Stake"
+msgstr "Stake"
+
+msgid "Winning"
+msgstr "Winning"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Place Bet"
+msgstr "Place Bet"
+
+msgid "No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr "No bet selected yet. <br>Click on the respective odds to select the bets."
+
+msgid "Ticket History"
+msgstr "Ticket History"
+
+msgid "Ticket ID:"
+msgstr "Ticket ID:"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "No tickets activity available"
+msgstr "No tickets activity available"
+
+msgid "Date and time"
+msgstr "Date and time"
+
+msgid "Ticket id"
+msgstr "Ticket id"
+
+msgid "ID / Date"
+msgstr "ID / Date"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Amount:"
+msgstr "Amount:"
+
+msgid "Return:"
+msgstr "Return:"
+
+msgid "Please see your betting history below:"
+msgstr "Please see your betting history below:"
+
+msgid "Ticket ID"
+msgstr "Ticket ID"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "To place ticket please use betslip."
+msgstr "To place ticket please use betslip."
+
+msgid "Pending tickets"
+msgstr "Pending tickets"
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Please see you recently placed tickets below:"
+
+msgid "Paid"
+msgstr "Paid"
+
+msgid "No pending tickets found. For previous tickets please see tickets history."
+msgstr "No pending tickets found. For previous tickets please see tickets history."
+
+msgid "History"
+msgstr "History"
+
+msgid "Ticket Preview"
+msgstr "Ticket Preview"
+
+msgid "Event ID / Date"
+msgstr "Event ID / Date"
+
+msgid "Sport / League"
+msgstr "Sport / League"
+
+msgid "Submit Ticket"
+msgstr "Submit Ticket"
+
+msgid "Clear Ticket"
+msgstr "Clear Ticket"
+
+msgid "No bets selected"
+msgstr "No bets selected"
+
+msgid "Ticket placed"
+msgstr "Ticket placed"
+
+msgid "Your ticket is created successfully"
+msgstr "Your ticket is created successfully"
+
+msgid "Your ticket number is"
+msgstr "Your ticket number is"
+
+msgid "Ticket information"
+msgstr "Ticket information"
+
+msgid "Login/Logout History"
+msgstr "Login/Logout History"
+
+msgid "User Login/Logout History:"
+msgstr "User Login/Logout History:"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Please set up options for more comfortable view."
+msgstr "Please set up options for more comfortable view."
+
+msgid "Odds type"
+msgstr "Odds type"
+
+msgid "Time zone"
+msgstr "Tidssone"
+
+msgid "Change Password"
+msgstr "Endre passord"
+
+msgid "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+msgstr "Please provide full personal information to confirm your identity. Owing to regulations, your access to some products, markets and commission discounts may be restricted until you confirm your identity. You can provide personal documents using our secure email service."
+
+msgid "Date of birth"
+msgstr "Fødselsdato"
+
+msgid "Bank name"
+msgstr "Bank name"
+
+msgid "Bank code"
+msgstr "Bank code"
+
+msgid "Bank account number"
+msgstr "Bank account number"
+
+msgid "Ref. Code"
+msgstr "Ref. Code"
+
+msgid "Balance Information Analysis"
+msgstr "Balance Information Analysis"
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Here you can see all the information refer to your current balance."
+
+msgid "Promotional Code"
+msgstr "Bonuskode"
+
+msgid "Please add promotional code below to get additional money or other benefit."
+msgstr "Please add promotional code below to get additional money or other benefit."
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Submit bonus code"
+msgstr "Submit bonus code"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+msgstr "Email has been confirmed. You will be redirected to the home page in 5 seconds.</ br>If you are not redirected within the specified time press the follow <a href=\"/\"\">link</a>\""
+
+msgid "Incorect confirmation code"
+msgstr "Incorect confirmation code"
+
+msgid "Responsible Gaming Settings"
+msgstr "Responsible Gaming Settings"
+
+msgid "Responsible gaming text"
+msgstr "Responsible gaming text"
+
+msgid "Add Limit"
+msgstr "Legg til grense"
+
+msgid "Set the limit you can play for each session"
+msgstr "Set the limit you can play for each session"
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr "Do not allow me to access my sportsbook account for the next 7 days"
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr "Do not allow me to access my sportsbook account for the next 6 months"
+
+msgid "Block Account"
+msgstr "Blokkere konto"
+
+msgid "Permanently delete your account."
+msgstr "Permanent sletting av kontoen din."
+
+msgid "Delete My Account"
+msgstr "Slette kontoen min"
+
+msgid "Open account with us!"
+msgstr "Open account with us!"
+
+msgid "Account data"
+msgstr "Account data"
+
+msgid "Confirm password"
+msgstr "Bekreft passord"
+
+msgid "Personal question"
+msgstr "Personal question"
+
+msgid "Personal answer"
+msgstr "Personal answer"
+
+msgid "Referral ID"
+msgstr "Referral ID"
+
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Bank data (This is section can be filled later)"
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Jeg er over 18 år og har lest og akseptert"
+
+msgid "Terms And Conditions"
+msgstr "Vilkår og betingelser"
+
+msgid "Confirm registration"
+msgstr "Bekreft registrering"
+
+msgid "Password Reset"
+msgstr "Reset passord"
+
+msgid "Enter your new password"
+msgstr "Skriv inn ditt nye passord"
+
+msgid "Change password"
+msgstr "Endre passord"
+
+msgid "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+msgstr "Fill in email details below. Password reset link sent to your entered email. You will be able to create a new password which you can use to login."
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr "To withdraw money please insert amount and process transaction below:"
+
+msgid "Withdraw ID"
+msgstr "Withdraw ID"
+
+msgid "Request Manual Withdraw"
+msgstr "Request Manual Withdraw"
+
+msgid "Transaction Log"
+msgstr "Transaksjon Logg"
+
+msgid "List of transactions:"
+msgstr "List of transactions:"
+
+msgid "Transaction Type"
+msgstr "Transaksjonstype"
+
+msgid "Add/Edit %s"
+msgstr "Add/Edit %s"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Parent"
+msgstr "Parent"
+
+msgid "Created"
+msgstr "Skape"
+
+msgid "Modified"
+msgstr "Modified"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Custom Affiliate ID"
+msgstr "Custom Affiliate ID"
+
+msgid "Submit"
+msgstr "Sende inn"
+
+msgid "List %s"
+msgstr "List %s"
+
+msgid "File"
+msgstr "File"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Alert ID"
+msgstr "Alert ID"
+
+msgid "User id"
+msgstr "User id"
+
+msgid "Alert Title"
+msgstr "Alert Title"
+
+msgid "Alert"
+msgstr "Alert"
+
+msgid "Add bet"
+msgstr "Add bet"
+
+msgid "Alerts"
+msgstr "Alerts"
+
+msgid "Admin Audit Trail"
+msgstr "Admin Audit Trail"
+
+msgid "Application File Backups"
+msgstr "Application File Backups"
+
+msgid "Database Backups"
+msgstr "Database Backups"
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar Feeds Log"
+
+msgid "Liability Dumps"
+msgstr "Liability Dumps"
+
+msgid "Data list"
+msgstr "Data list"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Translations"
+msgstr "Translations"
+
+msgid "Translate"
+msgstr "Translate"
+
+msgid "No records found"
+msgstr "No records found"
+
+msgid "Sports and Leagues"
+msgstr "Sports and Leagues"
+
+msgid "Events management"
+msgstr "Events management"
+
+msgid "Events Printing"
+msgstr "Events Printing"
+
+msgid "Users report"
+msgstr "Users report"
+
+msgid "Tickets report"
+msgstr "Tickets report"
+
+msgid "Deposits report"
+msgstr "Deposits report"
+
+msgid "Witdraw report"
+msgstr "Witdraw report"
+
+msgid "Liability report"
+msgstr "Liability report"
+
+msgid "Active Users"
+msgstr "Active Users"
+
+msgid "locale"
+msgstr "locale"
+
+msgid "Create %s"
+msgstr "Create %s"
+
+msgid "Event ID"
+msgstr "Event ID"
+
+msgid "User:"
+msgstr "User:"
+
+msgid "Level:"
+msgstr "Level:"
+
+msgid "Current Time:"
+msgstr "Current Time:"
+
+msgid "Current Language:"
+msgstr "Current Language:"
+
+msgid "Front Page"
+msgstr "Front Page"
+
+msgid "Under / Over"
+msgstr "Under / Over"
+
+msgid "Handicap"
+msgstr "Handicap"
+
+msgid "%s Printing"
+msgstr "%s Printing"
+
+msgid "Available Events List For:"
+msgstr "Available Events List For:"
+
+msgid "Unknown Sport"
+msgstr "Unknown Sport"
+
+msgid "Please select sport below:"
+msgstr "Please select sport below:"
+
+msgid "View Events"
+msgstr "View Events"
+
+msgid "No available events found for this sport"
+msgstr "No available events found for this sport"
+
+msgid "Can not find event"
+msgstr "Can not find event"
+
+msgid "Edit %s"
+msgstr "Edit %s"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Users %s"
+msgstr "Users %s"
+
+msgid "Edit User"
+msgstr "Edit User"
+
+msgid "Administration Panel"
+msgstr "Administration Panel"
+
+msgid "Logout"
+msgstr "Logg ut"
+
+msgid "Staff Login"
+msgstr "Staff Login"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Available cultures"
+msgstr "Available cultures"
+
+msgid "Add a culture"
+msgstr "Add a culture"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Cultures this site supports"
+msgstr "Cultures this site supports"
+
+msgid "X"
+msgstr "X"
+
+msgid "Are you sure you want to delete"
+msgstr "Are you sure you want to delete"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Write promotion letter to all user. Messages will arrive to users email addresses."
+msgstr "Write promotion letter to all user. Messages will arrive to users email addresses."
+
+msgid "Subject:"
+msgstr "Subject:"
+
+msgid "Content:"
+msgstr "Content:"
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Last ned alle e-poster (csv fil)"
+
+msgid "Write promotion letter to certain user. Message will arrive to user email address."
+msgstr "Write promotion letter to certain user. Message will arrive to user email address."
+
+msgid "To:"
+msgstr "To:"
+
+msgid "Contact support team"
+msgstr "Contact support team"
+
+msgid "<br>No data in this period"
+msgstr "<br>No data in this period"
+
+msgid "No data in this period"
+msgstr "No data in this period"
+
+msgid "User name"
+msgstr "User name"
+
+msgid "Date of registration"
+msgstr "Date of registration"
+
+msgid "Won"
+msgstr "Won"
+
+msgid "Liability"
+msgstr "Liability"
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Liability Cancelled the Bonus"
+
+msgid "Download (Excel file)"
+msgstr "Download (Excel file)"
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Are you sure you want to cancel this event?"
+
+msgid "No events found"
+msgstr "No events found"
+
+msgid "No events in this league"
+msgstr "No events in this league"
+
+msgid "Risk Management Settings"
+msgstr "Risk Management Settings"
+
+msgid "Risk management is crucial for sportsbook. Please be careful in setting all options."
+msgstr "Risk management is crucial for sportsbook. Please be careful in setting all options."
+
+msgid "Lowest stake"
+msgstr "Lowest stake"
+
+msgid "Highest stake"
+msgstr "Highest stake"
+
+msgid "Highest winning amount"
+msgstr "Highest winning amount"
+
+msgid "Lowest number of events in one ticket"
+msgstr "Lowest number of events in one ticket"
+
+msgid "Highest number of events in one ticket"
+msgstr "Highest number of events in one ticket"
+
+msgid "List Leagues"
+msgstr "List Leagues"
+
+msgid "League ID"
+msgstr "League ID"
+
+msgid "No limits"
+msgstr "Ingen grense"
+
+msgid "List Sports"
+msgstr "List Sports"
+
+msgid "Sport ID"
+msgstr "Sport ID"
+
+msgid "Warning Withdraws"
+msgstr "Warning Withdraws"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Warning Stakes"
+msgstr "Warning Stakes"
+
+msgid "Warning Winnings"
+msgstr "Warning Winnings"
+
+msgid "Warning Deposits"
+msgstr "Warning Deposits"
+
+msgid "amount"
+msgstr "beløp"
+
+msgid "Deposit fee percentage"
+msgstr "Deposit fee percentage"
+
+msgid "Payment gateways"
+msgstr "Payment gateways"
+
+msgid "Please set payment gateways below:"
+msgstr "Please set payment gateways below:"
+
+msgid "Payments"
+msgstr "Payments"
+
+msgid "Deposits %s"
+msgstr "Deposits %s"
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Please set deposit risk management setting below:"
+
+msgid "Allow automated deposits"
+msgstr "Allow automated deposits"
+
+msgid "Allow manual deposits"
+msgstr "Allow manual deposits"
+
+msgid "Lowest amount for deposit"
+msgstr "Lowest amount for deposit"
+
+msgid "Highest amount for deposit"
+msgstr "Highest amount for deposit"
+
+msgid "General %s"
+msgstr "General %s"
+
+msgid "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+msgstr "General settings controls some of the most basic configuration settings for your site: your site's title and location, who may register an account at your site, and how dates and times are calculated and displayed."
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Contact Email"
+msgstr "Contact Email"
+
+msgid "Password reset"
+msgstr "Password reset"
+
+msgid "Default currency"
+msgstr "Default currency"
+
+msgid "Default timezone:"
+msgstr "Standard tidssone:"
+
+msgid "Default language"
+msgstr "Default language"
+
+msgid "Charset"
+msgstr "Charset"
+
+msgid "Items per page"
+msgstr "Items per page"
+
+msgid "Referral system"
+msgstr "Referral system"
+
+msgid "Left active"
+msgstr "Left active"
+
+msgid "Left sidebar title"
+msgstr "Left sidebar title"
+
+msgid "Left sidebar content"
+msgstr "Left sidebar content"
+
+msgid "Right active"
+msgstr "Right active"
+
+msgid "Right sidebar title"
+msgstr "Right sidebar title"
+
+msgid "Right sidebar content"
+msgstr "Right sidebar content"
+
+msgid "Bottom active"
+msgstr "Bottom active"
+
+msgid "Bottom sidebar title"
+msgstr "Bottom sidebar title"
+
+msgid "Bottom sidebar content"
+msgstr "Bottom sidebar content"
+
+msgid "Referral Settings"
+msgstr "Referral Settings"
+
+msgid "First deposit percentage to referral"
+msgstr "First deposit percentage to referral"
+
+msgid "SEO %s"
+msgstr "SEO %s"
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "What Is <b>SEO</b> / Search Engine Optimization?"
+
+msgid "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or \"\"natural\"\" listings on search engines. All major search engines such as Google, Yahoo and Bing have such results, where web pages and other content such as videos or local listings are shown and ranked based on what the search engine considers most relevant to users. Payment is not involved, as it is with paid search ads.\""
+msgstr "SEO stands for \"search engine optimization.\"\" It is the process of getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or \"\"natural\"\" listings on search engines. All major search engines such as Google, Yahoo and Bing have such results, where web pages and other content such as videos or local listings are shown and ranked based on what the search engine considers most relevant to users. Payment is not involved, as it is with paid search ads.\""
+
+msgid "Title tag"
+msgstr "Title tag"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Reply to email"
+msgstr "Reply to email"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Bot content revisit time"
+msgstr "Bot content revisit time"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Tickets %s"
+msgstr "Tickets %s"
+
+msgid "General ticket controls some of the most basic configuration related to tickets and printing functions."
+msgstr "General ticket controls some of the most basic configuration related to tickets and printing functions."
+
+msgid "Ticket printing"
+msgstr "Ticket printing"
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr "Enable (Yes) or disable (No) ticket printing for users and staff."
+
+msgid "Ticket preview"
+msgstr "Ticket preview"
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+
+msgid "Warnings %s"
+msgstr "Warnings %s"
+
+msgid "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+msgstr "Warning settings would help you to filter warning screen with unnecessary alerts. Please consider what is crucial for you sportsbook and use this function to secure your profit."
+
+msgid "Deposit alert"
+msgstr "Deposit alert"
+
+msgid "Withdraw alert"
+msgstr "Withdraw alert"
+
+msgid "Stake alert"
+msgstr "Stake alert"
+
+msgid "Odds alert"
+msgstr "Odds alert"
+
+msgid "Potential winning alert"
+msgstr "Potential winning alert"
+
+msgid "Allow withdraws"
+msgstr "Allow withdraws"
+
+msgid "Withdraw %s"
+msgstr "Withdraw %s"
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Please set withdraw risk management setting below:"
+
+msgid "Lowest amount for withdraw request"
+msgstr "Lowest amount for withdraw request"
+
+msgid "Highest amount for withdraw request"
+msgstr "Highest amount for withdraw request"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Leagues"
+msgstr "Leagues"
+
+msgid "View %s"
+msgstr "View %s"
+
+msgid "Ticket Number"
+msgstr "Ticket Number"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Ticket will be deleted. Are you sure you want to delete?"
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Ticket will be canceled. Are you sure you want to cancel?"
+
+msgid "Insert Result"
+msgstr "Insert Result"
+
+msgid "Fund user"
+msgstr "Fund user"
+
+msgid "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 USD"
+msgstr "To fund just enter amount into the input field and press submit. For example if you want to fund just creadit user with 100 USD"
+
+msgid " just enter that amount into field and press submit"
+msgstr " just enter that amount into field and press submit"
+
+msgid "Charge user"
+msgstr "Charge user"
+
+msgid "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200"
+msgstr "To charge enter amount and money will be reduced from user account. For example if you want to charge just credit user with 200"
+
+msgid "USD just enter that amount into field and press submit"
+msgstr "USD just enter that amount into field and press submit"
+
+msgid "Add %s"
+msgstr "Add %s"
+
+msgid "Registration chart"
+msgstr "Registration chart"
+
+msgid "KYC user"
+msgstr "KYC user"
+
+msgid "KYC Documents"
+msgstr "KYC Documents"
+
+msgid "Change KYC Status"
+msgstr "Change KYC Status"
+
+msgid "Deposits Bonus History"
+msgstr "Deposits Bonus History"
+
+msgid "Sum"
+msgstr "Sum"
+
+msgid "Affiliates"
+msgstr "Affiliates"
+
+msgid "Kick"
+msgstr "Kick"
+
+msgid "Email has been confirmed. You can now login."
+msgstr "Email has been confirmed. You can now login."
+
+msgid "Register now!"
+msgstr "Register now!"
+
+msgid "Forgotten your password?"
+msgstr "Forgotten your password?"
+
+msgid "Old Password"
+msgstr "Gammelt Passord"
+
+msgid "New Password"
+msgstr "Nytt Passord"
+
+msgid "Reset Password"
+msgstr "Tilbakestill Passord"
+
+msgid "Bank info"
+msgstr "Bank info"
+
+msgid "Please provide your bank info"
+msgstr "Please provide your bank info"
+
+msgid "Account number"
+msgstr "Account number"
+
+msgid "Transaction"
+msgstr "Transaction"
+
+msgid "User Balance"
+msgstr "User Balance"
+
+msgid "Please enter your surname"
+msgstr "Please enter your surname"
+
+msgid "Please enter your first name"
+msgstr "Please enter your first name"
+
+msgid "Please enter your address"
+msgstr "Please enter your address"
+
+msgid "Please enter your Region"
+msgstr "Please enter your Region"
+
+msgid "Please enter your City of residence"
+msgstr "Please enter your City of residence"
+
+msgid "Alphabets and numbers only"
+msgstr "Alphabets and numbers only"
+
+msgid "Between 5 to 15 characters"
+msgstr "Between 5 to 15 characters"
+
+msgid "This username has already been taken."
+msgstr "This username has already been taken."
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Password must be Between 6 to 15 characters"
+
+msgid "Password must contain at least one number"
+msgstr "Password must contain at least one number"
+
+msgid "Password must contain at least one letter"
+msgstr "Password must contain at least one letter"
+
+msgid "Please enter valid email address"
+msgstr "Please enter valid email address"
+
+msgid "This email has already been registered."
+msgstr "Denne e-postmeldingen er allerede registrert."
+
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+msgid "Please enter your street address"
+msgstr "Please enter your street address"
+
+msgid "Please enter city"
+msgstr "Please enter city"
+
+msgid "Please enter country"
+msgstr "Please enter country"
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "User should be over 21 years old to complete registration"
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "User should be over 18 years old to complete registration"
+
+msgid "Please enter valid mobile number"
+msgstr "Please enter valid mobile number"
+
+msgid "Please your personal question"
+msgstr "Please your personal question"
+
+msgid "Please enter valid answer"
+msgstr "Please enter valid answer"
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "You need to accept the Terms Of Use to be able to register."
+
+msgid "This field cannot be left blank"
+msgstr "This field cannot be left blank"
+
+msgid "Mimimum 5 characters long"
+msgstr "Mimimum 5 characters long"
+
+msgid "The username should be different from email"
+msgstr "The username should be different from email"
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Password must be Between 8 to 15 characters"
+
+msgid "The Password has to be different from username."
+msgstr "The Password has to be different from username."
+
+msgid "It seems that you are already registered."
+msgstr "It seems that you are already registered."
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Please enter your street address or street address does not exist"
+
+msgid "Debug setting does not allow access to this url."
+msgstr "Debug setting does not allow access to this url."
+
+msgid "Match odds"
+msgstr "Match odds"
+
+msgid "Remaining match"
+msgstr "Remaining match"
+
+msgid "Next Goal"
+msgstr "Next Goal"
+
+msgid "Total Goals +/-"
+msgstr "Total Goals +/-"
+
+msgid "Match odds (1 2)"
+msgstr "Match odds (1 2)"
+
+msgid "Set 1 2"
+msgstr "Set 1 2"
+
+msgid "Set Score"
+msgstr "Set Score"
+
+msgid "Sets Overall"
+msgstr "Sets Overall"
+
+msgid "Total Points +/-"
+msgstr "Total Points +/-"
+
+msgid "Goals from now +/-"
+msgstr "Goals from now +/-"
+
+msgid "Match odds (1x2)"
+msgstr "Match odds (1x2)"
+
+msgid "1 hour"
+msgstr "1 hour"
+
+msgid "2 hours"
+msgstr "2 hours"
+
+msgid "3 hours"
+msgstr "3 hours"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "LIVE"
+msgstr "LIVE"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Click on team name for extra bets"
+msgstr "Click on team name for extra bets"
+
+msgid "Upcoming Live Matches"
+msgstr "Upcoming Live Matches"
+
+msgid "Login For"
+msgstr "Login For"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "Bet Slip"
+msgstr "Bet Slip"
+
+msgid "open"
+msgstr "open"
+
+msgid "Sport Bets"
+msgstr "Sport Bets"
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr "Great odds on football,tennis, ice hokey and many more"
+
+msgid "Number of Bets Placed: "
+msgstr "Number of Bets Placed: "
+
+msgid "Max Wager for bets:"
+msgstr "Max Wager for bets:"
+
+msgid "Wager:"
+msgstr "Wager:"
+
+msgid "Max Payout:"
+msgstr "Max Payout:"
+
+msgid "All games / All events"
+msgstr "All games / All events"
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr "All games at one look, all normal sports and all odds can be combined ."
+
+msgid "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+msgstr "Get this innovative service now from us. Live games meeting like never before! Good Luck!!"
+
+msgid "more groups"
+msgstr "more groups"
+
+msgid "Draw no Bet Period"
+msgstr "Draw no Bet Period"
+
+msgid "Total x Period"
+msgstr "Total x Period"
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Setup Deposit Limits on your Account"
+
+msgid "Play Session Limit"
+msgstr "Øktgrense ved spilling"
+
+msgid "Wager Limit"
+msgstr "Omsetningsgrense"
+
+msgid "Loss Limit"
+msgstr "Tapsgrense"
+
+msgid "Self Exclusion"
+msgstr "Selvutestengelse"
+
+msgid "DELETE ACCOUNT"
+msgstr "SLETTE KONTO"
+
+msgid "Per Transaction"
+msgstr "Per Transaction"
+
+msgid "Daily"
+msgstr "Daily"
+
+msgid "Weekly"
+msgstr "Weekly"
+
+msgid "Monthly"
+msgstr "Monthly"
+
+msgid "No Limit"
+msgstr "Ingen grense"
+
+msgid "After %s minutes"
+msgstr "After %s minutes"
+
+msgid "After one Hour"
+msgstr "After one Hour"
+
+msgid "After two Hours"
+msgstr "After two Hours"
+
+msgid "Login For:"
+msgstr "Login For:"
+
+msgid "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr "You have been playing for the past %s minutes during which you have: <br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+
+msgid "Outdated Browser Detected"
+msgstr "Outdated Browser Detected"
+
+msgid "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+msgstr "Our website has detected that you are using an outdated browser. Using your current browser will prevent you from accessing features on our website. An upgrade is not required, but is strongly recommend to improve your browsing experience on our website."
+
+msgid "Use the links below to download a new browser or upgrade your existing browser."
+msgstr "Use the links below to download a new browser or upgrade your existing browser."
+
+msgid "Remind me later"
+msgstr "Remind me later"
+
+msgid "No available Bonuses."
+msgstr "No available Bonuses."
+
+msgid "Available Bonuses."
+msgstr "Available Bonuses."
+
+msgid "Locked Amount"
+msgstr "Locked Amount"
+
+msgid "Opened on"
+msgstr "Opened on"
+
+msgid "Activation Date"
+msgstr "Activation Date"
+
+msgid "Expiration Date"
+msgstr "Expiration Date"
+
+msgid "Account Information"
+msgstr "Kontoinformasjon"
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr "Results Tables Schedules and Livescore for all leagues and events"
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Play roulette, BlackJack and Baccarat in the Live Casino"
+
+msgid "Identity Card (back view)"
+msgstr "Identitetskort (baksiden)"
+
+msgid "Identity Card (front view)"
+msgstr "Identitetskort (forsiden)"
+
+msgid "Electricity, Water, Landline Bill of the last 3 months"
+msgstr "Husholdningsregning fra de tre siste månedene"
+
+msgid "Bank Account"
+msgstr "Bank Account"
+
+msgid "Register now and get bonus"
+msgstr "Register now and get bonus"
+
+msgid "Top Winner"
+msgstr "Top Winner"
+
+msgid "close"
+msgstr "close"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "Instant Play"
+msgstr "Instant Play"
+
+msgid "Live Video Streaming"
+msgstr "Live Video Streaming"
+
+msgid "Betslip Wagering"
+msgstr "Betslip Wagering"
+
+msgid "Ticket Win"
+msgstr "Ticket Win"
+
+msgid "Bonus Cancellation by user."
+msgstr "Bonus Cancellation by user."
+
+msgid "Bonus activation"
+msgstr "Bonus activation"
+
+msgid "APCO Deposit"
+msgstr "APCO Deposit"
+
+msgid "Account Deposit"
+msgstr "Account Deposit"
+
+msgid "Live Casino Transaction"
+msgstr "Live Casino Transaction"
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Live Casino RollBack Transaction"
+
+msgid "in every game"
+msgstr "in every game"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Log in"
+msgstr "Log in"
+
+msgid "Stake:"
+msgstr "Stake:"
+
+msgid "View Tickets"
+msgstr "Se Billetter"
+
+msgid "Number of Bets Placed:"
+msgstr "Number of Bets Placed:"
+
+msgid "Max Wager for bets: "
+msgstr "Max Wager for bets: "
+
+msgid "bets"
+msgstr "bets"
+
+msgid "Admin add Funds"
+msgstr "Admin add Funds"
+
+msgid "Bonus activation:"
+msgstr "Bonus activation:"
+
+msgid "APCO Deposit:"
+msgstr "APCO Deposit:"
+
+msgid "Withdrawal"
+msgstr "Withdrawal"
+
+msgid "Betslip Cancellation:"
+msgstr "Betslip Cancellation:"
+
+msgid "Cancelled WithDrawal"
+msgstr "Cancelled WithDrawal"
+
+msgid "Ticket Cancelled"
+msgstr "Ticket Cancelled"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Bet Split"
+msgstr "Bet Split"
+
+msgid "The Company"
+msgstr "The Company"
+
+msgid "Help & Legal"
+msgstr "Help & Legal"
+
+msgid "Useful Links"
+msgstr "Useful Links"
+
+msgid "Payment Options"
+msgstr "Payment Options"
+
+msgid "Extra Bets"
+msgstr "Extra Bets"
+
+msgid "No, don't remind me again"
+msgstr "No, don't remind me again"
+
+msgid "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+msgstr "Choose your favorite sport league from the menu on the left. So you can find it next time you visit"
+
+msgid "3 Way"
+msgstr "3 Way"
+
+msgid "2 Way"
+msgstr "2 Way"
+
+msgid "Totals"
+msgstr "Totals"
+
+msgid "Championship Outrights"
+msgstr "Championship Outrights"
+
+msgid "Short Term Outrights"
+msgstr "Short Term Outrights"
+
+msgid "Podium Finish"
+msgstr "Podium Finish"
+
+msgid "3-balls"
+msgstr "3-balls"
+
+msgid "Correct score"
+msgstr "Correct score"
+
+msgid "First Team to score"
+msgstr "First Team to score"
+
+msgid "1st Half - 1X2"
+msgstr "1st Half - 1X2"
+
+msgid "Both Teams to Score"
+msgstr "Both Teams to Score"
+
+msgid "Odd/Even goals"
+msgstr "Odd/Even goals"
+
+msgid "Draw no bet"
+msgstr "Draw no bet"
+
+msgid "Goals home team"
+msgstr "Goals home team"
+
+msgid "Goals away team"
+msgstr "Goals away team"
+
+msgid "Asian Handicap"
+msgstr "Asian Handicap"
+
+msgid "Asian Total"
+msgstr "Asian Total"
+
+msgid "1st Half - Asian Handicap"
+msgstr "1st Half - Asian Handicap"
+
+msgid "1st Half - Asian Total"
+msgstr "1st Half - Asian Total"
+
+msgid "European Handicap"
+msgstr "European Handicap"
+
+msgid "First goalscorer"
+msgstr "First goalscorer"
+
+msgid "Total Goals (aggregated)"
+msgstr "Total Goals (aggregated)"
+
+msgid "1st Half - Correct Score"
+msgstr "1st Half - Correct Score"
+
+msgid "Highest scoring half"
+msgstr "Highest scoring half"
+
+msgid "Matchbet + Totals"
+msgstr "Matchbet + Totals"
+
+msgid "Matchflow"
+msgstr "Matchflow"
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1st Half - Odd/Even Goals"
+
+msgid "Overtime yes/no"
+msgstr "Overtime yes/no"
+
+msgid "Winning margins"
+msgstr "Winning margins"
+
+msgid "Anytime goalscorer"
+msgstr "Anytime goalscorer"
+
+msgid "Total number of bookings"
+msgstr "Total number of bookings"
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1st Half - Total Number of Bookings"
+
+msgid "Total number of booking points"
+msgstr "Total number of booking points"
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1st Half - Total Number of Booking Points"
+
+msgid "Player sent off?"
+msgstr "Player sent off?"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1st Half - Player Sent Off?"
+
+msgid "Number of bookings home"
+msgstr "Number of bookings home"
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1st Half - Number of Bookings Home"
+
+msgid "Number of bookings away"
+msgstr "Number of bookings away"
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1st Half - Number of Bookings Away"
+
+msgid "First Team Booked"
+msgstr "First Team Booked"
+
+msgid "1st Half - First Team Booked"
+msgstr "1st Half - First Team Booked"
+
+msgid "Match bookings"
+msgstr "Match bookings"
+
+msgid "1st Half - Match Bookings"
+msgstr "1st Half - Match Bookings"
+
+msgid "Aggregated booking points"
+msgstr "Aggregated booking points"
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1st Half - Aggregated Booking Points"
+
+msgid "Exact bookings"
+msgstr "Exact bookings"
+
+msgid "1st Half - Exact Bookings"
+msgstr "1st Half - Exact Bookings"
+
+msgid "Home Team Player Sent Off"
+msgstr "Home Team Player Sent Off"
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1st Half - Home Team Player Sent Off"
+
+msgid "Away Team Player Sent Off"
+msgstr "Away Team Player Sent Off"
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1st Half - Away team Player Sent Off"
+
+msgid "Total Goals (exact)"
+msgstr "Total Goals (exact)"
+
+msgid "2nd Half - 1X2"
+msgstr "2nd Half - 1X2"
+
+msgid "2nd Half - Asian Total"
+msgstr "2nd Half - Asian Total"
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2nd Half - Asian Handicap"
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Halftime/Fulltime Correct Score"
+
+msgid "Overtime + goal Yes/No"
+msgstr "Overtime + goal Yes/No"
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Penalty shoot out Yes/No"
+
+msgid "How will the match be decided?"
+msgstr "How will the match be decided?"
+
+msgid "Clean sheet home team"
+msgstr "Clean sheet home team"
+
+msgid "Clean sheet away team"
+msgstr "Clean sheet away team"
+
+msgid "Which team to score"
+msgstr "Which team to score"
+
+msgid "1st Half - Total Goals"
+msgstr "1st Half - Total Goals"
+
+msgid "2nd Half - Total Goals"
+msgstr "2nd Half - Total Goals"
+
+msgid "Total corners"
+msgstr "Total corners"
+
+msgid "1st Half - Total Corners"
+msgstr "1st Half - Total Corners"
+
+msgid "Corner handicap"
+msgstr "Corner handicap"
+
+msgid "1st Half - Corner Handicap"
+msgstr "1st Half - Corner Handicap"
+
+msgid "Corner matchbet"
+msgstr "Corner matchbet"
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1st Half - Corner Matchbet"
+
+msgid "Corner Odd/Even"
+msgstr "Corner Odd/Even"
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1st Half - Corner Odd/Even"
+
+msgid "First corner"
+msgstr "First corner"
+
+msgid "1st Half - First Corner"
+msgstr "1st Half - First Corner"
+
+msgid "Home Team Number of Corners"
+msgstr "Home Team Number of Corners"
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1st Half - Home Team Number of Corners"
+
+msgid "1st Half - Totals"
+msgstr "1st Half - Totals"
+
+msgid "2nd Half - Totals"
+msgstr "2nd Half - Totals"
+
+msgid "Last corner"
+msgstr "Last corner"
+
+msgid "1st Half - Last Corner"
+msgstr "1st Half - Last Corner"
+
+msgid "Away Team Number of Corners"
+msgstr "Away Team Number of Corners"
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1st Half - Away Team Number of Corners"
+
+msgid "Last team to score"
+msgstr "Last team to score"
+
+msgid "Corner Total (Aggregated)"
+msgstr "Corner Total (Aggregated)"
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1st Half - Corner Total (Aggregated)"
+
+msgid "Home to win both halves?"
+msgstr "Home to win both halves?"
+
+msgid "Home to win either half?"
+msgstr "Home to win either half?"
+
+msgid "Home to score in both halves?"
+msgstr "Home to score in both halves?"
+
+msgid "Away to win both halves?"
+msgstr "Away to win both halves?"
+
+msgid "Away to win either half?"
+msgstr "Away to win either half?"
+
+msgid "Away to score in both halves?"
+msgstr "Away to score in both halves?"
+
+msgid "Both halves over 1.5?"
+msgstr "Both halves over 1.5?"
+
+msgid "Both halves under 1.5?"
+msgstr "Both halves under 1.5?"
+
+msgid "1st Half Double Chance"
+msgstr "1st Half Double Chance"
+
+msgid "1st Half Draw no Bet"
+msgstr "1st Half Draw no Bet"
+
+msgid "First goal interval 10 min"
+msgstr "First goal interval 10 min"
+
+msgid "First goal interval 15 min"
+msgstr "First goal interval 15 min"
+
+msgid "First 10 minutes -3 way"
+msgstr "First 10 minutes -3 way"
+
+msgid "1st Half - Both Teams to score"
+msgstr "1st Half - Both Teams to score"
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2nd Half - Both Teams to score"
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Highest Scoring Half Hometeam"
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Highest Scoring Half Awayteam"
+
+msgid "Correct score (incl. other)"
+msgstr "Correct score (incl. other)"
+
+msgid "Odd/Even Points"
+msgstr "Odd/Even Points"
+
+msgid "Points Spreads"
+msgstr "Points Spreads"
+
+msgid "Total Spreads"
+msgstr "Total Spreads"
+
+msgid "1st Half - Points Spread"
+msgstr "1st Half - Points Spread"
+
+msgid "1st Half - Total Spread"
+msgstr "1st Half - Total Spread"
+
+msgid "Matchbet and Totals"
+msgstr "Matchbet and Totals"
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1st Half - Odd/Even Points"
+
+msgid "1st Half - 2way"
+msgstr "1st Half - 2way"
+
+msgid "Highest Scoring Quarter"
+msgstr "Highest Scoring Quarter"
+
+msgid "3way"
+msgstr "3way"
+
+msgid "2nd Half - Points Spread"
+msgstr "2nd Half - Points Spread"
+
+msgid "2nd Half - Total Spread"
+msgstr "2nd Half - Total Spread"
+
+msgid "1st Half - Draw no bet"
+msgstr "1st Half - Draw no bet"
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2nd Half - Odd/Even Points"
+
+msgid "2nd Half - Draw no bet"
+msgstr "2nd Half - Draw no bet"
+
+msgid "Total margins NBA-ranges"
+msgstr "Total margins NBA-ranges"
+
+msgid "Total margins Regular-ranges"
+msgstr "Total margins Regular-ranges"
+
+msgid "Totals away team"
+msgstr "Totals away team"
+
+msgid "Totals home team"
+msgstr "Totals home team"
+
+msgid "1st Quarter - 1X2"
+msgstr "1st Quarter - 1X2"
+
+msgid "2nd Quarter - 1X2"
+msgstr "2nd Quarter - 1X2"
+
+msgid "3rd Quarter - 1X2"
+msgstr "3rd Quarter - 1X2"
+
+msgid "4th Quarter - 1X2"
+msgstr "4th Quarter - 1X2"
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1st Quarter - Draw no bet"
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2nd Quarter - Draw no bet"
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3rd Quarter - Draw no bet"
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4th Quarter - Draw no bet"
+
+msgid "1st Quarter - Total Spread"
+msgstr "1st Quarter - Total Spread"
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2nd Quarter - Total Spread"
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3rd Quarter - Total Spread"
+
+msgid "4th Quarter - Total Spread"
+msgstr "4th Quarter - Total Spread"
+
+msgid "1st Quarter - Points Spread"
+msgstr "1st Quarter - Points Spread"
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2nd Quarter - Points Spread"
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3rd Quarter - Points Spread"
+
+msgid "4th Quarter - Points Spread"
+msgstr "4th Quarter - Points Spread"
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1st Quarter - Odd/Even Points"
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2nd Quarter - Odd/Even Points"
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3rd Quarter - Odd/Even Points"
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4th Quarter - Odd/Even Points"
+
+msgid "First to x points"
+msgstr "First to x points"
+
+msgid "Total AAMS"
+msgstr "Total AAMS"
+
+msgid "Total 3way"
+msgstr "Total 3way"
+
+msgid "Points Spreads (Overtime)"
+msgstr "Points Spreads (Overtime)"
+
+msgid "Total Spreads (Overtime)"
+msgstr "Total Spreads (Overtime)"
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Odd/Even Runs (Overtime)"
+
+msgid "Correct Score"
+msgstr "Correct Score"
+
+msgid "Both teams to score?"
+msgstr "Both teams to score?"
+
+msgid "Goal Spreads"
+msgstr "Goal Spreads"
+
+msgid "1st Period - 3way"
+msgstr "1st Period - 3way"
+
+msgid "3rd Period - 3way"
+msgstr "3rd Period - 3way"
+
+msgid "1st Period – Total"
+msgstr "1st Period – Total"
+
+msgid "2nd Period – Total"
+msgstr "2nd Period – Total"
+
+msgid "3rd Period – Total"
+msgstr "3rd Period – Total"
+
+msgid "1st Period - Double Chance"
+msgstr "1st Period - Double Chance"
+
+msgid "2nd Period - Double Chance"
+msgstr "2nd Period - Double Chance"
+
+msgid "3rd Period - Double Chance"
+msgstr "3rd Period - Double Chance"
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Odd/Even goals (Inc. OT and Penalty Shootout)"
+
+msgid "Highest Scoring Period"
+msgstr "Highest Scoring Period"
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Goal Spreads (incl. OT)"
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Total Spreads (incl. OT)"
+
+msgid "Last team to Score"
+msgstr "Last team to Score"
+
+msgid "2nd Period - 3way"
+msgstr "2nd Period - 3way"
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1st Period - Odd/Even goals"
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2nd Period - Odd/Even goals"
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3rd Period - Odd/Even goals"
+
+msgid "1st Period - Draw no bet"
+msgstr "1st Period - Draw no bet"
+
+msgid "2nd Period - Draw no bet"
+msgstr "2nd Period - Draw no bet"
+
+msgid "3rd Period - Draw no bet"
+msgstr "3rd Period - Draw no bet"
+
+msgid "2nd Period - Both teams to score"
+msgstr "2nd Period - Both teams to score"
+
+msgid "3rd Period - Both teams to score"
+msgstr "3rd Period - Both teams to score"
+
+msgid "1st Period - Goal Spreads"
+msgstr "1st Period - Goal Spreads"
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2nd Period - Goal Spreads"
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3rd Period - Goal Spreads"
+
+msgid "2nd Period - First team to score"
+msgstr "2nd Period - First team to score"
+
+msgid "3rd Period - First team to score"
+msgstr "3rd Period - First team to score"
+
+msgid "1st Period - Last team to score"
+msgstr "1st Period - Last team to score"
+
+msgid "2nd Period - Last team to score"
+msgstr "2nd Period - Last team to score"
+
+msgid "3rd Period - Last team to score"
+msgstr "3rd Period - Last team to score"
+
+msgid "1st Period - Both teams to score"
+msgstr "1st Period - Both teams to score"
+
+msgid "Totals (incl. OT)"
+msgstr "Totals (incl. OT)"
+
+msgid "2way (incl. OT)"
+msgstr "2way (incl. OT)"
+
+msgid "1st Set Winner"
+msgstr "1st Set Winner"
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Total Number of Sets (best of 3)"
+
+msgid "2nd Set Winner"
+msgstr "2nd Set Winner"
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Total Number of Sets (best of 5)"
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Correct Set Score (best of 3 sets)"
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Correct Set Score (best of 5 sets)"
+
+msgid "1st Half - 3way"
+msgstr "1st Half - 3way"
+
+msgid "Halftime / Fulltime"
+msgstr "Halftime / Fulltime"
+
+msgid "Odd / Even Goals"
+msgstr "Odd / Even Goals"
+
+msgid "1st Half - Goal Spread"
+msgstr "1st Half - Goal Spread"
+
+msgid "2nd half - 3way"
+msgstr "2nd half - 3way"
+
+msgid "1st half - Double Chance"
+msgstr "1st half - Double Chance"
+
+msgid "1st half - Draw no bet"
+msgstr "1st half - Draw no bet"
+
+msgid "1st Half - Odd / Even"
+msgstr "1st Half - Odd / Even"
+
+msgid "2nd Half - Odd / Even"
+msgstr "2nd Half - Odd / Even"
+
+msgid "2nd half - Draw no bet"
+msgstr "2nd half - Draw no bet"
+
+msgid "2nd half - Double Chance"
+msgstr "2nd half - Double Chance"
+
+msgid "Points Spread"
+msgstr "Points Spread"
+
+msgid "Winning Margins Rugby Union"
+msgstr "Winning Margins Rugby Union"
+
+msgid "Winning Margins Rugby League"
+msgstr "Winning Margins Rugby League"
+
+msgid "1st Half - Points Spreads"
+msgstr "1st Half - Points Spreads"
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1st Half – Odd/Even Points"
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Odd/Even Points (overtime)"
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2nd Half - Points Spread (incl. Overtime)"
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2nd Half - Total Spreads (incl. Overtime)"
+
+msgid "Who wins first set"
+msgstr "Who wins first set"
+
+msgid "Who wins second set"
+msgstr "Who wins second set"
+
+msgid "Total number of sets (best of 5)"
+msgstr "Total number of sets (best of 5)"
+
+msgid "Correct Set Score"
+msgstr "Correct Set Score"
+
+msgid "How many sets will exceed score limit?"
+msgstr "How many sets will exceed score limit?"
+
+msgid "1st Set Handicap"
+msgstr "1st Set Handicap"
+
+msgid "1st Set Total"
+msgstr "1st Set Total"
+
+msgid "1st Set Race to X"
+msgstr "1st Set Race to X"
+
+msgid "1st Set Odd/even"
+msgstr "1st Set Odd/even"
+
+msgid "Who wins third set"
+msgstr "Who wins third set"
+
+msgid "Who wins fourth set"
+msgstr "Who wins fourth set"
+
+msgid "Who wins fifth set"
+msgstr "Who wins fifth set"
+
+msgid "5th Set Played?"
+msgstr "5th Set Played?"
+
+msgid "4th Set Played?"
+msgstr "4th Set Played?"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Total number of sets (best of 3)"
+
+msgid "Line"
+msgstr "Line"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Under"
+msgstr "Under"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "goals"
+msgstr "goals"
+
+msgid "Goals"
+msgstr "Goals"
+
+msgid "Under and home"
+msgstr "Under and home"
+
+msgid "Under and draw"
+msgstr "Under and draw"
+
+msgid "Under and away"
+msgstr "Under and away"
+
+msgid "1st"
+msgstr "1ste"
+
+msgid "2nd"
+msgstr "2nde"
+
+msgid "Equal"
+msgstr "Equal"
+
+msgid "Hometeam scores first and home"
+msgstr "Hometeam scores first and home"
+
+msgid "Hometeam scores first and draw"
+msgstr "Hometeam scores first and draw"
+
+msgid "Hometeam scores first and away"
+msgstr "Hometeam scores first and away"
+
+msgid "Awayteam scores first and home"
+msgstr "Awayteam scores first and home"
+
+msgid "Awayteam scores first and draw"
+msgstr "Awayteam scores first and draw"
+
+msgid "Awayteam scores first and away"
+msgstr "Awayteam scores first and away"
+
+msgid "Odd"
+msgstr "Odd"
+
+msgid "Even"
+msgstr "Even"
+
+msgid "Others"
+msgstr "Others"
+
+msgid "Both teams"
+msgstr "Both teams"
+
+msgid "Over and away"
+msgstr "Over and away"
+
+msgid "Over and draw"
+msgstr "Over and draw"
+
+msgid "Over and home"
+msgstr "Over and home"
+
+msgid "other"
+msgstr "other"
+
+msgid "1st period"
+msgstr "1st period"
+
+msgid "2nd period"
+msgstr "2nd period"
+
+msgid "3rd period"
+msgstr "3rd period"
+
+msgid "1 sets"
+msgstr "1 sets"
+
+msgid "2 sets"
+msgstr "2 sets"
+
+msgid "3 sets"
+msgstr "3 sets"
+
+msgid "4 sets"
+msgstr "4 sets"
+
+msgid "5 sets"
+msgstr "5 sets"
+
+msgid "0 sets"
+msgstr "0 sets"
+
+msgid "1st quarter"
+msgstr "1st quarter"
+
+msgid "2nd quarter"
+msgstr "2nd quarter"
+
+msgid "3rd quarter"
+msgstr "3rd quarter"
+
+msgid "4th quarter"
+msgstr "4th quarter"
+
+msgid "No goal"
+msgstr "No goal"
+
+msgid "Chat with real Dealers"
+msgstr "Chat with real Dealers"
+
+msgid "Main Page"
+msgstr "Hovedside"
+
+msgid "Games"
+msgstr "Spill"
+
+msgid "New 3D Slots"
+msgstr "Nye 3D-slots"
+
+msgid "Promotions"
+msgstr "Kampanjer"
+
+msgid "Support"
+msgstr "Kundeservice"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "About Us"
+msgstr "Om oss"
+
+msgid "Join Now"
+msgstr "Bli medlem"
+
+msgid "Login"
+msgstr "Logg Inn"
+
+msgid "Slots"
+msgstr "Slots"
+
+msgid "Table Game"
+msgstr "Bordspill"
+
+msgid "Video Poker"
+msgstr "Videopoker"
+
+msgctxt ""
+msgid "Keno & Games"
+msgstr "Keno & Spill"
+
+msgid "Free Play"
+msgstr "Gratis spill"
+
+msgid "Play Now"
+msgstr "Spill nå"
+
+msgid "Security"
+msgstr "Sikkerhet"
+
+msgid "Privacy Policy"
+msgstr "Personvernregler"
+
+msgid "General Terms"
+msgstr "Generelle vilkår"
+
+msgid "Contact Us"
+msgstr "Kontakt oss"
+
+msgid "Affiliate"
+msgstr "Affiliate"
+
+msgid "COPYRIGHT [site name].COM ALL RIGHTS RESERVED"
+msgstr "COPYRIGHT [site name].COM ALLE RETTIGHETER RESERVERT"
+
+msgid "Responsible Gaming"
+msgstr "Ansvarlig spill"
+
+msgid "Live Chat"
+msgstr "Live chat"
+
+msgid "READ MORE"
+msgstr "LES MER"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Last Name"
+msgstr "Etternavn"
+
+msgid "Birth Date"
+msgstr "Fødselsdato"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "Select"
+msgstr "Velg"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Join Now: Step 1 of 2"
+msgstr "Bli med nå: Trinn 1 av 2"
+
+msgid "Already a member"
+msgstr "Allerede medlem"
+
+msgid "Street Number / Street Name"
+msgstr "Gatenavn/Gatenummer"
+
+msgid "Zip/Postal Code"
+msgstr "Postnummer"
+
+msgid "Town / City"
+msgstr "By"
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Mobile Phone Number"
+msgstr "Mobiltelefonnummer"
+
+msgid "Subscribe to email and SMS updates"
+msgstr "Abonner på e-post og SMS-oppdateringer"
+
+msgid "I agree to the General Terms"
+msgstr "Jeg godtar de generelle vilkårene"
+
+msgid "Play for Fun"
+msgstr "Spill for Fun"
+
+msgid "Deposit Now !"
+msgstr "Innskudd nå!"
+
+msgctxt ""
+msgid "Username / Alias"
+msgstr "Brukernavn/Alias"
+
+msgctxt ""
+msgid "Forgot Password"
+msgstr "Glemt passord"
+
+msgid "New Player"
+msgstr "Ny spiller"
+
+msgid "Lobby / Reporting"
+msgstr "Lobby / Rapportering"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "Request a Withdrawal"
+msgstr "Be om et uttak"
+
+msgid "Game Activity"
+msgstr "Spillaktivitet"
+
+msgid "Transaction Report"
+msgstr "Transaksjonsrapport"
+
+msgctxt ""
+msgid "Bonus Report"
+msgstr "Bonusrapport"
+
+msgid "Deposit History"
+msgstr "Innskuddshistorikk"
+
+msgid "Withdrawal History"
+msgstr "Uttakshistorikk"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Fix Search"
+msgstr "Velg tidsperiode"
+
+msgid "Last 30 days"
+msgstr "Siste 30 dager"
+
+msgid "Search Options"
+msgstr "Søkealternativer"
+
+msgid "All Game  Types"
+msgstr "Alle spilltyper"
+
+msgid "Bingo"
+msgstr "Bingo"
+
+msgid "Pull Tabs"
+msgstr "Pull Tabs"
+
+msgid "Roulette"
+msgstr "Rulett"
+
+msgid "Blackjack"
+msgstr "Blackjack"
+
+msgid "Craps"
+msgstr "Craps"
+
+msgid "Poker"
+msgstr "Poker"
+
+msgid "Scratch Cards"
+msgstr "Skrapelodd"
+
+msgid "My Profile"
+msgstr "Min profil"
+
+msgid "Close Account"
+msgstr "Lukk konto"
+
+msgid "Exclusion Status"
+msgstr "Ekskluderingsstatus"
+
+msgid "Temporary Exclusion"
+msgstr "Midlertidig ekskludering"
+
+msgid "Permanent Exclusion"
+msgstr "Permanent ekskludering"
+
+msgid "Number of Days"
+msgstr "Antall dager"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "2 days"
+msgstr "2 dager"
+
+msgid "1 week"
+msgstr "1 uke"
+
+msgid "2 weeks"
+msgstr "2 uker"
+
+msgid "3 months"
+msgstr "3 måneder"
+
+msgid "All Transaction Types"
+msgstr "Alle transaksjonstyper"
+
+msgid "Debit"
+msgstr "Debet"
+
+msgid "Declined"
+msgstr "Avvist"
+
+msgid "Payouts"
+msgstr "Uttak"
+
+msgid "Credit"
+msgstr "Kreditt"
+
+msgid "referrals"
+msgstr "vervinger"
+
+msgid "Transfers"
+msgstr "Overganger"
+
+msgid "Refunds"
+msgstr "Tilbakebetalinger"
+
+msgid "Cash"
+msgstr "Cash"
+
+msgid "Contact Details"
+msgstr "Kontaktdetaljer"
+
+msgid "UserID"
+msgstr "BrukerID"
+
+msgid "Last Login"
+msgstr "Forrige innlogging"
+
+msgid "Responsible Gaming Limits"
+msgstr "Ansvarlig spill-grenser"
+
+msgid "Per Hour"
+msgstr "Per time"
+
+msgid "Per Day"
+msgstr "Per dag"
+
+msgid "Per Week"
+msgstr "Per uke"
+
+msgid "Per Month"
+msgstr "Per måned"
+
+msgid "Deposit Limits"
+msgstr "Innskuddsgrense"
+
+msgid "Wager Limits"
+msgstr "Innsatsgrense"
+
+msgid "Our Conditions"
+msgstr "Våre betingelser"
+
+msgid "Open a Ticket"
+msgstr "Sende en henvendelse"
+
+msgid "Issue"
+msgstr "Utgave"
+
+msgid "Billing"
+msgstr "Innskudd/Uttak"
+
+msgid "Lost Credit"
+msgstr "Saldo"
+
+msgid "Lost Connection"
+msgstr "Mistet forbindelsen"
+
+msgid "Locked Up"
+msgstr "Spillet har hengt seg opp"
+
+msgid "Other"
+msgstr "Annet"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Win Not Credited"
+msgstr "Gevinstutbetaling"
+
+msgid "Credit Card"
+msgstr "Kredittkort"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Update My Profile"
+msgstr "Oppdater min profil"
+
+msgid "Welcome"
+msgstr "Velkommen"
+
+msgid "Casino"
+msgstr "Kasino"
+
+msgid "More"
+msgstr "Mer"
+
+msgid "Banking"
+msgstr "Bank"
+
+msgid "Getting Started"
+msgstr "Starter"
+
+msgctxt ""
+msgid "Contact Us"
+msgstr "Kontakt oss"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Video Slots"
+msgstr "Video Slots"
+
+msgid "Keno"
+msgstr "Keno"
+
+msgid "Reel Slot"
+msgstr "Reel Slot"
+
+msgid "Unique Game"
+msgstr "Unikt spill"
+
+msgid "Virtual Games"
+msgstr "Virtuelle Spill"
+
+msgid "Enter Name"
+msgstr "Oppgi navn"
+
+msgid "Enter subject"
+msgstr "Skriv inn emne"
+
+msgid "Enter your message"
+msgstr "Skriv inn din melding"
+
+msgid "Enter email"
+msgstr "Skriv inn e-post"
+
+msgid "Filter by company"
+msgstr "Filtrer etter selskap"
+
+msgid "Find a game"
+msgstr "Finn et spill"
+
+msgid "There are %s more games awaiting you"
+msgstr "Det er flere %s spill venter på deg"
+
+msgid "Showing %s games of %s"
+msgstr "Viser spill %s av %s"
+
+msgid "There are no games to show. Please try a different search and/or filter."
+msgstr "Det er ingen spill som skal vises. Prøv et annet søk og / eller filter."
+
+msgid "Play"
+msgstr "Spill"
+
+msgid "About"
+msgstr "Om oss"
+
+msgid "Partner"
+msgstr "Samboer"
+
+msgid "General T&C"
+msgstr "Generelt T & C"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Create Account"
+msgstr "Opprett konto"
+
+msgid "Step"
+msgstr "Trinn"
+
+msgid "Personal Information"
+msgstr "Personlig informasjon"
+
+msgid "E-mail"
+msgstr "E-post"
+
+msgid "email"
+msgstr "e-post"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Confirm E-mail"
+msgstr "Bekreft e-post"
+
+msgid "Please Select"
+msgstr "Vennligst velg"
+
+msgid "Male"
+msgstr "Mann"
+
+msgid "Female"
+msgstr "Kvinne"
+
+msgid "is required"
+msgstr "er nødvendig"
+
+msgid "Emails do not match"
+msgstr "E-post er ikke like"
+
+msgid "Continue to step 2"
+msgstr "Fortsett til trinn 2"
+
+msgid "Accept Terms And Conditions"
+msgstr "Godta vilkår og betingelser"
+
+msgid "You need to accept the Terms Of Use to be able to register"
+msgstr "Du må godta vilkårene for bruk for å kunne registrere"
+
+msgid "Your password does not match"
+msgstr "Ditt passord stemmer ikke overens"
+
+msgid "Welcome to %s"
+msgstr "Velkommen til %s"
+
+msgid "Your account has been created."
+msgstr "Din konto har blitt laget."
+
+msgid "You must activate your account in order to login and start playing."
+msgstr "Du må aktivere kontoen din for å logge inn og begynne å spille."
+
+msgid "Please look for your activation mail and click on the activation link."
+msgstr "Vennligst se etter aktiverings-e-posten din, og klikk på aktiveringslenken."
+
+msgid "If you wish to change your e-mail address, please press the \"I have another e-mail address\"."
+msgstr "Hvis du ønsker å endre din e-postadresse, må du trykke på \"jeg har en annen e-post adresse\"."
+
+msgid "If you cannot find your activation mail, you should check your junk, spam folder."
+msgstr "Hvis du ikke finner aktiverings post, bør du sjekke din søppelpost, spam-mappen."
+
+msgid "I have another email address."
+msgstr "Jeg har en annen e-postadresse."
+
+msgid "Resend verification mail"
+msgstr "Sende bekreftelse post"
+
+msgid "Need Help?"
+msgstr "Trenger hjelp?"
+
+msgid "20% Cashback"
+msgstr "20% Cashback"
+
+msgid "Special Promotions Every Week"
+msgstr "Spesielle tilbud Hver uke"
+
+msgid "FastCashout System"
+msgstr "Fast Cashout System"
+
+msgid "Forgot Password?"
+msgstr "Glemt passord?"
+
+msgid "Change your password"
+msgstr "Bytt passord"
+
+msgid "Request password reset"
+msgstr "Reset Glemt passord"
+
+msgid "Deposit"
+msgstr "Innskudd"
+
+msgid "Personal Details"
+msgstr "Personlige opplysninger"
+
+msgid "Account Statement"
+msgstr "Kontoutskrift"
+
+msgid "Game History"
+msgstr "Spillhistorikk"
+
+msgid "KYC"
+msgstr "KYC"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Withdraw"
+msgstr "Ta ut"
+
+msgid "Deposit List"
+msgstr "Innskudd List"
+
+msgid "Total Deposits"
+msgstr "Totale innskudd"
+
+msgid "Pending"
+msgstr "Venter"
+
+msgid "Completed"
+msgstr "Fullført"
+
+msgid "Cancelled"
+msgstr "Avbrutt"
+
+msgid "Method"
+msgstr "Metode"
+
+msgid "Insert Date"
+msgstr "Oppgi dato"
+
+msgid "Update Date"
+msgstr "Update Date"
+
+msgid "Update Details"
+msgstr "Oppdater informasjon"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Not available yet."
+msgstr "Ikke tilgjengelig ennå."
+
+msgid "Know your customer (KYC)"
+msgstr "Kjenn din kunde (KYC)"
+
+msgid "Upload Documents"
+msgstr "Last opp dokumenter"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "No Limits assigned yet"
+msgstr "No Limits tildelt ennå"
+
+msgid "Do not allow me to access my account for the next 7 days"
+msgstr "Ikke tillate meg å få tilgang til kontoen min for de neste 7 dagene"
+
+msgid "Do not allow me to access my account for the next 6 months"
+msgstr "Ikke tillate meg å få tilgang til kontoen min for de neste 6 månedene"
+
+msgid "Withdraw List"
+msgstr "Trekk List"
+
+msgid "Make Withdraw"
+msgstr "Gjør Uttak"
+
+msgid "Total Withdraws"
+msgstr "Total trekker seg"
+
+msgid "Request Withdraw"
+msgstr "Be Uttak"
+
+msgid "Show more"
+msgstr "Vis mer"
+
+msgid "Try it"
+msgstr "Prøv det"
+
+msgid "Responsibility"
+msgstr "Ansvar"
+
+msgid "%s is an online casino that continuously strives to provide you with the best range of online slots from different suppliers, all in one place that is easy and fun to use."
+msgstr "%s er et nettcasino som løpende arbeider for å gi deg det beste utvalget nettautomater fra forskjellige leverandører - alt på ett sted som er enkelt og morsomt å bruke."
+
+msgid "All rights reserved"
+msgstr "Alle rettigheter reservert"
+
+msgid "Gambling is fun and can be addictive."
+msgstr "Spilling er moro og kan være avhengighetsskapende."
+
+msgid "Please play responsibly"
+msgstr "Vennligst spill ansvarlig"
+
+msgid "Game Payout Validation Security"
+msgstr "Valideringssikkerhet ved spillutbetalinger"
+
+msgid "Play on any device "
+msgstr "Spill på alle enheter "
+
+msgid "Manual Payment"
+msgstr "Manuell betaling"
+
+msgid "Real money player"
+msgstr "Spiller med ekte penge"
+
+msgid "Login Failed"
+msgstr "Innlogging feilet"
+
+msgid "Due to legal gaming restriction in your region we are unable to log you in."
+msgstr "På grunn av lovlig spillbegrensning i din region kan vi ikke logge deg inn."
+
+msgid "%s apologies for any inconvenience caused."
+msgstr "På Winnermillion Casino beklager vi eventuelle ulemper."
+
+msgid "For more information please contact our %ssupport 24/7%s."
+msgstr "For mer informasjon vennligst kontakt vår %ssupport 24/7%s."
+
+msgid "Enter your user name and e-mail address, a password reset mail will be sent to your e-mail address."
+msgstr "Skriv inn brukernavnet og e-postadressen din, en e-postadresse for passord tilbakestilt vil bli sendt til din e-postadresse."
+
+msgid "Please enter your new password"
+msgstr "Vennligst skriv inn ditt nye passord"
+
+msgid "Retype password"
+msgstr "Skriv inn passord"
+
+msgid "Thank you %s your password has been successfully changed."
+msgstr "Takk %s ditt passord har blitt endret."
+
+msgid "Your %s details are"
+msgstr "Dine detaljer er"
+
+msgid "Please save your user name"
+msgstr "Vennligst lagre brukernavnet ditt"
+
+msgid "Done"
+msgstr "Ferdig"
+
+msgid "Create your account today"
+msgstr "Opprette Kontoen"
+
+msgid "Signup now and get %s 150%s up to %s 1500 %s"
+msgstr "Registrer deg nå og få %s 150%s opptil %s 1500 NOK"
+
+msgid "Enjoy all %s our games %s on your %s mobile"
+msgstr "Nyt alle %s våre spill %s på din %s mobil"
+
+msgid "DEPOSIT BONUS %s 150%s up to %s 1500 %s"
+msgstr "Innskuddsbonus %s 150%s opptil %s 1500 NOK"
+
+msgid "Have an account already"
+msgstr "Har du en konto allerede"
+
+msgid "The following descriptions will appear on your credit card or on your account statement: %s."
+msgstr "Følgende beskrivelser vises på ditt kredittkort eller på kontoutskriften: %s."
+
+msgid "Successful Registration"
+msgstr "Vellykket Registrering"
+
+msgid "Success"
+msgstr "Suksess"
+
+msgid "Please update your e-mail address"
+msgstr "Vennligst oppdatere e-post din"
+
+msgid "Email sent"
+msgstr "E-post Sendt"
+
+msgid "This e-mail address already exists"
+msgstr "Denne e-post finnes allerede"
+
+msgid "Current E-mail"
+msgstr "Nåværende E-post"
+
+msgid "New E-mail"
+msgstr "Ny E-post"
+
+msgid "Confirm New E-mail"
+msgstr "Bekreft Ny E-post"
+
+msgid "Confirm New Password"
+msgstr "Bekrefte Nytt Passord"
+
+msgid "Enter your username and password to confirm the update"
+msgstr "Skriv inn brukernavnet og passordet ditt for å bekrefte oppdateringen"
+
+msgid "Thank you %s your email has been successfully changed. Please confirm the update from your email account."
+msgstr "Takk %s e-posten din har blitt endret. Vennligst bekreft oppdateringen fra din e-postkonto."
+
+msgid "Resend password reset email"
+msgstr "Send tilbakestill e-post til passordresett"
+
+msgid "Hello"
+msgstr "Hallo"
+
+msgid "Current Password"
+msgstr "Nåværende Passord"
+
+msgid "Set new password for user %s"
+msgstr "Sett nytt passord for bruker %s"
+
+msgid "Refund Policy"
+msgstr "Angrerett"
+
+msgid "Licensing"
+msgstr "Licensing"
+
+msgid "%s is the seller and distributor."
+msgstr "%s on myyjä ja jakelija."
+
+msgid "%s is owned and operated by Lsmedia Adv N.V Curacao and its wholly owned, Sprocess Limited 71-75 Shelton Street, Covent Garden, London, UK. WC2H 9JQ."
+msgstr "%s omistaa ja ylläpitää Lsmedia Adv N.V Curacao ja sen kokonaan omistama Sprocess Limited 71-75 Shelton Street, Covent Garden, Lontoo, Yhdistynyt kuningaskunta. WC2H 9JQ."
+
+msgid "%s operates under Master License No. 8048/JAZ, granted by the Government of Curaçao."
+msgstr "%s toimii Curaçao-hallituksen myöntämän Master License No. 8048 / JAZ -nimellä."
+
+msgid "%s operates under laws of Curacao No. curucao licence 8049/JAZ granted by the Government of Curaçao."
+msgstr "%s toimii Curacaon hallituksen myöntämän Curacao No. curucao -luvan (8049 / JAZ) lainsäädännön mukaisesti."
+
+msgid "Account cannot be created"
+msgstr "Kontoen kan ikke opprettes"
+
+msgid "Email is already taken!"
+msgstr "E-posten er allerede i bruk!"
+
+msgid "Username is already taken!"
+msgstr "Brukernavnet er allerede i bruk!"
+
+msgid "Choose your country"
+msgstr "Velg ditt land"
+
+msgid "Select your preferred payment method"
+msgstr "Velg ønsket betalingsmetode"
+
+msgid "Enter your deposit amount"
+msgstr "Skriv inn innskuddsbeløpet"
+
+msgid "Amount is required."
+msgstr "En mengde som er nødvendig."
+
+msgid "Amount is not a valid number."
+msgstr "Beløpet er ugyldig."
+
+msgid "Minimum deposit is %s."
+msgstr "Minste innskudd er %s."
+
+msgid "Bonus Code"
+msgstr "Bonuskode"
+
+msgid "Continue"
+msgstr "Fortsette"
+
+msgid "Deposit the amount of your choice to one of the banks below"
+msgstr "Innskudd beløpet du velger, til en av bankene nedenfor"
+
+msgid "Please, select a country first!"
+msgstr "Vennligst velg et land først!"
+
+msgid "Please, select a payment method first!"
+msgstr "Vennligst velg en betalingsmåte først!"
+
+msgid "Save this card info from next time"
+msgstr "Lagre denne kortinfo fra neste gang"
+
+msgid "Enter CCV"
+msgstr "Skriv inn CCV"
+
+msgid "Expiration"
+msgstr "Utløpsdato"
+
+msgid "Enter card number"
+msgstr "Skriv inn kortnummer"
+
+msgid "Card Number"
+msgstr "Kortnummer"
+
+msgid "Select a Card"
+msgstr "Velg et kort"
+
+msgid "A password reset mail was sent to your e-mail address."
+msgstr "En passord tilbakestilt e-post ble sendt til din e-postadresse."
+
+msgid "You have just deposited money, %s thanks you and wish you good luck."
+msgstr "Du bare setter inn penger, Winner Million takk, og ønsker deg lykke til."
+
+msgid "You can start playing."
+msgstr "Du kan begynne å spille."
+
+msgid "Back to the games"
+msgstr "Tilbake til spill"
+
+msgid "Your deposit failed."
+msgstr "Ditt innskudd mislyktes."
+
+msgid "Please try another credit card, or contact support."
+msgstr "Vennligst prøv et annet kredittkort, eller kontakt support."
+
+msgid "Contact Support"
+msgstr "Kontakt brukerstøtte"
+
+msgid "%s, you have no money in your balance"
+msgstr "%s, du har ingen penger i balansen din"
+
+msgid "Go to the CASHIER to make a deposit"
+msgstr "Gå til CASHIER for å gjøre et innskudd"
+
+msgid "Enjoy Your Luck"
+msgstr "Nyt lykken din"
+
+msgid "Change Email"
+msgstr "Endre e-post"
+
+msgid "Contact by phone"
+msgstr "Kontakt via telefon"
+
+msgid "In the event you need to reach a customer %s support person via phone, please dial %s"
+msgstr "I tilfelle du trenger å nå en kunde %s bruker du hjelp via telefon, vennligst ring %s"
+
+msgid "In order to make additional deposits, you have to verify your account by sending us your piece of identical recto verso, credit card recto verso (hiding the figures of the middle) as well as a note of telephone, gas, Electricity."
+msgstr "For å gjøre ytterligere innskudd, må du bekrefte kontoen din ved å sende oss din identitet til rom duplex, kreditt ensidig kort (skjuler tall midten) samt en telefon notat, gass, elektrisitet eller kontoutskrift."
+
+msgid "You can send them to %s or upload your documents in the KYC section."
+msgstr "Du kan få dem sendt %s eller takk for å laste ned dokumentene i avsnittet KYC."
+
+msgid "Thanking you in advance."
+msgstr "Takker deg på forhånd."
+
+msgid "The %s Team"
+msgstr "Laget %s"
+
+msgid "Filter by provider"
+msgstr "Filtrer etter leverandør"
+
+msgid "Select your preferred deposit method"
+msgstr "Velg din foretrukne innskuddsmetode"
+
+msgid "Select your preferred withdraw method"
+msgstr "Velg din foretrukne uttrekksmetode"
+
+msgid "No data to show."
+msgstr "Ingen data å vise."
+
+msgid "I accept the Terms and Conditions"
+msgstr "Jeg aksepterer vilkårene og betingelsene"
+
+msgid "By clicking the Continue button you will be redirected to %s payment page."
+msgstr "Ved å klikke på Fortsett-knappen blir du omdirigert til %s betalingssiden."
+
+msgid "Form is invalid. Please check your inputs."
+msgstr "Skjemaet er ugyldig. Vennligst sjekk dine innganger."
+
+msgid "Make sure you enter correct amount and accept the Terms and Conditions."
+msgstr "Pass på at du oppgir riktig beløp og godta vilkårene."
+
+msgid "Your withdraw request failed."
+msgstr "Din tilbakekallingsforespørsel mislyktes."
+
+msgid "Please try again or contact support."
+msgstr "Vennligst prøv igjen eller kontakt support."
+
+msgid "Security Code"
+msgstr "Sikkerhetskode"
+
+msgid "%s Account"
+msgstr "%s Konto"
+
+msgid "Sign Up"
+msgstr "Registrere"
+
+msgid "Sign In"
+msgstr "Logg inn"
+
+msgid "Sign Out"
+msgstr "Logg ut"
+
+msgid "Payoff Amount"
+msgstr "Utbetalingsbeløp"
+
+msgid "Turnover Amount"
+msgstr "Omsetningsbeløp"
+
+msgid "Bonus Name"
+msgstr "Bonusnavn"
+
+msgid "Activated"
+msgstr "Aktivert"
+
+msgid "Released"
+msgstr "Avsluttet"
+
+msgid "main_banner_1.jpg"
+msgstr "main_banner_1_no_no.jpg"
+
+msgid "main_banner_2.jpg"
+msgstr "main_banner_2_no_no.jpg"
+
+msgid "main_banner_3.jpg"
+msgstr "main_banner_3_no_no.jpg"
+
+msgid "Licencing"
+msgstr "Tillatelse"
+
+msgid "Enter name"
+msgstr "Skriv inn navn"
+
+msgid "Please fill out this field."
+msgstr "Vennligst fyll ut dette feltet."
+
+msgid "Fast Cashout System"
+msgstr "Rask Utbetaling System"
+
+msgid "At Macao Spin Casino we give you high end, high class casino experience, best in class slots games with all the glamour."
+msgstr "På Macao Spin Casino gir vi deg high end, høy klasse kasinoopplevelse, best i klassespillspill med all glamour."
+
+msgid "Macao Spin Casino not only gives you a high-end experience in games, we also make sure we keep all of our players happy by giving them highest level customer service and satisfaction."
+msgstr "Macao Spin Casino gir deg ikke bare en high-end opplevelse i spill, men vi sørger også for at vi beholder alle våre spillere glade ved å gi dem høyeste kundeservice og tilfredshet."
+
+msgid "Macao Spin Casino also keep players' security and safety in mind. We are fully licensed by top renowned gambling authorities. All player data and personal details are totally safe and secure with us. We will never let you down."
+msgstr "Macao Spin Casino holder også spillernes sikkerhet og sikkerhet i tankene. Vi er fullt lisensiert av topp anerkjente gambling myndigheter. Alle spillerdata og personlige detaljer er helt trygge og sikre med oss. Vi vil aldri slippe deg ned."
+
+msgid "Macao Spin Casino is an online casino that continuously strives to provide you with the best range of online slots from different suppliers, all in one place that is easy and fun to use."
+msgstr "Macao Spin Casino er et online kasino som kontinuerlig streber for å gi deg det beste utvalget av online spor fra forskjellige leverandører, alt på et sted som er enkelt og morsomt å bruke."
+
+msgid "Gambling is fun and can be addictive. Please play responsibly."
+msgstr "Gambling er morsomt og kan være vanedannende. Vennligst spill ansvarlig."
+
+msgid "Macaospin (www.macaospin.com) is owned and operated by Macaospin ADV N.V. Curaçao © 2017."
+msgstr "Macaospin (www.macaospin.com) eies og drives av Macaospin ADV N.V. Curaçao © 2017."
+
+msgid "Macaospin operates under Master License No. 1668/JAZ, granted by the Government of Curaçao."
+msgstr "Macaospin opererer under Master License No. 1668 / JAZ, gitt av Curaçao regjeringen."

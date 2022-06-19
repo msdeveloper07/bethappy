@@ -1,0 +1,3416 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-03-13 11:21+0000\n"
+"PO-Revision-Date: 2014-05-16 12:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid "Your passwords does not much"
+msgstr "Jelszavaid nem egyeznek. "
+
+msgid ""
+"Your Account has been created. Please confirm you email in order to be able "
+"to login"
+msgstr ""
+"Számlád létrehozásra került. Bejelentkezéshez vissza kell igazolnod e-mail "
+"címedet. "
+
+msgid "Password changed"
+msgstr "Jelszó megváltoztatva. "
+
+msgid "Wrong old password. Please try again"
+msgstr "Helytelen régi jelszó. Próbáld ismét. "
+
+msgid "Passwords do not match. Please try again"
+msgstr "Jelszavak nem egyeznek. Próbáld ismét. "
+
+msgid "Account information updated."
+msgstr "Számlainformáció frissítve. "
+
+msgid "Limits cancelled."
+msgstr "Limitek törölve. "
+
+msgid "Unable to cancel limit"
+msgstr "Limit törlése nem lehetséges. "
+
+msgid "Limits updated."
+msgstr "Limitek frissítve. "
+
+msgid "Limits not updated."
+msgstr "Limitek nincsenek frissítve. "
+
+msgid "You account has been deleted."
+msgstr "Számlád törlésre került. "
+
+msgid "Account settings updated."
+msgstr "Számlabeállítások frissítve. "
+
+msgid "Password reset link sent to your email"
+msgstr "Jelszó visszaállítás elküldve e-mailedre. "
+
+msgid "E-mail not valid"
+msgstr "E-mail nem érvényes. "
+
+msgid "Promotional code successfully used"
+msgstr "Promóciós kód sikeresen felhasználva. "
+
+msgid "Invalid promotional code"
+msgstr "Érvénytelen promóciós kód. "
+
+msgid "Confirm your email."
+msgstr "Erősítsd meg e-mailedet. "
+
+msgid "Your Account is Locked. Please Reset your password"
+msgstr "Számlád zárolva van. Kérj új jelszót. "
+
+msgid "Your Account is Deleted Permanently"
+msgstr "Számlád végleges törlésre került. "
+
+msgid "You are Already Logged in."
+msgstr "Már be vagy jelentkezve. "
+
+msgid "Wrong Password"
+msgstr "Helytelen jelszó. "
+
+msgid "Username or password is incorrect"
+msgstr "Felhasználónév vagy jelszó helytelen. "
+
+msgid "Staff %s (ID: %d) requested to fund your account"
+msgstr "%s személyzet (azonosító: %d) megkérve számlád feltöltésére. "
+
+msgid "User %s (ID: %d) account was credited by %s"
+msgstr "%s felhasználó (azonosító: %d) számlájára jóváírás történt %s által. "
+
+msgid "User %s is credited by %d %s"
+msgstr "%s felhasználó feltöltve: %d %s. "
+
+msgid "Staff %s (ID: %d) requested to charge your account"
+msgstr "%s személyzet (azonosító: %d) megkérve számlád felszámolására. "
+
+msgid "User %s (ID: %d) account was charged by %s"
+msgstr "%s felhasználó (azonosító: %d) számlájáról levonás történt %s által. "
+
+msgid "User %s is charged by %d %s"
+msgstr "%s felhasználó felszámítva: %d %s. "
+
+msgid "KYC Data Accepted"
+msgstr "KYC adatok elfogadva. "
+
+msgid "Email successfully sent"
+msgstr "E-mail sikeresen elküldve. "
+
+msgid "Cannot send email. Please try again."
+msgstr "E-mail nem küldhető el. Próbáld ismét. "
+
+msgid "can't find"
+msgstr "nem található "
+
+msgid "Changes saved"
+msgstr "Változtatások mentve. "
+
+msgid "This cannot be saved."
+msgstr "Nem menthető. "
+
+msgid "Item added"
+msgstr "Elem hozzáadva "
+
+msgid "This cannot be added."
+msgstr "Nem adható hozzá. "
+
+msgid "Item deleted"
+msgstr "Elem törölve "
+
+msgid "This cannot be deleted."
+msgstr "Nem törölhető. "
+
+msgid "Bet added"
+msgstr "Fogadás hozzáadva "
+
+msgid "Error adding bet"
+msgstr "Hiba a fogadás hozzáadása során. "
+
+msgid "Lowest deposit amount is"
+msgstr "Lehető legalacsonyabb befizetési összeg "
+
+msgid "Highest deposit amount is"
+msgstr "Lehető legmagasabb befizetési összeg "
+
+msgid "You have reached you deposit limit per transaction amount:"
+msgstr "Elérted a tranzakciós befizetési limitösszeget: "
+
+msgid "You have reached you deposit limit daily amount:"
+msgstr "Elérted a napi befizetési limitösszeget: "
+
+msgid "You have reached you deposit limit weekly amount:"
+msgstr "Elérted a heti befizetési limitösszeget: "
+
+msgid "You have reached you deposit limit monthly amount:"
+msgstr "Elérted a havi befizetési limitösszeget: "
+
+msgid "Bonus code expired or wrong"
+msgstr "Bónuszkód lejárt vagy hibás. "
+
+msgid "Bonus code expired"
+msgstr "Bónuszkód lejárt. "
+
+msgid "Your amount is too low for bonus"
+msgstr "Összeged túl alacsony bónuszhoz. "
+
+msgid "Your amount is too high for bonus "
+msgstr "Összeged túl magas bónuszhoz. "
+
+msgid "User Terminated"
+msgstr "Felhasználó zárolva. "
+
+msgid "Completed"
+msgstr "Befejezve "
+
+msgid "Pending"
+msgstr "Függőben "
+
+msgid "Canceled"
+msgstr "Megszakítva "
+
+msgid "Statuses chart"
+msgstr "Státusz grafikon "
+
+msgid "Amount chart"
+msgstr "Összeg grafikon "
+
+msgid "Deposit not found!"
+msgstr "Befizetés nem található! "
+
+msgid "Deposit already marked as \"completed\"\"!\""
+msgstr "Befizetés már \"befejezve\"\" jelöléssel rendelkezik! \""
+
+msgid "Deposit request set as completed"
+msgstr "Befizetési kérelem befejezve állapotra állítva. "
+
+msgid "Deposit request canceled"
+msgstr "Befizetési kérelem megszakítva. "
+
+msgid "Money transaction completed"
+msgstr "Pénztranzakció befejezve. "
+
+msgid "Select Event"
+msgstr "Válassz eseményt "
+
+msgid "No search results found"
+msgstr "Nincs keresési találat. "
+
+msgid "Permissions updated"
+msgstr "Engedélyek frissítve. "
+
+msgid "Your request is accepted."
+msgstr "Kérelmed elfogadva. "
+
+msgid "Language already exist"
+msgstr "Nyelv már létezik. "
+
+msgid "can't delete item"
+msgstr "elem nem törölhető "
+
+msgid "Emails successfully sent"
+msgstr "E-mailek sikeresen elküldve. "
+
+msgid "Please enter event result"
+msgstr "Kérjük, add meg az esemény eredményt. "
+
+msgid "Results updated"
+msgstr "Eredmények frissítve. "
+
+msgid "Settings saved."
+msgstr "Beállítások mentve. "
+
+msgid "can't save settings."
+msgstr "beállítások nem menthetők. "
+
+msgid "Types chart"
+msgstr "Típus grafikon "
+
+msgid "Cannot find ticket with id:"
+msgstr "Szelvény nem található ezzel az azonosítóval: "
+
+msgid "Ticket is not found"
+msgstr "Szelvény nem található. "
+
+msgid "Unknown ticket status"
+msgstr "Ismeretlen szelvény állapot. "
+
+msgid "Unknown paid status"
+msgstr "Ismeretlen fizetési állapot. "
+
+msgid "Ok"
+msgstr "Ok "
+
+msgid "Unknown error"
+msgstr "Ismeretlen hiba. "
+
+msgid "Insufficient credits"
+msgstr "Elégtelen kredit. "
+
+msgid "Ticket is still pending or lost"
+msgstr "Szelvény még függőben van vagy vesztes. "
+
+msgid "Ticket already printed. Ticket ID: %d"
+msgstr "Szelvény már ki van nyomtatva. Szelvényazonosító: %d "
+
+msgid "Can not find ticket. Ticket ID: %d"
+msgstr "Szelvény nem található. Szelvényazonosító: %d "
+
+msgid "Please select another pick from different event"
+msgstr "Kérjük, válassz egy másik fogadást egy különböző eseményből. "
+
+msgid "Min betting amount is %d"
+msgstr "Min. fogadási összeg %d "
+
+msgid "You can not form this type of ticket, switching back to single"
+msgstr "Ilyen típusú szelvényt nem hozhatsz létre, visszaállás egyszerire. "
+
+msgid "Wrong Password or Username"
+msgstr "Helytelen jelszó vagy felhasználónév. "
+
+msgid "Lowest amount for cashout is"
+msgstr "Lehető legalacsonyabb összeg kifizetésre "
+
+msgid "Highest amount for cashout is"
+msgstr "Lehető legmagasabb összeg kifizetésre "
+
+msgid "Not enough money for this cashout transaction"
+msgstr "Nincs elég pénz erre a kifizetési tranzakcióra. "
+
+msgid ""
+"You cannot cashout transaction. There is a \"Locked Amount\"\" of %s due to "
+"bonus policy. You can withdraw %s\""
+msgstr ""
+"Kifizetési tranzakció nem lehetséges. %s \"Zárolt összeg\"\" van számládon "
+"bónuszfeltételek miatt. Lehetséges kifizetési összeg: %s. \""
+
+msgid "Previous withdrawal transaction is not completed"
+msgstr "Korábbi kifizetési tranzakció nincs teljesítve. "
+
+msgid ""
+"You are not verified (all) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Nem vagy visszaigazolva (egyáltalán) a tranzakció végrehajtásához. Kérjük, "
+"töltsd ki az itt található formanyomtatványt: "
+
+msgid ""
+"You have to resubmit Documents for verification. Please fulfill the form on "
+"the following address"
+msgstr ""
+"Újból be kell küldened okmányaidat visszaigazolásra. Kérjük, töltsd ki az "
+"itt található formanyomtatványt: "
+
+msgid ""
+"You are not verified (age) to complete this transaction. Please fulfill the "
+"form on the following address:"
+msgstr ""
+"Nem vagy visszaigazolva (kor) a tranzakció végrehajtásához. Kérjük, töltsd "
+"ki az itt található formanyomtatványt: "
+
+msgid ""
+"Your withdrawal request for %s is accepted. Please enter your bank "
+"information in the following link: <a href='/users/account'>Account "
+"Information</a> "
+msgstr ""
+"%s kifizetési kérelmed elfogadva. Kérjük, add meg bankadataidat az alábbi "
+"link alatt: <a href='/users/account'>Számlainformáció</a>. "
+
+msgid "Your withdrawal request for %s is accepted."
+msgstr "%s kifizetési kérelmed elfogadva. "
+
+msgid "Bank information updated."
+msgstr "Bank információ frissítve. "
+
+msgid "Withdraw request set as completed"
+msgstr "Kifizetési kérelem befejezve állapotra állítva. "
+
+msgid "Withdraw request updated"
+msgstr "Kifizetési kérelem frissítve. "
+
+msgid "Withdraw request canceled"
+msgstr "Kifizetési kérelem megszakítva. "
+
+msgid "Win"
+msgstr "Nyeremény "
+
+msgid "Lost"
+msgstr "Veszteség "
+
+msgid "Yes"
+msgstr "Igen "
+
+msgid "No"
+msgstr "Nem "
+
+msgid "View"
+msgstr "Megtekintés "
+
+msgid "Edit"
+msgstr "Szerkesztés "
+
+msgid "Delete"
+msgstr "Törlés "
+
+msgid "List"
+msgstr "Lista "
+
+msgid "Create"
+msgstr "Létrehozás "
+
+msgid "All"
+msgstr "Összes "
+
+msgid "Users"
+msgstr "Felhasználók "
+
+msgid "Complete"
+msgstr "Befejezés "
+
+msgid "Cancel"
+msgstr "Megszakítás "
+
+msgid "Amount from"
+msgstr "Összeg innen: "
+
+msgid "Amount to"
+msgstr "Összeg ide: "
+
+msgid "Transaction ID"
+msgstr "Tranzakció azonosító "
+
+msgid "Event name"
+msgstr "Esemény neve "
+
+msgid "Download"
+msgstr "Letöltés "
+
+msgid "Language"
+msgstr "Nyelv "
+
+msgid "League name"
+msgstr "Liga neve "
+
+msgid "Sport"
+msgstr "Sport "
+
+msgid "View events"
+msgstr "Események megtekintése "
+
+msgid "Add Event"
+msgstr "Esemény hozzáadása "
+
+msgid "Send Mail"
+msgstr "Levél küldése "
+
+msgid "Send to All"
+msgstr "Küldés az összesnek "
+
+msgid "Header 2 menu"
+msgstr "Élőfej 2 menü "
+
+msgid "Header 3 menu"
+msgstr "Élőfej 3 menü "
+
+msgid "Bottom 4 menu"
+msgstr "Alsó 4 menü "
+
+msgid "Footer menu"
+msgstr "Élőláb menü "
+
+msgid "Header menu"
+msgstr "Élőfej menü "
+
+msgid "Top Header menu"
+msgstr "Top élőfej menü "
+
+msgid "Top menu"
+msgstr "Felső menü "
+
+msgid "Tickets"
+msgstr "Szelvények "
+
+msgid "Deposits"
+msgstr "Befizetések "
+
+msgid "Withdraws"
+msgstr "Kifizetések "
+
+msgid "Results"
+msgstr "Eredmények "
+
+msgid "Finished events in tickets"
+msgstr "Befejezett események szelvényeken "
+
+msgid "Pending events in tickets"
+msgstr "Függőben lévő események szelvényeken "
+
+msgid "All finished events"
+msgstr "Összes befejezett esemény "
+
+msgid "Warnings"
+msgstr "Figyelmeztetések "
+
+msgid "Settings"
+msgstr "Beállítások "
+
+msgid "Identity number"
+msgstr "Azonosítószám "
+
+msgid "Words in title"
+msgstr "Szavak a címből "
+
+msgid "Words in description"
+msgstr "Szavak a leírásból "
+
+msgid "Url link"
+msgstr "URL link "
+
+msgid "Add League"
+msgstr "Liga hozzáadása "
+
+msgid "Password"
+msgstr "Jelszó "
+
+msgid "Fund staff"
+msgstr "Feltöltés "
+
+msgid "Charge staff"
+msgstr "Terhelés "
+
+msgid "Login/Logout"
+msgstr "Be-/kijelentkezés "
+
+msgid "Ticket Fraud Check"
+msgstr "Szelvény csalás ellenőrzés "
+
+msgid "Mark as paid"
+msgstr "Megjelölés fizetettként "
+
+msgid "Group ID"
+msgstr "Csoportazonosító "
+
+msgid "Tickets created"
+msgstr "Szelvények létrehozva "
+
+msgid "Total"
+msgstr "Összesen "
+
+msgid "Total payout"
+msgstr "Kifizetés összesen "
+
+msgid "Profit"
+msgstr "Profit "
+
+msgid "1Lowest stake on %s is %d"
+msgstr "Legalacsonyabb %s tét %d "
+
+msgid "Highest stake on %s is %d"
+msgstr "Legmagasabb %s tét %d "
+
+msgid "2Lowest stake on %s is %d"
+msgstr "Legalacsonyabb %s tét %d "
+
+msgid "3Lowest stake amount is %d"
+msgstr "Legalacsonyabb tétösszeg %d "
+
+msgid "Highest stake amount is %d"
+msgstr "Legmagasabb tétösszeg %d "
+
+msgid "You have reached you wager limit per transaction amount: %d %s"
+msgstr "Elérted a tranzakciós fogadási limitösszeget: %d %s "
+
+msgid "You have reached you wager limit daily amount: %d %s"
+msgstr "Elérted a napi fogadási limitösszeget: %d %s "
+
+msgid "You have reached you wager limit weekly amount: %d %s"
+msgstr "Elérted a heti fogadási limitösszeget: %d %s "
+
+msgid "You have reached you wager limit monthly amount: %d %s"
+msgstr "Elérted a havi fogadási limitösszeget: %d %s "
+
+msgid "You have reached you loss limit per transaction amount: %d %s"
+msgstr "Elérted a tranzakciós veszteségi limitösszeget: %d %s "
+
+msgid "You have reached you loss limit daily amount: %d %s"
+msgstr "Elérted a napi veszteségi limitösszeget: %d %s "
+
+msgid "You have reached you loss limit weekly amount: %d %s"
+msgstr "Elérted a heti veszteségi limitösszeget: %d %s "
+
+msgid "You have reached you loss limit monthly amount: %d %s"
+msgstr "Elérted a havi veszteségi limitösszeget: %d %s "
+
+msgid "Please login"
+msgstr "Kérjük, jelentkezz be. "
+
+msgid "Please select at least %d picks"
+msgstr "Kérjük, válassz legalább %d választást. "
+
+msgid "Not enough money"
+msgstr "Nincs elég pénz. "
+
+msgid "One or more events already started, please remove them"
+msgstr "Egy vagy több esemény már elkezdődött, távolítsd el őket. "
+
+msgid "Odd outdated. Please remove invalid odd"
+msgstr ""
+"Nyereményszorzó elavult. Kérjük, távolítsd el az érvénytelen "
+"nyereményszorzót. "
+
+msgid "One or mode bets are inactive"
+msgstr "Egy vagy több fogadás inaktív. "
+
+msgid "Printed"
+msgstr "Nyomtatva "
+
+msgid "User Id"
+msgstr "Felhasználó azonosító "
+
+msgid "Amount From"
+msgstr "Összeg innen: "
+
+msgid "Amount To"
+msgstr "Összeg ide: "
+
+msgid "Potential Winning From"
+msgstr "Lehetséges nyeremény innen: "
+
+msgid "Potential Winning To"
+msgstr "Lehetséges nyeremény ide: "
+
+msgid "Odd From"
+msgstr "Nyereményszorzó innen: "
+
+msgid "Odd To"
+msgstr "Nyereményszorzó ide: "
+
+msgid "Fund"
+msgstr "Feltöltés "
+
+msgid "Charge"
+msgstr "Terhelés "
+
+msgid "User ID"
+msgstr "Felhasználó azonosító "
+
+msgid "Back"
+msgstr "Vissza "
+
+msgid "All feeds updated"
+msgstr "Összes hírcsatorna frissítve "
+
+msgid "All feeds downloaded"
+msgstr "Összes hírcsatorna letöltve "
+
+msgid "All feeds parsed"
+msgstr "Összes hírcsatorna elemezve "
+
+msgid "Feed updated"
+msgstr "Hírcsatorna frissítve "
+
+msgid "Cannot find feed"
+msgstr "Hírcsatorna nem található "
+
+msgid "Cant find feed"
+msgstr "Hírcsatorna nem található "
+
+msgid "Update"
+msgstr "Frissítés "
+
+msgid "Update All"
+msgstr "Összes frissítése "
+
+msgid "Deposit"
+msgstr "Befizetés "
+
+msgid "Thank You"
+msgstr "Köszönjük! "
+
+msgid "You successfully deposit %d"
+msgstr "%d befizetése sikeres. "
+
+msgid "You cancel your deposit"
+msgstr "Megszakítottad befizetésedet. "
+
+msgid "You have successfully made deposit for"
+msgstr "Sikeresen befizettél ide: "
+
+msgid "Sorry, we can not find your payment"
+msgstr "Sajnos nem találjuk fizetésedet. "
+
+msgid "Make Deposit"
+msgstr "Befizetés végrehajtása "
+
+msgid "Amount"
+msgstr "Összeg "
+
+msgid "Make your Deposit"
+msgstr "Hajtsd végre befizetésedet "
+
+msgid "Bonus code or leave empty"
+msgstr "Bónuszkód vagy üresesen hagyni "
+
+msgid "Available ACO sync commands:"
+msgstr "Elérhető ACO szinkron parancsok: "
+
+msgid ""
+"For help, run the 'help' command. For help on a specific command, run 'help "
+"<command>'"
+msgstr ""
+"Segítségért futtasd a 'help' parancsot. Segítségért egy bizonyos parancsra "
+"vonatkozóan futtasd a 'help <command>' lehetőséget. "
+
+msgid "Deleted %s and all children"
+msgstr "Törölve %s és minden gyerek "
+
+msgid "Aco Update Complete"
+msgstr "Aco frissítés befejezve "
+
+msgid "Created Aco node: %s"
+msgstr "Létrehozott Aco csomópont: %s "
+
+msgid "Deleted Aco node %s"
+msgstr "Törölt Aco csomópont %s "
+
+msgid "Usage: cake aco_sync <command>"
+msgstr "Használat: cake aco_sync <command> "
+
+msgid "Commands:"
+msgstr "Parancsok: "
+
+msgid "Add new ACOs for new controllers and actions"
+msgstr "Adj hozzá új ACO parancsokat új vezérlőkért és intézkedésekért "
+
+msgid ""
+"Create new ACO's for controllers and their actions. Does not remove any "
+"nodes from ACO table"
+msgstr ""
+"Hozz létre új ACO parancsokat vezérlőkért és azok intézkedéseiért. Nem "
+"távolít el csomópontokat az ACO táblázatból. "
+
+msgid ""
+"Creates new ACO's for missing controllers and actions. Removes orphaned "
+"entries in the ACO table."
+msgstr ""
+"Új ACO parancsokat hoz létre hiányzó vezérlőkért és intézkedésekért. "
+"Eltávolítja az árva bejegyzéseket az ACO táblázatból. "
+
+msgid "Displays this help message, or a message on a specific command."
+msgstr "Megjeleníti ezt a súgóüzenetet vagy egy adott parancs üzenetét. "
+
+msgid "Command '%s' not found"
+msgstr "%s parancs nem található. "
+
+msgid "day"
+msgstr "nap "
+
+msgid "days"
+msgstr "nap "
+
+msgid "h"
+msgstr "óra "
+
+msgid "min"
+msgstr "perc "
+
+msgid "Successful"
+msgstr "Sikeres "
+
+msgid "Failed"
+msgstr "Sikertelen "
+
+msgid "Unknown"
+msgstr "Ismeretlen "
+
+msgid "Decimal"
+msgstr "Decimális "
+
+msgid "Fractional"
+msgstr "Tört "
+
+msgid "American"
+msgstr "Amerikai "
+
+msgid "ID:"
+msgstr "Azonosító: "
+
+msgid "more"
+msgstr "további "
+
+msgid "Event"
+msgstr "Esemény "
+
+msgid "Pick"
+msgstr "Választás "
+
+msgid "odd"
+msgstr "nyereményszorzó "
+
+msgid "Result"
+msgstr "Eredmény "
+
+msgid "Outcome"
+msgstr "Kimenetel "
+
+msgid "Status"
+msgstr "Állapot "
+
+msgid "Username"
+msgstr "Felhasználónév "
+
+msgid "Forgot your password?"
+msgstr "Elfelejtett jelszó? "
+
+msgid "Login"
+msgstr "Belépés "
+
+msgid "Affiliate Registration Form"
+msgstr "Affiliate regisztrációs formanyomtatvány "
+
+msgid "Personal information"
+msgstr "Számlaadatok "
+
+msgid "First name"
+msgstr "Keresztnév "
+
+msgid "Last name"
+msgstr "Vezetéknév "
+
+msgid "Address"
+msgstr "Cím "
+
+msgid "Region"
+msgstr "Régió "
+
+msgid "Zip / Postal code"
+msgstr "Irányítószám "
+
+msgid "City"
+msgstr "Település "
+
+msgid "Country"
+msgstr "Ország "
+
+msgid "Date of birth:"
+msgstr "Születési dátum: "
+
+msgid "E-mail"
+msgstr "E-mail "
+
+msgid "Mobile number"
+msgstr "Mobilszám "
+
+msgid "Website name"
+msgstr "Weboldal neve "
+
+msgid "Send"
+msgstr "Küldés "
+
+msgid "Choose Payment Gateway"
+msgstr "Válassz fizetési szolgáltatót "
+
+msgid "Bank Transfer Payment"
+msgstr "Bankátutalásos fizetés "
+
+msgid "eTranzact"
+msgstr "eTranzact "
+
+msgid "Online Payment"
+msgstr "Online fizetés "
+
+msgid "Please see you latest deposits below:"
+msgstr "Legutóbbi befizetéseid az alábbiakban láthatók: "
+
+msgid "Date"
+msgstr "Dátum "
+
+msgid "Type"
+msgstr "Típus "
+
+msgid "Bonus"
+msgstr "Bónusz "
+
+msgid "No deposits history found. To make new please follow \"Make New\"\".\""
+msgstr ""
+"Nincs befizetési előzmény. Új befizetéshez kattints az \"Új létrehozása\"\" "
+"gombra. \""
+
+msgid "Deposit information:"
+msgstr "Befizetési információ: "
+
+msgid "Request Manual Deposit (Credited Upon Verification)"
+msgstr ""
+"Manuális befizetési kérelem (Visszaigazolást követően kerül jóváírásra) "
+
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Oldal {:page} / {:pages}, {:current} nyilvántartás mutatása / {:count}, {:"
+"start} nyilvántartással kezdve {:end} nyilvántartásig "
+
+msgid "previous"
+msgstr "előző "
+
+msgid "next"
+msgstr "következő "
+
+msgid "Show"
+msgstr "Mutatás "
+
+msgid "User"
+msgstr "Felhasználó "
+
+msgid "Deposit type"
+msgstr "Befizetés típusa "
+
+msgid "Bonus type"
+msgstr "Bónusz típusa "
+
+msgid "Bonus valid until"
+msgstr "Bónusz érvényessége: "
+
+msgid "Bonus used"
+msgstr "Bónusz felhasználva "
+
+msgid "Bonus amount to your account"
+msgstr "Bónuszösszeg számládra: "
+
+msgid "League"
+msgstr "Liga "
+
+msgid "No available odds found for this event"
+msgstr "Nincs elérhető nyereményszorzó erre az eseményre. "
+
+msgid "First team to Score"
+msgstr "Első gólszerző csapat "
+
+msgid "1st Half"
+msgstr "1. félidő "
+
+msgid "Both Team to Score"
+msgstr "Mindkét csapat szerez gólt "
+
+msgid "Halftime/Fulltime"
+msgstr "Félidő/játékidő "
+
+msgid "Double Chance"
+msgstr "Dupla esély "
+
+msgid "From:"
+msgstr "Innen: "
+
+msgid "Email:"
+msgstr "E-mail: "
+
+msgid "Odds"
+msgstr "Nyereményszorzók "
+
+msgid "Reset Password"
+msgstr "Jelszó visszaállítása "
+
+msgid "Register"
+msgstr "Regisztráció "
+
+msgid "User Menu"
+msgstr "Felhasználói menü "
+
+msgid "My Account"
+msgstr "Számlám "
+
+msgid "Balance"
+msgstr "Egyenleg "
+
+msgid "Log out"
+msgstr "Kilépés "
+
+msgid "Casino"
+msgstr "Kaszinó "
+
+msgid "Live Casino"
+msgstr "Élő kaszinó "
+
+msgid "Betting Tools"
+msgstr "Fogadási eszközök "
+
+msgid "Register now and get"
+msgstr "Regisztrálj most és ezt kapod: "
+
+msgid "email"
+msgstr "e-mail "
+
+msgid "Register now"
+msgstr "Regisztrálj most "
+
+msgid "Registration"
+msgstr "Regisztráció "
+
+msgid "Password reminder"
+msgstr "Jelszó emlékeztető "
+
+msgid "Search Ticket"
+msgstr "Szelvény keresése "
+
+msgid "ID: "
+msgstr "Azonosító: "
+
+msgid "Enter ticket ID"
+msgstr "Add meg a szelvényazonosítót "
+
+msgid "Search"
+msgstr "Keresés "
+
+msgid "Ticket"
+msgstr "Szelvény "
+
+msgid "Unknown ticked ID"
+msgstr "Ismeretlen szelvényazonosító. "
+
+msgid "Money"
+msgstr "Pénz "
+
+msgid "Pay"
+msgstr "Fizetés "
+
+msgid "Find event"
+msgstr "Esemény keresése "
+
+msgid "Search by event name"
+msgstr "Keresés eseménynév szerint "
+
+msgid "Search by event ID"
+msgstr "Keresés eseményazonosító szerint "
+
+msgid "Search results for:"
+msgstr "Találatok erre: "
+
+msgid "No available events are found for this league"
+msgstr "Nincs elérhető esemény ebben a ligában. "
+
+msgid "Search Events"
+msgstr "Események keresése "
+
+msgid "Search another event ID"
+msgstr "Másik eseményazonosító keresése "
+
+msgid "Search another event name"
+msgstr "Másik eseménynév keresése "
+
+msgid "Please complete the following form"
+msgstr "Kérjük, töltsd ki az alábbi formanyomtatványt. "
+
+msgid "Confirm changes"
+msgstr "Változtatások megerősítése "
+
+msgid "Activity Column"
+msgstr "Aktivitás oszlop "
+
+msgid "Current balance"
+msgstr "Aktuális egyenleg "
+
+msgid "Today placed tickets"
+msgstr "Ma elhelyezett szelvények "
+
+msgid "Contact us"
+msgstr "Kapcsolat "
+
+msgid ""
+"If you have any problem, do not hesitate to contact the customer service "
+"using form below:"
+msgstr ""
+"Bármilyen probléma esetén az alábbi forma segítségével fordulhatsz az "
+"ügyfélszolgálathoz: "
+
+msgid "Subject"
+msgstr "Tárgy "
+
+msgid "Name"
+msgstr "Név "
+
+msgid "Email"
+msgstr "E-mail "
+
+msgid "Message"
+msgstr "Üzenet "
+
+msgid "News"
+msgstr "Hírek "
+
+msgid "Read more"
+msgstr "További infó "
+
+msgid "Soccer"
+msgstr "Labdarúgás "
+
+msgid "Basketball"
+msgstr "Kosárlabda "
+
+msgid "Ice Hockey"
+msgstr "Jégkorong "
+
+msgid "Tennis"
+msgstr "Tenisz "
+
+msgid "Rugby"
+msgstr "Rögby "
+
+msgid "Half Time 3 way"
+msgstr "Félidő 3 esélyes "
+
+msgid "Top Games"
+msgstr "Top játékok "
+
+msgid "IceHockey"
+msgstr "Jégkorong "
+
+msgid "Handball"
+msgstr "Kézilabda "
+
+msgid "Last Minute Bets"
+msgstr "Last minute fogadások "
+
+msgid "Shortly"
+msgstr "Hamarosan "
+
+msgid "%d events available"
+msgstr "%d esemény elérhető "
+
+msgid "Bet now"
+msgstr "Fogadás most "
+
+msgid "Football"
+msgstr "Labdarúgás "
+
+msgid "Draw"
+msgstr "Döntetlen "
+
+msgid "League not found"
+msgstr "Liga nem található. "
+
+msgid "No available events found for this league"
+msgstr "Nincs elérhető esemény ebben a ligában. "
+
+msgid "Last Minute"
+msgstr "Last minute "
+
+msgid "No leagues selected"
+msgstr "Nincs választott liga. "
+
+msgid "Single"
+msgstr "Egyszeri "
+
+msgid "Combi"
+msgstr "Kombi "
+
+msgid "System"
+msgstr "Rendszer "
+
+msgid "Delete all bets"
+msgstr "Összes fogadás törlése "
+
+msgid "Total odds"
+msgstr "Teljes nyereményszorzó "
+
+msgid "Stake"
+msgstr "Tét "
+
+msgid "Winning"
+msgstr "Nyeremény "
+
+msgid "Preview"
+msgstr "Előnézet "
+
+msgid "Place Bet"
+msgstr "Fogadás "
+
+msgid ""
+"No bet selected yet. <br>Click on the respective odds to select the bets."
+msgstr ""
+"Még nincs kiválasztva fogadás. <br>Kattints a megfelelő nyereményszorzóra "
+"fogadás választásához. "
+
+msgid "Ticket History"
+msgstr "Szelvény előzmények "
+
+msgid "Ticket ID:"
+msgstr "Szelvényazonosító: "
+
+msgid "Print"
+msgstr "Nyomtatás "
+
+msgid "No tickets activity available"
+msgstr "Nincs elérhető szelvény. "
+
+msgid "Date and time"
+msgstr "Dátum és idő "
+
+msgid "Ticket id"
+msgstr "Szelvényazonosító "
+
+msgid "ID / Date"
+msgstr "Azonosító / Dátum "
+
+msgid "Total:"
+msgstr "Összesen: "
+
+msgid "Amount:"
+msgstr "Összeg: "
+
+msgid "Return:"
+msgstr "Osztalék: "
+
+msgid "Please see your betting history below:"
+msgstr "Az alábbiakban láthatod fogadási előzményeidet: "
+
+msgid "Ticket ID"
+msgstr "Szelvényazonosító "
+
+msgid "Note"
+msgstr "Megjegyzés "
+
+msgid "To place ticket please use betslip."
+msgstr "Szelvény elhelyezéséhez használd a fogadószelvényt. "
+
+msgid "Pending tickets"
+msgstr "Függőben lévő szelvények "
+
+msgid "Please see you recently placed tickets below:"
+msgstr "Az alábbiakban láthatod legutóbb elhelyezett szelvényeidet: "
+
+msgid "Paid"
+msgstr "Fizetve "
+
+msgid ""
+"No pending tickets found. For previous tickets please see tickets history."
+msgstr ""
+"Nincs függőben lévő szelvény. Korábbi szelvényekért nézd meg a szelvény "
+"előzményeket. "
+
+msgid "History"
+msgstr "Előzmények "
+
+msgid "Ticket Preview"
+msgstr "Szelvény előnézet "
+
+msgid "Event ID / Date"
+msgstr "Eseményazonosító / Dátum "
+
+msgid "Sport / League"
+msgstr "Sport / Liga "
+
+msgid "Submit Ticket"
+msgstr "Szelvény küldése "
+
+msgid "Clear Ticket"
+msgstr "Szelvény törlése "
+
+msgid "No bets selected"
+msgstr "Nincs fogadás kiválasztva. "
+
+msgid "Ticket placed"
+msgstr "Szelvény elhelyezve "
+
+msgid "Your ticket is created successfully"
+msgstr "Szelvényed sikeresen létrehozva. "
+
+msgid "Your ticket number is"
+msgstr "Szelvényszámod "
+
+msgid "Ticket information"
+msgstr "Szelvényinformáció "
+
+msgid "Login/Logout History"
+msgstr "Be-/kijelentkezési előzmények "
+
+msgid "User Login/Logout History:"
+msgstr "Felhasználói be-/kijelentkezési előzmények: "
+
+msgid "Action"
+msgstr "Művelet "
+
+msgid "IP"
+msgstr "IP "
+
+msgid "Please set up options for more comfortable view."
+msgstr "Állítsd be az opciókat egy megfelelőbb nézet érdekében. "
+
+msgid "Odds type"
+msgstr "Nyereményszorzó típus "
+
+msgid "Time zone"
+msgstr "Időzóna "
+
+msgid "Change Password"
+msgstr "Jelszó megváltoztatása "
+
+msgid "Account information"
+msgstr "Számlainformáció "
+
+msgid ""
+"Please provide full personal information to confirm your identity. Owing to "
+"regulations, your access to some products, markets and commission discounts "
+"may be restricted until you confirm your identity. You can provide personal "
+"documents using our secure email service."
+msgstr ""
+"Azonosságod megerősítéséhez add meg személyes adataidat. A szabályzatok "
+"értelemében, bizonyos termékekhez, piacokhoz és jutalékengedményekhez "
+"korlátozott hozzáférést kapsz csak azonosságod megerősítéséig. Személyes "
+"okmányaidat biztonságos oldalunkon juttathatod el hozzánk: "
+
+msgid "Date of birth"
+msgstr "Születési dátum "
+
+msgid "Bank name"
+msgstr "Bank neve "
+
+msgid "Bank code"
+msgstr "Bankkód "
+
+msgid "Bank account number"
+msgstr "Bankszámlaszám "
+
+msgid "Ref. Code"
+msgstr "Ref. kód "
+
+msgid "Balance Information Analysis"
+msgstr "Egyenleginformáció elemzés "
+
+msgid "Here you can see all the information refer to your current balance."
+msgstr "Az alábbiakban láthatod az egyenlegedhez kapcsolódó információkat. "
+
+msgid "Promotional Code"
+msgstr "Promóciós kód "
+
+msgid ""
+"Please add promotional code below to get additional money or other benefit."
+msgstr "Add meg a promóciós kódot extra pénz vagy jutalom szerzéséhez. "
+
+msgid "Code"
+msgstr "Kód "
+
+msgid "Submit bonus code"
+msgstr "Bónuszkód küldése "
+
+msgid "Confirmation"
+msgstr "Megerősítés "
+
+msgid ""
+"Email has been confirmed. You will be redirected to the home page in 5 "
+"seconds.</ br>If you are not redirected within the specified time press the "
+"follow <a href=\"/\"\">link</a>\""
+msgstr ""
+"E-mail visszaigazolása megtörtént. 5 másodpercen átirányításra kerülsz a "
+"honlapra.</ br>Ha ez nem történik meg a megadott időn belül, kattints erre a "
+"<a href=\"/\"\">linkre</a>. \""
+
+msgid "Incorect confirmation code"
+msgstr "Helytelen megerősítő kód "
+
+msgid "Responsible Gaming Settings"
+msgstr "Felelősségteljes játék beállítások "
+
+msgid "Responsible gaming text"
+msgstr "Felelősségteljes játék szöveg "
+
+msgid "Add Limit"
+msgstr "Limit hozzáadása "
+
+msgid "Set the limit you can play for each session"
+msgstr "Játékmenet időlimit beállítása "
+
+msgid "Do not allow me to access my sportsbook account for the next 7 days"
+msgstr ""
+"Ne engedjen hozzáférni sportfogadási számlámhoz az elkövetkező 7 napban "
+
+msgid "Do not allow me to access my sportsbook account for the next 6 months"
+msgstr ""
+"Ne engedjen hozzáférni sportfogadási számlámhoz az elkövetkező 6 hónapban "
+
+msgid "Block Account"
+msgstr "Számla blokkolása "
+
+msgid "Permanently delete your account."
+msgstr "Számlád végeleges törlése. "
+
+msgid "Delete My Account"
+msgstr "Számlám törlése "
+
+msgid "Open account with us!"
+msgstr "Nyiss nálunk egy számlát! "
+
+msgid "Account data"
+msgstr "Számla adat "
+
+msgid "Confirm password"
+msgstr "Jelszó megerősítése "
+
+msgid "Personal question"
+msgstr "Személyes kérdés "
+
+msgid "Personal answer"
+msgstr "Személyes válasz "
+
+msgid "Referral ID"
+msgstr "Ajánlási azonosító "
+
+msgid "Affiliate ID"
+msgstr "Affiliate azonosító "
+
+msgid "Bank data (This is section can be filled later)"
+msgstr "Bankadatok (Kitölthető később is) "
+
+msgid "I am over 18 years of age and have read and accepted"
+msgstr "Betöltöttem 18. életévemet és elolvastam/elfogadom "
+
+msgid "Terms And Conditions"
+msgstr "Használati feltételek "
+
+msgid "Confirm registration"
+msgstr "Regisztráció megerősítése "
+
+msgid "Password Reset"
+msgstr "Jelszó visszaállítása "
+
+msgid "Enter your new password"
+msgstr "Add meg az új jelszót "
+
+msgid "Change password"
+msgstr "Jelszó megváltoztatása "
+
+msgid ""
+"Fill in email details below. Password reset link sent to your entered email. "
+"You will be able to create a new password which you can use to login."
+msgstr ""
+"Add meg az e-mail adatokat lent. Jelszó visszaállítási link elküldve "
+"regisztrált e-mail címre. Létrehozhatsz egy új jelszót, mellyel "
+"bejelentkezhetsz. "
+
+msgid "Withdraw"
+msgstr "Kifizetés "
+
+msgid "To withdraw money please insert amount and process transaction below:"
+msgstr ""
+"Pénz kifizetéshez add meg az összeget és kezdeményezd a tranzakciót alább: "
+
+msgid "Withdraw ID"
+msgstr "Kifizetési azonosító "
+
+msgid "Request Manual Withdraw"
+msgstr "Manuális kifizetési kérelem "
+
+msgid "Transaction Log"
+msgstr "Tranzakció napló "
+
+msgid "List of transactions:"
+msgstr "Tranzakciók listája: "
+
+msgid "Transaction Type"
+msgstr "Tranzakció típus "
+
+msgid "Add/Edit %s"
+msgstr "%s hozzáadás/szerkesztése "
+
+msgid "Description"
+msgstr "Leírás "
+
+msgid "Value"
+msgstr "Érték "
+
+msgid "Parent"
+msgstr "Forrás "
+
+msgid "Created"
+msgstr "Létrehozva "
+
+msgid "Modified"
+msgstr "Módosítva "
+
+msgid "Percentage"
+msgstr "Százalék "
+
+msgid "Custom Affiliate ID"
+msgstr "Egyéni affiliate azonosító "
+
+msgid "Submit"
+msgstr "Küldés "
+
+msgid "List %s"
+msgstr "%s lista "
+
+msgid "File"
+msgstr "Fájl "
+
+msgid "URL"
+msgstr "URL "
+
+msgid "Image"
+msgstr "Kép "
+
+msgid "Alert ID"
+msgstr "Figyelmeztetés azonosító "
+
+msgid "User id"
+msgstr "Felhasználó azonosító "
+
+msgid "Alert Title"
+msgstr "Figyelmeztetés cím "
+
+msgid "Alert"
+msgstr "Figyelmeztetés "
+
+msgid "Add bet"
+msgstr "Fogadás hozzáadása "
+
+msgid "Alerts"
+msgstr "Figyelmeztetések "
+
+msgid "Admin Audit Trail"
+msgstr "Admin könyvvizsgálat "
+
+msgid "Application File Backups"
+msgstr "Alkalmazás fájl mentések "
+
+msgid "Database Backups"
+msgstr "Adatbázismentések "
+
+msgid "Betradar Feeds Log"
+msgstr "Betradar hírcsatorna napló "
+
+msgid "Liability Dumps"
+msgstr "Tartozás csökkenések "
+
+msgid "Data list"
+msgstr "Adatlista "
+
+msgid "Actions"
+msgstr "Műveletek "
+
+msgid "Translations"
+msgstr "Fordítások "
+
+msgid "Translate"
+msgstr "Fordítás "
+
+msgid "No records found"
+msgstr "Nincs találat "
+
+msgid "Sports and Leagues"
+msgstr "Sportok és ligák "
+
+msgid "Events management"
+msgstr "Események menedzsment "
+
+msgid "Events Printing"
+msgstr "Események nyomtatása "
+
+msgid "Users report"
+msgstr "Felhasználói jelentés "
+
+msgid "Tickets report"
+msgstr "Szelvény jelentés "
+
+msgid "Deposits report"
+msgstr "Befizetés jelentés "
+
+msgid "Witdraw report"
+msgstr "Kifizetés jelentés "
+
+msgid "Liability report"
+msgstr "Tartozásjelentés "
+
+msgid "Active Users"
+msgstr "Aktív felhasználók "
+
+msgid "locale"
+msgstr "helyi "
+
+msgid "Create %s"
+msgstr "%s létrehozása "
+
+msgid "Event ID"
+msgstr "Eseményazonosító "
+
+msgid "User:"
+msgstr "Felhasználó: "
+
+msgid "Level:"
+msgstr "Szint: "
+
+msgid "Current Time:"
+msgstr "Aktuális idő: "
+
+msgid "Current Language:"
+msgstr "Aktuális nyelv: "
+
+msgid "Front Page"
+msgstr "Első oldal "
+
+msgid "Under / Over"
+msgstr "Alatt / Felett "
+
+msgid "Handicap"
+msgstr "Hendikep "
+
+msgid "%s Printing"
+msgstr "%s nyomtatása "
+
+msgid "Available Events List For:"
+msgstr "Elérhető eseménylista erre: "
+
+msgid "Unknown Sport"
+msgstr "Ismeretlen sport "
+
+msgid "Please select sport below:"
+msgstr "Kérjük, válassz sportot alább: "
+
+msgid "View Events"
+msgstr "Események megtekintése "
+
+msgid "No available events found for this sport"
+msgstr "Nincs elérhető esemény ebben a sportban. "
+
+msgid "Can not find event"
+msgstr "Esemény nem található. "
+
+msgid "Edit %s"
+msgstr "%s szerkesztése "
+
+msgid "Save"
+msgstr "Mentés "
+
+msgid "Users %s"
+msgstr "Felhasználók %s "
+
+msgid "Edit User"
+msgstr "Felhasználó szerkesztése "
+
+msgid "Administration Panel"
+msgstr "Adminisztrációs panel "
+
+msgid "Logout"
+msgstr "Kilépés "
+
+msgid "Staff Login"
+msgstr "Személyzet bejelentkezés "
+
+msgid "Events"
+msgstr "Események "
+
+msgid "Available cultures"
+msgstr "Elérhető régiók "
+
+msgid "Add a culture"
+msgstr "Régió hozzáadása "
+
+msgid "Add"
+msgstr "Hozzáadás "
+
+msgid "Cultures this site supports"
+msgstr "Régiók, melyet az oldal támogat "
+
+msgid "X"
+msgstr "X "
+
+msgid "Are you sure you want to delete"
+msgstr "Biztosan törlöd ezt: "
+
+msgid "ID"
+msgstr "Azonosító "
+
+msgid ""
+"Write promotion letter to all user. Messages will arrive to users email "
+"addresses."
+msgstr ""
+"Promóciós levél írása az összes felhasználónak. Az üzenetek a felhasználók e-"
+"mail címére érkeznek. "
+
+msgid "Subject:"
+msgstr "Tárgy: "
+
+msgid "Content:"
+msgstr "Tartalom: "
+
+msgid "Download all e-Mails (csv file)"
+msgstr "Összes e-mail letöltése (csv fájl) "
+
+msgid ""
+"Write promotion letter to certain user. Message will arrive to user email "
+"address."
+msgstr ""
+"Promóciós levél írása egy adott felhasználónak. Az üzenet a felhasználó e-"
+"mail címére érkezik. "
+
+msgid "To:"
+msgstr "Címzett: "
+
+msgid "Contact support team"
+msgstr "Kapcsolatfelvétel az ügyfélszolgálattal "
+
+msgid "<br>No data in this period"
+msgstr "<br>Nincs adat ebben az időszakban. "
+
+msgid "No data in this period"
+msgstr "Nincs adat ebben az időszakban. "
+
+msgid "User name"
+msgstr "Felhasználó neve "
+
+msgid "Date of registration"
+msgstr "Regisztráció dátuma "
+
+msgid "Won"
+msgstr "Nyert "
+
+msgid "Liability"
+msgstr "Tartozás "
+
+msgid "Liability Cancelled the Bonus"
+msgstr "Tartozás törölte a bónuszt. "
+
+msgid "Download (Excel file)"
+msgstr "Letöltés (Excel fájl) "
+
+msgid "Are you sure you want to cancel this event?"
+msgstr "Biztosan megszakítod ezt az eseményt? "
+
+msgid "No events found"
+msgstr "Nincs esemény. "
+
+msgid "No events in this league"
+msgstr "Nincs esemény ebben a ligában. "
+
+msgid "Risk Management Settings"
+msgstr "Kockázatkezelés beállítások "
+
+msgid ""
+"Risk management is crucial for sportsbook. Please be careful in setting all "
+"options."
+msgstr ""
+"A kockázatkezelés elengedhetetlen a sportfogadásban. Légy óvatos a lehetőség "
+"beállításával. "
+
+msgid "Lowest stake"
+msgstr "Legalacsonyabb tét "
+
+msgid "Highest stake"
+msgstr "Legmagasabb tét "
+
+msgid "Highest winning amount"
+msgstr "Legmagasabb nyereményösszeg "
+
+msgid "Lowest number of events in one ticket"
+msgstr "Legkevesebb eseményszám egy szelvényen "
+
+msgid "Highest number of events in one ticket"
+msgstr "Legtöbb eseményszám egy szelvényen "
+
+msgid "List Leagues"
+msgstr "Ligák listázása "
+
+msgid "League ID"
+msgstr "Ligaazonosító "
+
+msgid "No limits"
+msgstr "Nincsenek limitek "
+
+msgid "List Sports"
+msgstr "Sportok listázása "
+
+msgid "Sport ID"
+msgstr "Sportazonosító "
+
+msgid "Warning Withdraws"
+msgstr "Kifizetés figyelmeztetések "
+
+msgid "Id"
+msgstr "Azonosító "
+
+msgid "Warning Stakes"
+msgstr "Tét figyelmeztetések "
+
+msgid "Warning Winnings"
+msgstr "Nyeremény figyelmeztetések "
+
+msgid "Warning Deposits"
+msgstr "Befizetés figyelmeztetések "
+
+msgid "amount"
+msgstr "összeg "
+
+msgid "Deposit fee percentage"
+msgstr "Befizetési díj százalék "
+
+msgid "Payment gateways"
+msgstr "Fizetési szolgáltatók "
+
+msgid "Please set payment gateways below:"
+msgstr "Kérjük, állítsd be a fizetési szolgáltatókat alább: "
+
+msgid "Payments"
+msgstr "Fizetések "
+
+msgid "Deposits %s"
+msgstr "Befizetések %s "
+
+msgid "Please set deposit risk management setting below:"
+msgstr "Kérjük, add meg a kockázatkezelés beállításokat alább: "
+
+msgid "Allow automated deposits"
+msgstr "Automatikus befizetések engedélyezése "
+
+msgid "Allow manual deposits"
+msgstr "Manuális befizetések engedélyezése "
+
+msgid "Lowest amount for deposit"
+msgstr "Legalacsonyabb összeg befizetésre "
+
+msgid "Highest amount for deposit"
+msgstr "Legmagasabb összeg befizetésre "
+
+msgid "General %s"
+msgstr "Általános %s "
+
+msgid ""
+"General settings controls some of the most basic configuration settings for "
+"your site: your site's title and location, who may register an account at "
+"your site, and how dates and times are calculated and displayed."
+msgstr ""
+"Az általános beállítások szabályoznak néhányat oldalad legalapvetőbb "
+"konfigurációs beállításai közül: oldalad címét és helyét, azt, hogy ki "
+"nyithat számlát oldaladon, valamint hogy a dátumok és idők hogyan kerülnek "
+"kiszámításra és megjelenítésre. "
+
+msgid "Copyright"
+msgstr "Copyright "
+
+msgid "Contact Email"
+msgstr "Kapcsolattartási e-mail "
+
+msgid "Password reset"
+msgstr "Jelszó visszaállítása "
+
+msgid "Default currency"
+msgstr "Alapértelmezett pénznem "
+
+msgid "Default timezone:"
+msgstr "Alapértelmezett időzóna: "
+
+msgid "Default language"
+msgstr "Alapértelmezett nyelv "
+
+msgid "Charset"
+msgstr "Karakterkódolás "
+
+msgid "Items per page"
+msgstr "Elemek oldalanként "
+
+msgid "Referral system"
+msgstr "Ajánlási rendszer "
+
+msgid "Left active"
+msgstr "Bal aktív "
+
+msgid "Left sidebar title"
+msgstr "Bal oldalsáv cím "
+
+msgid "Left sidebar content"
+msgstr "Bal oldalsáv tartalom "
+
+msgid "Right active"
+msgstr "Jobb aktív "
+
+msgid "Right sidebar title"
+msgstr "Jobb oldalsáv cím "
+
+msgid "Right sidebar content"
+msgstr "Jobb oldalsáv tartalom "
+
+msgid "Bottom active"
+msgstr "Alsó aktív "
+
+msgid "Bottom sidebar title"
+msgstr "Alsó oldalsáv cím "
+
+msgid "Bottom sidebar content"
+msgstr "Alsó oldalsáv tartalom "
+
+msgid "Referral Settings"
+msgstr "Ajánlási beállítások "
+
+msgid "First deposit percentage to referral"
+msgstr "Első befizetés százalék ajánlásra "
+
+msgid "SEO %s"
+msgstr "SEO %s "
+
+msgid "What Is <b>SEO</b> / Search Engine Optimization?"
+msgstr "Mi a <b>SEO</b> / Keresőoptimalizálás? "
+
+msgid ""
+"SEO stands for \"search engine optimization.\"\" It is the process of "
+"getting traffic from the \"\"free,\"\" \"\"organic,\"\" \"\"editorial\"\" or "
+"\"\"natural\"\" listings on search engines. All major search engines such as "
+"Google, Yahoo and Bing have such results, where web pages and other content "
+"such as videos or local listings are shown and ranked based on what the "
+"search engine considers most relevant to users. Payment is not involved, as "
+"it is with paid search ads.\""
+msgstr ""
+"A SEO a \"search engine optimization\"\", vagyis a keresőoptimalizálás "
+"rövidítése. Ez a látogatottság növelésének a folyamata a \"\"free,\"\" "
+"\"\"organic,\"\" \"\"editorial\"\" vagy \"\"natural\"\" keresési "
+"eredményekben. Minden olyan nagy keresőmotornak, mint a Google, a Yahoo és a "
+"Bing rendelkezik ilyen eredményekkel, ahol weboldalak és egyéb olyan "
+"tartalmak, mint a videók vagy helyi listák az alapján kerülnek mutatásra és "
+"rangsorolásra, amit a keresőmotor a legrelevánsabbnak ítél meg a "
+"felhasználók szempontjából. Ennek nincs díja, mint a fizetett keresési "
+"reklámoknak. \""
+
+msgid "Title tag"
+msgstr "Cím címke "
+
+msgid "Keywords"
+msgstr "Kulcsszavak "
+
+msgid "Reply to email"
+msgstr "Válasz e-mailre "
+
+msgid "Copyright:"
+msgstr "Copyright: "
+
+msgid "Bot content revisit time"
+msgstr "Bot tartalom újralátogatási idő "
+
+msgid "Author"
+msgstr "Szerző "
+
+msgid "Tickets %s"
+msgstr "Szelvények %s "
+
+msgid ""
+"General ticket controls some of the most basic configuration related to "
+"tickets and printing functions."
+msgstr ""
+"Az általános szelvény beállítások szabályozzák a szelvények és a nyomatási "
+"funkciók legalapvetőbb konfigurációs beállításait. "
+
+msgid "Ticket printing"
+msgstr "Szelvény nyomtatás "
+
+msgid "Enable (Yes) or disable (No) ticket printing for users and staff."
+msgstr ""
+"Szelvény nyomtatás felhasználóknak és személyzetnek aktiválása (Igen) vagy "
+"(Nem) inaktiválása. "
+
+msgid "Ticket preview"
+msgstr "Szelvény előnézet "
+
+msgid "Enable (Yes) or disable (No) ticket preview ticket before it is placed."
+msgstr ""
+"Elhelyezés előtti szelvény áttekintés aktiválása (Igen) vagy (Nem) "
+"inaktiválása. "
+
+msgid "Warnings %s"
+msgstr "Figyelmeztetések %s "
+
+msgid ""
+"Warning settings would help you to filter warning screen with unnecessary "
+"alerts. Please consider what is crucial for you sportsbook and use this "
+"function to secure your profit."
+msgstr ""
+"A figyelmeztetés beállításokkal szükségtelen figyelmeztető üzeneteket lehet "
+"kiszűrni. Érdemes megfontolni, hogy melyik figyelmeztetések szükségesek "
+"sportfogadási oldaladra és az alapján beállítani ezt a funkciót. "
+
+msgid "Deposit alert"
+msgstr "Befizetési figyelmeztetés "
+
+msgid "Withdraw alert"
+msgstr "Kifizetési figyelmeztetés "
+
+msgid "Stake alert"
+msgstr "Tét figyelmeztetés "
+
+msgid "Odds alert"
+msgstr "Nyereményszorzó figyelmeztetés "
+
+msgid "Potential winning alert"
+msgstr "Lehetséges nyeremény figyelmeztetés "
+
+msgid "Allow withdraws"
+msgstr "Kifizetések engedélyezése "
+
+msgid "Withdraw %s"
+msgstr "Kifizetés %s "
+
+msgid "Please set withdraw risk management setting below:"
+msgstr "Kérjük, állítsd be a kifizetési kockázatkezelési beállításokat lent: "
+
+msgid "Lowest amount for withdraw request"
+msgstr "Legalacsonyabb összeg kifizetési kérelemhez "
+
+msgid "Highest amount for withdraw request"
+msgstr "Legmagasabb összeg kifizetési kérelemhez "
+
+msgid "%s"
+msgstr "%s "
+
+msgid "Sports"
+msgstr "Sportok "
+
+msgid "Leagues"
+msgstr "Ligák "
+
+msgid "View %s"
+msgstr "%s megtekintése "
+
+msgid "Ticket Number"
+msgstr "Szelvényszám "
+
+msgid "Return"
+msgstr "Osztalék "
+
+msgid "Ticket will be deleted. Are you sure you want to delete?"
+msgstr "Szelvény törlésre kerül. Biztosan törölni szeretnéd? "
+
+msgid "Ticket will be canceled. Are you sure you want to cancel?"
+msgstr "Szelvény megszakításra kerül. Biztosan meg szeretnéd szakítani? "
+
+msgid "Insert Result"
+msgstr "Eredmény megadása "
+
+msgid "Fund user"
+msgstr "Felhasználó feltöltése "
+
+msgid ""
+"To fund just enter amount into the input field and press submit. For example "
+"if you want to fund just creadit user with 100 USD"
+msgstr ""
+"Feltöltéshez csak add meg az összeget a megfelelő mezőbe, majd kattints a "
+"Küldés gombra. Például, ha 100 "
+
+msgid " just enter that amount into field and press submit"
+msgstr ""
+"szeretnél jóváírni a felhasználónak, akkor azt az összeget írd be a mezőbe, "
+"majd kattints a Küldés gombra. "
+
+msgid "Charge user"
+msgstr "Felhasználó terhelése "
+
+msgid ""
+"To charge enter amount and money will be reduced from user account. For "
+"example if you want to charge just credit user with 200"
+msgstr ""
+"Terheléshez csak add meg az összeget a megfelelő mezőbe, majd kattints a "
+"Küldés gombra. Például, ha 200 "
+
+msgid "USD just enter that amount into field and press submit"
+msgstr ""
+"dollárt szeretnél levonni a felhasználótól, akkor azt az összeget írd be a "
+"mezőbe, majd kattints a Küldés gombra. "
+
+msgid "Add %s"
+msgstr "%s hozzáadása "
+
+msgid "Registration chart"
+msgstr "Regisztrációs grafikon "
+
+msgid "KYC user"
+msgstr "KYC felhasználó "
+
+msgid "KYC Documents"
+msgstr "KYC dokumentumok "
+
+msgid "Change KYC Status"
+msgstr "KYC állapot módosítása "
+
+msgid "Deposits Bonus History"
+msgstr "Befizetési bónusz előzmények "
+
+msgid "Sum"
+msgstr "Összeg "
+
+msgid "Affiliates"
+msgstr "Affiliate-k "
+
+msgid "Kick"
+msgstr "Kirúgás "
+
+msgid "Email has been confirmed. You can now login."
+msgstr "E-mail visszaigazolása megtörtént. Bejelentkezhetsz. "
+
+msgid "Register now!"
+msgstr "Regisztrálj most! "
+
+msgid "Forgotten your password?"
+msgstr "Elfelejtett jelszó? "
+
+msgid "Old password"
+msgstr "Régi jelszó "
+
+msgid "New password"
+msgstr "Új jelszó "
+
+msgid "Bank info"
+msgstr "Bankinfó "
+
+msgid "Please provide your bank info"
+msgstr "Add meg bankinfódat "
+
+msgid "Account number"
+msgstr "Számlaszám "
+
+msgid "Transaction"
+msgstr "Tranzakció "
+
+msgid "User Balance"
+msgstr "Felhasználó egyenleg "
+
+msgid "Please enter your surname"
+msgstr "Add meg a vezetéknevedet "
+
+msgid "Please enter your first name"
+msgstr "Add meg a keresztnevedet "
+
+msgid "Please enter your address"
+msgstr "Add meg a címedet "
+
+msgid "Please enter your Region"
+msgstr "Add meg a régiódat "
+
+msgid "Please enter your City of residence"
+msgstr "Add meg lakóhelyed szerinti településedet "
+
+msgid "Alphabets and numbers only"
+msgstr "Csak betűk és számok "
+
+msgid "Between 5 to 15 characters"
+msgstr "5 és 15 karakter között "
+
+msgid "This username has already been taken."
+msgstr "Felhasználónév már foglalt. "
+
+msgid "Password must be Between 6 to 15 characters"
+msgstr "Jelszónak 6-15 karakter hosszúnak kell lennie "
+
+msgid "Password must contain at least one number"
+msgstr "Jelszónak legalább egy számot tartalmaznia kell "
+
+msgid "Password must contain at least one letter"
+msgstr "Jelszónak legalább egy betűt tartalmaznia kell "
+
+msgid "Please enter valid email address"
+msgstr "Adj meg egy érvényes e-mail címet "
+
+msgid "This email has already been registered."
+msgstr "E-mail már regisztrálva van. "
+
+msgid "Please enter your name"
+msgstr "Add meg a nevedet "
+
+msgid "Please enter your street address"
+msgstr "Add meg a címedet "
+
+msgid "Please enter city"
+msgstr "Add meg a településedet "
+
+msgid "Please enter country"
+msgstr "Add meg az országodat "
+
+msgid "User should be over 21 years old to complete registration"
+msgstr "Felhasználónak 21 éven felülinek kell lennie regisztrációhoz. "
+
+msgid "User should be over 18 years old to complete registration"
+msgstr "Felhasználónak 18 éven felülinek kell lennie regisztrációhoz. "
+
+msgid "Please enter valid mobile number"
+msgstr "Add meg érvényes telefonszámodat "
+
+msgid "Please your personal question"
+msgstr "Add meg a személyes kérdésedet "
+
+msgid "Please enter valid answer"
+msgstr "Add meg a személyes válaszodat "
+
+msgid "You need to accept the Terms Of Use to be able to register."
+msgstr "Regisztrációhoz el kell fogadnod a Használati feltételeket. "
+
+msgid "This field cannot be left blank"
+msgstr "Ez a mező nem maradhat üresen "
+
+msgid "Mimimum 5 characters long"
+msgstr "Minimum 5 karakter hosszúnak kell lennie "
+
+msgid "The username should be different from email"
+msgstr "Felhasználónévnek különböznie kell az e-mail címtől "
+
+msgid "Password must be Between 8 to 15 characters"
+msgstr "Jelszónak 8-15 karakter hosszúnak kell lennie "
+
+msgid "The Password has to be different from username."
+msgstr "Jelszónak különböznie kell a felhasználónévtől. "
+
+msgid "It seems that you are already registered."
+msgstr "Úgy tűnik, már regisztráltál. "
+
+msgid "Please enter your street address or street address does not exist"
+msgstr "Add meg címed utcanevét vagy utcanév nem létezik. "
+
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+"A hibaelhárítási beállítások nem engedélyezik a webcímhez való hozzáférést. "
+
+msgid "Match odds"
+msgstr "Mérkőzés nyereményszorzók "
+
+msgid "Remaining match"
+msgstr "Hátralévő mérkőzés "
+
+msgid "Next Goal"
+msgstr "Következő gól "
+
+msgid "Total Goals +/-"
+msgstr "Összesített gólok +/- "
+
+msgid "Match odds (1 2)"
+msgstr "Mérkőzés nyereményszorzók (1 2) "
+
+msgid "Set 1 2"
+msgstr "Szett 1 2 "
+
+msgid "Set Score"
+msgstr "Szett eredmény "
+
+msgid "Sets Overall"
+msgstr "Szettek összesen "
+
+msgid "Total Points +/-"
+msgstr "Összesített pontok +/- "
+
+msgid "Goals from now +/-"
+msgstr "Gólok mostantól +/- "
+
+msgid "Match odds (1x2)"
+msgstr "Mérkőzés nyereményszorzók (1x2) "
+
+msgid "1 hour"
+msgstr "1 óra "
+
+msgid "2 hours"
+msgstr "2 óra "
+
+msgid "3 hours"
+msgstr "3 óra "
+
+msgid "Time"
+msgstr "Idő "
+
+msgid "LIVE"
+msgstr "ÉLŐ "
+
+msgid "Statistics"
+msgstr "Statisztika "
+
+msgid "Click on team name for extra bets"
+msgstr "Kattints a csapatnévre extra fogadásokért "
+
+msgid "Upcoming Live Matches"
+msgstr "Közelgő élő mérkőzések "
+
+msgid "Login For"
+msgstr "Bejelentkezés ide: "
+
+msgid "minutes"
+msgstr "perc "
+
+msgid "Bet Slip"
+msgstr "Fogadószelvény "
+
+msgid "open"
+msgstr "nyitott "
+
+msgid "Sport Bets"
+msgstr "Sportfogadások "
+
+msgid "Great odds on football,tennis, ice hokey and many more"
+msgstr ""
+"Nagyszerű futball, tenisz, jégkorong nyereményszorzók + sok minden más "
+
+msgid "Number of Bets Placed:"
+msgstr "Elhelyezett fogadások száma: "
+
+msgid "Max Wager for bets:"
+msgstr "Max fogadási tét: "
+
+msgid "Wager:"
+msgstr "Tét: "
+
+msgid "Max Payout:"
+msgstr "Max kifizetés: "
+
+msgid "All games / All events"
+msgstr "Összes mérkőzés / Összes esemény "
+
+msgid "All games at one look, all normal sports and all odds can be combined ."
+msgstr ""
+"Az összes mérkőzés egy oldalon, mindegyik népszerű sport és nyereményszorzó "
+"kombinálható. "
+
+msgid ""
+"Get this innovative service now from us. Live games meeting like never "
+"before! Good Luck!!"
+msgstr ""
+"Részesülj az innovatív szolgáltatásunkban! Élő mérkőzések, mint eddig még "
+"soha. Sok szerencsét! "
+
+msgid "more groups"
+msgstr "több csoport "
+
+msgid "Draw no Bet Period"
+msgstr "Nincs fogadás döntetlenre időszak "
+
+msgid "Total x Period"
+msgstr "Összesített x Periódus "
+
+msgid "Setup Deposit Limits on your Account"
+msgstr "Befizetési limitek beállítása számládon "
+
+msgid "Play Session Limit"
+msgstr "Játékidőszak limit "
+
+msgid "Wager Limit"
+msgstr "Tétlimit "
+
+msgid "Loss Limit"
+msgstr "Veszteséglimit "
+
+msgid "Self Exclusion"
+msgstr "Önkizárás "
+
+msgid "DELETE ACCOUNT"
+msgstr "SZÁMLA TÖRLÉSE "
+
+msgid "Per Transaction"
+msgstr "Tranzakciónként "
+
+msgid "Daily"
+msgstr "Napi "
+
+msgid "Weekly"
+msgstr "Heti "
+
+msgid "Monthly"
+msgstr "Havi "
+
+msgid "No Limit"
+msgstr "Nincs limit "
+
+msgid "After %s minutes"
+msgstr "%s perc után "
+
+msgid "After one Hour"
+msgstr "1 óra után "
+
+msgid "After two Hours"
+msgstr "2 óra után "
+
+msgid "Login For:"
+msgstr "Bejelentkezés ide: "
+
+msgid ""
+"You have been playing for the past %s minutes during which you have: "
+"<br>Deposited € %s <br>Wagered € %s <br>Lost € %s <br>Won € %s"
+msgstr ""
+"Az elmúlt %s percben játszottál, ami alatt: <br>%s eurót fizették be <br>%s "
+"eurót helyeztél el tétként <br>%s eurót vesztettél <br>%s eurót nyertél "
+
+msgid "Outdated Browser Detected"
+msgstr "Elavult böngésző érzékelve "
+
+msgid ""
+"Our website has detected that you are using an outdated browser. Using your "
+"current browser will prevent you from accessing features on our website. An "
+"upgrade is not required, but is strongly recommend to improve your browsing "
+"experience on our website."
+msgstr ""
+"Honlapunk észlelte, hogy elavult böngészőt használsz. A jelenlegi "
+"böngészővel nem tudsz majd bizonyos holnapfunkciókat használni. Frissítés "
+"nem szükséges, de erősen ajánlott webes élményed weboldalunkon való "
+"fokozásához. "
+
+msgid ""
+"Use the links below to download a new browser or upgrade your existing "
+"browser."
+msgstr ""
+"Az alábbi linkek segítségével letölthetsz egy új böngészőt, vagy "
+"frissítheted meglévődet. "
+
+msgid "Remind me later"
+msgstr "Emlékeztessen később "
+
+msgid "No available Bonuses."
+msgstr "Nincs elérhető bónusz. "
+
+msgid "Available Bonuses."
+msgstr "Elérhető bónuszok. "
+
+msgid "Locked Amount"
+msgstr "Zárolt összeg "
+
+msgid "Opened on"
+msgstr "Megnyitva "
+
+msgid "Activation Date"
+msgstr "Aktiválás dátuma "
+
+msgid "Expiration Date"
+msgstr "Lejárati dátum "
+
+msgid "Account Information"
+msgstr "Számlainformáció "
+
+msgid "Results Tables Schedules and Livescore for all leagues and events"
+msgstr ""
+"Eredmények, táblázatok, menetrendek és élő eredmények minden ligára és "
+"eseményre vonatkozóan "
+
+msgid "Play roulette, BlackJack and Baccarat in the Live Casino"
+msgstr "Rulett, BlackJack és Baccarat az Élő kaszinóban "
+
+msgid "Identity Card (back view)"
+msgstr "Személyi igazolvány (hátoldal) "
+
+msgid "Identity Card (front view)"
+msgstr "Személyi igazolvány (első oldal) "
+
+msgid "Bank Account"
+msgstr "Bankszámla "
+
+msgid "Register now and get 7bonus7"
+msgstr "Regisztrálj most és 7bonus7 jár "
+
+msgid ""
+"<p id=terms>7Epta7 Limited&nbsp; is a company registered under the laws of "
+"Malta and subject to such laws and having registered office at Tower "
+"Business Centre, Suite 5, Level 1, Tower Street, Swatar, Birkirkara. The "
+"Company is in possession of a Class 2 licence which it has acquired on "
+"the&nbsp;&nbsp; 2013 from the Lotteries and Gaming Authority of Malta and "
+"having licence number LGA/CL2/921/2013. The Company is regulated by the "
+"Lotteries and Gaming Authority (LGA) of Malta.</p>"
+msgstr ""
+"<p id=terms>Az 7Epta7 Limited&nbsp; egy Máltán bejegyzett vállalat, amely a "
+"máltai törvénykezés alá tartozik. Székhelye a Tower Business Centre, Suite "
+"5, Level 1, Tower Street, Swatar, Birkirkara. A vállalat egy Class 2 "
+"engedéllyel rendelkezik, amely 2013. &nbsp;&nbsp; napján került kibocsátásra "
+"a máltai Lotteries and Gaming Authority által és a LGA/CL2/921/2013 "
+"engedélyszámmal. A vállalat a máltai Lotteries and Gaming Authority (LGA) "
+"által van szabályozva.</p> "
+
+msgid "Top Winner"
+msgstr "Topnyertes "
+
+msgid "close"
+msgstr "bezárás "
+
+msgid "hours"
+msgstr "óra "
+
+msgid "Instant Play"
+msgstr "Azonnali játék "
+
+msgid "Live Video Streaming"
+msgstr "Élő videó közvetítés "
+
+msgid "Betslip Wagering"
+msgstr "Fogadószelvény tét "
+
+msgid "Ticket Win"
+msgstr "Szelvény nyeremény "
+
+msgid "Bonus Cancellation by user."
+msgstr "Bónusz megszakítás felhasználó által. "
+
+msgid "Bonus activation"
+msgstr "Bónusz aktiválás "
+
+msgid "APCO Deposit"
+msgstr "APCO befizetés "
+
+msgid "Account Deposit"
+msgstr "Számla befizetés "
+
+msgid "Live Casino Transaction"
+msgstr "Élő kaszinó tranzakció "
+
+msgid "Live Casino RollBack Transaction"
+msgstr "Élő kaszinó RollBack tranzakció "
+
+msgid "in every game"
+msgstr "minden mérkőzésen "
+
+msgid "Today"
+msgstr "Ma "
+
+msgid "Log in"
+msgstr "Bejelentkezés "
+
+msgid "Stake:"
+msgstr "Tét: "
+
+msgid "View Tickets"
+msgstr "Szelvények megtekintése "
+
+msgid "Number of Bets Placed: "
+msgstr "Elhelyezett fogadások száma: "
+
+msgid "Max Wager for bets: "
+msgstr "Max fogadási tét: "
+
+msgid "bets"
+msgstr "fogadás "
+
+msgid "Admin add Funds"
+msgstr "Admin feltöltés "
+
+msgid "Bonus activation:"
+msgstr "Bónusz aktiválás "
+
+msgid "APCO Deposit:"
+msgstr "APCO befizetés "
+
+msgid "Withdrawal"
+msgstr "Kifizetés "
+
+msgid "Betslip Cancellation:"
+msgstr "Fogadószelvény megszakítás: "
+
+msgid "Cancelled WithDrawal"
+msgstr "Megszakított kifizetés "
+
+msgid "Ticket Cancelled"
+msgstr "Szelvény megszakítva "
+
+msgid "en_us"
+msgstr "en"
+
+msgid "bg_bg"
+msgstr "bg"
+
+msgid "hr_hr"
+msgstr "hr"
+
+msgid "cs_cz"
+msgstr "cs"
+
+msgid "da_dk"
+msgstr "da"
+
+msgid "et_ee"
+msgstr "et"
+
+msgid "fi_fi"
+msgstr "fi"
+
+msgid "fr_fr"
+msgstr "fr"
+
+msgid "de_de"
+msgstr "de"
+
+msgid "el_gr"
+msgstr "el"
+
+msgid "hu_hu"
+msgstr "hu"
+
+msgid "it_it"
+msgstr "it"
+
+msgid "lv_lv"
+msgstr "lv"
+
+msgid "lt_lt"
+msgstr "lt"
+
+msgid "no_no"
+msgstr "no"
+
+msgid "pl_pl"
+msgstr "pl"
+
+msgid "pt_pt"
+msgstr "pt"
+
+msgid "ro_ro"
+msgstr "ro"
+
+msgid "ru_ru"
+msgstr "ru"
+
+msgid "sr_sp"
+msgstr "sr"
+
+msgid "srl_sr"
+msgstr "srl"
+
+msgid "sk_sk"
+msgstr "sk"
+
+msgid "sl_sl"
+msgstr "sl"
+
+msgid "es_es"
+msgstr "es"
+
+msgid "se_se"
+msgstr "se"
+
+msgid "tr_tr"
+msgstr "tr"
+
+msgid "bs_bs"
+msgstr "bs"
+
+msgid "Price"
+msgstr "Ár "
+
+msgid "Bet Split"
+msgstr "Fogadás felosztás "
+
+msgid "The Company"
+msgstr "A vállalat "
+
+msgid "Help & Legal"
+msgstr "Segítség és jog "
+
+msgid "Useful Links"
+msgstr "Hasznos linkek "
+
+msgid "Payment Options"
+msgstr "Fizetési módok "
+
+msgid "Extra Bets"
+msgstr "Extra fogadások "
+
+msgid "No, don't remind me again"
+msgstr "Nem, ne emlékeztessen újra "
+
+msgid ""
+"Choose your favorite sport league from the menu on the left. So you can find "
+"it next time you visit"
+msgstr ""
+"Válaszd ki kedvenc sportligádat a baloldali menüből. Következő alkalommal "
+"így könnyen megtalálhatod őket. "
+
+msgid "3 Way"
+msgstr "3 esély "
+
+msgid "2 Way"
+msgstr "2 esély "
+
+msgid "Totals"
+msgstr "Összesítettek "
+
+msgid "Championship Outrights"
+msgstr "Bajnokság végső győztesek "
+
+msgid "Short Term Outrights"
+msgstr "Rövidtávú végső győztesek "
+
+msgid "Podium Finish"
+msgstr "Dobogós helyezés "
+
+msgid "3-balls"
+msgstr "3 golyós "
+
+msgid "Correct score"
+msgstr "Pontos végeredmény "
+
+msgid "First Team to score"
+msgstr "Első gólszerző csapat "
+
+msgid "1st Half - 1X2"
+msgstr "1. félidő - 1x2 "
+
+msgid "Both Teams to Score"
+msgstr "Mindkét csapat szerez gólt "
+
+msgid "Odd/Even goals"
+msgstr "Gólok páratlan/páros  "
+
+msgid "Draw no bet"
+msgstr "Nincs fogadás döntetlenre "
+
+msgid "Goals home team"
+msgstr "Gólok hazai csapat "
+
+msgid "Goals away team"
+msgstr "Gólok vendégcsapat "
+
+msgid "Asian Handicap"
+msgstr "Ázsiai hendikep "
+
+msgid "Asian Total"
+msgstr "Ázsia összesített "
+
+msgid "1st Half - Asian Handicap"
+msgstr "1. félidő - Ázsiai hendikep "
+
+msgid "1st Half - Asian Total"
+msgstr "1. félidő - Ázsiai összesített "
+
+msgid "European Handicap"
+msgstr "Európai hendikep "
+
+msgid "First goalscorer"
+msgstr "Első gólszerző "
+
+msgid "Total Goals (aggregated)"
+msgstr "Összesített gólok "
+
+msgid "1st Half - Correct Score"
+msgstr "1. félidő - Pontos eredmény "
+
+msgid "Highest scoring half"
+msgstr "Legmagasabb gólszámú félidő "
+
+msgid "Matchbet + Totals"
+msgstr "Mérkőzésfogadás + összesítettek "
+
+msgid "Matchflow"
+msgstr "Mérkőzésesemények "
+
+msgid "1st Half - Odd/Even Goals"
+msgstr "1. félidő - Gólok páratlan/páros "
+
+msgid "Overtime yes/no"
+msgstr "Hosszabbítás igen/nem "
+
+msgid "Winning margins"
+msgstr "Győzelmi arányok "
+
+msgid "Anytime goalscorer"
+msgstr "Bármikori gólszerző "
+
+msgid "Total number of bookings"
+msgstr "Lapok száma "
+
+msgid "1st Half - Total Number of Bookings"
+msgstr "1. félidő - Lapok száma "
+
+msgid "Total number of booking points"
+msgstr "Büntetőpontok összesen "
+
+msgid "1st Half - Total Number of Booking Points"
+msgstr "1. félidő - Büntetőpontok összesen "
+
+msgid "Player sent off?"
+msgstr "Játékost kiállítják"
+
+msgid "1st Half - Player Sent Off?"
+msgstr "1. félidő - Játékost kiállítják"
+
+msgid "Number of bookings home"
+msgstr "Lapok száma hazai csapat "
+
+msgid "1st Half - Number of Bookings Home"
+msgstr "1. félidő - Lapok száma hazai csapat "
+
+msgid "Number of bookings away"
+msgstr "Lapok száma vendégcsapat "
+
+msgid "1st Half - Number of Bookings Away"
+msgstr "1. félidő - Lapok száma vendégcsapat "
+
+msgid "First Team Booked"
+msgstr "Első lapot kapó csapat "
+
+msgid "1st Half - First Team Booked"
+msgstr "1. félidő - Első lapot kapó csapat "
+
+msgid "Match bookings"
+msgstr "Mérkőzés lapok "
+
+msgid "1st Half - Match Bookings"
+msgstr "1. félidő - Mérkőzés lapok "
+
+msgid "Aggregated booking points"
+msgstr "Összesített büntetőpontok "
+
+msgid "1st Half - Aggregated Booking Points"
+msgstr "1. félidő - Összesített büntetőpontok "
+
+msgid "Exact bookings"
+msgstr "Lapok száma pontosan "
+
+msgid "1st Half - Exact Bookings"
+msgstr "1. félidő - Lapok száma pontosan "
+
+msgid "Home Team Player Sent Off"
+msgstr "Hazai csapat játékosát kiállítják "
+
+msgid "1st Half - Home Team Player Sent Off"
+msgstr "1. félidő - Hazai csapat játékosát kiállítják "
+
+msgid "Away Team Player Sent Off"
+msgstr "Vendégcsapat játékosát kiállítják "
+
+msgid "1st Half - Away team Player Sent Off"
+msgstr "1. félidő - Vendégcsapat játékosát kiállítják "
+
+msgid "Total Goals (exact)"
+msgstr "Összesített gólok (pontosan) "
+
+msgid "2nd Half - 1X2"
+msgstr "2. félidő - 1x2 "
+
+msgid "2nd Half - Asian Total"
+msgstr "2. félidő - Ázsiai összesített "
+
+msgid "2nd Half - Asian Handicap"
+msgstr "2. félidő - Ázsiai hendikep "
+
+msgid "Halftime/Fulltime Correct Score"
+msgstr "Félidő/játékidő pontos végeredmény "
+
+msgid "Overtime + goal Yes/No"
+msgstr "Hosszabbítás + gól Igen/Nem "
+
+msgid "Penalty shoot out Yes/No"
+msgstr "Büntetőrúgás Igen/Nem "
+
+msgid "How will the match be decided?"
+msgstr "Hogyan végződik a mérkőzés"
+
+msgid "Clean sheet home team"
+msgstr "Hazai csapat nem kap gólt "
+
+msgid "Clean sheet away team"
+msgstr "Vendégcsapat nem kap gólt "
+
+msgid "Which team to score"
+msgstr "Melyik csapat szerez gólt "
+
+msgid "1st Half - Total Goals"
+msgstr "1. félidő - Összesített gólok "
+
+msgid "2nd Half - Total Goals"
+msgstr "2. félidő - Összesített gólok "
+
+msgid "Total corners"
+msgstr "Összesített szögletek "
+
+msgid "1st Half - Total Corners"
+msgstr "1. félidő - Összesített szögletek "
+
+msgid "Corner handicap"
+msgstr "Szögletek hendikep "
+
+msgid "1st Half - Corner Handicap"
+msgstr "1. félidő - Szögletek hendikep "
+
+msgid "Corner matchbet"
+msgstr "Szögletek "
+
+msgid "1st Half - Corner Matchbet"
+msgstr "1. félidő - Szögletek "
+
+msgid "Corner Odd/Even"
+msgstr "Szögletek páratlan/páros "
+
+msgid "1st Half - Corner Odd/Even"
+msgstr "1. félidő - Szögletek páratlan/páros "
+
+msgid "First corner"
+msgstr "Első szöglet "
+
+msgid "1st Half - First Corner"
+msgstr "1. félidő - Első szöglet "
+
+msgid "Home Team Number of Corners"
+msgstr "Hazai csapat szögleteinek száma "
+
+msgid "1st Half - Home Team Number of Corners"
+msgstr "1. félidő - Hazai csapat szögleteinek száma "
+
+msgid "1st Half - Totals"
+msgstr "1. félidő - Összesítettek "
+
+msgid "2nd Half - Totals"
+msgstr "2. félidő - Összesítettek "
+
+msgid "Last corner"
+msgstr "Utolsó szöglet "
+
+msgid "1st Half - Last Corner"
+msgstr "1. félidő - Utolsó szöglet "
+
+msgid "Away Team Number of Corners"
+msgstr "Vendégcsapat szögleteinek száma "
+
+msgid "1st Half - Away Team Number of Corners"
+msgstr "1. félidő - Vendégcsapat szögleteinek száma "
+
+msgid "Last team to score"
+msgstr "Utolsó gólszerző csapat "
+
+msgid "Corner Total (Aggregated)"
+msgstr "Összesített szögletek "
+
+msgid "1st Half - Corner Total (Aggregated)"
+msgstr "1. félidő - Összesített szögletek "
+
+msgid "Home to win both halves?"
+msgstr "Hazai csapat megnyeri mindkét félidőt"
+
+msgid "Home to win either half?"
+msgstr "Hazai csapat megnyeri valamelyik félidőt"
+
+msgid "Home to score in both halves?"
+msgstr "Hazai csapat gólt szerez mindkét félidőben"
+
+msgid "Away to win both halves?"
+msgstr "Vendégcsapat megnyeri mindkét félidőt"
+
+msgid "Away to win either half?"
+msgstr "Vendégcsapat megnyeri valamelyik félidőt"
+
+msgid "Away to score in both halves?"
+msgstr "Vendégcsapat gólt szerez mindkét félidőben"
+
+msgid "Both halves over 1.5?"
+msgstr "Mindkét félidő 1.5 felett"
+
+msgid "Both halves under 1.5?"
+msgstr "Mindkét félidő 1.5 alatt"
+
+msgid "1st Half Double Chance"
+msgstr "1. félidő - Dupla esély "
+
+msgid "1st Half Draw no Bet"
+msgstr "1. félidő - Nincs fogadás döntetlenre "
+
+msgid "First goal interval 10 min"
+msgstr "Első gól 10 perces időtartomány "
+
+msgid "First goal interval 15 min"
+msgstr "Első gól 15 perces időtartomány "
+
+msgid "First 10 minutes -3 way"
+msgstr "Első 10 perc - 3 esély "
+
+msgid "1st Half - Both Teams to score"
+msgstr "1. félidő - Mindkét csapat szerez gólt "
+
+msgid "2nd Half - Both Teams to score"
+msgstr "2. félidő - Mindkét csapat szerez gólt "
+
+msgid "Highest Scoring Half Hometeam"
+msgstr "Hazai csapat legmagasabb gólszámú félideje "
+
+msgid "Highest Scoring Half Awayteam"
+msgstr "Vendégcsapat legmagasabb gólszámú félideje "
+
+msgid "Correct score (incl. other)"
+msgstr "Pontos eredmény (továbbiak elérhetők) "
+
+msgid "Odd/Even Points"
+msgstr "Pontok páratlan/páros  "
+
+msgid "Points Spreads"
+msgstr "Pontok "
+
+msgid "Total Spreads"
+msgstr "Összesítettek "
+
+msgid "1st Half - Points Spread"
+msgstr "1. félidő - Pontok "
+
+msgid "1st Half - Total Spread"
+msgstr "1. félidő - Összesítettek "
+
+msgid "Matchbet and Totals"
+msgstr "Mérkőzésfogadás + összesítettek "
+
+msgid "1st Half - Odd/Even Points"
+msgstr "1. félidő - Pontok páratlan/páros "
+
+msgid "1st Half - 2way"
+msgstr "1. félidő - 2 esély "
+
+msgid "Highest Scoring Quarter"
+msgstr "Legmagasabb pontszámú negyed "
+
+msgid "3way"
+msgstr "3 esély "
+
+msgid "2nd Half - Points Spread"
+msgstr "2. félidő - Pontok "
+
+msgid "2nd Half - Total Spread"
+msgstr "2. félidő - Összesítettek "
+
+msgid "1st Half - Draw no bet"
+msgstr "1. félidő - Nincs fogadás döntetlenre "
+
+msgid "2nd Half - Odd/Even Points"
+msgstr "2. félidő - Pontok páratlan/páros "
+
+msgid "2nd Half - Draw no bet"
+msgstr "2. félidő - Nincs fogadás döntetlenre "
+
+msgid "Total margins NBA-ranges"
+msgstr "Összesített NBA tartományok "
+
+msgid "Total margins Regular-ranges"
+msgstr "Összesített Regular tartományok "
+
+msgid "Totals away team"
+msgstr "Összesítettek vendégcsapat "
+
+msgid "Totals home team"
+msgstr "Összesítettek hazai csapat "
+
+msgid "1st Quarter - 1X2"
+msgstr "1. negyed - 1x2 "
+
+msgid "2nd Quarter - 1X2"
+msgstr "2. negyed - 1x2 "
+
+msgid "3rd Quarter - 1X2"
+msgstr "3. negyed - 1x2 "
+
+msgid "4th Quarter - 1X2"
+msgstr "4. negyed - 1x2 "
+
+msgid "1st Quarter - Draw no bet"
+msgstr "1. negyed - Nincs fogadás döntetlenre "
+
+msgid "2nd Quarter - Draw no bet"
+msgstr "2. negyed - Nincs fogadás döntetlenre "
+
+msgid "3rd Quarter - Draw no bet"
+msgstr "3. negyed - Nincs fogadás döntetlenre "
+
+msgid "4th Quarter - Draw no bet"
+msgstr "4. negyed - Nincs fogadás döntetlenre "
+
+msgid "1st Quarter - Total Spread"
+msgstr "1. negyed - Összesítettek "
+
+msgid "2nd Quarter - Total Spread"
+msgstr "2. negyed - Összesítettek "
+
+msgid "3rd Quarter - Total Spread"
+msgstr "3. negyed - Összesítettek "
+
+msgid "4th Quarter - Total Spread"
+msgstr "4. negyed - Összesítettek "
+
+msgid "1st Quarter - Points Spread"
+msgstr "1. negyed - Pontok "
+
+msgid "2nd Quarter - Points Spread"
+msgstr "2. negyed - Pontok "
+
+msgid "3rd Quarter - Points Spread"
+msgstr "3. negyed - Pontok "
+
+msgid "4th Quarter - Points Spread"
+msgstr "4. negyed - Pontok "
+
+msgid "1st Quarter - Odd/Even Points"
+msgstr "1. negyed - Pontok páratlan/páros "
+
+msgid "2nd Quarter - Odd/Even Points"
+msgstr "2. negyed - Pontok páratlan/páros "
+
+msgid "3rd Quarter - Odd/Even Points"
+msgstr "3. negyed - Pontok páratlan/páros "
+
+msgid "4th Quarter - Odd/Even Points"
+msgstr "4. negyed - Pontok páratlan/páros "
+
+msgid "First to x points"
+msgstr "Első x pontig "
+
+msgid "Total AAMS"
+msgstr "Összes AAMS "
+
+msgid "Total 3way"
+msgstr "Összesen 3 esély "
+
+msgid "Points Spreads (Overtime)"
+msgstr "Pontok (hosszabbítás) "
+
+msgid "Total Spreads (Overtime)"
+msgstr "Összesítettek (hosszabbítás) "
+
+msgid "Odd/Even Runs (Overtime)"
+msgstr "Runok páratlan/páros (hosszabbítás) "
+
+msgid "Correct Score"
+msgstr "Pontos végeredmény "
+
+msgid "Both teams to score?"
+msgstr "Mindkét csapat szerez gólt"
+
+msgid "Goal Spreads"
+msgstr "Gólok "
+
+msgid "1st Period - 3way"
+msgstr "1. harmad - 3 esély "
+
+msgid "3rd Period - 3way"
+msgstr "3. harmad - 3 esély "
+
+msgid "1st Period – Total"
+msgstr "1. harmad - Összesített "
+
+msgid "2nd Period – Total"
+msgstr "2. harmad - Összesített "
+
+msgid "3rd Period – Total"
+msgstr "3. harmad - Összesített "
+
+msgid "1st Period - Double Chance"
+msgstr "1. harmad - Dupla esély "
+
+msgid "2nd Period - Double Chance"
+msgstr "2. harmad - Dupla esély "
+
+msgid "3rd Period - Double Chance"
+msgstr "3. harmad - Dupla esély "
+
+msgid "Odd/Even goals (Inc. OT and Penalty Shootout)"
+msgstr "Gólok páratlan/páros (hosszabbítással és büntetőkkel) "
+
+msgid "Highest Scoring Period"
+msgstr "Legmagasabb gólszámú harmad "
+
+msgid "Goal Spreads (incl. OT)"
+msgstr "Gólok (hosszabbítással) "
+
+msgid "Total Spreads (incl. OT)"
+msgstr "Összesítettek (hosszabbítással) "
+
+msgid "Last team to Score"
+msgstr "Utolsó gólszerző csapat "
+
+msgid "2nd Period - 3way"
+msgstr "2. harmad - 3 esély "
+
+msgid "1st Period - Odd/Even goals"
+msgstr "1. harmad - Gólok páratlan/páros "
+
+msgid "2nd Period - Odd/Even goals"
+msgstr "2. harmad - Gólok páratlan/páros "
+
+msgid "3rd Period - Odd/Even goals"
+msgstr "3. harmad - Gólok páratlan/páros "
+
+msgid "1st Period - Draw no bet"
+msgstr "1. harmad - Nincs fogadás döntetlenre "
+
+msgid "2nd Period - Draw no bet"
+msgstr "2. harmad - Nincs fogadás döntetlenre "
+
+msgid "3rd Period - Draw no bet"
+msgstr "3. harmad - Nincs fogadás döntetlenre "
+
+msgid "2nd Period - Both teams to score"
+msgstr "2. harmad - Mindkét csapat szerez gólt "
+
+msgid "3rd Period - Both teams to score"
+msgstr "3. harmad - Mindkét csapat szerez gólt "
+
+msgid "1st Period - Goal Spreads"
+msgstr "1. harmad - Gólok "
+
+msgid "2nd Period - Goal Spreads"
+msgstr "2. harmad - Gólok "
+
+msgid "3rd Period - Goal Spreads"
+msgstr "3. harmad - Gólok "
+
+msgid "2nd Period - First team to score"
+msgstr "2. harmad - Első gólszerző csapat "
+
+msgid "3rd Period - First team to score"
+msgstr "3. harmad - Első gólszerző csapat "
+
+msgid "1st Period - Last team to score"
+msgstr "1. harmad - Utolsó gólszerző csapat "
+
+msgid "2nd Period - Last team to score"
+msgstr "2. harmad - Utolsó gólszerző csapat "
+
+msgid "3rd Period - Last team to score"
+msgstr "3. harmad - Utolsó gólszerző csapat "
+
+msgid "1st Period - Both teams to score"
+msgstr "1. harmad - Mindkét csapat szerez gólt "
+
+msgid "Totals (incl. OT)"
+msgstr "Összesítettek (hosszabbítással) "
+
+msgid "2way (incl. OT)"
+msgstr "2 esély (hosszabbítással) "
+
+msgid "1st Set Winner"
+msgstr "1. szett nyertese "
+
+msgid "Total Number of Sets (best of 3)"
+msgstr "Összesített szettek száma (legjobb a 3-ból) "
+
+msgid "2nd Set Winner"
+msgstr "2. szett nyertese "
+
+msgid "Total Number of Sets (best of 5)"
+msgstr "Összesített szettek száma (legjobb az 5-ből) "
+
+msgid "Correct Set Score (best of 3 sets)"
+msgstr "Pontos szett eredmény (legjobb 3 szettből) "
+
+msgid "Correct Set Score (best of 5 sets)"
+msgstr "Pontos szett eredmény (legjobb 5 szettből) "
+
+msgid "1st Half - 3way"
+msgstr "1. félidő - 3 esély "
+
+msgid "Halftime / Fulltime"
+msgstr "Félidő/játékidő "
+
+msgid "Odd / Even Goals"
+msgstr "Gólok páratlan/páros  "
+
+msgid "1st Half - Goal Spread"
+msgstr "1. félidő - Gólok "
+
+msgid "2nd half - 3way"
+msgstr "2. félidő - 3 esély "
+
+msgid "1st half - Double Chance"
+msgstr "1. félidő - Dupla esély "
+
+msgid "1st half - Draw no bet"
+msgstr "1. félidő - Nincs fogadás döntetlenre "
+
+msgid "1st Half - Odd / Even"
+msgstr "1. félidő - Páratlan/páros "
+
+msgid "2nd Half - Odd / Even"
+msgstr "2. félidő - Páratlan/páros "
+
+msgid "2nd half - Draw no bet"
+msgstr "2. félidő - Nincs fogadás döntetlenre "
+
+msgid "2nd half - Double Chance"
+msgstr "2. félidő - Dupla esély "
+
+msgid "Points Spread"
+msgstr "Pontok "
+
+msgid "Winning Margins Rugby Union"
+msgstr "Győzelmi arányok Rugby Union "
+
+msgid "Winning Margins Rugby League"
+msgstr "Győzelmi arányok Rugby League "
+
+msgid "1st Half - Points Spreads"
+msgstr "1. félidő - Pontok "
+
+msgid "1st Half – Odd/Even Points"
+msgstr "1. félidő - Pontok páratlan/páros "
+
+msgid "Odd/Even Points (overtime)"
+msgstr "Pontok páratlan/páros (hosszabbítás) "
+
+msgid "2nd Half - Points Spread (incl. Overtime)"
+msgstr "2. félidő - Pontok (hosszabbítással) "
+
+msgid "2nd Half - Total Spreads (incl. Overtime)"
+msgstr "2. félidő - Összesítettek (hosszabbítással) "
+
+msgid "Who wins first set"
+msgstr "Ki nyeri az első szettet "
+
+msgid "Who wins second set"
+msgstr "Ki nyeri a második szettet "
+
+msgid "Total number of sets (best of 5)"
+msgstr "Összesített szettek száma (legjobb az 5-ből) "
+
+msgid "Correct Set Score"
+msgstr "Pontos szett eredmény "
+
+msgid "How many sets will exceed score limit?"
+msgstr "Hány szett lépi túl a pontlimitet"
+
+msgid "1st Set Handicap"
+msgstr "1. szett - Hendikep "
+
+msgid "1st Set Total"
+msgstr "1. szett - Összesített "
+
+msgid "1st Set Race to X"
+msgstr "1. szett - Első X "
+
+msgid "1st Set Odd/even"
+msgstr "1. szett - Páratlan/páros "
+
+msgid "Who wins third set"
+msgstr "Ki nyeri a harmadik szettet "
+
+msgid "Who wins fourth set"
+msgstr "Ki nyeri a negyedik szettet "
+
+msgid "Who wins fifth set"
+msgstr "Ki nyeri az ötödik szettet "
+
+msgid "5th Set Played?"
+msgstr "Lesz 5. szett"
+
+msgid "4th Set Played?"
+msgstr "Lesz 4. szett"
+
+msgid "Total number of sets (best of 3)"
+msgstr "Összesített szettek száma (legjobb a 3-ból) "
+
+msgid "Line"
+msgstr "Vonal "
+
+msgid "Over"
+msgstr "Felett "
+
+msgid "Under"
+msgstr "Alatt "
+
+msgid "None"
+msgstr "Nincs "
+
+msgid "goals"
+msgstr "gól "
+
+msgid "Goals"
+msgstr "Gólok "
+
+msgid "Under and home"
+msgstr "Alatt és hazai "
+
+msgid "Under and draw"
+msgstr "Alatt és döntetlen "
+
+msgid "Under and away"
+msgstr "Alatt és vendég "
+
+msgid "1st"
+msgstr "1."
+
+msgid "2nd"
+msgstr "2."
+
+msgid "Equal"
+msgstr "Egyenlő "
+
+msgid "Hometeam scores first and home"
+msgstr "Hazai csapat szerzi az első gólt és hazai "
+
+msgid "Hometeam scores first and draw"
+msgstr "Hazai csapat szerzi az első gólt és döntetlen "
+
+msgid "Hometeam scores first and away"
+msgstr "Hazai csapat szerzi az első gólt és vendég "
+
+msgid "Awayteam scores first and home"
+msgstr "Vendégcsapat szerzi az első gólt és hazai "
+
+msgid "Awayteam scores first and draw"
+msgstr "Vendégcsapat szerzi az első gólt és döntetlen "
+
+msgid "Awayteam scores first and away"
+msgstr "Vendégcsapat szerzi az első gólt és vendég "
+
+msgid "Odd"
+msgstr "Páratlan "
+
+msgid "Even"
+msgstr "Páros "
+
+msgid "Others"
+msgstr "Továbbiak "
+
+msgid "Both teams"
+msgstr "Mindkét csapat "
+
+msgid "Over and away"
+msgstr "Felett és vendég "
+
+msgid "Over and draw"
+msgstr "Felett és döntetlen "
+
+msgid "Over and home"
+msgstr "Felett és hazai "
+
+msgid "other"
+msgstr "más "
+
+msgid "1st period"
+msgstr "1. harmad "
+
+msgid "2nd period"
+msgstr "2. harmad "
+
+msgid "3rd period"
+msgstr "3. harmad "
+
+msgid "1 sets"
+msgstr "1 szett "
+
+msgid "2 sets"
+msgstr "2 szett "
+
+msgid "3 sets"
+msgstr "3 szett "
+
+msgid "4 sets"
+msgstr "4 szett "
+
+msgid "5 sets"
+msgstr "5 szett "
+
+msgid "0 sets"
+msgstr "0 szett "
+
+msgid "1st quarter"
+msgstr "1. negyed "
+
+msgid "2nd quarter"
+msgstr "2. negyed "
+
+msgid "3rd quarter"
+msgstr "3. negyed "
+
+msgid "4th quarter"
+msgstr "4. negyed "
+
+msgid "No goal"
+msgstr "Nincs gól "
+
+msgid "Chat with Real Dealers"
+msgstr "Csetelj valódi osztókkal"
+
+msgid "PLAY NOW"
+msgstr "JÁTSSZ MOST"

@@ -1,0 +1,179 @@
+@charset "utf-8";
+/**
+ * Generic CSS for CakePHP
+ *
+ * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
+ * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
+ * @link          https://cakephp.org CakePHP(tm) Project
+ * @package       app.webroot.css
+ * @license       https://opensource.org/licenses/mit-license.php MIT License
+ */
+
+ .user-auth>div:nth-child(2) .form-container>div {
+    display: table-cell;
+    vertical-align: middle;
+}
+.user-auth>div:nth-child(2) .form-container {
+    display: table;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    left: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+body.dark p, body.dark h1, body.dark h2, body.dark h4, body.dark h5, body.dark h6, body.dark .portfolio .caption h3, body.dark .portfolio .nav-pills li {
+    color: #eee;
+}
+
+h1 {
+    font-size: 48px;
+    line-height: 48px;
+    font-weight: 800;
+    margin: 15px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #555;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+a, h1 > span, .projectmanager h3, .projectmanager li a, .testimonials #quote-carousel h5, .services-box-item-content:before, .services-box-item-content h2, .social-icons ul li a:before, .info-map-boxes-item:before, .info-map-boxes-item h1, .info-map-boxes-item a, .services-box-item-cover:before, .services-box-item-cover:after, #back-top span:before, .videopromotion a i, .fact-badges h2 span, span.heart, a.link:hover, a.link:focus, a.link:active, .services .services-box-item-content h2, .btn-wrapper a, ul.navbar-nav > li.active > a, ul.navbar-nav > li > a:hover, ul.navbar-nav > li > a:focus, ul.navbar-nav > li > a:active, .navbar-nav .fa-search:hover, ul.navbar-nav > li.open > a, ul.navbar-nav > li.open > a:hover, ul.navbar-nav > li.open > a:focus, ul.navbar-nav > li.open > a:active, body.dark ul.navbar-nav > li.open > a, body.dark ul.navbar-nav > li.open > a:hover, body.dark ul.navbar-nav > li.open > a:focus, body.dark ul.navbar-nav > li.open > a:active, body.dark .latest-post .post-title a:hover, body.dark ul.navbar-nav > li.active > a, body.dark ul.navbar-nav > li > a:hover, body.dark .navbar-nav .fa-search:hover, .portfolio .caption a.title-link:hover h3, .latest-post .post-title a:hover, .footer .top-footer h4, .facts-footer > div h5, .footer .bottom-footer p a, .footer .top-footer .menu ul li a:hover, .about ul.nav.nav-tabs li.active a, .banner .breadcrumb>li a:hover, body.blog-page .meta span a, body.blog-page .meta span i, body.blog-page article h4:hover, .sidebar ul.nav.nav-tabs li a:hover, body.dark .sidebar ul.nav.nav-tabs li a:hover, .widget.recent-posts .entry-title a:hover, body.dark .widget.recent-posts .entry-title a:hover, .comments-list .comment-reply, .user-auth > div:nth-child(2) .form-container .form-group a, .countdown-amount, h4.panel-title a, .project .project-navigation nav ul li a, .shop-cart .secondary-button, .payment .tooltip-text {
+    color: #ffb400;
+}
+
+.user-auth>div:nth-child(2) .form-container p {
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+body.dark p, body.dark h1, body.dark h2, body.dark h4, body.dark h5, body.dark h6, body.dark .portfolio .caption h3, body.dark .portfolio .nav-pills li {
+    color: #eee;
+}
+.user-auth>div:nth-child(2) .form-container form {
+    max-width: 450px;
+    margin: 0 auto;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.user-auth>div:nth-child(2) .form-container form .form-group {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+body.dark .custom-form input[type=text], body.dark .custom-form input[type=email], body.dark .custom-form input[type=password], body.dark .custom-form textarea {
+    border: 1px solid #444;
+    color: #fff;
+}
+body.dark .widget, body.dark .comments-list .comment, body.dark .shop-checkout .checkout .payment .cheque, body.dark .shop-checkout .checkout .payment .paypal, body.dark .shop-checkout .checkout table.products th.with-bg, body.dark .shop-checkout .checkout table.products thead tr, body.dark .shop-cart .qty, body.dark .shop-cart input.qtyplus, body.dark .shop-cart input.qtyminus, body.dark.blog-page .pagination li a:hover, body.dark .shop-cart table.order thead tr, body.dark .shop-cart .quantity, body.dark .custom-form input[type=text], body.dark .custom-form input[type=email], body.dark .custom-form input[type=password], body.dark .custom-form textarea {
+    background-color: #343434;
+}
+.custom-form input[type=text], .custom-form input[type=password], .custom-form input[type=email] {
+    box-shadow: none;
+    height: 42px;
+    padding-left: 15px;
+    border: 1px solid #ddd;
+    background: #f2f2f2;
+    font-size: 13px;
+    transition: .2s;
+}
+.form-control {
+    display: block;
+    width: 50%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+.user-auth>div:nth-child(2) .form-container form .form-group {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+form.custom-form {
+    width: 30%;
+    margin: auto;
+    padding: 0 15px;
+}
+
+ 	.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+label {
+    margin-right: 8px;
+    width: 226px;
+    text-align: right;
+}
+.form-group-btn {
+    text-align: center;
+    margin-top: 25px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
